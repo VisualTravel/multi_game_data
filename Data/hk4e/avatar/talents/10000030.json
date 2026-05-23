@@ -1,0 +1,40 @@
+{
+    "id": 10000030,
+    "skillDepotId": 3001,
+    "combatSkills": [
+        {
+            "skillId": 10301,
+            "nameTextMapHash": 2119081437,
+            "descTextMapHash": 804531672,
+            "icon": "Skill_A_03",
+            "proudSkillGroupId": 3031
+        },
+        {
+            "skillId": 10302,
+            "nameTextMapHash": 3426814373,
+            "descTextMapHash": 20709872,
+            "icon": "Skill_S_Zhongli_01",
+            "proudSkillGroupId": 3032
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 4116255925,
+            "descTextMapHash": 4290345163,
+            "icon": "UI_Talent_S_Zhongli_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3036449245,
+            "descTextMapHash": 1026698715,
+            "icon": "UI_Talent_S_Zhongli_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3319972981,
+            "descTextMapHash": 487161163,
+            "icon": "UI_Talent_Forge_Pole",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

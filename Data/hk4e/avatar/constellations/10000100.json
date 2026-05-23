@@ -1,0 +1,54 @@
+{
+    "id": 10000100,
+    "skillDepotId": 10001,
+    "constellations": [
+        {
+            "talentId": 1001,
+            "index": 1,
+            "nameTextMapHash": 2143241681,
+            "descTextMapHash": 3551476087,
+            "icon": "UI_Talent_S_Kachina_01",
+            "openConfig": "Kachina_Constellation_1"
+        },
+        {
+            "talentId": 1002,
+            "index": 2,
+            "nameTextMapHash": 704182361,
+            "descTextMapHash": 3636727879,
+            "icon": "UI_Talent_S_Kachina_02",
+            "openConfig": "Kachina_Constellation_2"
+        },
+        {
+            "talentId": 1003,
+            "index": 3,
+            "nameTextMapHash": 2998878401,
+            "descTextMapHash": 2722944119,
+            "icon": "UI_Talent_U_Kachina_01",
+            "openConfig": "Kachina_Constellation_3"
+        },
+        {
+            "talentId": 1004,
+            "index": 4,
+            "nameTextMapHash": 817423409,
+            "descTextMapHash": 1912938943,
+            "icon": "UI_Talent_S_Kachina_03",
+            "openConfig": "Kachina_Constellation_4"
+        },
+        {
+            "talentId": 1005,
+            "index": 5,
+            "nameTextMapHash": 2586210761,
+            "descTextMapHash": 2563579007,
+            "icon": "UI_Talent_U_Kachina_02",
+            "openConfig": "Kachina_Constellation_5"
+        },
+        {
+            "talentId": 1006,
+            "index": 6,
+            "nameTextMapHash": 610256033,
+            "descTextMapHash": 300194863,
+            "icon": "UI_Talent_S_Kachina_04",
+            "openConfig": "Kachina_Constellation_6"
+        }
+    ]
+}

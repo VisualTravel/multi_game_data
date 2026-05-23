@@ -1,0 +1,54 @@
+{
+    "id": 10000026,
+    "skillDepotId": 2601,
+    "constellations": [
+        {
+            "talentId": 261,
+            "index": 1,
+            "nameTextMapHash": 3656758641,
+            "descTextMapHash": 2211606975,
+            "icon": "UI_Talent_S_Xiao_01",
+            "openConfig": "Xiao_Constellation_1"
+        },
+        {
+            "talentId": 262,
+            "index": 2,
+            "nameTextMapHash": 1959296129,
+            "descTextMapHash": 2430102759,
+            "icon": "UI_Talent_S_Xiao_02",
+            "openConfig": "Xiao_Constellation_2"
+        },
+        {
+            "talentId": 263,
+            "index": 3,
+            "nameTextMapHash": 2385509657,
+            "descTextMapHash": 627668303,
+            "icon": "UI_Talent_U_Xiao_01",
+            "openConfig": "Xiao_Constellation_3"
+        },
+        {
+            "talentId": 264,
+            "index": 4,
+            "nameTextMapHash": 3724086753,
+            "descTextMapHash": 2599764071,
+            "icon": "UI_Talent_S_Xiao_03",
+            "openConfig": "Xiao_Constellation_4"
+        },
+        {
+            "talentId": 265,
+            "index": 5,
+            "nameTextMapHash": 4032000113,
+            "descTextMapHash": 934068495,
+            "icon": "UI_Talent_U_Xiao_02",
+            "openConfig": "Xiao_Constellation_5"
+        },
+        {
+            "talentId": 266,
+            "index": 6,
+            "nameTextMapHash": 998327601,
+            "descTextMapHash": 2528103471,
+            "icon": "UI_Talent_S_Xiao_04",
+            "openConfig": "Xiao_Constellation_6"
+        }
+    ]
+}

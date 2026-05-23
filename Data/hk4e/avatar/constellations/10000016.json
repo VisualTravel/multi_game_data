@@ -1,0 +1,54 @@
+{
+    "id": 10000016,
+    "skillDepotId": 1601,
+    "constellations": [
+        {
+            "talentId": 161,
+            "index": 1,
+            "nameTextMapHash": 1050836105,
+            "descTextMapHash": 4178291015,
+            "icon": "UI_Talent_S_Diluc_01",
+            "openConfig": "Diluc_Talent_1"
+        },
+        {
+            "talentId": 162,
+            "index": 2,
+            "nameTextMapHash": 610672953,
+            "descTextMapHash": 3591206935,
+            "icon": "UI_Talent_S_Diluc_02",
+            "openConfig": "Diluc_Talent_2"
+        },
+        {
+            "talentId": 163,
+            "index": 3,
+            "nameTextMapHash": 4084228505,
+            "descTextMapHash": 4123556007,
+            "icon": "UI_Talent_U_Diluc_01",
+            "openConfig": "Diluc_Talent_3"
+        },
+        {
+            "talentId": 164,
+            "index": 4,
+            "nameTextMapHash": 1732979729,
+            "descTextMapHash": 3027260767,
+            "icon": "UI_Talent_S_Diluc_03",
+            "openConfig": "Diluc_Talent_4"
+        },
+        {
+            "talentId": 165,
+            "index": 5,
+            "nameTextMapHash": 2293831849,
+            "descTextMapHash": 1232419951,
+            "icon": "UI_Talent_U_Diluc_02",
+            "openConfig": "Diluc_Talent_5"
+        },
+        {
+            "talentId": 166,
+            "index": 6,
+            "nameTextMapHash": 4215691577,
+            "descTextMapHash": 2507810183,
+            "icon": "UI_Talent_S_Diluc_04",
+            "openConfig": "Diluc_Talent_6"
+        }
+    ]
+}

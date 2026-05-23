@@ -1,0 +1,40 @@
+{
+    "id": 10000042,
+    "skillDepotId": 4201,
+    "combatSkills": [
+        {
+            "skillId": 10421,
+            "nameTextMapHash": 1732154717,
+            "descTextMapHash": 3229237400,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 4231
+        },
+        {
+            "skillId": 10422,
+            "nameTextMapHash": 2146753981,
+            "descTextMapHash": 990496040,
+            "icon": "Skill_S_Keqing_01",
+            "proudSkillGroupId": 4232
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3756056829,
+            "descTextMapHash": 269863195,
+            "icon": "UI_Talent_S_Keqing_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 389797077,
+            "descTextMapHash": 3833280995,
+            "icon": "UI_Talent_S_Keqing_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3655777485,
+            "descTextMapHash": 4104953003,
+            "icon": "UI_Talent_Expedition_Liyue",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

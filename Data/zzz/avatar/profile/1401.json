@@ -1,0 +1,21 @@
+{
+    "id": 1401,
+    "nameTextMapHash": "Avatar_Female_Size02_Alice",
+    "skins": [
+        {
+            "nameTextMapHash": null,
+            "descTextMapHash": null
+        },
+        {
+            "nameTextMapHash": null,
+            "descTextMapHash": null
+        }
+    ],
+    "descTextMapHash": "Partner_ProfileDesc_1401",
+    "impressionTextMapHash": "Partner_Impression_f_1401",
+    "gender": "Partner_Gender_02",
+    "stature": "Partner_Stature_1401",
+    "birthday": "Partner_Birthday_1401",
+    "campBg": "PartnerBg_CampSpookShack",
+    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+}

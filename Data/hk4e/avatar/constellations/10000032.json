@@ -1,0 +1,54 @@
+{
+    "id": 10000032,
+    "skillDepotId": 3201,
+    "constellations": [
+        {
+            "talentId": 321,
+            "index": 1,
+            "nameTextMapHash": 804447537,
+            "descTextMapHash": 2073824575,
+            "icon": "UI_Talent_S_Bennett_01",
+            "openConfig": "Bennett_Constellation_1"
+        },
+        {
+            "talentId": 322,
+            "index": 2,
+            "nameTextMapHash": 2431201553,
+            "descTextMapHash": 471991591,
+            "icon": "UI_Talent_S_Bennett_02",
+            "openConfig": "Bennett_Constellation_2"
+        },
+        {
+            "talentId": 323,
+            "index": 3,
+            "nameTextMapHash": 698148913,
+            "descTextMapHash": 1713009919,
+            "icon": "UI_Talent_U_Bennett_01",
+            "openConfig": "Bennett_Constellation_3"
+        },
+        {
+            "talentId": 324,
+            "index": 4,
+            "nameTextMapHash": 3306937585,
+            "descTextMapHash": 3601575975,
+            "icon": "UI_Talent_S_Bennett_03",
+            "openConfig": "Bennett_Constellation_4"
+        },
+        {
+            "talentId": 325,
+            "index": 5,
+            "nameTextMapHash": 2443947153,
+            "descTextMapHash": 2838302743,
+            "icon": "UI_Talent_U_Bennett_02",
+            "openConfig": "Bennett_Constellation_5"
+        },
+        {
+            "talentId": 326,
+            "index": 6,
+            "nameTextMapHash": 3326774305,
+            "descTextMapHash": 596614575,
+            "icon": "UI_Talent_S_Bennett_04",
+            "openConfig": "Bennett_Constellation_6"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "id": 11420,
+    "nameTextMapHash": 1538092267,
+    "descTextMapHash": 2589760533,
+    "rarity": 4,
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "icon": "UI_EquipIcon_Sword_YoutouShattered",
+    "baseStats": {
+        "attackBase": 0
+    },
+    "refinements": {
+        "affixId": 111420,
+        "nameTextMapHash": 1307222387,
+        "levels": [
+            {
+                "refinement": 1,
+                "nameTextMapHash": 1307222387,
+                "descTextMapHash": 3998023737,
+                "params": [
+                    1.8,
+                    8,
+                    -0.5
+                ]
+            }
+        ]
+    },
+    "promotions": [
+        {
+            "level": 0,
+            "maxLevel": 20,
+            "addAttack": 0,
+            "costItems": []
+        },
+        {
+            "level": 1,
+            "maxLevel": 40,
+            "addAttack": 25.9,
+            "costItems": []
+        },
+        {
+            "level": 2,
+            "maxLevel": 50,
+            "addAttack": 51.9,
+            "costItems": []
+        },
+        {
+            "level": 3,
+            "maxLevel": 60,
+            "addAttack": 77.8,
+            "costItems": []
+        },
+        {
+            "level": 4,
+            "maxLevel": 70,
+            "addAttack": 103.7,
+            "costItems": []
+        },
+        {
+            "level": 5,
+            "maxLevel": 80,
+            "addAttack": 129.7,
+            "costItems": []
+        },
+        {
+            "level": 6,
+            "maxLevel": 90,
+            "addAttack": 155.6,
+            "costItems": []
+        }
+    ]
+}

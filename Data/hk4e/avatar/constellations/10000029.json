@@ -1,0 +1,54 @@
+{
+    "id": 10000029,
+    "skillDepotId": 2901,
+    "constellations": [
+        {
+            "talentId": 291,
+            "index": 1,
+            "nameTextMapHash": 600240137,
+            "descTextMapHash": 4004824135,
+            "icon": "UI_Talent_S_Klee_01",
+            "openConfig": "Klee_Constellation_1"
+        },
+        {
+            "talentId": 292,
+            "index": 2,
+            "nameTextMapHash": 328771657,
+            "descTextMapHash": 4201661495,
+            "icon": "UI_Talent_S_Klee_02",
+            "openConfig": "Klee_Constellation_2"
+        },
+        {
+            "talentId": 293,
+            "index": 3,
+            "nameTextMapHash": 1369435161,
+            "descTextMapHash": 2182376503,
+            "icon": "UI_Talent_U_Klee_01",
+            "openConfig": "Klee_Constellation_3"
+        },
+        {
+            "talentId": 294,
+            "index": 4,
+            "nameTextMapHash": 1327047857,
+            "descTextMapHash": 3999370671,
+            "icon": "UI_Talent_S_Klee_03",
+            "openConfig": "Klee_Constellation_4"
+        },
+        {
+            "talentId": 295,
+            "index": 5,
+            "nameTextMapHash": 3317796233,
+            "descTextMapHash": 4010118655,
+            "icon": "UI_Talent_U_Klee_02",
+            "openConfig": "Klee_Constellation_5"
+        },
+        {
+            "talentId": 296,
+            "index": 6,
+            "nameTextMapHash": 1554210017,
+            "descTextMapHash": 1281989007,
+            "icon": "UI_Talent_S_Klee_04",
+            "openConfig": "Klee_Constellation_6"
+        }
+    ]
+}

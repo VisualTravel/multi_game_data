@@ -1,0 +1,289 @@
+{
+    "id": 1181,
+    "skills": [
+        {
+            "nameTextMapHash": "Lisa_Skill_Normal_Desc",
+            "descTextMapHash": "Lisa_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_Normal_Upgrade_Desc",
+            "descTextMapHash": "Lisa_Skill_Normal_Upgrade_Desc"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_Special_Desc",
+            "descTextMapHash": "Lisa_Skill_Special_Desc"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_Special_Upgrade_Desc",
+            "descTextMapHash": "Lisa_Skill_Special_Upgrade_Desc"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_ExSpecial_Desc",
+            "descTextMapHash": "Lisa_Skill_ExSpecial_Desc"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_ExSpecial_Upgrade_Desc",
+            "descTextMapHash": "Lisa_Skill_ExSpecial_Upgrade_Desc"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_OverloadState_Upgrade_Desc",
+            "descTextMapHash": "Lisa_Skill_OverloadState_Upgrade_Desc"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_Special_OverloadState_Upgrade_Desc",
+            "descTextMapHash": "Lisa_Skill_Special_OverloadState_Upgrade_Desc"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_Evade_Desc",
+            "descTextMapHash": "Lisa_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_Rush_Desc",
+            "descTextMapHash": "Lisa_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_Counter_Desc",
+            "descTextMapHash": "Lisa_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_Counter_Upgrade_Desc",
+            "descTextMapHash": "Lisa_Skill_Counter_Upgrade_Desc"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_QTE_Desc",
+            "descTextMapHash": "Lisa_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_ExQTE_Desc",
+            "descTextMapHash": "Lisa_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_ExQTE_Upgrade_Desc",
+            "descTextMapHash": "Lisa_Skill_ExQTE_Upgrade_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_BeHitAid_Desc",
+            "descTextMapHash": "Lisa_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_EvadeAid_Desc",
+            "descTextMapHash": "Lisa_Skill_EvadeAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_AssaultAid_Desc",
+            "descTextMapHash": "Lisa_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_Normal_Title",
+            "descTextMapHash": "Lisa_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Lisa_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Lisa_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "Lisa_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Lisa_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_Special_Title",
+            "descTextMapHash": "Lisa_Skill_Special_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_ExSpecial_Title",
+            "descTextMapHash": "Lisa_Skill_ExSpecial_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_ExSpecial_ExtraGrenade_Title",
+            "descTextMapHash": "Lisa_Skill_ExSpecial_ExtraGrenade_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_Special_Upgrade_Title",
+            "descTextMapHash": "Lisa_Skill_Special_Upgrade_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_Special_ExtraGrenade_Title",
+            "descTextMapHash": "Lisa_Skill_Special_ExtraGrenade_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_Rush_Title",
+            "descTextMapHash": "Lisa_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_Counter_Title",
+            "descTextMapHash": "Lisa_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_QTE_Title",
+            "descTextMapHash": "Lisa_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_ExQTE_Title",
+            "descTextMapHash": "Lisa_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_BeHitAid_Title",
+            "descTextMapHash": "Lisa_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Lisa_Skill_AssaultAid_Title",
+            "descTextMapHash": "Lisa_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "Lisa_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "Lisa_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "Lisa_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "Lisa_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "Lisa_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "Lisa_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

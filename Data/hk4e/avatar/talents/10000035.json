@@ -1,0 +1,40 @@
+{
+    "id": 10000035,
+    "skillDepotId": 3501,
+    "combatSkills": [
+        {
+            "skillId": 10351,
+            "nameTextMapHash": 1361102277,
+            "descTextMapHash": 989342840,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 3531
+        },
+        {
+            "skillId": 10352,
+            "nameTextMapHash": 2328467573,
+            "descTextMapHash": 293117336,
+            "icon": "Skill_S_Qiqi_01",
+            "proudSkillGroupId": 3532
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3698198973,
+            "descTextMapHash": 1229898787,
+            "icon": "UI_Talent_S_Qiqi_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3159951405,
+            "descTextMapHash": 1235554483,
+            "icon": "UI_Talent_S_Qiqi_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 4097524829,
+            "descTextMapHash": 1381757339,
+            "icon": "UI_Talent_Collect_Local_Liyue",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

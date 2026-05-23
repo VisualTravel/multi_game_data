@@ -1,0 +1,54 @@
+{
+    "id": 10000129,
+    "skillDepotId": 12901,
+    "constellations": [
+        {
+            "talentId": 1291,
+            "index": 1,
+            "nameTextMapHash": 892145105,
+            "descTextMapHash": 3437140383,
+            "icon": "UI_Talent_S_Lohen_01",
+            "openConfig": "Lohen_Constellation_1"
+        },
+        {
+            "talentId": 1292,
+            "index": 2,
+            "nameTextMapHash": 535403585,
+            "descTextMapHash": 3425708399,
+            "icon": "UI_Talent_S_Lohen_02",
+            "openConfig": "Lohen_Constellation_2"
+        },
+        {
+            "talentId": 1293,
+            "index": 3,
+            "nameTextMapHash": 3462380601,
+            "descTextMapHash": 162141327,
+            "icon": "UI_Talent_U_Lohen_01",
+            "openConfig": "Lohen_Constellation_3"
+        },
+        {
+            "talentId": 1294,
+            "index": 4,
+            "nameTextMapHash": 824249409,
+            "descTextMapHash": 1549670703,
+            "icon": "UI_Talent_S_Lohen_03",
+            "openConfig": "Lohen_Constellation_4"
+        },
+        {
+            "talentId": 1295,
+            "index": 5,
+            "nameTextMapHash": 262187377,
+            "descTextMapHash": 1493258319,
+            "icon": "UI_Talent_U_Lohen_02",
+            "openConfig": "Lohen_Constellation_5"
+        },
+        {
+            "talentId": 1296,
+            "index": 6,
+            "nameTextMapHash": 2909499433,
+            "descTextMapHash": 1835608247,
+            "icon": "UI_Talent_S_Lohen_04",
+            "openConfig": "Lohen_Constellation_6"
+        }
+    ]
+}

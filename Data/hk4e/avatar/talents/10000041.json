@@ -1,0 +1,53 @@
+{
+    "id": 10000041,
+    "skillDepotId": 4101,
+    "combatSkills": [
+        {
+            "skillId": 10411,
+            "nameTextMapHash": 2512571669,
+            "descTextMapHash": 239283280,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 4131
+        },
+        {
+            "skillId": 10412,
+            "nameTextMapHash": 1125647541,
+            "descTextMapHash": 3421937080,
+            "icon": "Skill_S_Mona_01",
+            "proudSkillGroupId": 4132
+        },
+        {
+            "skillId": 10413,
+            "nameTextMapHash": 1057341493,
+            "descTextMapHash": 3378550992,
+            "icon": "Skill_S_Mona_02",
+            "proudSkillGroupId": 4133
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2516099453,
+            "descTextMapHash": 1706572851,
+            "icon": "UI_Talent_S_Mona_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1413844365,
+            "descTextMapHash": 3379482011,
+            "icon": "UI_Talent_S_Mona_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3413416317,
+            "descTextMapHash": 1213328883,
+            "icon": "UI_Talent_Combine_Weapon",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 2061773181,
+            "descTextMapHash": 1795175651,
+            "icon": "UI_Talent_S_Mona_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 10000098,
+    "skillDepotId": 9801,
+    "constellations": [
+        {
+            "talentId": 981,
+            "index": 1,
+            "nameTextMapHash": 3895585233,
+            "descTextMapHash": 1687781567,
+            "icon": "UI_Talent_S_Clorinde_01",
+            "openConfig": "Clorinde_Constellation_1"
+        },
+        {
+            "talentId": 982,
+            "index": 2,
+            "nameTextMapHash": 1056604337,
+            "descTextMapHash": 3535418479,
+            "icon": "UI_Talent_S_Clorinde_02",
+            "openConfig": "Clorinde_Constellation_2"
+        },
+        {
+            "talentId": 983,
+            "index": 3,
+            "nameTextMapHash": 808248729,
+            "descTextMapHash": 2013066655,
+            "icon": "UI_Talent_U_Clorinde_02",
+            "openConfig": "Clorinde_Constellation_3"
+        },
+        {
+            "talentId": 984,
+            "index": 4,
+            "nameTextMapHash": 3782829265,
+            "descTextMapHash": 2706606543,
+            "icon": "UI_Talent_S_Clorinde_03",
+            "openConfig": "Clorinde_Constellation_4"
+        },
+        {
+            "talentId": 985,
+            "index": 5,
+            "nameTextMapHash": 2786588705,
+            "descTextMapHash": 2982048991,
+            "icon": "UI_Talent_U_Clorinde_01",
+            "openConfig": "Clorinde_Constellation_5"
+        },
+        {
+            "talentId": 986,
+            "index": 6,
+            "nameTextMapHash": 2154722521,
+            "descTextMapHash": 3835955255,
+            "icon": "UI_Talent_S_Clorinde_04",
+            "openConfig": "Clorinde_Constellation_6"
+        }
+    ]
+}

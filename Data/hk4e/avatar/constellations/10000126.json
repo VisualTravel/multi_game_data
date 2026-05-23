@@ -1,0 +1,54 @@
+{
+    "id": 10000126,
+    "skillDepotId": 12601,
+    "constellations": [
+        {
+            "talentId": 1261,
+            "index": 1,
+            "nameTextMapHash": 3617147305,
+            "descTextMapHash": 2398172543,
+            "icon": "UI_Talent_S_Zibai_01",
+            "openConfig": "Zibai_Constellation_1"
+        },
+        {
+            "talentId": 1262,
+            "index": 2,
+            "nameTextMapHash": 2135085529,
+            "descTextMapHash": 657832231,
+            "icon": "UI_Talent_S_Zibai_02",
+            "openConfig": "Zibai_Constellation_2"
+        },
+        {
+            "talentId": 1263,
+            "index": 3,
+            "nameTextMapHash": 2205603945,
+            "descTextMapHash": 3621916695,
+            "icon": "UI_Talent_U_Zibai_01",
+            "openConfig": "Zibai_Constellation_3"
+        },
+        {
+            "talentId": 1264,
+            "index": 4,
+            "nameTextMapHash": 1054587241,
+            "descTextMapHash": 3822333255,
+            "icon": "UI_Talent_S_Zibai_03",
+            "openConfig": "Zibai_Constellation_4"
+        },
+        {
+            "talentId": 1265,
+            "index": 5,
+            "nameTextMapHash": 3928240497,
+            "descTextMapHash": 313399791,
+            "icon": "UI_Talent_U_Zibai_02",
+            "openConfig": "Zibai_Constellation_5"
+        },
+        {
+            "talentId": 1266,
+            "index": 6,
+            "nameTextMapHash": 604144097,
+            "descTextMapHash": 2935975951,
+            "icon": "UI_Talent_S_Zibai_04",
+            "openConfig": "Zibai_Constellation_6"
+        }
+    ]
+}

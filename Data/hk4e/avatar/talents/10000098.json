@@ -1,0 +1,40 @@
+{
+    "id": 10000098,
+    "skillDepotId": 9801,
+    "combatSkills": [
+        {
+            "skillId": 10981,
+            "nameTextMapHash": 3852547301,
+            "descTextMapHash": 170937832,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 9831
+        },
+        {
+            "skillId": 10982,
+            "nameTextMapHash": 2915566045,
+            "descTextMapHash": 322812264,
+            "icon": "Skill_S_Clorinde_01",
+            "proudSkillGroupId": 9832
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2922943605,
+            "descTextMapHash": 2183367019,
+            "icon": "UI_Talent_S_Clorinde_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1935839653,
+            "descTextMapHash": 2086955299,
+            "icon": "UI_Talent_S_Clorinde_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 994844029,
+            "descTextMapHash": 3297764699,
+            "icon": "UI_Talent_S_Liney_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

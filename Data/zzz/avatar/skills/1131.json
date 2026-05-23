@@ -1,0 +1,329 @@
+{
+    "id": 1131,
+    "skills": [
+        {
+            "nameTextMapHash": "Aokaku_Skill_Normal_Desc",
+            "descTextMapHash": "Aokaku_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_Normal_Enhance_Desc",
+            "descTextMapHash": "Aokaku_Skill_Normal_Enhance_Desc"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_Special_Desc",
+            "descTextMapHash": "Aokaku_Skill_Special_Desc"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_ExSpecial_Desc",
+            "descTextMapHash": "Aokaku_Skill_ExSpecial_Desc"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_Special_Flag_Desc",
+            "descTextMapHash": "Aokaku_Skill_Special_Flag_Desc"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_Evade_Desc",
+            "descTextMapHash": "Aokaku_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_Rush_Desc",
+            "descTextMapHash": "Aokaku_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_Rush_Enhance_Desc",
+            "descTextMapHash": "Aokaku_Skill_Rush_Enhance_Desc"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_Counter_Desc",
+            "descTextMapHash": "Aokaku_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_QTE_Desc",
+            "descTextMapHash": "Aokaku_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_ExQTE_Desc",
+            "descTextMapHash": "Aokaku_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_BeHitAid_Desc",
+            "descTextMapHash": "Aokaku_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_ParryAid_Desc",
+            "descTextMapHash": "Aokaku_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_AssaultAid_Desc",
+            "descTextMapHash": "Aokaku_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_Normal_Title",
+            "descTextMapHash": "Aokaku_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_Normal_Enhance_Title",
+            "descTextMapHash": "Aokaku_Skill_Normal_Enhance_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_Special_Title",
+            "descTextMapHash": "Aokaku_Skill_Special_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Property_Special_Desc_Dmg_01",
+            "descTextMapHash": "Aokaku_Property_Special_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Property_Special_Desc_Stun_01",
+            "descTextMapHash": "Aokaku_Property_Special_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_ExSpecial_Title",
+            "descTextMapHash": "Aokaku_Skill_ExSpecial_Title"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Property_ExSpecial_Desc_Dmg_01",
+            "descTextMapHash": "Aokaku_Property_ExSpecial_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Property_ExSpecial_Desc_Dmg_02",
+            "descTextMapHash": "Aokaku_Property_ExSpecial_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Property_ExSpecial_Desc_Stun_01",
+            "descTextMapHash": "Aokaku_Property_ExSpecial_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Property_ExSpecial_Desc_Stun_02",
+            "descTextMapHash": "Aokaku_Property_ExSpecial_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Property_ExSpecial_Desc_SpConsume_01",
+            "descTextMapHash": "Aokaku_Property_ExSpecial_Desc_SpConsume_01"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Property_ExSpecial_Desc_SpConsume_02",
+            "descTextMapHash": "Aokaku_Property_ExSpecial_Desc_SpConsume_02"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_Special_Flag_Title",
+            "descTextMapHash": "Aokaku_Skill_Special_Flag_Title"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Property_Special_Flag_Desc_Dmg_01",
+            "descTextMapHash": "Aokaku_Property_Special_Flag_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Property_Special_Flag_Desc_Dmg_02",
+            "descTextMapHash": "Aokaku_Property_Special_Flag_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Property_Special_Flag_Desc_Dmg_03",
+            "descTextMapHash": "Aokaku_Property_Special_Flag_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Property_Special_Flag_Desc_Stun_01",
+            "descTextMapHash": "Aokaku_Property_Special_Flag_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Property_Special_Flag_Desc_Stun_02",
+            "descTextMapHash": "Aokaku_Property_Special_Flag_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Property_Special_Flag_Desc_Stun_03",
+            "descTextMapHash": "Aokaku_Property_Special_Flag_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_Rush_Title",
+            "descTextMapHash": "Aokaku_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_Rush_Enhance_Title",
+            "descTextMapHash": "Aokaku_Skill_Rush_Enhance_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_Counter_Title",
+            "descTextMapHash": "Aokaku_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_QTE_Title",
+            "descTextMapHash": "Aokaku_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_ExQTE_Title",
+            "descTextMapHash": "Aokaku_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_BeHitAid_Title",
+            "descTextMapHash": "Aokaku_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_ParryAid_Title",
+            "descTextMapHash": "Aokaku_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Aokaku_Skill_AssaultAid_Title",
+            "descTextMapHash": "Aokaku_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "Aokaku_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "Aokaku_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "Aokaku_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "Aokaku_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "Aokaku_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "Aokaku_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

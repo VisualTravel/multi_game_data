@@ -1,0 +1,54 @@
+{
+    "id": 10000081,
+    "skillDepotId": 8101,
+    "constellations": [
+        {
+            "talentId": 811,
+            "index": 1,
+            "nameTextMapHash": 3110332641,
+            "descTextMapHash": 3977731551,
+            "icon": "UI_Talent_S_Kaveh_01",
+            "openConfig": "Kaveh_Constellation_1"
+        },
+        {
+            "talentId": 812,
+            "index": 2,
+            "nameTextMapHash": 20172977,
+            "descTextMapHash": 142653631,
+            "icon": "UI_Talent_S_Kaveh_02",
+            "openConfig": "Kaveh_Constellation_2"
+        },
+        {
+            "talentId": 813,
+            "index": 3,
+            "nameTextMapHash": 2730014897,
+            "descTextMapHash": 3194810551,
+            "icon": "UI_Talent_U_Kaveh_02",
+            "openConfig": "Kaveh_Constellation_3"
+        },
+        {
+            "talentId": 814,
+            "index": 4,
+            "nameTextMapHash": 2860814489,
+            "descTextMapHash": 422833511,
+            "icon": "UI_Talent_S_Kaveh_03",
+            "openConfig": "Kaveh_Constellation_4"
+        },
+        {
+            "talentId": 815,
+            "index": 5,
+            "nameTextMapHash": 1755583937,
+            "descTextMapHash": 2702758295,
+            "icon": "UI_Talent_U_Kaveh_01",
+            "openConfig": "Kaveh_Constellation_5"
+        },
+        {
+            "talentId": 816,
+            "index": 6,
+            "nameTextMapHash": 2892000521,
+            "descTextMapHash": 1058033695,
+            "icon": "UI_Talent_S_Kaveh_04",
+            "openConfig": "Kaveh_Constellation_6"
+        }
+    ]
+}

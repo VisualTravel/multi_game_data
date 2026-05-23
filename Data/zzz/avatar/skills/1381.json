@@ -1,0 +1,329 @@
+{
+    "id": 1381,
+    "skills": [
+        {
+            "nameTextMapHash": "SilverAnby_Skill_Normal_Desc",
+            "descTextMapHash": "SilverAnby_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_Normal_Upgrade_01_Desc",
+            "descTextMapHash": "SilverAnby_Skill_Normal_Upgrade_01_Desc"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_Special_Desc",
+            "descTextMapHash": "SilverAnby_Skill_Special_Desc"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_Special_Mark01_Desc",
+            "descTextMapHash": "SilverAnby_Skill_Special_Mark01_Desc"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_Special_Thunder_Desc",
+            "descTextMapHash": "SilverAnby_Skill_Special_Thunder_Desc"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_Special_Mark01_Upgrade_01_Desc",
+            "descTextMapHash": "SilverAnby_Skill_Special_Mark01_Upgrade_01_Desc"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_ExSpecial_Desc",
+            "descTextMapHash": "SilverAnby_Skill_ExSpecial_Desc"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_Evade_Desc",
+            "descTextMapHash": "SilverAnby_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_Rush_Desc",
+            "descTextMapHash": "SilverAnby_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_Counter_Desc",
+            "descTextMapHash": "SilverAnby_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_Counter_Upgrade_01_Desc",
+            "descTextMapHash": "SilverAnby_Skill_Counter_Upgrade_01_Desc"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_QTE_Desc",
+            "descTextMapHash": "SilverAnby_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_ExQTE_Desc",
+            "descTextMapHash": "SilverAnby_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_BeHitAid_Desc",
+            "descTextMapHash": "SilverAnby_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_ParryAid_Desc",
+            "descTextMapHash": "SilverAnby_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_AssaultAid_Desc",
+            "descTextMapHash": "SilverAnby_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_Normal_Title",
+            "descTextMapHash": "SilverAnby_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Property_Normal_Desc_Dmg_03_1",
+            "descTextMapHash": "SilverAnby_Property_Normal_Desc_Dmg_03_1"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_05",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_05"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Property_Normal_Desc_Stun_03_1",
+            "descTextMapHash": "SilverAnby_Property_Normal_Desc_Stun_03_1"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_05",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_05"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_Special_Title",
+            "descTextMapHash": "SilverAnby_Skill_Special_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_Special_Mark01_Title",
+            "descTextMapHash": "SilverAnby_Skill_Special_Mark01_Title"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Property_Special_Mark01_Desc_Dmg_01",
+            "descTextMapHash": "SilverAnby_Property_Special_Mark01_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Property_Special_Mark01_Desc_Stun_01",
+            "descTextMapHash": "SilverAnby_Property_Special_Mark01_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Property_Special_Dash_Desc_Dmg_01",
+            "descTextMapHash": "SilverAnby_Property_Special_Dash_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Property_Special_Dash_Desc_Stun_01",
+            "descTextMapHash": "SilverAnby_Property_Special_Dash_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_Special_Thunder_Title",
+            "descTextMapHash": "SilverAnby_Skill_Special_Thunder_Title"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Property_Special_Thunder_Desc_Dmg_01",
+            "descTextMapHash": "SilverAnby_Property_Special_Thunder_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Property_Special_Thunder_Desc_Stun_01",
+            "descTextMapHash": "SilverAnby_Property_Special_Thunder_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_Special_ThunderExecute_Title",
+            "descTextMapHash": "SilverAnby_Skill_Special_ThunderExecute_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_ExSpecial_Title",
+            "descTextMapHash": "SilverAnby_Skill_ExSpecial_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_Rush_Title",
+            "descTextMapHash": "SilverAnby_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_Counter_Title",
+            "descTextMapHash": "SilverAnby_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_QTE_Title",
+            "descTextMapHash": "SilverAnby_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_ExQTE_Title",
+            "descTextMapHash": "SilverAnby_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_BeHitAid_Title",
+            "descTextMapHash": "SilverAnby_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_ParryAid_Title",
+            "descTextMapHash": "SilverAnby_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "SilverAnby_Skill_AssaultAid_Title",
+            "descTextMapHash": "SilverAnby_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "SilverAnby_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "SilverAnby_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "SilverAnby_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "SilverAnby_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "SilverAnby_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "SilverAnby_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

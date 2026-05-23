@@ -1,0 +1,40 @@
+{
+    "id": 10000097,
+    "skillDepotId": 9701,
+    "combatSkills": [
+        {
+            "skillId": 10971,
+            "nameTextMapHash": 4267851909,
+            "descTextMapHash": 1847162024,
+            "icon": "Skill_A_02",
+            "proudSkillGroupId": 9731
+        },
+        {
+            "skillId": 10972,
+            "nameTextMapHash": 1391395133,
+            "descTextMapHash": 1807188216,
+            "icon": "Skill_S_Sethos_01",
+            "proudSkillGroupId": 9732
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3768923317,
+            "descTextMapHash": 1026249043,
+            "icon": "UI_Talent_S_Sethos_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3020838397,
+            "descTextMapHash": 2389729475,
+            "icon": "UI_Talent_S_Sethos_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 4130586949,
+            "descTextMapHash": 2951192691,
+            "icon": "UI_Talent_S_Tighnari_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

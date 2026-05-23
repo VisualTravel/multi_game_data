@@ -1,0 +1,46 @@
+{
+    "id": 10000121,
+    "skillDepotId": 12101,
+    "combatSkills": [
+        {
+            "skillId": 11211,
+            "nameTextMapHash": 4123668845,
+            "descTextMapHash": 2012319992,
+            "icon": "Skill_A_04",
+            "proudSkillGroupId": 12131
+        },
+        {
+            "skillId": 11212,
+            "nameTextMapHash": 1369450589,
+            "descTextMapHash": 3449428216,
+            "icon": "Skill_S_Aino_01",
+            "proudSkillGroupId": 12132
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2889641381,
+            "descTextMapHash": 2183814571,
+            "icon": "UI_Talent_S_Aino_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 851768501,
+            "descTextMapHash": 2648447283,
+            "icon": "UI_Talent_S_Aino_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1990329573,
+            "descTextMapHash": 1649211483,
+            "icon": "UI_Talent_S_Aino_07",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 930332717,
+            "descTextMapHash": 1775309163,
+            "icon": "UI_Talent_S_Aino_08",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

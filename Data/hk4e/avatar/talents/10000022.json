@@ -1,0 +1,46 @@
+{
+    "id": 10000022,
+    "skillDepotId": 2201,
+    "combatSkills": [
+        {
+            "skillId": 10221,
+            "nameTextMapHash": 4043028805,
+            "descTextMapHash": 4144150840,
+            "icon": "Skill_A_02",
+            "proudSkillGroupId": 2231
+        },
+        {
+            "skillId": 10224,
+            "nameTextMapHash": 2470093149,
+            "descTextMapHash": 2480880816,
+            "icon": "Skill_S_Venti_01",
+            "proudSkillGroupId": 2232
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 1562102965,
+            "descTextMapHash": 3352372723,
+            "icon": "UI_Talent_S_Venti_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 2149735589,
+            "descTextMapHash": 697661523,
+            "icon": "UI_Talent_S_Venti_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1704267989,
+            "descTextMapHash": 1111860315,
+            "icon": "UI_Talent_Explosion_Glide",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 3468853493,
+            "descTextMapHash": 1346067707,
+            "icon": "UI_Talent_S_Venti_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

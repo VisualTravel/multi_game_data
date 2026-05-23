@@ -1,0 +1,54 @@
+{
+    "id": 10000027,
+    "skillDepotId": 2701,
+    "constellations": [
+        {
+            "talentId": 271,
+            "index": 1,
+            "nameTextMapHash": 2798083121,
+            "descTextMapHash": 3095075175,
+            "icon": "UI_Talent_S_Ningguang_01",
+            "openConfig": "Ningguang_Constellation_1"
+        },
+        {
+            "talentId": 272,
+            "index": 2,
+            "nameTextMapHash": 3383823417,
+            "descTextMapHash": 215898599,
+            "icon": "UI_Talent_S_Ningguang_05",
+            "openConfig": "Ningguang_Constellation_2"
+        },
+        {
+            "talentId": 273,
+            "index": 3,
+            "nameTextMapHash": 2150334649,
+            "descTextMapHash": 3390871,
+            "icon": "UI_Talent_U_Ningguang_02",
+            "openConfig": "Ningguang_Constellation_3"
+        },
+        {
+            "talentId": 274,
+            "index": 4,
+            "nameTextMapHash": 900430281,
+            "descTextMapHash": 3712986311,
+            "icon": "UI_Talent_S_Ningguang_03",
+            "openConfig": "Ningguang_Constellation_4"
+        },
+        {
+            "talentId": 275,
+            "index": 5,
+            "nameTextMapHash": 276636009,
+            "descTextMapHash": 1513475375,
+            "icon": "UI_Talent_U_Ningguang_01",
+            "openConfig": "Ningguang_Constellation_5"
+        },
+        {
+            "talentId": 276,
+            "index": 6,
+            "nameTextMapHash": 637125081,
+            "descTextMapHash": 1654509879,
+            "icon": "UI_Talent_S_Ningguang_04",
+            "openConfig": "Ningguang_Constellation_6"
+        }
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "id": 1101,
+    "skills": [
+        {
+            "nameTextMapHash": "OokumaMari_Skill_Normal_Desc",
+            "descTextMapHash": "OokumaMari_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_Special_Desc",
+            "descTextMapHash": "OokumaMari_Skill_Special_Desc"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_ExSpecial_Desc",
+            "descTextMapHash": "OokumaMari_Skill_ExSpecial_Desc"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_Evade_Desc",
+            "descTextMapHash": "OokumaMari_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_Rush_Desc",
+            "descTextMapHash": "OokumaMari_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_Counter_Desc",
+            "descTextMapHash": "OokumaMari_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_QTE_Desc",
+            "descTextMapHash": "OokumaMari_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_ExQTE_Desc",
+            "descTextMapHash": "OokumaMari_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_BeHitAid_Desc",
+            "descTextMapHash": "OokumaMari_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_ParryAid_Desc",
+            "descTextMapHash": "OokumaMari_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_AssaultAid_Desc",
+            "descTextMapHash": "OokumaMari_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_Normal_Title",
+            "descTextMapHash": "OokumaMari_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_Normal_05_Desc_Dmg_01",
+            "descTextMapHash": "OokumaMari_Property_Normal_05_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_Normal_06_Desc_Dmg_01",
+            "descTextMapHash": "OokumaMari_Property_Normal_06_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_Normal_Co_06_Desc_Dmg_01",
+            "descTextMapHash": "OokumaMari_Property_Normal_Co_06_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_Normal_05_Desc_Stun_01",
+            "descTextMapHash": "OokumaMari_Property_Normal_05_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_Normal_06_Desc_Stun_01",
+            "descTextMapHash": "OokumaMari_Property_Normal_06_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_Normal_Co_06_Desc_Stun_01",
+            "descTextMapHash": "OokumaMari_Property_Normal_Co_06_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_Special_Title",
+            "descTextMapHash": "OokumaMari_Skill_Special_Title"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_Special_Desc_Dmg_01",
+            "descTextMapHash": "OokumaMari_Property_Special_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_Special_Desc_Dmg_02",
+            "descTextMapHash": "OokumaMari_Property_Special_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_Special_Desc_Dmg_03",
+            "descTextMapHash": "OokumaMari_Property_Special_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_Special_Desc_Stun_01",
+            "descTextMapHash": "OokumaMari_Property_Special_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_Special_Desc_Stun_02",
+            "descTextMapHash": "OokumaMari_Property_Special_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_Special_Desc_Stun_03",
+            "descTextMapHash": "OokumaMari_Property_Special_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_ExSpecial_Title",
+            "descTextMapHash": "OokumaMari_Skill_ExSpecial_Title"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_ExSpecial_Desc_Dmg_01",
+            "descTextMapHash": "OokumaMari_Property_ExSpecial_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_ExSpecial_Desc_Dmg_02",
+            "descTextMapHash": "OokumaMari_Property_ExSpecial_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_ExSpecial_Desc_Dmg_03",
+            "descTextMapHash": "OokumaMari_Property_ExSpecial_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_ExSpecial_Desc_Stun_01",
+            "descTextMapHash": "OokumaMari_Property_ExSpecial_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_ExSpecial_Desc_Stun_02",
+            "descTextMapHash": "OokumaMari_Property_ExSpecial_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_ExSpecial_Desc_Stun_03",
+            "descTextMapHash": "OokumaMari_Property_ExSpecial_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_Rush_Title",
+            "descTextMapHash": "OokumaMari_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_Counter_Title",
+            "descTextMapHash": "OokumaMari_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_QTE_Title",
+            "descTextMapHash": "OokumaMari_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_ExQTE_Title",
+            "descTextMapHash": "OokumaMari_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_ExQTE_Desc_Dmg_01",
+            "descTextMapHash": "OokumaMari_Property_ExQTE_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Property_ExQTE_Desc_Stun_01",
+            "descTextMapHash": "OokumaMari_Property_ExQTE_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_BeHitAid_Title",
+            "descTextMapHash": "OokumaMari_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_ParryAid_Title",
+            "descTextMapHash": "OokumaMari_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "OokumaMari_Skill_AssaultAid_Title",
+            "descTextMapHash": "OokumaMari_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "OokumaMari_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "OokumaMari_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "OokumaMari_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "OokumaMari_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "OokumaMari_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "OokumaMari_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

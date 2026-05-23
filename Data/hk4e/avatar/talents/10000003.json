@@ -1,0 +1,40 @@
+{
+    "id": 10000003,
+    "skillDepotId": 301,
+    "combatSkills": [
+        {
+            "skillId": 10031,
+            "nameTextMapHash": 3128535397,
+            "descTextMapHash": 2357477456,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 331
+        },
+        {
+            "skillId": 10033,
+            "nameTextMapHash": 1433276421,
+            "descTextMapHash": 1281903936,
+            "icon": "Skill_S_Qin_02",
+            "proudSkillGroupId": 332
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 1495472181,
+            "descTextMapHash": 1706320299,
+            "icon": "UI_Talent_S_Qin_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 2466088197,
+            "descTextMapHash": 854544579,
+            "icon": "UI_Talent_S_Qin_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3874514189,
+            "descTextMapHash": 1823298875,
+            "icon": "UI_Talent_Cook_Heal",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

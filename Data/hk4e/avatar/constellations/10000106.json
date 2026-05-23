@@ -1,0 +1,54 @@
+{
+    "id": 10000106,
+    "skillDepotId": 10601,
+    "constellations": [
+        {
+            "talentId": 1061,
+            "index": 1,
+            "nameTextMapHash": 307307801,
+            "descTextMapHash": 1088103879,
+            "icon": "UI_Talent_S_Mavuika_01",
+            "openConfig": "Mavuika_Constellation_1"
+        },
+        {
+            "talentId": 1062,
+            "index": 2,
+            "nameTextMapHash": 2701830537,
+            "descTextMapHash": 3153954111,
+            "icon": "UI_Talent_S_Mavuika_02",
+            "openConfig": "Mavuika_Constellation_2"
+        },
+        {
+            "talentId": 1063,
+            "index": 3,
+            "nameTextMapHash": 1180439657,
+            "descTextMapHash": 1121691023,
+            "icon": "UI_Talent_U_Mavuika_01",
+            "openConfig": "Mavuika_Constellation_3"
+        },
+        {
+            "talentId": 1064,
+            "index": 4,
+            "nameTextMapHash": 1063490697,
+            "descTextMapHash": 1231481311,
+            "icon": "UI_Talent_S_Mavuika_03",
+            "openConfig": "Mavuika_Constellation_4"
+        },
+        {
+            "talentId": 1065,
+            "index": 5,
+            "nameTextMapHash": 4106432777,
+            "descTextMapHash": 3705337335,
+            "icon": "UI_Talent_U_Mavuika_02",
+            "openConfig": "Mavuika_Constellation_5"
+        },
+        {
+            "talentId": 1066,
+            "index": 6,
+            "nameTextMapHash": 2773210593,
+            "descTextMapHash": 2861864047,
+            "icon": "UI_Talent_S_Mavuika_04",
+            "openConfig": "Mavuika_Constellation_6"
+        }
+    ]
+}

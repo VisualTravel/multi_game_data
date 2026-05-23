@@ -1,0 +1,54 @@
+{
+    "id": 10000054,
+    "skillDepotId": 5401,
+    "constellations": [
+        {
+            "talentId": 541,
+            "index": 1,
+            "nameTextMapHash": 693089601,
+            "descTextMapHash": 448795879,
+            "icon": "UI_Talent_S_Kokomi_01",
+            "openConfig": "Kokomi_Constellation_1"
+        },
+        {
+            "talentId": 542,
+            "index": 2,
+            "nameTextMapHash": 3826006049,
+            "descTextMapHash": 2419325143,
+            "icon": "UI_Talent_S_Kokomi_02",
+            "openConfig": "Kokomi_Constellation_2"
+        },
+        {
+            "talentId": 543,
+            "index": 3,
+            "nameTextMapHash": 2416689489,
+            "descTextMapHash": 3060614335,
+            "icon": "UI_Talent_U_Kokomi_02",
+            "openConfig": "Kokomi_Constellation_3"
+        },
+        {
+            "talentId": 544,
+            "index": 4,
+            "nameTextMapHash": 1493730601,
+            "descTextMapHash": 387384615,
+            "icon": "UI_Talent_S_Kokomi_03",
+            "openConfig": "Kokomi_Constellation_4"
+        },
+        {
+            "talentId": 545,
+            "index": 5,
+            "nameTextMapHash": 2584265937,
+            "descTextMapHash": 421479455,
+            "icon": "UI_Talent_U_Kokomi_01",
+            "openConfig": "Kokomi_Constellation_5"
+        },
+        {
+            "talentId": 546,
+            "index": 6,
+            "nameTextMapHash": 652576049,
+            "descTextMapHash": 2604721399,
+            "icon": "UI_Talent_S_Kokomi_04",
+            "openConfig": "Kokomi_Constellation_6"
+        }
+    ]
+}

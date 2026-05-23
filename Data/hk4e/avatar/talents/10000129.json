@@ -1,0 +1,46 @@
+{
+    "id": 10000129,
+    "skillDepotId": 12901,
+    "combatSkills": [
+        {
+            "skillId": 11291,
+            "nameTextMapHash": 3645134973,
+            "descTextMapHash": 922296688,
+            "icon": "Skill_A_03",
+            "proudSkillGroupId": 12931
+        },
+        {
+            "skillId": 11292,
+            "nameTextMapHash": 233848061,
+            "descTextMapHash": 2690542952,
+            "icon": "Skill_S_Lohen_01",
+            "proudSkillGroupId": 12932
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 974003677,
+            "descTextMapHash": 3713815867,
+            "icon": "UI_Talent_S_Lohen_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3161313525,
+            "descTextMapHash": 2618589619,
+            "icon": "UI_Talent_S_Lohen_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 2628141365,
+            "descTextMapHash": 209118467,
+            "icon": "UI_Talent_S_Lohen_08",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 451418381,
+            "descTextMapHash": 1845574803,
+            "icon": "UI_Talent_S_Lohen_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

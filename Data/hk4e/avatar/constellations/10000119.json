@@ -1,0 +1,54 @@
+{
+    "id": 10000119,
+    "skillDepotId": 11901,
+    "constellations": [
+        {
+            "talentId": 1191,
+            "index": 1,
+            "nameTextMapHash": 2267047177,
+            "descTextMapHash": 2159671463,
+            "icon": "UI_Talent_S_Lauma_01",
+            "openConfig": "Lauma_Constellation_1"
+        },
+        {
+            "talentId": 1192,
+            "index": 2,
+            "nameTextMapHash": 1655919745,
+            "descTextMapHash": 2175396975,
+            "icon": "UI_Talent_S_Lauma_02",
+            "openConfig": "Lauma_Constellation_2"
+        },
+        {
+            "talentId": 1193,
+            "index": 3,
+            "nameTextMapHash": 1594997977,
+            "descTextMapHash": 3556617255,
+            "icon": "UI_Talent_U_Lauma_01",
+            "openConfig": "Lauma_Constellation_3"
+        },
+        {
+            "talentId": 1194,
+            "index": 4,
+            "nameTextMapHash": 3899370809,
+            "descTextMapHash": 2773141551,
+            "icon": "UI_Talent_S_Lauma_03",
+            "openConfig": "Lauma_Constellation_4"
+        },
+        {
+            "talentId": 1195,
+            "index": 5,
+            "nameTextMapHash": 3414001745,
+            "descTextMapHash": 723731783,
+            "icon": "UI_Talent_U_Lauma_02",
+            "openConfig": "Lauma_Constellation_5"
+        },
+        {
+            "talentId": 1196,
+            "index": 6,
+            "nameTextMapHash": 1933274281,
+            "descTextMapHash": 2504127783,
+            "icon": "UI_Talent_S_Lauma_04",
+            "openConfig": "Lauma_Constellation_6"
+        }
+    ]
+}

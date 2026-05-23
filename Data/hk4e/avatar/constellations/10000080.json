@@ -1,0 +1,54 @@
+{
+    "id": 10000080,
+    "skillDepotId": 8001,
+    "constellations": [
+        {
+            "talentId": 801,
+            "index": 1,
+            "nameTextMapHash": 896455753,
+            "descTextMapHash": 379336143,
+            "icon": "UI_Talent_S_Mika_01",
+            "openConfig": "Mika_Constellation_1"
+        },
+        {
+            "talentId": 802,
+            "index": 2,
+            "nameTextMapHash": 1491616809,
+            "descTextMapHash": 3170359367,
+            "icon": "UI_Talent_S_Mika_02",
+            "openConfig": "Mika_Constellation_2"
+        },
+        {
+            "talentId": 803,
+            "index": 3,
+            "nameTextMapHash": 973253977,
+            "descTextMapHash": 993496535,
+            "icon": "UI_Talent_U_Mika_01",
+            "openConfig": "Mika_Constellation_3"
+        },
+        {
+            "talentId": 804,
+            "index": 4,
+            "nameTextMapHash": 3408467449,
+            "descTextMapHash": 4039593015,
+            "icon": "UI_Talent_S_Mika_03",
+            "openConfig": "Mika_Constellation_4"
+        },
+        {
+            "talentId": 805,
+            "index": 5,
+            "nameTextMapHash": 101620993,
+            "descTextMapHash": 2531853591,
+            "icon": "UI_Talent_U_Mika_02",
+            "openConfig": "Mika_Constellation_5"
+        },
+        {
+            "talentId": 806,
+            "index": 6,
+            "nameTextMapHash": 1784924305,
+            "descTextMapHash": 96144767,
+            "icon": "UI_Talent_S_Mika_04",
+            "openConfig": "Mika_Constellation_6"
+        }
+    ]
+}

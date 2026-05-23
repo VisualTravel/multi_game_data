@@ -1,0 +1,40 @@
+{
+    "id": 10000065,
+    "skillDepotId": 6501,
+    "combatSkills": [
+        {
+            "skillId": 10651,
+            "nameTextMapHash": 2013853861,
+            "descTextMapHash": 3593456928,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 6531
+        },
+        {
+            "skillId": 10652,
+            "nameTextMapHash": 1345666397,
+            "descTextMapHash": 4080904480,
+            "icon": "Skill_S_Shinobu_01",
+            "proudSkillGroupId": 6532
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 98541941,
+            "descTextMapHash": 3324442635,
+            "icon": "UI_Talent_S_Shinobu_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 2905491957,
+            "descTextMapHash": 2362024107,
+            "icon": "UI_Talent_S_Shinobu_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 345260181,
+            "descTextMapHash": 1072782803,
+            "icon": "UI_Talent_S_Shinobu_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

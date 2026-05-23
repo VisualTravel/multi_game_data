@@ -1,0 +1,46 @@
+{
+    "id": 10000043,
+    "skillDepotId": 4301,
+    "combatSkills": [
+        {
+            "skillId": 10431,
+            "nameTextMapHash": 3941337549,
+            "descTextMapHash": 897872936,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 4331
+        },
+        {
+            "skillId": 10432,
+            "nameTextMapHash": 159360141,
+            "descTextMapHash": 3348243704,
+            "icon": "Skill_S_Sucrose_01",
+            "proudSkillGroupId": 4332
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2797937013,
+            "descTextMapHash": 1686675907,
+            "icon": "UI_Talent_S_Sucrose_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3490252853,
+            "descTextMapHash": 4161226819,
+            "icon": "UI_Talent_S_Sucrose_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 197407101,
+            "descTextMapHash": 2984501507,
+            "icon": "UI_Talent_Combine_Material",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 1789670901,
+            "descTextMapHash": 832709995,
+            "icon": "UI_Talent_S_Sucrose_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 10000042,
+    "skillDepotId": 4201,
+    "constellations": [
+        {
+            "talentId": 421,
+            "index": 1,
+            "nameTextMapHash": 3733936569,
+            "descTextMapHash": 2584168503,
+            "icon": "UI_Talent_S_Keqing_01",
+            "openConfig": "Keqing_Constellation_1"
+        },
+        {
+            "talentId": 422,
+            "index": 2,
+            "nameTextMapHash": 1003272425,
+            "descTextMapHash": 2875204959,
+            "icon": "UI_Talent_S_Keqing_02",
+            "openConfig": "Keqing_Constellation_2"
+        },
+        {
+            "talentId": 423,
+            "index": 3,
+            "nameTextMapHash": 1005679025,
+            "descTextMapHash": 1530916983,
+            "icon": "UI_Talent_U_Keqing_01",
+            "openConfig": "Keqing_Constellation_3"
+        },
+        {
+            "talentId": 424,
+            "index": 4,
+            "nameTextMapHash": 2598964521,
+            "descTextMapHash": 2256041319,
+            "icon": "UI_Talent_S_Keqing_03",
+            "openConfig": "Keqing_Constellation_4"
+        },
+        {
+            "talentId": 425,
+            "index": 5,
+            "nameTextMapHash": 1939891353,
+            "descTextMapHash": 1494898759,
+            "icon": "UI_Talent_U_Keqing_02",
+            "openConfig": "Keqing_Constellation_5"
+        },
+        {
+            "talentId": 426,
+            "index": 6,
+            "nameTextMapHash": 547901793,
+            "descTextMapHash": 1142266335,
+            "icon": "UI_Talent_S_Keqing_04",
+            "openConfig": "Keqing_Constellation_6"
+        }
+    ]
+}

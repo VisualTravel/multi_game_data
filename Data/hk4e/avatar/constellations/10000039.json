@@ -1,0 +1,54 @@
+{
+    "id": 10000039,
+    "skillDepotId": 3901,
+    "constellations": [
+        {
+            "talentId": 391,
+            "index": 1,
+            "nameTextMapHash": 2653503505,
+            "descTextMapHash": 1358209303,
+            "icon": "UI_Talent_S_Diona_01",
+            "openConfig": "Diona_Constellation_1"
+        },
+        {
+            "talentId": 392,
+            "index": 2,
+            "nameTextMapHash": 3233494081,
+            "descTextMapHash": 2723142055,
+            "icon": "UI_Talent_S_Diona_02",
+            "openConfig": "Diona_Constellation_2"
+        },
+        {
+            "talentId": 393,
+            "index": 3,
+            "nameTextMapHash": 1153113417,
+            "descTextMapHash": 266501231,
+            "icon": "UI_Talent_U_Diona_01",
+            "openConfig": "Diona_Constellation_3"
+        },
+        {
+            "talentId": 394,
+            "index": 4,
+            "nameTextMapHash": 389925129,
+            "descTextMapHash": 1880884495,
+            "icon": "UI_Talent_S_Diona_03",
+            "openConfig": "Diona_Constellation_4"
+        },
+        {
+            "talentId": 395,
+            "index": 5,
+            "nameTextMapHash": 2582391273,
+            "descTextMapHash": 859024503,
+            "icon": "UI_Talent_U_Diona_02",
+            "openConfig": "Diona_Constellation_5"
+        },
+        {
+            "talentId": 396,
+            "index": 6,
+            "nameTextMapHash": 3637404809,
+            "descTextMapHash": 1673554303,
+            "icon": "UI_Talent_S_Diona_04",
+            "openConfig": "Diona_Constellation_6"
+        }
+    ]
+}

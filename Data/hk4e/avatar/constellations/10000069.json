@@ -1,0 +1,54 @@
+{
+    "id": 10000069,
+    "skillDepotId": 6901,
+    "constellations": [
+        {
+            "talentId": 691,
+            "index": 1,
+            "nameTextMapHash": 3505970577,
+            "descTextMapHash": 1106096311,
+            "icon": "UI_Talent_S_Tighnari_01",
+            "openConfig": "Tighnari_Constellation_1"
+        },
+        {
+            "talentId": 692,
+            "index": 2,
+            "nameTextMapHash": 2309081161,
+            "descTextMapHash": 1101606991,
+            "icon": "UI_Talent_S_Tighnari_02",
+            "openConfig": "Tighnari_Constellation_2"
+        },
+        {
+            "talentId": 693,
+            "index": 3,
+            "nameTextMapHash": 3708646401,
+            "descTextMapHash": 1850244175,
+            "icon": "UI_Talent_U_Tighnari_01",
+            "openConfig": "Tighnari_Constellation_3"
+        },
+        {
+            "talentId": 694,
+            "index": 4,
+            "nameTextMapHash": 376580577,
+            "descTextMapHash": 1776421039,
+            "icon": "UI_Talent_S_Tighnari_03",
+            "openConfig": "Tighnari_Constellation_4"
+        },
+        {
+            "talentId": 695,
+            "index": 5,
+            "nameTextMapHash": 3499024713,
+            "descTextMapHash": 2666901879,
+            "icon": "UI_Talent_U_Tighnari_02",
+            "openConfig": "Tighnari_Constellation_5"
+        },
+        {
+            "talentId": 696,
+            "index": 6,
+            "nameTextMapHash": 2750929385,
+            "descTextMapHash": 2217630895,
+            "icon": "UI_Talent_S_Tighnari_04",
+            "openConfig": "Tighnari_Constellation_6"
+        }
+    ]
+}

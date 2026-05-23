@@ -1,0 +1,40 @@
+{
+    "id": 10000024,
+    "skillDepotId": 2401,
+    "combatSkills": [
+        {
+            "skillId": 10241,
+            "nameTextMapHash": 3770302877,
+            "descTextMapHash": 723463672,
+            "icon": "Skill_A_04",
+            "proudSkillGroupId": 2431
+        },
+        {
+            "skillId": 10242,
+            "nameTextMapHash": 3028116765,
+            "descTextMapHash": 3101314424,
+            "icon": "Skill_S_Beidou_01",
+            "proudSkillGroupId": 2432
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 4133627029,
+            "descTextMapHash": 2212073723,
+            "icon": "UI_Talent_S_Beidou_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 634340453,
+            "descTextMapHash": 3738470891,
+            "icon": "UI_Talent_S_Beidou_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 2541261109,
+            "descTextMapHash": 792917115,
+            "icon": "UI_Talent_Explosion_Swim",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

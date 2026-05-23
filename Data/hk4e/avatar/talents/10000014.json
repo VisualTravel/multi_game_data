@@ -1,0 +1,40 @@
+{
+    "id": 10000014,
+    "skillDepotId": 1401,
+    "combatSkills": [
+        {
+            "skillId": 10070,
+            "nameTextMapHash": 1555694805,
+            "descTextMapHash": 3743135152,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 1431
+        },
+        {
+            "skillId": 10071,
+            "nameTextMapHash": 645814357,
+            "descTextMapHash": 403491032,
+            "icon": "Skill_S_Barbara_01",
+            "proudSkillGroupId": 1432
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2589212997,
+            "descTextMapHash": 4114750579,
+            "icon": "UI_Talent_S_Barbara_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 868478181,
+            "descTextMapHash": 3220600035,
+            "icon": "UI_Talent_S_Barbara_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3475903645,
+            "descTextMapHash": 1532071283,
+            "icon": "UI_Talent_Cook_Heal",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

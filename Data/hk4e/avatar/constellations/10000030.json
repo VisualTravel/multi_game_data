@@ -1,0 +1,54 @@
+{
+    "id": 10000030,
+    "skillDepotId": 3001,
+    "constellations": [
+        {
+            "talentId": 301,
+            "index": 1,
+            "nameTextMapHash": 3111572937,
+            "descTextMapHash": 2163509591,
+            "icon": "UI_Talent_S_Zhongli_01",
+            "openConfig": "Zhongli_Constellation_1"
+        },
+        {
+            "talentId": 302,
+            "index": 2,
+            "nameTextMapHash": 519733529,
+            "descTextMapHash": 3521405183,
+            "icon": "UI_Talent_S_Zhongli_02",
+            "openConfig": "Zhongli_Constellation_2"
+        },
+        {
+            "talentId": 303,
+            "index": 3,
+            "nameTextMapHash": 1427308897,
+            "descTextMapHash": 706145639,
+            "icon": "UI_Talent_U_Zhongli_01",
+            "openConfig": "Zhongli_Constellation_3"
+        },
+        {
+            "talentId": 304,
+            "index": 4,
+            "nameTextMapHash": 583045145,
+            "descTextMapHash": 1050713191,
+            "icon": "UI_Talent_S_Zhongli_03",
+            "openConfig": "Zhongli_Constellation_4"
+        },
+        {
+            "talentId": 305,
+            "index": 5,
+            "nameTextMapHash": 3586646329,
+            "descTextMapHash": 2198645143,
+            "icon": "UI_Talent_U_Zhongli_02",
+            "openConfig": "Zhongli_Constellation_5"
+        },
+        {
+            "talentId": 306,
+            "index": 6,
+            "nameTextMapHash": 2555647321,
+            "descTextMapHash": 221212679,
+            "icon": "UI_Talent_S_Zhongli_04",
+            "openConfig": "Zhongli_Constellation_6"
+        }
+    ]
+}

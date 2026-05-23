@@ -1,0 +1,46 @@
+{
+    "id": 10000103,
+    "skillDepotId": 10301,
+    "combatSkills": [
+        {
+            "skillId": 11031,
+            "nameTextMapHash": 1335063693,
+            "descTextMapHash": 2284081200,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 10331
+        },
+        {
+            "skillId": 11032,
+            "nameTextMapHash": 743563437,
+            "descTextMapHash": 3703823376,
+            "icon": "Skill_S_Xilonen_01",
+            "proudSkillGroupId": 10332
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2823819429,
+            "descTextMapHash": 367126683,
+            "icon": "UI_Talent_S_Xilonen_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3492827301,
+            "descTextMapHash": 2419557667,
+            "icon": "UI_Talent_S_Xilonen_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3681753285,
+            "descTextMapHash": 4164895091,
+            "icon": "UI_Talent_S_Xilonen_07",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 4165601605,
+            "descTextMapHash": 3463625755,
+            "icon": "UI_Talent_S_Xilonen_08",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 10000059,
+    "skillDepotId": 5901,
+    "constellations": [
+        {
+            "talentId": 591,
+            "index": 1,
+            "nameTextMapHash": 1159663785,
+            "descTextMapHash": 2455515479,
+            "icon": "UI_Talent_S_Heizo_01",
+            "openConfig": "Heizo_Constellation_1"
+        },
+        {
+            "talentId": 592,
+            "index": 2,
+            "nameTextMapHash": 286623921,
+            "descTextMapHash": 3972073583,
+            "icon": "UI_Talent_S_Heizo_02",
+            "openConfig": "Heizo_Constellation_2"
+        },
+        {
+            "talentId": 593,
+            "index": 3,
+            "nameTextMapHash": 2470569065,
+            "descTextMapHash": 2770449599,
+            "icon": "UI_Talent_U_Heizo_01",
+            "openConfig": "Heizo_Constellation_3"
+        },
+        {
+            "talentId": 594,
+            "index": 4,
+            "nameTextMapHash": 501887121,
+            "descTextMapHash": 1412115951,
+            "icon": "UI_Talent_S_Heizo_03",
+            "openConfig": "Heizo_Constellation_4"
+        },
+        {
+            "talentId": 595,
+            "index": 5,
+            "nameTextMapHash": 298040329,
+            "descTextMapHash": 4071191879,
+            "icon": "UI_Talent_U_Heizo_02",
+            "openConfig": "Heizo_Constellation_5"
+        },
+        {
+            "talentId": 596,
+            "index": 6,
+            "nameTextMapHash": 2921909753,
+            "descTextMapHash": 757877983,
+            "icon": "UI_Talent_S_Heizo_04",
+            "openConfig": "Heizo_Constellation_6"
+        }
+    ]
+}

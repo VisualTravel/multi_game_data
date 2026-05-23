@@ -1,0 +1,40 @@
+{
+    "id": 10000082,
+    "skillDepotId": 8201,
+    "combatSkills": [
+        {
+            "skillId": 10821,
+            "nameTextMapHash": 2662918453,
+            "descTextMapHash": 3072449816,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 8231
+        },
+        {
+            "skillId": 10822,
+            "nameTextMapHash": 2409917,
+            "descTextMapHash": 3418529080,
+            "icon": "Skill_S_Baizhuer_01",
+            "proudSkillGroupId": 8232
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 385116517,
+            "descTextMapHash": 3415323803,
+            "icon": "UI_Talent_S_Baizhuer_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 160948573,
+            "descTextMapHash": 2457551347,
+            "icon": "UI_Talent_S_Baizhuer_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3003644021,
+            "descTextMapHash": 4112691211,
+            "icon": "UI_Talent_S_Baizhuer_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

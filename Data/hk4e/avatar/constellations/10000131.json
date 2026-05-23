@@ -1,0 +1,54 @@
+{
+    "id": 10000131,
+    "skillDepotId": 13101,
+    "constellations": [
+        {
+            "talentId": 1311,
+            "index": 1,
+            "nameTextMapHash": 3992621257,
+            "descTextMapHash": 2733071871,
+            "icon": "UI_Talent_S_Nicole_01",
+            "openConfig": "Nicole_Constellation_1"
+        },
+        {
+            "talentId": 1312,
+            "index": 2,
+            "nameTextMapHash": 1122400353,
+            "descTextMapHash": 1019025431,
+            "icon": "UI_Talent_S_Nicole_02",
+            "openConfig": "Nicole_Constellation_2"
+        },
+        {
+            "talentId": 1313,
+            "index": 3,
+            "nameTextMapHash": 2436065353,
+            "descTextMapHash": 3893942703,
+            "icon": "UI_Talent_U_Nicole_01",
+            "openConfig": "Nicole_Constellation_3"
+        },
+        {
+            "talentId": 1314,
+            "index": 4,
+            "nameTextMapHash": 1484062001,
+            "descTextMapHash": 2182084863,
+            "icon": "UI_Talent_S_Nicole_03",
+            "openConfig": "Nicole_Constellation_4"
+        },
+        {
+            "talentId": 1315,
+            "index": 5,
+            "nameTextMapHash": 2474626129,
+            "descTextMapHash": 683535375,
+            "icon": "UI_Talent_U_Nicole_02",
+            "openConfig": "Nicole_Constellation_5"
+        },
+        {
+            "talentId": 1316,
+            "index": 6,
+            "nameTextMapHash": 3796054145,
+            "descTextMapHash": 946602255,
+            "icon": "UI_Talent_S_Nicole_04",
+            "openConfig": "Nicole_Constellation_6"
+        }
+    ]
+}

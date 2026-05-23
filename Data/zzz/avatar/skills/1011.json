@@ -1,0 +1,253 @@
+{
+    "id": 1011,
+    "skills": [
+        {
+            "nameTextMapHash": "Anbi_Skill_Normal_Desc",
+            "descTextMapHash": "Anbi_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_Branch_Desc",
+            "descTextMapHash": "Anbi_Skill_Branch_Desc"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_Special_Desc",
+            "descTextMapHash": "Anbi_Skill_Special_Desc"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_ExSpecial_Desc",
+            "descTextMapHash": "Anbi_Skill_ExSpecial_Desc"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_Evade_Desc",
+            "descTextMapHash": "Anbi_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_Rush_Desc",
+            "descTextMapHash": "Anbi_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_Counter_Desc",
+            "descTextMapHash": "Anbi_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_QTE_Desc",
+            "descTextMapHash": "Anbi_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_ExQTE_Desc",
+            "descTextMapHash": "Anbi_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_BeHitAid_Desc",
+            "descTextMapHash": "Anbi_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_ParryAid_Desc",
+            "descTextMapHash": "Anbi_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_AssaultAid_Desc",
+            "descTextMapHash": "Anbi_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_Normal_Title",
+            "descTextMapHash": "Anbi_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_Branch_Title",
+            "descTextMapHash": "Anbi_Skill_Branch_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_Special_Title",
+            "descTextMapHash": "Anbi_Skill_Special_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_ExSpecial_Title",
+            "descTextMapHash": "Anbi_Skill_ExSpecial_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_Rush_Title",
+            "descTextMapHash": "Anbi_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_Counter_Title",
+            "descTextMapHash": "Anbi_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_QTE_Title",
+            "descTextMapHash": "Anbi_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_ExQTE_Title",
+            "descTextMapHash": "Anbi_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_BeHitAid_Title",
+            "descTextMapHash": "Anbi_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_ParryAid_Title",
+            "descTextMapHash": "Anbi_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Anbi_Skill_AssaultAid_Title",
+            "descTextMapHash": "Anbi_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "Anbi_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "Anbi_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "Anbi_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "Anbi_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "Anbi_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "Anbi_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

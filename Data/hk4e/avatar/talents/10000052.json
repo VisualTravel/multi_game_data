@@ -1,0 +1,46 @@
+{
+    "id": 10000052,
+    "skillDepotId": 5201,
+    "combatSkills": [
+        {
+            "skillId": 10521,
+            "nameTextMapHash": 1302153717,
+            "descTextMapHash": 2745803944,
+            "icon": "Skill_A_03",
+            "proudSkillGroupId": 5231
+        },
+        {
+            "skillId": 10522,
+            "nameTextMapHash": 1312968973,
+            "descTextMapHash": 3829407200,
+            "icon": "Skill_S_Shougun_01",
+            "proudSkillGroupId": 5232
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 4015874125,
+            "descTextMapHash": 3034837051,
+            "icon": "UI_Talent_S_Shougun_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1211449733,
+            "descTextMapHash": 4258620891,
+            "icon": "UI_Talent_S_Shougun_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 610390029,
+            "descTextMapHash": 1208406171,
+            "icon": "",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 3357433957,
+            "descTextMapHash": 2267129035,
+            "icon": "UI_Talent_S_Shougun_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

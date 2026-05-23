@@ -1,0 +1,54 @@
+{
+    "id": 10000022,
+    "skillDepotId": 2201,
+    "constellations": [
+        {
+            "talentId": 221,
+            "index": 1,
+            "nameTextMapHash": 2201096641,
+            "descTextMapHash": 665988159,
+            "icon": "UI_Talent_S_Venti_01",
+            "openConfig": "Venti_Constellation_1"
+        },
+        {
+            "talentId": 222,
+            "index": 2,
+            "nameTextMapHash": 509053297,
+            "descTextMapHash": 577887399,
+            "icon": "UI_Talent_S_Venti_02",
+            "openConfig": "Venti_Constellation_2"
+        },
+        {
+            "talentId": 223,
+            "index": 3,
+            "nameTextMapHash": 1436400889,
+            "descTextMapHash": 1214899311,
+            "icon": "UI_Talent_U_Venti_02",
+            "openConfig": "Venti_Constellation_3"
+        },
+        {
+            "talentId": 224,
+            "index": 4,
+            "nameTextMapHash": 2667025441,
+            "descTextMapHash": 3475048591,
+            "icon": "UI_Talent_S_Venti_03",
+            "openConfig": "Venti_Constellation_4"
+        },
+        {
+            "talentId": 225,
+            "index": 5,
+            "nameTextMapHash": 3652036761,
+            "descTextMapHash": 3697781887,
+            "icon": "UI_Talent_U_Venti_01",
+            "openConfig": "Venti_Constellation_5"
+        },
+        {
+            "talentId": 226,
+            "index": 6,
+            "nameTextMapHash": 544150889,
+            "descTextMapHash": 1651729623,
+            "icon": "UI_Talent_S_Venti_04",
+            "openConfig": "Venti_Constellation_6"
+        }
+    ]
+}

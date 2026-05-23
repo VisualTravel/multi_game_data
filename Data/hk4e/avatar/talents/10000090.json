@@ -1,0 +1,40 @@
+{
+    "id": 10000090,
+    "skillDepotId": 9001,
+    "combatSkills": [
+        {
+            "skillId": 10901,
+            "nameTextMapHash": 1264627869,
+            "descTextMapHash": 1993424232,
+            "icon": "Skill_A_03",
+            "proudSkillGroupId": 9031
+        },
+        {
+            "skillId": 10902,
+            "nameTextMapHash": 2811154517,
+            "descTextMapHash": 3734409488,
+            "icon": "Skill_S_Chevreuse_01",
+            "proudSkillGroupId": 9032
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 160338149,
+            "descTextMapHash": 1694837179,
+            "icon": "UI_Talent_S_Chevreuse_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3818310781,
+            "descTextMapHash": 31275139,
+            "icon": "UI_Talent_S_Chevreuse_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 281287725,
+            "descTextMapHash": 3695857147,
+            "icon": "UI_Talent_Explosion_Sprint",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

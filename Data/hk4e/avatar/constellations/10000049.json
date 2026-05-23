@@ -1,0 +1,54 @@
+{
+    "id": 10000049,
+    "skillDepotId": 4901,
+    "constellations": [
+        {
+            "talentId": 491,
+            "index": 1,
+            "nameTextMapHash": 106207625,
+            "descTextMapHash": 3438910799,
+            "icon": "UI_Talent_S_Yoimiya_01",
+            "openConfig": "Yoimiya_Constellation_1"
+        },
+        {
+            "talentId": 492,
+            "index": 2,
+            "nameTextMapHash": 3836801473,
+            "descTextMapHash": 2102275567,
+            "icon": "UI_Talent_S_Yoimiya_02",
+            "openConfig": "Yoimiya_Constellation_2"
+        },
+        {
+            "talentId": 493,
+            "index": 3,
+            "nameTextMapHash": 3467543825,
+            "descTextMapHash": 3229313215,
+            "icon": "UI_Talent_U_Yoimiya_01",
+            "openConfig": "Yoimiya_Constellation_3"
+        },
+        {
+            "talentId": 494,
+            "index": 4,
+            "nameTextMapHash": 2352994657,
+            "descTextMapHash": 2299629615,
+            "icon": "UI_Talent_S_Yoimiya_03",
+            "openConfig": "Yoimiya_Constellation_4"
+        },
+        {
+            "talentId": 495,
+            "index": 5,
+            "nameTextMapHash": 3785597137,
+            "descTextMapHash": 1007404127,
+            "icon": "UI_Talent_U_Yoimiya_02",
+            "openConfig": "Yoimiya_Constellation_5"
+        },
+        {
+            "talentId": 496,
+            "index": 6,
+            "nameTextMapHash": 3248653433,
+            "descTextMapHash": 1202044079,
+            "icon": "UI_Talent_S_Yoimiya_04",
+            "openConfig": "Yoimiya_Constellation_6"
+        }
+    ]
+}

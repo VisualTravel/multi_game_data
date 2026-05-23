@@ -1,0 +1,54 @@
+{
+    "id": 10000115,
+    "skillDepotId": 11501,
+    "constellations": [
+        {
+            "talentId": 1151,
+            "index": 1,
+            "nameTextMapHash": 4261646841,
+            "descTextMapHash": 1416627679,
+            "icon": "UI_Talent_S_Dahlia_01",
+            "openConfig": "Dahlia_Constellation_1"
+        },
+        {
+            "talentId": 1152,
+            "index": 2,
+            "nameTextMapHash": 1170775449,
+            "descTextMapHash": 3919899031,
+            "icon": "UI_Talent_S_Dahlia_02",
+            "openConfig": "Dahlia_Constellation_2"
+        },
+        {
+            "talentId": 1153,
+            "index": 3,
+            "nameTextMapHash": 1743485281,
+            "descTextMapHash": 2588146775,
+            "icon": "UI_Talent_U_Dahlia_01",
+            "openConfig": "Dahlia_Constellation_3"
+        },
+        {
+            "talentId": 1154,
+            "index": 4,
+            "nameTextMapHash": 759556217,
+            "descTextMapHash": 1579721791,
+            "icon": "UI_Talent_S_Dahlia_03",
+            "openConfig": "Dahlia_Constellation_4"
+        },
+        {
+            "talentId": 1155,
+            "index": 5,
+            "nameTextMapHash": 458606633,
+            "descTextMapHash": 2004045047,
+            "icon": "UI_Talent_U_Dahlia_02",
+            "openConfig": "Dahlia_Constellation_5"
+        },
+        {
+            "talentId": 1156,
+            "index": 6,
+            "nameTextMapHash": 41247849,
+            "descTextMapHash": 3531287599,
+            "icon": "UI_Talent_S_Dahlia_04",
+            "openConfig": "Dahlia_Constellation_6"
+        }
+    ]
+}

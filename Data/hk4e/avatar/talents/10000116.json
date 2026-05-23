@@ -1,0 +1,46 @@
+{
+    "id": 10000116,
+    "skillDepotId": 11601,
+    "combatSkills": [
+        {
+            "skillId": 11161,
+            "nameTextMapHash": 339948629,
+            "descTextMapHash": 2405108192,
+            "icon": "Skill_A_03",
+            "proudSkillGroupId": 11631
+        },
+        {
+            "skillId": 11162,
+            "nameTextMapHash": 3189795181,
+            "descTextMapHash": 1709663552,
+            "icon": "Skill_S_Ineffa_01",
+            "proudSkillGroupId": 11632
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2978275701,
+            "descTextMapHash": 3877769483,
+            "icon": "UI_Talent_S_Ineffa_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1738754333,
+            "descTextMapHash": 2026859939,
+            "icon": "UI_Talent_S_Ineffa_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1479986685,
+            "descTextMapHash": 1550196803,
+            "icon": "UI_Talent_S_Ineffa_07",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 532734125,
+            "descTextMapHash": 2932360691,
+            "icon": "UI_Talent_S_Ineffa_08",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

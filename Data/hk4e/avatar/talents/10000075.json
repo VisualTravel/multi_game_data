@@ -1,0 +1,40 @@
+{
+    "id": 10000075,
+    "skillDepotId": 7501,
+    "combatSkills": [
+        {
+            "skillId": 10751,
+            "nameTextMapHash": 668478821,
+            "descTextMapHash": 2152227072,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 7531
+        },
+        {
+            "skillId": 10752,
+            "nameTextMapHash": 3563341277,
+            "descTextMapHash": 619167032,
+            "icon": "Skill_S_Wanderer_01",
+            "proudSkillGroupId": 7532
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2246219981,
+            "descTextMapHash": 339524059,
+            "icon": "UI_Talent_S_Wanderer_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 4277450877,
+            "descTextMapHash": 3853922739,
+            "icon": "UI_Talent_S_Wanderer_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 4150377701,
+            "descTextMapHash": 2518698227,
+            "icon": "UI_Talent_S_Wanderer_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

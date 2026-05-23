@@ -1,0 +1,54 @@
+{
+    "id": 10000073,
+    "skillDepotId": 7301,
+    "constellations": [
+        {
+            "talentId": 731,
+            "index": 1,
+            "nameTextMapHash": 552760681,
+            "descTextMapHash": 869558663,
+            "icon": "UI_Talent_S_Nahida_01",
+            "openConfig": "Nahida_Constellation_1"
+        },
+        {
+            "talentId": 732,
+            "index": 2,
+            "nameTextMapHash": 3200237953,
+            "descTextMapHash": 493826087,
+            "icon": "UI_Talent_S_Nahida_02",
+            "openConfig": "Nahida_Constellation_2"
+        },
+        {
+            "talentId": 733,
+            "index": 3,
+            "nameTextMapHash": 2629291377,
+            "descTextMapHash": 1677220207,
+            "icon": "UI_Talent_U_Nahida_01",
+            "openConfig": "Nahida_Constellation_3"
+        },
+        {
+            "talentId": 734,
+            "index": 4,
+            "nameTextMapHash": 2649754961,
+            "descTextMapHash": 1969604927,
+            "icon": "UI_Talent_S_Nahida_03",
+            "openConfig": "Nahida_Constellation_4"
+        },
+        {
+            "talentId": 735,
+            "index": 5,
+            "nameTextMapHash": 762504385,
+            "descTextMapHash": 1943179559,
+            "icon": "UI_Talent_U_Nahida_02",
+            "openConfig": "Nahida_Constellation_5"
+        },
+        {
+            "talentId": 736,
+            "index": 6,
+            "nameTextMapHash": 2904102233,
+            "descTextMapHash": 1986384239,
+            "icon": "UI_Talent_S_Nahida_04",
+            "openConfig": "Nahida_Constellation_6"
+        }
+    ]
+}

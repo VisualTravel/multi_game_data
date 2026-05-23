@@ -1,0 +1,54 @@
+{
+    "id": 10000070,
+    "skillDepotId": 7001,
+    "constellations": [
+        {
+            "talentId": 701,
+            "index": 1,
+            "nameTextMapHash": 3475887601,
+            "descTextMapHash": 2661312839,
+            "icon": "UI_Talent_S_Nilou_01",
+            "openConfig": "Nilou_Constellation_1"
+        },
+        {
+            "talentId": 702,
+            "index": 2,
+            "nameTextMapHash": 318992601,
+            "descTextMapHash": 3919673783,
+            "icon": "UI_Talent_S_Nilou_02",
+            "openConfig": "Nilou_Constellation_2"
+        },
+        {
+            "talentId": 703,
+            "index": 3,
+            "nameTextMapHash": 4083203409,
+            "descTextMapHash": 3288808887,
+            "icon": "UI_Talent_U_Nilou_01",
+            "openConfig": "Nilou_Constellation_3"
+        },
+        {
+            "talentId": 704,
+            "index": 4,
+            "nameTextMapHash": 3019515057,
+            "descTextMapHash": 888080415,
+            "icon": "UI_Talent_S_Nilou_03",
+            "openConfig": "Nilou_Constellation_4"
+        },
+        {
+            "talentId": 705,
+            "index": 5,
+            "nameTextMapHash": 4211987945,
+            "descTextMapHash": 4076971143,
+            "icon": "UI_Talent_U_Nilou_02",
+            "openConfig": "Nilou_Constellation_5"
+        },
+        {
+            "talentId": 706,
+            "index": 6,
+            "nameTextMapHash": 684060761,
+            "descTextMapHash": 3861878943,
+            "icon": "UI_Talent_S_Nilou_04",
+            "openConfig": "Nilou_Constellation_6"
+        }
+    ]
+}

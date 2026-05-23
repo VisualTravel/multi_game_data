@@ -1,0 +1,40 @@
+{
+    "id": 10000108,
+    "skillDepotId": 10801,
+    "combatSkills": [
+        {
+            "skillId": 11081,
+            "nameTextMapHash": 3880874389,
+            "descTextMapHash": 2251086896,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 10831
+        },
+        {
+            "skillId": 11082,
+            "nameTextMapHash": 2893420581,
+            "descTextMapHash": 2340215272,
+            "icon": "Skill_S_Lanyan_01",
+            "proudSkillGroupId": 10832
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 1074184629,
+            "descTextMapHash": 1068528979,
+            "icon": "UI_Talent_S_Lanyan_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 113277341,
+            "descTextMapHash": 2735596667,
+            "icon": "UI_Talent_S_Lanyan_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 2023941445,
+            "descTextMapHash": 607631587,
+            "icon": "UI_Talent_S_Sayu_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

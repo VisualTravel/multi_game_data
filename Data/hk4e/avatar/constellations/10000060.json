@@ -1,0 +1,54 @@
+{
+    "id": 10000060,
+    "skillDepotId": 6001,
+    "constellations": [
+        {
+            "talentId": 601,
+            "index": 1,
+            "nameTextMapHash": 748293577,
+            "descTextMapHash": 3598001479,
+            "icon": "UI_Talent_S_Yelan_01",
+            "openConfig": "Yelan_Constellation_1"
+        },
+        {
+            "talentId": 602,
+            "index": 2,
+            "nameTextMapHash": 1030894625,
+            "descTextMapHash": 1733458319,
+            "icon": "UI_Talent_S_Yelan_02",
+            "openConfig": "Yelan_Constellation_2"
+        },
+        {
+            "talentId": 603,
+            "index": 3,
+            "nameTextMapHash": 2703450113,
+            "descTextMapHash": 887338063,
+            "icon": "UI_Talent_U_Yelan_01",
+            "openConfig": "Yelan_Constellation_3"
+        },
+        {
+            "talentId": 604,
+            "index": 4,
+            "nameTextMapHash": 2029790617,
+            "descTextMapHash": 2426726543,
+            "icon": "UI_Talent_S_Yelan_03",
+            "openConfig": "Yelan_Constellation_4"
+        },
+        {
+            "talentId": 605,
+            "index": 5,
+            "nameTextMapHash": 2362082321,
+            "descTextMapHash": 2488367127,
+            "icon": "UI_Talent_U_Yelan_02",
+            "openConfig": "Yelan_Constellation_5"
+        },
+        {
+            "talentId": 606,
+            "index": 6,
+            "nameTextMapHash": 1272265729,
+            "descTextMapHash": 824672567,
+            "icon": "UI_Talent_S_Yelan_04",
+            "openConfig": "Yelan_Constellation_6"
+        }
+    ]
+}

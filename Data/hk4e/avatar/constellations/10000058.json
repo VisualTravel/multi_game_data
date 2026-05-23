@@ -1,0 +1,54 @@
+{
+    "id": 10000058,
+    "skillDepotId": 5801,
+    "constellations": [
+        {
+            "talentId": 581,
+            "index": 1,
+            "nameTextMapHash": 2281392617,
+            "descTextMapHash": 3672936767,
+            "icon": "UI_Talent_S_Yae_01",
+            "openConfig": "Yae_Constellation_1"
+        },
+        {
+            "talentId": 582,
+            "index": 2,
+            "nameTextMapHash": 2254983225,
+            "descTextMapHash": 1386782063,
+            "icon": "UI_Talent_S_Yae_02",
+            "openConfig": "Yae_Constellation_2"
+        },
+        {
+            "talentId": 583,
+            "index": 3,
+            "nameTextMapHash": 516586793,
+            "descTextMapHash": 509550799,
+            "icon": "UI_Talent_U_Yae_01",
+            "openConfig": "Yae_Constellation_3"
+        },
+        {
+            "talentId": 584,
+            "index": 4,
+            "nameTextMapHash": 1524489289,
+            "descTextMapHash": 580899975,
+            "icon": "UI_Talent_S_Yae_03",
+            "openConfig": "Yae_Constellation_4"
+        },
+        {
+            "talentId": 585,
+            "index": 5,
+            "nameTextMapHash": 3181299049,
+            "descTextMapHash": 2441345199,
+            "icon": "UI_Talent_U_Yae_02",
+            "openConfig": "Yae_Constellation_5"
+        },
+        {
+            "talentId": 586,
+            "index": 6,
+            "nameTextMapHash": 913339777,
+            "descTextMapHash": 2127511727,
+            "icon": "UI_Talent_S_Yae_04",
+            "openConfig": "Yae_Constellation_6"
+        }
+    ]
+}

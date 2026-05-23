@@ -1,0 +1,54 @@
+{
+    "id": 10000128,
+    "skillDepotId": 12801,
+    "constellations": [
+        {
+            "talentId": 1281,
+            "index": 1,
+            "nameTextMapHash": 2271959505,
+            "descTextMapHash": 1359416439,
+            "icon": "UI_Talent_S_Varka_01",
+            "openConfig": "Varka_Constellation_1"
+        },
+        {
+            "talentId": 1282,
+            "index": 2,
+            "nameTextMapHash": 1578787321,
+            "descTextMapHash": 2797830287,
+            "icon": "UI_Talent_S_Varka_02",
+            "openConfig": "Varka_Constellation_2"
+        },
+        {
+            "talentId": 1283,
+            "index": 3,
+            "nameTextMapHash": 3766799793,
+            "descTextMapHash": 2885008799,
+            "icon": "UI_Talent_U_Varka_01",
+            "openConfig": "Varka_Constellation_3"
+        },
+        {
+            "talentId": 1284,
+            "index": 4,
+            "nameTextMapHash": 2707568113,
+            "descTextMapHash": 1208386967,
+            "icon": "UI_Talent_S_Varka_03",
+            "openConfig": "Varka_Constellation_4"
+        },
+        {
+            "talentId": 1285,
+            "index": 5,
+            "nameTextMapHash": 1347124257,
+            "descTextMapHash": 166354135,
+            "icon": "UI_Talent_U_Varka_02",
+            "openConfig": "Varka_Constellation_5"
+        },
+        {
+            "talentId": 1286,
+            "index": 6,
+            "nameTextMapHash": 1038147057,
+            "descTextMapHash": 3498248591,
+            "icon": "UI_Talent_S_Varka_04",
+            "openConfig": "Varka_Constellation_6"
+        }
+    ]
+}

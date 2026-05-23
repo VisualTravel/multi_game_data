@@ -1,0 +1,46 @@
+{
+    "id": 10000054,
+    "skillDepotId": 5401,
+    "combatSkills": [
+        {
+            "skillId": 10541,
+            "nameTextMapHash": 3150512477,
+            "descTextMapHash": 3761646888,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 5431
+        },
+        {
+            "skillId": 10542,
+            "nameTextMapHash": 369441117,
+            "descTextMapHash": 1340059768,
+            "icon": "Skill_S_Kokomi_01",
+            "proudSkillGroupId": 5432
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 867237285,
+            "descTextMapHash": 2444154979,
+            "icon": "UI_Talent_S_Kokomi_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 165346429,
+            "descTextMapHash": 460145995,
+            "icon": "UI_Talent_S_Kokomi_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 2492336389,
+            "descTextMapHash": 2540173555,
+            "icon": "UI_Talent_Explosion_Swim",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 1396546717,
+            "descTextMapHash": 1376470091,
+            "icon": "UI_Talent_S_Kokomi_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

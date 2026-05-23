@@ -1,0 +1,21 @@
+{
+    "id": 53334,
+    "nameTextMapHash": 2804746324,
+    "descTextMapHash": 2622560320,
+    "rarity": 3,
+    "setId": 10003,
+    "equipType": "EQUIP_DRESS",
+    "icon": "UI_RelicIcon_10003_3",
+    "showPic": "Eff_UI_RelicIcon_10003_3",
+    "mainPropDepotId": 3000,
+    "appendPropDepotId": 301,
+    "appendPropNum": 4,
+    "addPropLevels": [
+        5,
+        9,
+        13,
+        17,
+        21
+    ],
+    "maxLevel": 13
+}

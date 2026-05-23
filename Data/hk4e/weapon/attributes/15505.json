@@ -1,0 +1,100 @@
+{
+    "id": 15505,
+    "nameTextMapHash": 1994080563,
+    "descTextMapHash": 1352415453,
+    "rarity": 5,
+    "weaponType": "WEAPON_BOW",
+    "icon": "UI_EquipIcon_Bow_Hunters",
+    "baseStats": {
+        "attackBase": 45.9364
+    },
+    "refinements": {
+        "affixId": 0,
+        "nameTextMapHash": null,
+        "levels": []
+    },
+    "promotions": [
+        {
+            "level": 0,
+            "maxLevel": 20,
+            "addAttack": 0,
+            "costItems": []
+        },
+        {
+            "level": 1,
+            "maxLevel": 40,
+            "addAttack": 11.7,
+            "costItems": [
+                {
+                    "id": 114001,
+                    "count": 1
+                },
+                {
+                    "id": 112014,
+                    "count": 1
+                },
+                {
+                    "id": 112011,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "level": 2,
+            "maxLevel": 50,
+            "addAttack": 23.3,
+            "costItems": [
+                {
+                    "id": 114002,
+                    "count": 1
+                },
+                {
+                    "id": 112014,
+                    "count": 4
+                },
+                {
+                    "id": 112011,
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "level": 3,
+            "maxLevel": 60,
+            "addAttack": 35,
+            "costItems": [
+                {
+                    "id": 114002,
+                    "count": 2
+                },
+                {
+                    "id": 112015,
+                    "count": 2
+                },
+                {
+                    "id": 112012,
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "level": 4,
+            "maxLevel": 70,
+            "addAttack": 46.7,
+            "costItems": [
+                {
+                    "id": 114003,
+                    "count": 1
+                },
+                {
+                    "id": 112015,
+                    "count": 4
+                },
+                {
+                    "id": 112012,
+                    "count": 3
+                }
+            ]
+        }
+    ]
+}

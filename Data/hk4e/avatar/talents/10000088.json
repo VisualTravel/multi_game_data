@@ -1,0 +1,40 @@
+{
+    "id": 10000088,
+    "skillDepotId": 8801,
+    "combatSkills": [
+        {
+            "skillId": 10881,
+            "nameTextMapHash": 2401740965,
+            "descTextMapHash": 3733500104,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 8831
+        },
+        {
+            "skillId": 10882,
+            "nameTextMapHash": 3157868725,
+            "descTextMapHash": 3302513136,
+            "icon": "Skill_S_Charlotte_01",
+            "proudSkillGroupId": 8832
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 4178068901,
+            "descTextMapHash": 1137813731,
+            "icon": "UI_Talent_S_Charlotte_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3221938253,
+            "descTextMapHash": 1803414931,
+            "icon": "UI_Talent_S_Charlotte_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3894932549,
+            "descTextMapHash": 910377347,
+            "icon": "UI_Talent_S_Charlotte_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

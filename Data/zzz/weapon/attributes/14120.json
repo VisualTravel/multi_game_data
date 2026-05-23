@@ -1,0 +1,35 @@
+{
+    "id": 14120,
+    "nameTextMapHash": "Item_Weapon_S_1201_Desc",
+    "rarity": null,
+    "maxStar": 5,
+    "talent": {
+        "levels": [
+            {
+                "star": 1,
+                "nameTextMapHash": "Weapon_TalentTitle_14120",
+                "descTextMapHash": "Weapon_TalentDes_81412001"
+            },
+            {
+                "star": 2,
+                "nameTextMapHash": "Weapon_TalentTitle_14120",
+                "descTextMapHash": "Weapon_TalentDes_81412002"
+            },
+            {
+                "star": 3,
+                "nameTextMapHash": "Weapon_TalentTitle_14120",
+                "descTextMapHash": "Weapon_TalentDes_81412003"
+            },
+            {
+                "star": 4,
+                "nameTextMapHash": "Weapon_TalentTitle_14120",
+                "descTextMapHash": "Weapon_TalentDes_81412004"
+            },
+            {
+                "star": 5,
+                "nameTextMapHash": "Weapon_TalentTitle_14120",
+                "descTextMapHash": "Weapon_TalentDes_81412005"
+            }
+        ]
+    }
+}

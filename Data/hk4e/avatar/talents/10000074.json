@@ -1,0 +1,40 @@
+{
+    "id": 10000074,
+    "skillDepotId": 7401,
+    "combatSkills": [
+        {
+            "skillId": 10741,
+            "nameTextMapHash": 1078955173,
+            "descTextMapHash": 471349504,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 7431
+        },
+        {
+            "skillId": 10742,
+            "nameTextMapHash": 3200711933,
+            "descTextMapHash": 3269651816,
+            "icon": "Skill_S_Layla_01",
+            "proudSkillGroupId": 7432
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 1433567325,
+            "descTextMapHash": 1108188259,
+            "icon": "UI_Talent_S_Layla_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3710000629,
+            "descTextMapHash": 2777043187,
+            "icon": "UI_Talent_S_Layla_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 2480425437,
+            "descTextMapHash": 2031527075,
+            "icon": "UI_Talent_Eula_Combine",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

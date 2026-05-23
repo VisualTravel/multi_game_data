@@ -1,0 +1,21 @@
+{
+    "id": 53222,
+    "nameTextMapHash": 2651022396,
+    "descTextMapHash": 2516693440,
+    "rarity": 2,
+    "setId": 10003,
+    "equipType": "EQUIP_NECKLACE",
+    "icon": "UI_RelicIcon_10003_2",
+    "showPic": "Eff_UI_RelicIcon_10003_2",
+    "mainPropDepotId": 2000,
+    "appendPropDepotId": 201,
+    "appendPropNum": 2,
+    "addPropLevels": [
+        5,
+        9,
+        13,
+        17,
+        21
+    ],
+    "maxLevel": 5
+}

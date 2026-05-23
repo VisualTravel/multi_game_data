@@ -1,0 +1,54 @@
+{
+    "id": 10000057,
+    "skillDepotId": 5701,
+    "constellations": [
+        {
+            "talentId": 571,
+            "index": 1,
+            "nameTextMapHash": 1236864017,
+            "descTextMapHash": 2717144495,
+            "icon": "UI_Talent_S_Itto_01",
+            "openConfig": "Itto_Constellation_1"
+        },
+        {
+            "talentId": 572,
+            "index": 2,
+            "nameTextMapHash": 2007985425,
+            "descTextMapHash": 3672317095,
+            "icon": "UI_Talent_S_Itto_02",
+            "openConfig": "Itto_Constellation_2"
+        },
+        {
+            "talentId": 573,
+            "index": 3,
+            "nameTextMapHash": 4058777873,
+            "descTextMapHash": 2337486975,
+            "icon": "UI_Talent_U_Itto_01",
+            "openConfig": "Itto_Constellation_3"
+        },
+        {
+            "talentId": 574,
+            "index": 4,
+            "nameTextMapHash": 351726713,
+            "descTextMapHash": 574002279,
+            "icon": "UI_Talent_S_Itto_03",
+            "openConfig": "Itto_Constellation_4"
+        },
+        {
+            "talentId": 575,
+            "index": 5,
+            "nameTextMapHash": 2178273601,
+            "descTextMapHash": 3097962719,
+            "icon": "UI_Talent_U_Itto_02",
+            "openConfig": "Itto_Constellation_5"
+        },
+        {
+            "talentId": 576,
+            "index": 6,
+            "nameTextMapHash": 2138861761,
+            "descTextMapHash": 3956713543,
+            "icon": "UI_Talent_S_Itto_04",
+            "openConfig": "Itto_Constellation_6"
+        }
+    ]
+}

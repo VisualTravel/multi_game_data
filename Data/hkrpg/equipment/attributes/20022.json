@@ -1,0 +1,146 @@
+{
+    "id": 20022,
+    "nameTextMapHash": 3133619668689285080,
+    "descTextMapHash": 3306592271739108902,
+    "rarity": 4,
+    "avatarBaseType": "Memory",
+    "maxPromotion": 6,
+    "icon": "20022.png",
+    "skill": {
+        "skillId": 20022,
+        "levels": [
+            {
+                "rank": 1,
+                "descTextMapHash": 1419534563411838363,
+                "params": [
+                    {
+                        "Value": 0.08
+                    },
+                    {
+                        "Value": 4
+                    }
+                ]
+            },
+            {
+                "rank": 1,
+                "descTextMapHash": 1419534563411838363,
+                "params": [
+                    {
+                        "Value": 0.09
+                    },
+                    {
+                        "Value": 4
+                    }
+                ]
+            },
+            {
+                "rank": 1,
+                "descTextMapHash": 1419534563411838363,
+                "params": [
+                    {
+                        "Value": 0.1
+                    },
+                    {
+                        "Value": 4
+                    }
+                ]
+            },
+            {
+                "rank": 1,
+                "descTextMapHash": 1419534563411838363,
+                "params": [
+                    {
+                        "Value": 0.11
+                    },
+                    {
+                        "Value": 4
+                    }
+                ]
+            },
+            {
+                "rank": 1,
+                "descTextMapHash": 1419534563411838363,
+                "params": [
+                    {
+                        "Value": 0.12
+                    },
+                    {
+                        "Value": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "promotions": [
+        {
+            "promotion": null,
+            "maxLevel": 20,
+            "attackBase": null,
+            "attackAdd": null,
+            "hpBase": null,
+            "hpAdd": null,
+            "defenceBase": null,
+            "defenceAdd": null
+        },
+        {
+            "promotion": 1,
+            "maxLevel": 30,
+            "attackBase": null,
+            "attackAdd": null,
+            "hpBase": null,
+            "hpAdd": null,
+            "defenceBase": null,
+            "defenceAdd": null
+        },
+        {
+            "promotion": 2,
+            "maxLevel": 40,
+            "attackBase": null,
+            "attackAdd": null,
+            "hpBase": null,
+            "hpAdd": null,
+            "defenceBase": null,
+            "defenceAdd": null
+        },
+        {
+            "promotion": 3,
+            "maxLevel": 50,
+            "attackBase": null,
+            "attackAdd": null,
+            "hpBase": null,
+            "hpAdd": null,
+            "defenceBase": null,
+            "defenceAdd": null
+        },
+        {
+            "promotion": 4,
+            "maxLevel": 60,
+            "attackBase": null,
+            "attackAdd": null,
+            "hpBase": null,
+            "hpAdd": null,
+            "defenceBase": null,
+            "defenceAdd": null
+        },
+        {
+            "promotion": 5,
+            "maxLevel": 70,
+            "attackBase": null,
+            "attackAdd": null,
+            "hpBase": null,
+            "hpAdd": null,
+            "defenceBase": null,
+            "defenceAdd": null
+        },
+        {
+            "promotion": 6,
+            "maxLevel": 80,
+            "attackBase": null,
+            "attackAdd": null,
+            "hpBase": null,
+            "hpAdd": null,
+            "defenceBase": null,
+            "defenceAdd": null
+        }
+    ]
+}

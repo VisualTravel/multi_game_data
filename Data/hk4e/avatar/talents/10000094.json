@@ -1,0 +1,40 @@
+{
+    "id": 10000094,
+    "skillDepotId": 9401,
+    "combatSkills": [
+        {
+            "skillId": 10941,
+            "nameTextMapHash": 914798901,
+            "descTextMapHash": 2598150344,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 9431
+        },
+        {
+            "skillId": 10942,
+            "nameTextMapHash": 2315821309,
+            "descTextMapHash": 1761052896,
+            "icon": "Skill_S_Chiori_01",
+            "proudSkillGroupId": 9432
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2220299421,
+            "descTextMapHash": 3745151251,
+            "icon": "UI_Talent_S_Chiori_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1121440229,
+            "descTextMapHash": 4158182603,
+            "icon": "UI_Talent_S_Chiori_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 2852843805,
+            "descTextMapHash": 2587376883,
+            "icon": "UI_Talent_S_Chiori_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

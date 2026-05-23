@@ -1,0 +1,40 @@
+{
+    "id": 10000087,
+    "skillDepotId": 8701,
+    "combatSkills": [
+        {
+            "skillId": 10871,
+            "nameTextMapHash": 2288777445,
+            "descTextMapHash": 2402676976,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 8731
+        },
+        {
+            "skillId": 10872,
+            "nameTextMapHash": 3874529309,
+            "descTextMapHash": 1570362832,
+            "icon": "Skill_S_Neuvillette_01",
+            "proudSkillGroupId": 8732
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3686583445,
+            "descTextMapHash": 616645987,
+            "icon": "UI_Talent_S_Neuvillette_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 2519986317,
+            "descTextMapHash": 2736917675,
+            "icon": "UI_Talent_S_Neuvillette_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 2693276013,
+            "descTextMapHash": 632427675,
+            "icon": "UI_Talent_S_Neuvillette_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

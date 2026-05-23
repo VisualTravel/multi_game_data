@@ -1,0 +1,54 @@
+{
+    "id": 10000038,
+    "skillDepotId": 3801,
+    "constellations": [
+        {
+            "talentId": 381,
+            "index": 1,
+            "nameTextMapHash": 4171208737,
+            "descTextMapHash": 3462874567,
+            "icon": "UI_Talent_S_Albedo_01",
+            "openConfig": "Albedo_Constellation_1"
+        },
+        {
+            "talentId": 382,
+            "index": 2,
+            "nameTextMapHash": 151370169,
+            "descTextMapHash": 2243529919,
+            "icon": "UI_Talent_S_Albedo_02",
+            "openConfig": "Albedo_Constellation_2"
+        },
+        {
+            "talentId": 383,
+            "index": 3,
+            "nameTextMapHash": 625210649,
+            "descTextMapHash": 4113451319,
+            "icon": "UI_Talent_U_Albedo_01",
+            "openConfig": "Albedo_Constellation_3"
+        },
+        {
+            "talentId": 384,
+            "index": 4,
+            "nameTextMapHash": 1728244745,
+            "descTextMapHash": 1431711199,
+            "icon": "UI_Talent_S_Albedo_03",
+            "openConfig": "Albedo_Constellation_4"
+        },
+        {
+            "talentId": 385,
+            "index": 5,
+            "nameTextMapHash": 3896567129,
+            "descTextMapHash": 3779396687,
+            "icon": "UI_Talent_U_Albedo_02",
+            "openConfig": "Albedo_Constellation_5"
+        },
+        {
+            "talentId": 386,
+            "index": 6,
+            "nameTextMapHash": 3605874945,
+            "descTextMapHash": 2084479351,
+            "icon": "UI_Talent_S_Albedo_04",
+            "openConfig": "Albedo_Constellation_6"
+        }
+    ]
+}

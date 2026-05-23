@@ -1,0 +1,54 @@
+{
+    "id": 10000076,
+    "skillDepotId": 7601,
+    "constellations": [
+        {
+            "talentId": 761,
+            "index": 1,
+            "nameTextMapHash": 2013089041,
+            "descTextMapHash": 1528960167,
+            "icon": "UI_Talent_S_Faruzan_01",
+            "openConfig": "Faruzan_Constellation_1"
+        },
+        {
+            "talentId": 762,
+            "index": 2,
+            "nameTextMapHash": 4140551209,
+            "descTextMapHash": 1173832871,
+            "icon": "UI_Talent_S_Faruzan_02",
+            "openConfig": "Faruzan_Constellation_2"
+        },
+        {
+            "talentId": 763,
+            "index": 3,
+            "nameTextMapHash": 1613893961,
+            "descTextMapHash": 2257512623,
+            "icon": "UI_Talent_U_Faruzan_01",
+            "openConfig": "Faruzan_Constellation_3"
+        },
+        {
+            "talentId": 764,
+            "index": 4,
+            "nameTextMapHash": 1099441465,
+            "descTextMapHash": 2239791463,
+            "icon": "UI_Talent_S_Faruzan_03",
+            "openConfig": "Faruzan_Constellation_4"
+        },
+        {
+            "talentId": 765,
+            "index": 5,
+            "nameTextMapHash": 2879410585,
+            "descTextMapHash": 3222950223,
+            "icon": "UI_Talent_U_Faruzan_02",
+            "openConfig": "Faruzan_Constellation_5"
+        },
+        {
+            "talentId": 766,
+            "index": 6,
+            "nameTextMapHash": 1813995737,
+            "descTextMapHash": 2194389239,
+            "icon": "UI_Talent_S_Faruzan_04",
+            "openConfig": "Faruzan_Constellation_6"
+        }
+    ]
+}

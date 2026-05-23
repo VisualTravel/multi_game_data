@@ -1,0 +1,54 @@
+{
+    "id": 10000065,
+    "skillDepotId": 6501,
+    "constellations": [
+        {
+            "talentId": 651,
+            "index": 1,
+            "nameTextMapHash": 3845919769,
+            "descTextMapHash": 248121495,
+            "icon": "UI_Talent_S_Shinobu_01",
+            "openConfig": "Shinobu_Constellation_1"
+        },
+        {
+            "talentId": 652,
+            "index": 2,
+            "nameTextMapHash": 1476645953,
+            "descTextMapHash": 1650156031,
+            "icon": "UI_Talent_S_Shinobu_02",
+            "openConfig": "Shinobu_Constellation_2"
+        },
+        {
+            "talentId": 653,
+            "index": 3,
+            "nameTextMapHash": 969784713,
+            "descTextMapHash": 1031038455,
+            "icon": "UI_Talent_U_Shinobu_01",
+            "openConfig": "Shinobu_Constellation_3"
+        },
+        {
+            "talentId": 654,
+            "index": 4,
+            "nameTextMapHash": 1870556641,
+            "descTextMapHash": 1847217599,
+            "icon": "UI_Talent_S_Shinobu_03",
+            "openConfig": "Shinobu_Constellation_4"
+        },
+        {
+            "talentId": 655,
+            "index": 5,
+            "nameTextMapHash": 2031119633,
+            "descTextMapHash": 70909399,
+            "icon": "UI_Talent_U_Shinobu_02",
+            "openConfig": "Shinobu_Constellation_5"
+        },
+        {
+            "talentId": 656,
+            "index": 6,
+            "nameTextMapHash": 856483153,
+            "descTextMapHash": 3252448327,
+            "icon": "UI_Talent_S_Shinobu_04",
+            "openConfig": "Shinobu_Constellation_6"
+        }
+    ]
+}

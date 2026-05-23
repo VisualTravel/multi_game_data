@@ -1,0 +1,54 @@
+{
+    "id": 10000082,
+    "skillDepotId": 8201,
+    "constellations": [
+        {
+            "talentId": 821,
+            "index": 1,
+            "nameTextMapHash": 858748369,
+            "descTextMapHash": 726807703,
+            "icon": "UI_Talent_S_Baizhuer_01",
+            "openConfig": "Baizhuer_Constellation_1"
+        },
+        {
+            "talentId": 822,
+            "index": 2,
+            "nameTextMapHash": 1849398401,
+            "descTextMapHash": 2052538799,
+            "icon": "UI_Talent_S_Baizhuer_02",
+            "openConfig": "Baizhuer_Constellation_2"
+        },
+        {
+            "talentId": 823,
+            "index": 3,
+            "nameTextMapHash": 2410139081,
+            "descTextMapHash": 3847136351,
+            "icon": "UI_Talent_U_Baizhuer_01",
+            "openConfig": "Baizhuer_Constellation_3"
+        },
+        {
+            "talentId": 824,
+            "index": 4,
+            "nameTextMapHash": 4262913073,
+            "descTextMapHash": 558875847,
+            "icon": "UI_Talent_S_Baizhuer_03",
+            "openConfig": "Baizhuer_Constellation_4"
+        },
+        {
+            "talentId": 825,
+            "index": 5,
+            "nameTextMapHash": 63855777,
+            "descTextMapHash": 4128658807,
+            "icon": "UI_Talent_U_Baizhuer_02",
+            "openConfig": "Baizhuer_Constellation_5"
+        },
+        {
+            "talentId": 826,
+            "index": 6,
+            "nameTextMapHash": 1293459665,
+            "descTextMapHash": 448109855,
+            "icon": "UI_Talent_S_Baizhuer_04",
+            "openConfig": "Baizhuer_Constellation_6"
+        }
+    ]
+}

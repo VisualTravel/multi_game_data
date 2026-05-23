@@ -1,0 +1,46 @@
+{
+    "id": 10000131,
+    "skillDepotId": 13101,
+    "combatSkills": [
+        {
+            "skillId": 11311,
+            "nameTextMapHash": 844797405,
+            "descTextMapHash": 279459312,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 13131
+        },
+        {
+            "skillId": 11312,
+            "nameTextMapHash": 2633265397,
+            "descTextMapHash": 519688408,
+            "icon": "Skill_S_Nicole_01",
+            "proudSkillGroupId": 13132
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2425422229,
+            "descTextMapHash": 3505168499,
+            "icon": "UI_Talent_S_Nicole_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 4097901581,
+            "descTextMapHash": 140161523,
+            "icon": "UI_Talent_S_Nicole_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3489330221,
+            "descTextMapHash": 2953562275,
+            "icon": "UI_Talent_S_Nicole_08",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 245985525,
+            "descTextMapHash": 3778873667,
+            "icon": "UI_Talent_S_Nicole_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

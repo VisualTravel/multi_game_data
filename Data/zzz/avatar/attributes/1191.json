@@ -1,0 +1,111 @@
+{
+    "id": 1191,
+    "nameTextMapHash": "Avatar_Female_Size02_Ellen",
+    "profession": 2,
+    "tags": [
+        "Ellen",
+        "Cut",
+        "Ice",
+        "Female",
+        "Camp2",
+        "Size2",
+        "AidTypeParry",
+        "Ellen",
+        "EtherEyesSize2"
+    ],
+    "promotions": [
+        {
+            "level": 1,
+            "maxLevel": 10,
+            "addHp": 0,
+            "addAttack": 0,
+            "addDefense": 0,
+            "costMaterials": [
+                {
+                    "id": "10",
+                    "count": 24000
+                },
+                {
+                    "id": "100211",
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "level": 2,
+            "maxLevel": 20,
+            "addHp": 0,
+            "addAttack": 0,
+            "addDefense": 0,
+            "costMaterials": [
+                {
+                    "id": "10",
+                    "count": 56000
+                },
+                {
+                    "id": "100221",
+                    "count": 12
+                }
+            ]
+        },
+        {
+            "level": 3,
+            "maxLevel": 30,
+            "addHp": 0,
+            "addAttack": 0,
+            "addDefense": 0,
+            "costMaterials": [
+                {
+                    "id": "10",
+                    "count": 120000
+                },
+                {
+                    "id": "100221",
+                    "count": 20
+                }
+            ]
+        },
+        {
+            "level": 4,
+            "maxLevel": 40,
+            "addHp": 0,
+            "addAttack": 0,
+            "addDefense": 0,
+            "costMaterials": [
+                {
+                    "id": "10",
+                    "count": 200000
+                },
+                {
+                    "id": "100231",
+                    "count": 10
+                }
+            ]
+        },
+        {
+            "level": 5,
+            "maxLevel": 50,
+            "addHp": 0,
+            "addAttack": 0,
+            "addDefense": 0,
+            "costMaterials": [
+                {
+                    "id": "10",
+                    "count": 400000
+                },
+                {
+                    "id": "100231",
+                    "count": 20
+                }
+            ]
+        },
+        {
+            "level": 6,
+            "maxLevel": 60,
+            "addHp": 0,
+            "addAttack": 0,
+            "addDefense": 0,
+            "costMaterials": []
+        }
+    ]
+}

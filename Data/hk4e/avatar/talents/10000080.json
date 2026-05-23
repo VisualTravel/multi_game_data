@@ -1,0 +1,40 @@
+{
+    "id": 10000080,
+    "skillDepotId": 8001,
+    "combatSkills": [
+        {
+            "skillId": 10801,
+            "nameTextMapHash": 2556005,
+            "descTextMapHash": 3680931224,
+            "icon": "Skill_A_03",
+            "proudSkillGroupId": 8031
+        },
+        {
+            "skillId": 10802,
+            "nameTextMapHash": 3335717021,
+            "descTextMapHash": 2280652960,
+            "icon": "Skill_S_Mika_01",
+            "proudSkillGroupId": 8032
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2039050629,
+            "descTextMapHash": 3741887659,
+            "icon": "UI_Talent_S_Mika_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 2664880189,
+            "descTextMapHash": 750604795,
+            "icon": "UI_Talent_S_Mika_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3575174365,
+            "descTextMapHash": 1271240819,
+            "icon": "UI_Talent_Collect_Local_Mengde",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

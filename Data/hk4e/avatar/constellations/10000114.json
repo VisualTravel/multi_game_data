@@ -1,0 +1,54 @@
+{
+    "id": 10000114,
+    "skillDepotId": 11401,
+    "constellations": [
+        {
+            "talentId": 1141,
+            "index": 1,
+            "nameTextMapHash": 1457353817,
+            "descTextMapHash": 383348223,
+            "icon": "UI_Talent_S_SkirkNew_01",
+            "openConfig": "SkirkNew_Constellation_1"
+        },
+        {
+            "talentId": 1142,
+            "index": 2,
+            "nameTextMapHash": 3069933705,
+            "descTextMapHash": 1387753903,
+            "icon": "UI_Talent_S_SkirkNew_02",
+            "openConfig": "SkirkNew_Constellation_2"
+        },
+        {
+            "talentId": 1143,
+            "index": 3,
+            "nameTextMapHash": 1540870457,
+            "descTextMapHash": 2324481199,
+            "icon": "UI_Talent_U_SkirkNew_01",
+            "openConfig": "SkirkNew_Constellation_3"
+        },
+        {
+            "talentId": 1144,
+            "index": 4,
+            "nameTextMapHash": 1525981441,
+            "descTextMapHash": 3471675743,
+            "icon": "UI_Talent_S_SkirkNew_03",
+            "openConfig": "SkirkNew_Constellation_4"
+        },
+        {
+            "talentId": 1145,
+            "index": 5,
+            "nameTextMapHash": 814493897,
+            "descTextMapHash": 3117826535,
+            "icon": "UI_Talent_U_SkirkNew_02",
+            "openConfig": "SkirkNew_Constellation_5"
+        },
+        {
+            "talentId": 1146,
+            "index": 6,
+            "nameTextMapHash": 1189601753,
+            "descTextMapHash": 2778183935,
+            "icon": "UI_Talent_S_SkirkNew_04",
+            "openConfig": "SkirkNew_Constellation_6"
+        }
+    ]
+}

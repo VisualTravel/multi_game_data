@@ -1,0 +1,40 @@
+{
+    "id": 10000073,
+    "skillDepotId": 7301,
+    "combatSkills": [
+        {
+            "skillId": 10731,
+            "nameTextMapHash": 48372133,
+            "descTextMapHash": 1280328928,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 7331
+        },
+        {
+            "skillId": 10732,
+            "nameTextMapHash": 3592193453,
+            "descTextMapHash": 2457009592,
+            "icon": "Skill_S_Nahida_01",
+            "proudSkillGroupId": 7332
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3351382301,
+            "descTextMapHash": 4230321475,
+            "icon": "UI_Talent_S_Nahida_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3993200125,
+            "descTextMapHash": 2180925459,
+            "icon": "UI_Talent_S_Nahida_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3871657133,
+            "descTextMapHash": 1117960219,
+            "icon": "UI_Talent_S_Nahida_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

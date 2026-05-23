@@ -1,0 +1,517 @@
+{
+    "id": 1431,
+    "skills": [
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_P1_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_P1_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_P1_04_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_P1_04_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_P2_Ground_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_P2_Ground_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_P2_Ground_04_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_P2_Ground_04_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_P2_Ground_03_02_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_P2_Ground_03_02_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_P2_InAir_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_P2_InAir_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_P2_InAir_03_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_P2_InAir_03_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_P2_ExtraExSP01_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_P2_ExtraExSP01_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Special_P1_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_Special_P1_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_ExSpecial_P1_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_ExSpecial_P1_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Special_P2_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_Special_P2_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_ExSpecial_P2_01_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_ExSpecial_P2_01_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_ExSpecial_P2_02_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_ExSpecial_P2_02_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Evade_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Dash_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_Dash_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Rush_P1_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_Rush_P1_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Counter_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_QTE_P1_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_QTE_P1_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_ExQTE_P1_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_ExQTE_P1_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_QTE_P2_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_QTE_P2_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_ExQTE_P2_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_ExQTE_P2_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_SwitchPhase_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_SwitchPhase_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_BeHitAid_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_AssaultAid_P1_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_AssaultAid_P1_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_ParryAid_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_BeHitAid_P2_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_BeHitAid_P2_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_AssaultAid_P2_Desc",
+            "descTextMapHash": "Zhenzhen_Skill_AssaultAid_P2_Desc"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_P1_Title",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_P1_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_P1_04_Title",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_P1_04_Title"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_04_Property_Desc_Dmg_01",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_04_Property_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_04_Property_Desc_Stun_01",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_04_Property_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_P2_Ground_Title",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_P2_Ground_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_P2_Ground_04_Title",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_P2_Ground_04_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_P2_Ground_03_02_Title",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_P2_Ground_03_02_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_P2_InAir_Title",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_P2_InAir_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_P2_InAir_03_Title",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_P2_InAir_03_Title"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_InAir_03_Property_Desc_Dmg_01",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_InAir_03_Property_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_InAir_03_Property_Desc_Stun_01",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_InAir_03_Property_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_InAir_03_Property_Desc_Dmg_02",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_InAir_03_Property_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Normal_InAir_03_Property_Desc_Stun_02",
+            "descTextMapHash": "Zhenzhen_Skill_Normal_InAir_03_Property_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Special_P1_Title",
+            "descTextMapHash": "Zhenzhen_Skill_Special_P1_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Special_P1_Property_Desc_Dmg_02",
+            "descTextMapHash": "Zhenzhen_Skill_Special_P1_Property_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Special_P1_Property_Desc_Stun_02",
+            "descTextMapHash": "Zhenzhen_Skill_Special_P1_Property_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_ExSpecial_P1_Title",
+            "descTextMapHash": "Zhenzhen_Skill_ExSpecial_P1_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Special_P2_Title",
+            "descTextMapHash": "Zhenzhen_Skill_Special_P2_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_ExSpecial_P2_01_Title",
+            "descTextMapHash": "Zhenzhen_Skill_ExSpecial_P2_01_Title"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_ExSP02_01_Property_Desc_Dmg_01",
+            "descTextMapHash": "Zhenzhen_Skill_ExSP02_01_Property_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_ExSP02_01_Property_Desc_Stun_01",
+            "descTextMapHash": "Zhenzhen_Skill_ExSP02_01_Property_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_ExSP02_01_Property_Desc_Dmg_02",
+            "descTextMapHash": "Zhenzhen_Skill_ExSP02_01_Property_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_ExSP02_01_Property_Desc_Stun_02",
+            "descTextMapHash": "Zhenzhen_Skill_ExSP02_01_Property_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_ExSpecial_P2_02_Title",
+            "descTextMapHash": "Zhenzhen_Skill_ExSpecial_P2_02_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Rush_P1_Title",
+            "descTextMapHash": "Zhenzhen_Skill_Rush_P1_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_Counter_Title",
+            "descTextMapHash": "Zhenzhen_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_QTE_P1_Title",
+            "descTextMapHash": "Zhenzhen_Skill_QTE_P1_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_ExQTE_P1_Title",
+            "descTextMapHash": "Zhenzhen_Skill_ExQTE_P1_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_QTE_P2_Title",
+            "descTextMapHash": "Zhenzhen_Skill_QTE_P2_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_ExQTE_P2_Title",
+            "descTextMapHash": "Zhenzhen_Skill_ExQTE_P2_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_SwitchPhase_Title",
+            "descTextMapHash": "Zhenzhen_Skill_SwitchPhase_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_BeHitAid_Title",
+            "descTextMapHash": "Zhenzhen_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_AssaultAid_P1_Title",
+            "descTextMapHash": "Zhenzhen_Skill_AssaultAid_P1_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_ParryAid_Title",
+            "descTextMapHash": "Zhenzhen_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_BeHitAid_P2_Title",
+            "descTextMapHash": "Zhenzhen_Skill_BeHitAid_P2_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_Skill_AssaultAid_P2_Title",
+            "descTextMapHash": "Zhenzhen_Skill_AssaultAid_P2_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "Zhenzhen_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "Zhenzhen_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

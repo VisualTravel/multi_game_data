@@ -1,0 +1,46 @@
+{
+    "id": 10000111,
+    "skillDepotId": 11101,
+    "combatSkills": [
+        {
+            "skillId": 11111,
+            "nameTextMapHash": 2845699173,
+            "descTextMapHash": 1145354744,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 11131
+        },
+        {
+            "skillId": 11112,
+            "nameTextMapHash": 3483880861,
+            "descTextMapHash": 3255300144,
+            "icon": "Skill_S_Varesa_01",
+            "proudSkillGroupId": 11132
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2525282797,
+            "descTextMapHash": 1784607899,
+            "icon": "UI_Talent_S_Varesa_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1040042461,
+            "descTextMapHash": 541736395,
+            "icon": "UI_Talent_S_Varesa_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 4258688365,
+            "descTextMapHash": 3353132171,
+            "icon": "UI_Talent_S_Varesa_07",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 1935909997,
+            "descTextMapHash": 3156975843,
+            "icon": "UI_Talent_S_Varesa_08",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

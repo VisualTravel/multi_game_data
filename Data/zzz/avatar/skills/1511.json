@@ -1,0 +1,269 @@
+{
+    "id": 1511,
+    "skills": [
+        {
+            "nameTextMapHash": "NangongYu_Skill_Normal_Desc",
+            "descTextMapHash": "NangongYu_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_Branch_Desc",
+            "descTextMapHash": "NangongYu_Skill_Branch_Desc"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_Special_01_Desc",
+            "descTextMapHash": "NangongYu_Skill_Special_01_Desc"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_ExSpecial_01_Desc",
+            "descTextMapHash": "NangongYu_Skill_ExSpecial_01_Desc"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_Evade_Desc",
+            "descTextMapHash": "NangongYu_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_Rush_Desc",
+            "descTextMapHash": "NangongYu_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_Counter_Desc",
+            "descTextMapHash": "NangongYu_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_QTE_Desc",
+            "descTextMapHash": "NangongYu_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_ExQTE_Desc",
+            "descTextMapHash": "NangongYu_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_BeHitAid_Desc",
+            "descTextMapHash": "NangongYu_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_ParryAid_Desc",
+            "descTextMapHash": "NangongYu_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_AssaultAid_Desc",
+            "descTextMapHash": "NangongYu_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_Normal_Title",
+            "descTextMapHash": "NangongYu_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_Branch_Title",
+            "descTextMapHash": "NangongYu_Skill_Branch_Title"
+        },
+        {
+            "nameTextMapHash": "NangongYu_AttackNormal_Enhance_01_Desc_Dmg",
+            "descTextMapHash": "NangongYu_AttackNormal_Enhance_01_Desc_Dmg"
+        },
+        {
+            "nameTextMapHash": "NangongYu_AttackNormal_Enhance_02_Desc_Dmg",
+            "descTextMapHash": "NangongYu_AttackNormal_Enhance_02_Desc_Dmg"
+        },
+        {
+            "nameTextMapHash": "NangongYu_AttackNormal_Enhance_03_Desc_Dmg",
+            "descTextMapHash": "NangongYu_AttackNormal_Enhance_03_Desc_Dmg"
+        },
+        {
+            "nameTextMapHash": "NangongYu_AttackNormal_Enhance_03_Desc_Dmg_CoAttack",
+            "descTextMapHash": "NangongYu_AttackNormal_Enhance_03_Desc_Dmg_CoAttack"
+        },
+        {
+            "nameTextMapHash": "NangongYu_AttackNormal_Enhance_01_Desc_Stun",
+            "descTextMapHash": "NangongYu_AttackNormal_Enhance_01_Desc_Stun"
+        },
+        {
+            "nameTextMapHash": "NangongYu_AttackNormal_Enhance_02_Desc_Stun",
+            "descTextMapHash": "NangongYu_AttackNormal_Enhance_02_Desc_Stun"
+        },
+        {
+            "nameTextMapHash": "NangongYu_AttackNormal_Enhance_03_Desc_Stun",
+            "descTextMapHash": "NangongYu_AttackNormal_Enhance_03_Desc_Stun"
+        },
+        {
+            "nameTextMapHash": "NangongYu_AttackNormal_Enhance_03_Desc_Stun_CoAttack",
+            "descTextMapHash": "NangongYu_AttackNormal_Enhance_03_Desc_Stun_CoAttack"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_Special_01_Title",
+            "descTextMapHash": "NangongYu_Skill_Special_01_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_ExSpecial_01_Title",
+            "descTextMapHash": "NangongYu_Skill_ExSpecial_01_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_Rush_Title",
+            "descTextMapHash": "NangongYu_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_Counter_Title",
+            "descTextMapHash": "NangongYu_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_QTE_Title",
+            "descTextMapHash": "NangongYu_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_ExQTE_Title",
+            "descTextMapHash": "NangongYu_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_BeHitAid_Title",
+            "descTextMapHash": "NangongYu_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_ParryAid_Title",
+            "descTextMapHash": "NangongYu_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "NangongYu_Skill_AssaultAid_Title",
+            "descTextMapHash": "NangongYu_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "NangongYu_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "NangongYu_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "NangongYu_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "NangongYu_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "NangongYu_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "NangongYu_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

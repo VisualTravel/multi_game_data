@@ -1,0 +1,54 @@
+{
+    "id": 10000031,
+    "skillDepotId": 3101,
+    "constellations": [
+        {
+            "talentId": 311,
+            "index": 1,
+            "nameTextMapHash": 5726609,
+            "descTextMapHash": 379922895,
+            "icon": "UI_Talent_S_Fischl_01",
+            "openConfig": "Fischl_Talent_331"
+        },
+        {
+            "talentId": 312,
+            "index": 2,
+            "nameTextMapHash": 899523649,
+            "descTextMapHash": 3682582879,
+            "icon": "UI_Talent_S_Fischl_02",
+            "openConfig": "Fischl_Talent_332"
+        },
+        {
+            "talentId": 313,
+            "index": 3,
+            "nameTextMapHash": 1999124713,
+            "descTextMapHash": 1088869759,
+            "icon": "UI_Talent_U_Fischl_01",
+            "openConfig": "Fischl_Talent_S_Levelup"
+        },
+        {
+            "talentId": 314,
+            "index": 4,
+            "nameTextMapHash": 469909561,
+            "descTextMapHash": 733548871,
+            "icon": "UI_Talent_S_Fischl_03",
+            "openConfig": "Fischl_Talent_334"
+        },
+        {
+            "talentId": 315,
+            "index": 5,
+            "nameTextMapHash": 3322353681,
+            "descTextMapHash": 2975315071,
+            "icon": "UI_Talent_U_Fischl_02",
+            "openConfig": "Fischl_Talent_E_Levelup"
+        },
+        {
+            "talentId": 316,
+            "index": 6,
+            "nameTextMapHash": 2314026161,
+            "descTextMapHash": 3112928767,
+            "icon": "UI_Talent_S_Fischl_04",
+            "openConfig": "Fischl_Talent_336"
+        }
+    ]
+}

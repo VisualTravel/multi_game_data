@@ -1,0 +1,46 @@
+{
+    "id": 10000038,
+    "skillDepotId": 3801,
+    "combatSkills": [
+        {
+            "skillId": 10386,
+            "nameTextMapHash": 1763138805,
+            "descTextMapHash": 3484591568,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 3831
+        },
+        {
+            "skillId": 10387,
+            "nameTextMapHash": 4277075117,
+            "descTextMapHash": 706635104,
+            "icon": "Skill_S_Albedo_01",
+            "proudSkillGroupId": 3832
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 1581011077,
+            "descTextMapHash": 654921947,
+            "icon": "UI_Talent_S_Albedo_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 442320245,
+            "descTextMapHash": 1378375771,
+            "icon": "UI_Talent_S_Albedo_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 2878057541,
+            "descTextMapHash": 810426595,
+            "icon": "UI_Talent_Combine_Weapon_Double",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 1968763077,
+            "descTextMapHash": 380452147,
+            "icon": "UI_Talent_S_Albedo_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

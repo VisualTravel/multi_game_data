@@ -1,0 +1,285 @@
+{
+    "id": 1061,
+    "skills": [
+        {
+            "nameTextMapHash": "Corin_Skill_Normal_Desc",
+            "descTextMapHash": "Corin_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_Special_Desc",
+            "descTextMapHash": "Corin_Skill_Special_Desc"
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_ExSpecial_Desc",
+            "descTextMapHash": "Corin_Skill_ExSpecial_Desc"
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_Evade_Desc",
+            "descTextMapHash": "Corin_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_Rush_Desc",
+            "descTextMapHash": "Corin_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_Counter_Desc",
+            "descTextMapHash": "Corin_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_QTE_Desc",
+            "descTextMapHash": "Corin_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_ExQTE_Desc",
+            "descTextMapHash": "Corin_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_BeHitAid_Desc",
+            "descTextMapHash": "Corin_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_ParryAid_Desc",
+            "descTextMapHash": "Corin_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_AssaultAid_Desc",
+            "descTextMapHash": "Corin_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_Normal_Title",
+            "descTextMapHash": "Corin_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_05",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_05"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_05",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_05"
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_Special_Title",
+            "descTextMapHash": "Corin_Skill_Special_Title"
+        },
+        {
+            "nameTextMapHash": "Corin_Property_Special_Desc_Dmg_01",
+            "descTextMapHash": "Corin_Property_Special_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Corin_Property_Special_Desc_Dmg_02",
+            "descTextMapHash": "Corin_Property_Special_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Corin_Property_Special_Desc_Dmg_03",
+            "descTextMapHash": "Corin_Property_Special_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Corin_Property_Special_Desc_Stun_01",
+            "descTextMapHash": "Corin_Property_Special_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Corin_Property_Special_Desc_Stun_02",
+            "descTextMapHash": "Corin_Property_Special_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Corin_Property_Special_Desc_Stun_03",
+            "descTextMapHash": "Corin_Property_Special_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_ExSpecial_Title",
+            "descTextMapHash": "Corin_Skill_ExSpecial_Title"
+        },
+        {
+            "nameTextMapHash": "Corin_Property_ExSpecial_Desc_Dmg_01",
+            "descTextMapHash": "Corin_Property_ExSpecial_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Corin_Property_ExSpecial_Desc_Dmg_02",
+            "descTextMapHash": "Corin_Property_ExSpecial_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Corin_Property_ExSpecial_Desc_Dmg_03",
+            "descTextMapHash": "Corin_Property_ExSpecial_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Corin_Property_ExSpecial_Desc_Stun_01",
+            "descTextMapHash": "Corin_Property_ExSpecial_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Corin_Property_ExSpecial_Desc_Stun_02",
+            "descTextMapHash": "Corin_Property_ExSpecial_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Corin_Property_ExSpecial_Desc_Stun_03",
+            "descTextMapHash": "Corin_Property_ExSpecial_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Corin_Property_ExSpecial_Desc_SpCost_01",
+            "descTextMapHash": "Corin_Property_ExSpecial_Desc_SpCost_01"
+        },
+        {
+            "nameTextMapHash": "Corin_Property_ExSpecial_Desc_SpCost_02",
+            "descTextMapHash": "Corin_Property_ExSpecial_Desc_SpCost_02"
+        },
+        {
+            "nameTextMapHash": "Corin_Property_ExSpecial_Desc_SpCost_03",
+            "descTextMapHash": "Corin_Property_ExSpecial_Desc_SpCost_03"
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_Rush_Title",
+            "descTextMapHash": "Corin_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Corin_Property_Rush_Desc_Dmg",
+            "descTextMapHash": "Corin_Property_Rush_Desc_Dmg"
+        },
+        {
+            "nameTextMapHash": "Corin_Property_Rush_Desc_BreakStunRatio",
+            "descTextMapHash": "Corin_Property_Rush_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_Counter_Title",
+            "descTextMapHash": "Corin_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_QTE_Title",
+            "descTextMapHash": "Corin_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_ExQTE_Title",
+            "descTextMapHash": "Corin_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_BeHitAid_Title",
+            "descTextMapHash": "Corin_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_ParryAid_Title",
+            "descTextMapHash": "Corin_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Corin_Skill_AssaultAid_Title",
+            "descTextMapHash": "Corin_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "Corin_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "Corin_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "Corin_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "Corin_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "Corin_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "Corin_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

@@ -1,0 +1,309 @@
+{
+    "id": 1241,
+    "skills": [
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_Normal_Pistol_Desc",
+            "descTextMapHash": "ZhuYuan_Skill_Normal_Pistol_Desc"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_Normal_Shotgun_Desc",
+            "descTextMapHash": "ZhuYuan_Skill_Normal_Shotgun_Desc"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_Special_Desc",
+            "descTextMapHash": "ZhuYuan_Skill_Special_Desc"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_ExSpecial_Desc",
+            "descTextMapHash": "ZhuYuan_Skill_ExSpecial_Desc"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_Evade_Desc",
+            "descTextMapHash": "ZhuYuan_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_Rush_Pistol_Desc",
+            "descTextMapHash": "ZhuYuan_Skill_Rush_Pistol_Desc"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_Rush_Shotgun_Desc",
+            "descTextMapHash": "ZhuYuan_Skill_Rush_Shotgun_Desc"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_Counter_Desc",
+            "descTextMapHash": "ZhuYuan_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_QTE_Desc",
+            "descTextMapHash": "ZhuYuan_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_ExQTE_Desc",
+            "descTextMapHash": "ZhuYuan_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_BeHitAid_Desc",
+            "descTextMapHash": "ZhuYuan_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_EvadeAid_Desc",
+            "descTextMapHash": "ZhuYuan_Skill_EvadeAid_Desc"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_AssaultAid_Desc",
+            "descTextMapHash": "ZhuYuan_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_Normal_Pistol_Title",
+            "descTextMapHash": "ZhuYuan_Skill_Normal_Pistol_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_05",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_05"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_05",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_05"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_Normal_Shotgun_Title",
+            "descTextMapHash": "ZhuYuan_Skill_Normal_Shotgun_Title"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Phys_Desc_Dmg_01",
+            "descTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Phys_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Phys_Desc_Dmg_02",
+            "descTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Phys_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Phys_Desc_Dmg_03",
+            "descTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Phys_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Phys_Desc_Stun_01",
+            "descTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Phys_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Phys_Desc_Stun_02",
+            "descTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Phys_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Phys_Desc_Stun_03",
+            "descTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Phys_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Ether_Desc_Dmg_01",
+            "descTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Ether_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Ether_Desc_Dmg_02",
+            "descTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Ether_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Ether_Desc_Dmg_03",
+            "descTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Ether_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Ether_Desc_Stun_01",
+            "descTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Ether_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Ether_Desc_Stun_02",
+            "descTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Ether_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Ether_Desc_Stun_03",
+            "descTextMapHash": "ZhuYuan_Property_Normal_Shotgun_Ether_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_Special_Title",
+            "descTextMapHash": "ZhuYuan_Skill_Special_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_ExSpecial_Title",
+            "descTextMapHash": "ZhuYuan_Skill_ExSpecial_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_Rush_Pistol_Title",
+            "descTextMapHash": "ZhuYuan_Skill_Rush_Pistol_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_Rush_Shotgun_Title",
+            "descTextMapHash": "ZhuYuan_Skill_Rush_Shotgun_Title"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Property_Rush_Shotgun_Phys_Desc_Dmg",
+            "descTextMapHash": "ZhuYuan_Property_Rush_Shotgun_Phys_Desc_Dmg"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Property_Rush_Shotgun_Phys_Desc_Stun",
+            "descTextMapHash": "ZhuYuan_Property_Rush_Shotgun_Phys_Desc_Stun"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Property_Rush_Shotgun_Ether_Desc_Dmg",
+            "descTextMapHash": "ZhuYuan_Property_Rush_Shotgun_Ether_Desc_Dmg"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Property_Rush_Shotgun_Ether_Desc_Stun",
+            "descTextMapHash": "ZhuYuan_Property_Rush_Shotgun_Ether_Desc_Stun"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_Counter_Title",
+            "descTextMapHash": "ZhuYuan_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_QTE_Title",
+            "descTextMapHash": "ZhuYuan_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_ExQTE_Title",
+            "descTextMapHash": "ZhuYuan_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_BeHitAid_Title",
+            "descTextMapHash": "ZhuYuan_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_Skill_AssaultAid_Title",
+            "descTextMapHash": "ZhuYuan_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "ZhuYuan_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "ZhuYuan_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 10000068,
+    "skillDepotId": 6801,
+    "combatSkills": [
+        {
+            "skillId": 10681,
+            "nameTextMapHash": 3134128445,
+            "descTextMapHash": 145589464,
+            "icon": "Skill_A_04",
+            "proudSkillGroupId": 6831
+        },
+        {
+            "skillId": 10682,
+            "nameTextMapHash": 2851422357,
+            "descTextMapHash": 289369112,
+            "icon": "Skill_S_Dori_01",
+            "proudSkillGroupId": 6832
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 989379645,
+            "descTextMapHash": 3162665395,
+            "icon": "UI_Talent_S_Dori_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1428982037,
+            "descTextMapHash": 3100591347,
+            "icon": "UI_Talent_S_Dori_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 2040369357,
+            "descTextMapHash": 3283377219,
+            "icon": "UI_Talent_S_Dori_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

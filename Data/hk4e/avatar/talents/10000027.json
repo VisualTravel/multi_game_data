@@ -1,0 +1,40 @@
+{
+    "id": 10000027,
+    "skillDepotId": 2701,
+    "combatSkills": [
+        {
+            "skillId": 10271,
+            "nameTextMapHash": 2745030989,
+            "descTextMapHash": 3500884424,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 2731
+        },
+        {
+            "skillId": 10272,
+            "nameTextMapHash": 2863733197,
+            "descTextMapHash": 226285648,
+            "icon": "Skill_S_Ningguang_01",
+            "proudSkillGroupId": 2732
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2007495781,
+            "descTextMapHash": 936555731,
+            "icon": "UI_Talent_S_Ningguang_02",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 2498987517,
+            "descTextMapHash": 3667555779,
+            "icon": "UI_Talent_S_Ningguang_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3990425845,
+            "descTextMapHash": 3051868187,
+            "icon": "UI_Talent_Collect_Ore",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

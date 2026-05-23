@@ -1,0 +1,426 @@
+{
+    "id": 10000050,
+    "titleTextMapHash": 2157757826,
+    "detailTextMapHash": 3621848258,
+    "association": "ASSOC_TYPE_INAZUMA",
+    "birthday": {
+        "month": 1,
+        "day": 9
+    },
+    "cv": {
+        "CHS": 720701894,
+        "EN": 2755173740,
+        "JP": 1651519568,
+        "KR": 3394774031
+    },
+    "stories": [
+        {
+            "storyId": null,
+            "titleTextMapHash": 3515979830,
+            "contextTextMapHash": 138414192
+        },
+        {
+            "storyId": null,
+            "titleTextMapHash": 1293292878,
+            "contextTextMapHash": 389253584
+        },
+        {
+            "storyId": null,
+            "titleTextMapHash": 450994318,
+            "contextTextMapHash": 3831102464
+        },
+        {
+            "storyId": null,
+            "titleTextMapHash": 3997962478,
+            "contextTextMapHash": 3628157216
+        },
+        {
+            "storyId": null,
+            "titleTextMapHash": 2146069718,
+            "contextTextMapHash": 2423302608
+        },
+        {
+            "storyId": null,
+            "titleTextMapHash": 1059524950,
+            "contextTextMapHash": 805877128
+        },
+        {
+            "storyId": null,
+            "titleTextMapHash": 4077623806,
+            "contextTextMapHash": 2908363864
+        },
+        {
+            "storyId": null,
+            "titleTextMapHash": 15317110,
+            "contextTextMapHash": 1174482008
+        }
+    ],
+    "characterCards": [
+        {
+            "cardId": 241041,
+            "level": 10
+        }
+    ],
+    "voices": [
+        {
+            "titleTextMapHash": 3936270471,
+            "fileTextTextMapHash": 1888612703,
+            "titleLockedTextMapHash": 2551312410
+        },
+        {
+            "titleTextMapHash": 1182535063,
+            "fileTextTextMapHash": 2915071407,
+            "titleLockedTextMapHash": 1897181546
+        },
+        {
+            "titleTextMapHash": 3737262279,
+            "fileTextTextMapHash": 704577775,
+            "titleLockedTextMapHash": 527894842
+        },
+        {
+            "titleTextMapHash": 1798610255,
+            "fileTextTextMapHash": 2317281567,
+            "titleLockedTextMapHash": 4057331802
+        },
+        {
+            "titleTextMapHash": 4054205527,
+            "fileTextTextMapHash": 3799462231,
+            "titleLockedTextMapHash": 408020146
+        },
+        {
+            "titleTextMapHash": 3268800991,
+            "fileTextTextMapHash": 2186795055,
+            "titleLockedTextMapHash": 2605803730
+        },
+        {
+            "titleTextMapHash": 80399687,
+            "fileTextTextMapHash": 1313843239,
+            "titleLockedTextMapHash": 4271071258
+        },
+        {
+            "titleTextMapHash": 933122527,
+            "fileTextTextMapHash": 2789260631,
+            "titleLockedTextMapHash": 4082143458
+        },
+        {
+            "titleTextMapHash": 1155537231,
+            "fileTextTextMapHash": 1780880751,
+            "titleLockedTextMapHash": 2699702298
+        },
+        {
+            "titleTextMapHash": 1496616319,
+            "fileTextTextMapHash": 1546513799,
+            "titleLockedTextMapHash": 2816795050
+        },
+        {
+            "titleTextMapHash": 3437853927,
+            "fileTextTextMapHash": 3078267047,
+            "titleLockedTextMapHash": 1583421586
+        },
+        {
+            "titleTextMapHash": 366610719,
+            "fileTextTextMapHash": 3553534327,
+            "titleLockedTextMapHash": 4096788954
+        },
+        {
+            "titleTextMapHash": 223053847,
+            "fileTextTextMapHash": 423639407,
+            "titleLockedTextMapHash": 1187353690
+        },
+        {
+            "titleTextMapHash": 801250767,
+            "fileTextTextMapHash": 1620986335,
+            "titleLockedTextMapHash": 1686993338
+        },
+        {
+            "titleTextMapHash": 3021531567,
+            "fileTextTextMapHash": 2099854391,
+            "titleLockedTextMapHash": 1716957386
+        },
+        {
+            "titleTextMapHash": 4208534551,
+            "fileTextTextMapHash": 116111567,
+            "titleLockedTextMapHash": 3457150458
+        },
+        {
+            "titleTextMapHash": 3096843527,
+            "fileTextTextMapHash": 2544823623,
+            "titleLockedTextMapHash": 1889094818
+        },
+        {
+            "titleTextMapHash": 1596989695,
+            "fileTextTextMapHash": 4174752047,
+            "titleLockedTextMapHash": 747863122
+        },
+        {
+            "titleTextMapHash": 3560538127,
+            "fileTextTextMapHash": 1264396463,
+            "titleLockedTextMapHash": 2017632346
+        },
+        {
+            "titleTextMapHash": 902997063,
+            "fileTextTextMapHash": 4278168855,
+            "titleLockedTextMapHash": 4248323426
+        },
+        {
+            "titleTextMapHash": 891893207,
+            "fileTextTextMapHash": 1778108583,
+            "titleLockedTextMapHash": 4004068826
+        },
+        {
+            "titleTextMapHash": 3078727119,
+            "fileTextTextMapHash": 3771559119,
+            "titleLockedTextMapHash": 4206781746
+        },
+        {
+            "titleTextMapHash": 3582333183,
+            "fileTextTextMapHash": 1259120647,
+            "titleLockedTextMapHash": 3026555306
+        },
+        {
+            "titleTextMapHash": 2842848719,
+            "fileTextTextMapHash": 1093352863,
+            "titleLockedTextMapHash": 1442767002
+        },
+        {
+            "titleTextMapHash": 1380688047,
+            "fileTextTextMapHash": 3413953991,
+            "titleLockedTextMapHash": 3275939882
+        },
+        {
+            "titleTextMapHash": 1217521847,
+            "fileTextTextMapHash": 831227287,
+            "titleLockedTextMapHash": 519596130
+        },
+        {
+            "titleTextMapHash": 3707034727,
+            "fileTextTextMapHash": 2721763383,
+            "titleLockedTextMapHash": 1717204194
+        },
+        {
+            "titleTextMapHash": 4168384575,
+            "fileTextTextMapHash": 4260413527,
+            "titleLockedTextMapHash": 3681064346
+        },
+        {
+            "titleTextMapHash": 488889711,
+            "fileTextTextMapHash": 1565153343,
+            "titleLockedTextMapHash": 3581104306
+        },
+        {
+            "titleTextMapHash": 1927037247,
+            "fileTextTextMapHash": 3076309119,
+            "titleLockedTextMapHash": 2153197930
+        },
+        {
+            "titleTextMapHash": 509394407,
+            "fileTextTextMapHash": 2459558199,
+            "titleLockedTextMapHash": 2840744962
+        },
+        {
+            "titleTextMapHash": 3048677623,
+            "fileTextTextMapHash": 3235787151,
+            "titleLockedTextMapHash": 1331298810
+        },
+        {
+            "titleTextMapHash": 2363919375,
+            "fileTextTextMapHash": 364837023,
+            "titleLockedTextMapHash": 3494124898
+        },
+        {
+            "titleTextMapHash": 2551942287,
+            "fileTextTextMapHash": 876611591,
+            "titleLockedTextMapHash": 1660892170
+        },
+        {
+            "titleTextMapHash": 2817683959,
+            "fileTextTextMapHash": 2626674967,
+            "titleLockedTextMapHash": 454250938
+        },
+        {
+            "titleTextMapHash": 176986383,
+            "fileTextTextMapHash": 1602671,
+            "titleLockedTextMapHash": 1094168954
+        },
+        {
+            "titleTextMapHash": 2354255319,
+            "fileTextTextMapHash": 3908490591,
+            "titleLockedTextMapHash": 3206566930
+        },
+        {
+            "titleTextMapHash": 3694992527,
+            "fileTextTextMapHash": 3094566191,
+            "titleLockedTextMapHash": 416578666
+        },
+        {
+            "titleTextMapHash": 3532062895,
+            "fileTextTextMapHash": 690312487,
+            "titleLockedTextMapHash": 2358630402
+        },
+        {
+            "titleTextMapHash": 4018352495,
+            "fileTextTextMapHash": 1593270471,
+            "titleLockedTextMapHash": 3944270954
+        },
+        {
+            "titleTextMapHash": 3728820255,
+            "fileTextTextMapHash": 3770857615,
+            "titleLockedTextMapHash": 1914225818
+        },
+        {
+            "titleTextMapHash": 2677073279,
+            "fileTextTextMapHash": 606453111,
+            "titleLockedTextMapHash": 529740250
+        },
+        {
+            "titleTextMapHash": 390947975,
+            "fileTextTextMapHash": 2845980839,
+            "titleLockedTextMapHash": 2625075258
+        },
+        {
+            "titleTextMapHash": 3149343927,
+            "fileTextTextMapHash": 2929635503,
+            "titleLockedTextMapHash": 3915104442
+        },
+        {
+            "titleTextMapHash": 55425127,
+            "fileTextTextMapHash": 1072944543,
+            "titleLockedTextMapHash": 4171143274
+        },
+        {
+            "titleTextMapHash": 1343930655,
+            "fileTextTextMapHash": 1949258807,
+            "titleLockedTextMapHash": 2497229866
+        },
+        {
+            "titleTextMapHash": 3642165471,
+            "fileTextTextMapHash": 1350186071,
+            "titleLockedTextMapHash": 3388201162
+        },
+        {
+            "titleTextMapHash": 1825148183,
+            "fileTextTextMapHash": 2029056415,
+            "titleLockedTextMapHash": 1871388722
+        },
+        {
+            "titleTextMapHash": 985475087,
+            "fileTextTextMapHash": 1775918247,
+            "titleLockedTextMapHash": 2432621018
+        },
+        {
+            "titleTextMapHash": 3520829495,
+            "fileTextTextMapHash": 1955849703,
+            "titleLockedTextMapHash": 3303829650
+        },
+        {
+            "titleTextMapHash": 1373294839,
+            "fileTextTextMapHash": 1522167087,
+            "titleLockedTextMapHash": 2904027498
+        },
+        {
+            "titleTextMapHash": 1927692671,
+            "fileTextTextMapHash": 1757298895,
+            "titleLockedTextMapHash": 4165218450
+        },
+        {
+            "titleTextMapHash": 3999763471,
+            "fileTextTextMapHash": 3284340927,
+            "titleLockedTextMapHash": 2278894770
+        },
+        {
+            "titleTextMapHash": 874381607,
+            "fileTextTextMapHash": 574399999,
+            "titleLockedTextMapHash": 2476551546
+        },
+        {
+            "titleTextMapHash": 167612791,
+            "fileTextTextMapHash": 373959911,
+            "titleLockedTextMapHash": 2422775946
+        },
+        {
+            "titleTextMapHash": 2220973271,
+            "fileTextTextMapHash": 1065123199,
+            "titleLockedTextMapHash": 1576784946
+        },
+        {
+            "titleTextMapHash": 1218666711,
+            "fileTextTextMapHash": 566291567,
+            "titleLockedTextMapHash": 3587536154
+        },
+        {
+            "titleTextMapHash": 3721865423,
+            "fileTextTextMapHash": 2782687599,
+            "titleLockedTextMapHash": 858257546
+        },
+        {
+            "titleTextMapHash": 1964754311,
+            "fileTextTextMapHash": 2089626895,
+            "titleLockedTextMapHash": 2059954370
+        },
+        {
+            "titleTextMapHash": 1622724655,
+            "fileTextTextMapHash": 1108982863,
+            "titleLockedTextMapHash": 3007059074
+        },
+        {
+            "titleTextMapHash": 395015535,
+            "fileTextTextMapHash": 3381235903,
+            "titleLockedTextMapHash": 918805626
+        },
+        {
+            "titleTextMapHash": 2304404615,
+            "fileTextTextMapHash": 3581505951,
+            "titleLockedTextMapHash": 2691450258
+        },
+        {
+            "titleTextMapHash": 1348978951,
+            "fileTextTextMapHash": 73508039,
+            "titleLockedTextMapHash": 3379001642
+        },
+        {
+            "titleTextMapHash": 4072731783,
+            "fileTextTextMapHash": 952531175,
+            "titleLockedTextMapHash": 2890948898
+        },
+        {
+            "titleTextMapHash": 3394963767,
+            "fileTextTextMapHash": 1915279711,
+            "titleLockedTextMapHash": 1936484690
+        },
+        {
+            "titleTextMapHash": 1758529695,
+            "fileTextTextMapHash": 2208370951,
+            "titleLockedTextMapHash": 2368427282
+        },
+        {
+            "titleTextMapHash": 984950951,
+            "fileTextTextMapHash": 2318990351,
+            "titleLockedTextMapHash": 3623793802
+        },
+        {
+            "titleTextMapHash": 4215544295,
+            "fileTextTextMapHash": 954897799,
+            "titleLockedTextMapHash": 201877866
+        },
+        {
+            "titleTextMapHash": 1902960735,
+            "fileTextTextMapHash": 4175984711,
+            "titleLockedTextMapHash": 3999953322
+        },
+        {
+            "titleTextMapHash": 717636743,
+            "fileTextTextMapHash": 2631137431,
+            "titleLockedTextMapHash": 1777683482
+        },
+        {
+            "titleTextMapHash": 2518238287,
+            "fileTextTextMapHash": 2618338375,
+            "titleLockedTextMapHash": 1499525210
+        },
+        {
+            "titleTextMapHash": 1196358903,
+            "fileTextTextMapHash": 2752424055,
+            "titleLockedTextMapHash": 718011698
+        }
+    ]
+}

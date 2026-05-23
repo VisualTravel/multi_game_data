@@ -1,0 +1,54 @@
+{
+    "id": 10000047,
+    "skillDepotId": 4701,
+    "constellations": [
+        {
+            "talentId": 471,
+            "index": 1,
+            "nameTextMapHash": 2040563073,
+            "descTextMapHash": 3794647287,
+            "icon": "UI_Talent_S_Kazuha_01",
+            "openConfig": "Kazuha_Constellation_1"
+        },
+        {
+            "talentId": 472,
+            "index": 2,
+            "nameTextMapHash": 7765353,
+            "descTextMapHash": 57094423,
+            "icon": "UI_Talent_S_Kazuha_02",
+            "openConfig": "Kazuha_Constellation_2"
+        },
+        {
+            "talentId": 473,
+            "index": 3,
+            "nameTextMapHash": 2202533241,
+            "descTextMapHash": 190411063,
+            "icon": "UI_Talent_U_Kazuha_01",
+            "openConfig": "Kazuha_Constellation_3"
+        },
+        {
+            "talentId": 474,
+            "index": 4,
+            "nameTextMapHash": 2888381665,
+            "descTextMapHash": 2322279631,
+            "icon": "UI_Talent_S_Kazuha_03",
+            "openConfig": "Kazuha_Constellation_4"
+        },
+        {
+            "talentId": 475,
+            "index": 5,
+            "nameTextMapHash": 4207271041,
+            "descTextMapHash": 4023044479,
+            "icon": "UI_Talent_U_Kazuha_02",
+            "openConfig": "Kazuha_Constellation_5"
+        },
+        {
+            "talentId": 476,
+            "index": 6,
+            "nameTextMapHash": 234189249,
+            "descTextMapHash": 2071804951,
+            "icon": "UI_Talent_S_Kazuha_04",
+            "openConfig": "Kazuha_Constellation_6"
+        }
+    ]
+}

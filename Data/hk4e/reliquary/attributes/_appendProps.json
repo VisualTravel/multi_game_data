@@ -1,0 +1,798 @@
+{
+    "101": [
+        {
+            "type": "FIGHT_PROP_HP"
+        },
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        }
+    ],
+    "201": [
+        {
+            "type": "FIGHT_PROP_HP"
+        },
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        }
+    ],
+    "301": [
+        {
+            "type": "FIGHT_PROP_HP"
+        },
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        }
+    ],
+    "401": [
+        {
+            "type": "FIGHT_PROP_HP"
+        },
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        }
+    ],
+    "501": [
+        {
+            "type": "FIGHT_PROP_HP"
+        },
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        }
+    ],
+    "999": [
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE"
+        }
+    ],
+    "998": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        }
+    ],
+    "995": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        }
+    ],
+    "997": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        }
+    ],
+    "996": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        },
+        {
+            "type": "FIGHT_PROP_HP"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE"
+        }
+    ],
+    "994": [
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        }
+    ],
+    "993": [
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        }
+    ],
+    "992": [
+        {
+            "type": "FIGHT_PROP_SHIELD_COST_MINUS_RATIO"
+        }
+    ],
+    "991": [
+        {
+            "type": "FIGHT_PROP_HEAL_ADD"
+        }
+    ],
+    "990": [
+        {
+            "type": "FIGHT_PROP_HEALED_ADD"
+        }
+    ],
+    "989": [
+        {
+            "type": "FIGHT_PROP_SKILL_CD_MINUS_RATIO"
+        }
+    ],
+    "988": [
+        {
+            "type": "FIGHT_PROP_SPEED_PERCENT"
+        }
+    ],
+    "987": [
+        {
+            "type": "FIGHT_PROP_FIRE_ADD_HURT"
+        }
+    ],
+    "986": [
+        {
+            "type": "FIGHT_PROP_ELEC_ADD_HURT"
+        }
+    ],
+    "985": [
+        {
+            "type": "FIGHT_PROP_WATER_ADD_HURT"
+        }
+    ],
+    "984": [
+        {
+            "type": "FIGHT_PROP_GRASS_ADD_HURT"
+        }
+    ],
+    "983": [
+        {
+            "type": "FIGHT_PROP_WIND_ADD_HURT"
+        }
+    ],
+    "982": [
+        {
+            "type": "FIGHT_PROP_ROCK_ADD_HURT"
+        }
+    ],
+    "981": [
+        {
+            "type": "FIGHT_PROP_ICE_ADD_HURT"
+        }
+    ],
+    "980": [
+        {
+            "type": "FIGHT_PROP_PHYSICAL_ADD_HURT"
+        }
+    ],
+    "979": [
+        {
+            "type": "FIGHT_PROP_FIRE_SUB_HURT"
+        }
+    ],
+    "978": [
+        {
+            "type": "FIGHT_PROP_ELEC_SUB_HURT"
+        }
+    ],
+    "977": [
+        {
+            "type": "FIGHT_PROP_WATER_SUB_HURT"
+        }
+    ],
+    "976": [
+        {
+            "type": "FIGHT_PROP_GRASS_SUB_HURT"
+        }
+    ],
+    "975": [
+        {
+            "type": "FIGHT_PROP_WIND_SUB_HURT"
+        }
+    ],
+    "974": [
+        {
+            "type": "FIGHT_PROP_ROCK_SUB_HURT"
+        }
+    ],
+    "973": [
+        {
+            "type": "FIGHT_PROP_ICE_SUB_HURT"
+        }
+    ],
+    "972": [
+        {
+            "type": "FIGHT_PROP_PHYSICAL_SUB_HURT"
+        }
+    ],
+    "971": [
+        {
+            "type": "FIGHT_PROP_ADD_HURT"
+        }
+    ],
+    "970": [
+        {
+            "type": "FIGHT_PROP_SUB_HURT"
+        }
+    ],
+    "969": [
+        {
+            "type": "FIGHT_PROP_DEFENSE"
+        }
+    ],
+    "968": [
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        }
+    ],
+    "967": [
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        }
+    ],
+    "966": [
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        }
+    ],
+    "961": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        },
+        {
+            "type": "FIGHT_PROP_HP"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE"
+        }
+    ],
+    "962": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        },
+        {
+            "type": "FIGHT_PROP_HP"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE"
+        }
+    ],
+    "963": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        },
+        {
+            "type": "FIGHT_PROP_HP"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE"
+        }
+    ],
+    "964": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        },
+        {
+            "type": "FIGHT_PROP_HP"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE"
+        }
+    ],
+    "965": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        },
+        {
+            "type": "FIGHT_PROP_HP"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE"
+        }
+    ],
+    "951": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        }
+    ],
+    "952": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        }
+    ],
+    "953": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        }
+    ],
+    "956": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        }
+    ],
+    "941": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        }
+    ],
+    "942": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        }
+    ],
+    "943": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        }
+    ],
+    "946": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        }
+    ],
+    "947": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT"
+        },
+        {
+            "type": "FIGHT_PROP_HP"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE"
+        }
+    ]
+}

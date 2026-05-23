@@ -1,0 +1,29 @@
+{
+    "id": 1409,
+    "servantId": 11409,
+    "nameTextMapHash": 18296213666499024130,
+    "headIcon": "11409.png",
+    "waitingImg": "11409.png",
+    "attributes": {
+        "hpBase": "0",
+        "hpInherit": "#1",
+        "speedBase": "0",
+        "aggro": {
+            "Value": 100
+        }
+    },
+    "skills": [
+        {
+            "skillId": 1140901
+        },
+        {
+            "skillId": 1140903
+        },
+        {
+            "skillId": 1140905
+        },
+        {
+            "skillId": 1140906
+        }
+    ]
+}

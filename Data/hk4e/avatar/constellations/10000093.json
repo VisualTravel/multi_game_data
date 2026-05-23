@@ -1,0 +1,54 @@
+{
+    "id": 10000093,
+    "skillDepotId": 9301,
+    "constellations": [
+        {
+            "talentId": 931,
+            "index": 1,
+            "nameTextMapHash": 1584930041,
+            "descTextMapHash": 4195313063,
+            "icon": "UI_Talent_S_Liuyun_01",
+            "openConfig": "Liuyun_Constellation_1"
+        },
+        {
+            "talentId": 932,
+            "index": 2,
+            "nameTextMapHash": 94680105,
+            "descTextMapHash": 2714468695,
+            "icon": "UI_Talent_S_Liuyun_02",
+            "openConfig": "Liuyun_Constellation_2"
+        },
+        {
+            "talentId": 933,
+            "index": 3,
+            "nameTextMapHash": 3143851073,
+            "descTextMapHash": 2650581351,
+            "icon": "UI_Talent_U_Liuyun_02",
+            "openConfig": "Liuyun_Constellation_3"
+        },
+        {
+            "talentId": 934,
+            "index": 4,
+            "nameTextMapHash": 301585425,
+            "descTextMapHash": 396072071,
+            "icon": "UI_Talent_S_Liuyun_03",
+            "openConfig": "Liuyun_Constellation_4"
+        },
+        {
+            "talentId": 935,
+            "index": 5,
+            "nameTextMapHash": 2080335137,
+            "descTextMapHash": 1510311207,
+            "icon": "UI_Talent_U_Liuyun_01",
+            "openConfig": "Liuyun_Constellation_5"
+        },
+        {
+            "talentId": 936,
+            "index": 6,
+            "nameTextMapHash": 3383312889,
+            "descTextMapHash": 2169768367,
+            "icon": "UI_Talent_S_Liuyun_04",
+            "openConfig": "Liuyun_Constellation_6"
+        }
+    ]
+}

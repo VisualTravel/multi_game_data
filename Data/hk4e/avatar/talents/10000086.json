@@ -1,0 +1,40 @@
+{
+    "id": 10000086,
+    "skillDepotId": 8601,
+    "combatSkills": [
+        {
+            "skillId": 10861,
+            "nameTextMapHash": 3047671029,
+            "descTextMapHash": 3286772776,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 8631
+        },
+        {
+            "skillId": 10862,
+            "nameTextMapHash": 3496870941,
+            "descTextMapHash": 2303069416,
+            "icon": "Skill_S_Wriothesley_01",
+            "proudSkillGroupId": 8632
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3678165437,
+            "descTextMapHash": 3120112771,
+            "icon": "UI_Talent_S_Wriothesley_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1122782717,
+            "descTextMapHash": 4283491523,
+            "icon": "UI_Talent_S_Wriothesley_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1753732277,
+            "descTextMapHash": 408336411,
+            "icon": "UI_Talent_Combine_Weapon_Double",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

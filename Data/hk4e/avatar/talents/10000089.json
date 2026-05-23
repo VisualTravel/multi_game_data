@@ -1,0 +1,40 @@
+{
+    "id": 10000089,
+    "skillDepotId": 8901,
+    "combatSkills": [
+        {
+            "skillId": 10891,
+            "nameTextMapHash": 4233347141,
+            "descTextMapHash": 731375648,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 8931
+        },
+        {
+            "skillId": 10892,
+            "nameTextMapHash": 3819525205,
+            "descTextMapHash": 2663783880,
+            "icon": "Skill_S_Furina_01",
+            "proudSkillGroupId": 8932
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2207887565,
+            "descTextMapHash": 2804468875,
+            "icon": "UI_Talent_S_Furina_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 4267816053,
+            "descTextMapHash": 2749489547,
+            "icon": "UI_Talent_S_Furina_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 2905446437,
+            "descTextMapHash": 2458235035,
+            "icon": "UI_Talent_S_Furina_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

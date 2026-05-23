@@ -1,0 +1,325 @@
+{
+    "id": 1311,
+    "skills": [
+        {
+            "nameTextMapHash": "Astra_Skill_Normal_Desc",
+            "descTextMapHash": "Astra_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_Normal_Singing_Desc",
+            "descTextMapHash": "Astra_Skill_Normal_Singing_Desc"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_Normal_Singing_Perfect_Desc",
+            "descTextMapHash": "Astra_Skill_Normal_Singing_Perfect_Desc"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_Normal_Singing_Exit_Desc",
+            "descTextMapHash": "Astra_Skill_Normal_Singing_Exit_Desc"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_Special_Desc",
+            "descTextMapHash": "Astra_Skill_Special_Desc"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_Singing_Desc",
+            "descTextMapHash": "Astra_Skill_Singing_Desc"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_Charge_Desc",
+            "descTextMapHash": "Astra_Skill_Charge_Desc"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_Evade_Desc",
+            "descTextMapHash": "Astra_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_Rush_Desc",
+            "descTextMapHash": "Astra_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_Counter_Desc",
+            "descTextMapHash": "Astra_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_QTE_Desc",
+            "descTextMapHash": "Astra_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_ExQTE_Desc",
+            "descTextMapHash": "Astra_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_BeHitAid_Desc",
+            "descTextMapHash": "Astra_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_EvadeAid_Desc",
+            "descTextMapHash": "Astra_Skill_EvadeAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_AssaultAid_Desc",
+            "descTextMapHash": "Astra_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_Normal_Title",
+            "descTextMapHash": "Astra_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Astra_Property_Normal_03_Desc_Dmg_01",
+            "descTextMapHash": "Astra_Property_Normal_03_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Astra_Property_Normal_03_Desc_Dmg_02",
+            "descTextMapHash": "Astra_Property_Normal_03_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Astra_Property_Normal_03_Desc_Stun_01",
+            "descTextMapHash": "Astra_Property_Normal_03_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Astra_Property_Normal_03_Desc_Stun_02",
+            "descTextMapHash": "Astra_Property_Normal_03_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_Normal_Singing_Title",
+            "descTextMapHash": "Astra_Skill_Normal_Singing_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_05",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_05"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_05",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_05"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_Normal_Singing_Perfect_Title",
+            "descTextMapHash": "Astra_Skill_Normal_Singing_Perfect_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_Normal_Singing_Exit_Title",
+            "descTextMapHash": "Astra_Skill_Normal_Singing_Exit_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_Special_Title",
+            "descTextMapHash": "Astra_Skill_Special_Title"
+        },
+        {
+            "nameTextMapHash": "Astra_Property_Branch_AddedDamageRatio_Title",
+            "descTextMapHash": "Astra_Property_Branch_AddedDamageRatio_Title"
+        },
+        {
+            "nameTextMapHash": "Astra_Property_Branch_AddedDamageCritRatio_Title",
+            "descTextMapHash": "Astra_Property_Branch_AddedDamageCritRatio_Title"
+        },
+        {
+            "nameTextMapHash": "Astra_Property_Branch_Desc_Dmg_01",
+            "descTextMapHash": "Astra_Property_Branch_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Astra_Property_Branch_Desc_Dmg_02",
+            "descTextMapHash": "Astra_Property_Branch_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Astra_Property_Branch_Desc_Stun_01",
+            "descTextMapHash": "Astra_Property_Branch_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Astra_Property_Branch_Desc_Stun_02",
+            "descTextMapHash": "Astra_Property_Branch_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_Charge_Title",
+            "descTextMapHash": "Astra_Skill_Charge_Title"
+        },
+        {
+            "nameTextMapHash": "Astra_Property_Branch_Thunder_Desc_Dmg_01",
+            "descTextMapHash": "Astra_Property_Branch_Thunder_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Astra_Property_Branch_Star_Desc_Dmg_01",
+            "descTextMapHash": "Astra_Property_Branch_Star_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Astra_Property_Branch_SpCostValue_01_Title",
+            "descTextMapHash": "Astra_Property_Branch_SpCostValue_01_Title"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_Rush_Title",
+            "descTextMapHash": "Astra_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_Counter_Title",
+            "descTextMapHash": "Astra_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_QTE_Title",
+            "descTextMapHash": "Astra_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_ExQTE_Title",
+            "descTextMapHash": "Astra_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Astra_Property_ExQTE_HPRecover_Desc_01",
+            "descTextMapHash": "Astra_Property_ExQTE_HPRecover_Desc_01"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_BeHitAid_Title",
+            "descTextMapHash": "Astra_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Astra_Skill_AssaultAid_Title",
+            "descTextMapHash": "Astra_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "Astra_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "Astra_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "Astra_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "Astra_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "Astra_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "Astra_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

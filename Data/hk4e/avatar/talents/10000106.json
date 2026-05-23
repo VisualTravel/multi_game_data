@@ -1,0 +1,46 @@
+{
+    "id": 10000106,
+    "skillDepotId": 10601,
+    "combatSkills": [
+        {
+            "skillId": 11061,
+            "nameTextMapHash": 97047965,
+            "descTextMapHash": 882663472,
+            "icon": "Skill_A_04",
+            "proudSkillGroupId": 10631
+        },
+        {
+            "skillId": 11062,
+            "nameTextMapHash": 3157990637,
+            "descTextMapHash": 3589833144,
+            "icon": "Skill_S_Mavuika_01",
+            "proudSkillGroupId": 10632
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3473273885,
+            "descTextMapHash": 1265918139,
+            "icon": "UI_Talent_S_Mavuika_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 271350229,
+            "descTextMapHash": 490272003,
+            "icon": "UI_Talent_S_Mavuika_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1535745229,
+            "descTextMapHash": 1772623995,
+            "icon": "UI_Talent_S_Mavuika_07",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 3593360725,
+            "descTextMapHash": 3275670715,
+            "icon": "UI_Talent_S_Citlali_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

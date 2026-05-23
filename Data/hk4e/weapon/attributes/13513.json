@@ -1,0 +1,201 @@
+{
+    "id": 13513,
+    "nameTextMapHash": 1948935171,
+    "descTextMapHash": 319629805,
+    "rarity": 5,
+    "weaponType": "WEAPON_POLE",
+    "icon": "UI_EquipIcon_Pole_Muguet",
+    "baseStats": {
+        "attackBase": 45.9364,
+        "subStatType": "FIGHT_PROP_CRITICAL",
+        "subStatInitValue": 0.072
+    },
+    "refinements": {
+        "affixId": 113513,
+        "nameTextMapHash": 3325137939,
+        "levels": [
+            {
+                "refinement": 1,
+                "nameTextMapHash": 3325137939,
+                "descTextMapHash": 3299341681,
+                "params": [
+                    0.15,
+                    0.18,
+                    8,
+                    12,
+                    12
+                ]
+            },
+            {
+                "refinement": 2,
+                "nameTextMapHash": 2582456827,
+                "descTextMapHash": 2580454833,
+                "params": [
+                    0.19,
+                    0.23,
+                    8,
+                    13,
+                    12
+                ]
+            },
+            {
+                "refinement": 3,
+                "nameTextMapHash": 366863523,
+                "descTextMapHash": 3815678433,
+                "params": [
+                    0.23,
+                    0.28,
+                    8,
+                    14,
+                    12
+                ]
+            },
+            {
+                "refinement": 4,
+                "nameTextMapHash": 3066993707,
+                "descTextMapHash": 3866324009,
+                "params": [
+                    0.27,
+                    0.33,
+                    8,
+                    15,
+                    12
+                ]
+            },
+            {
+                "refinement": 5,
+                "nameTextMapHash": 245002355,
+                "descTextMapHash": 3317284001,
+                "params": [
+                    0.31,
+                    0.38,
+                    8,
+                    16,
+                    12
+                ]
+            }
+        ]
+    },
+    "promotions": [
+        {
+            "level": 0,
+            "maxLevel": 20,
+            "addAttack": 0,
+            "costItems": []
+        },
+        {
+            "level": 1,
+            "maxLevel": 40,
+            "addAttack": 31.1,
+            "costItems": [
+                {
+                    "id": 114057,
+                    "count": 5
+                },
+                {
+                    "id": 112098,
+                    "count": 5
+                },
+                {
+                    "id": 112038,
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "level": 2,
+            "maxLevel": 50,
+            "addAttack": 62.2,
+            "costItems": [
+                {
+                    "id": 114058,
+                    "count": 5
+                },
+                {
+                    "id": 112098,
+                    "count": 18
+                },
+                {
+                    "id": 112038,
+                    "count": 12
+                }
+            ]
+        },
+        {
+            "level": 3,
+            "maxLevel": 60,
+            "addAttack": 93.4,
+            "costItems": [
+                {
+                    "id": 114058,
+                    "count": 9
+                },
+                {
+                    "id": 112099,
+                    "count": 9
+                },
+                {
+                    "id": 112039,
+                    "count": 9
+                }
+            ]
+        },
+        {
+            "level": 4,
+            "maxLevel": 70,
+            "addAttack": 124.5,
+            "costItems": [
+                {
+                    "id": 114059,
+                    "count": 5
+                },
+                {
+                    "id": 112099,
+                    "count": 18
+                },
+                {
+                    "id": 112039,
+                    "count": 14
+                }
+            ]
+        },
+        {
+            "level": 5,
+            "maxLevel": 80,
+            "addAttack": 155.6,
+            "costItems": [
+                {
+                    "id": 114059,
+                    "count": 9
+                },
+                {
+                    "id": 112100,
+                    "count": 14
+                },
+                {
+                    "id": 112040,
+                    "count": 9
+                }
+            ]
+        },
+        {
+            "level": 6,
+            "maxLevel": 90,
+            "addAttack": 186.7,
+            "costItems": [
+                {
+                    "id": 114060,
+                    "count": 6
+                },
+                {
+                    "id": 112100,
+                    "count": 27
+                },
+                {
+                    "id": 112040,
+                    "count": 18
+                }
+            ]
+        }
+    ]
+}

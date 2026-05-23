@@ -1,0 +1,40 @@
+{
+    "id": 10000036,
+    "skillDepotId": 3601,
+    "combatSkills": [
+        {
+            "skillId": 10401,
+            "nameTextMapHash": 1917852821,
+            "descTextMapHash": 588212448,
+            "icon": "Skill_A_04",
+            "proudSkillGroupId": 3631
+        },
+        {
+            "skillId": 10402,
+            "nameTextMapHash": 1241562285,
+            "descTextMapHash": 543360040,
+            "icon": "Skill_S_Chongyun_01",
+            "proudSkillGroupId": 3632
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 1471901957,
+            "descTextMapHash": 2917700763,
+            "icon": "UI_Talent_S_Chongyun_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 2188306525,
+            "descTextMapHash": 1400288619,
+            "icon": "UI_Talent_S_Chongyun_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1722331629,
+            "descTextMapHash": 225068227,
+            "icon": "UI_Talent_Expedition_Liyue",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

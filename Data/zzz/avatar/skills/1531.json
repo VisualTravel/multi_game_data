@@ -1,0 +1,329 @@
+{
+    "id": 1531,
+    "skills": [
+        {
+            "nameTextMapHash": "SPBilly_Skill_Normal_Desc",
+            "descTextMapHash": "SPBilly_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_Branch_01_Desc",
+            "descTextMapHash": "SPBilly_Skill_Branch_01_Desc"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_Special_01_Desc",
+            "descTextMapHash": "SPBilly_Skill_Special_01_Desc"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_Special_01_GetOff_Desc",
+            "descTextMapHash": "SPBilly_Skill_Special_01_GetOff_Desc"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_GPSuccess_Desc",
+            "descTextMapHash": "SPBilly_Skill_GPSuccess_Desc"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_ExSpecial_01_Desc",
+            "descTextMapHash": "SPBilly_Skill_ExSpecial_01_Desc"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_ExSpecial_02_Desc",
+            "descTextMapHash": "SPBilly_Skill_ExSpecial_02_Desc"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_Evade_01_Desc",
+            "descTextMapHash": "SPBilly_Skill_Evade_01_Desc"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_Evade_02_Desc",
+            "descTextMapHash": "SPBilly_Skill_Evade_02_Desc"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_Rush_Desc",
+            "descTextMapHash": "SPBilly_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_Counter_01_Desc",
+            "descTextMapHash": "SPBilly_Skill_Counter_01_Desc"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_Counter_02_Desc",
+            "descTextMapHash": "SPBilly_Skill_Counter_02_Desc"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_QTE_Desc",
+            "descTextMapHash": "SPBilly_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_ExQTE_Desc",
+            "descTextMapHash": "SPBilly_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_BeHitAid_01_Desc",
+            "descTextMapHash": "SPBilly_Skill_BeHitAid_01_Desc"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_ParryAid_Desc",
+            "descTextMapHash": "SPBilly_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_AssaultAid_Desc",
+            "descTextMapHash": "SPBilly_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_Normal_Title",
+            "descTextMapHash": "SPBilly_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_Branch_01_Title",
+            "descTextMapHash": "SPBilly_Skill_Branch_01_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Property_Branch_HeatCostDesc_01",
+            "descTextMapHash": "SPBilly_Property_Branch_HeatCostDesc_01"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_Special_01_Title",
+            "descTextMapHash": "SPBilly_Skill_Special_01_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_Special_01_GetOff_Title",
+            "descTextMapHash": "SPBilly_Skill_Special_01_GetOff_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_GPSuccess_Title",
+            "descTextMapHash": "SPBilly_Skill_GPSuccess_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_ExSpecial_01_Title",
+            "descTextMapHash": "SPBilly_Skill_ExSpecial_01_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_RpConsume",
+            "descTextMapHash": "Common_Property_Desc_RpConsume"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_ExSpecial_02_Title",
+            "descTextMapHash": "SPBilly_Skill_ExSpecial_02_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_RpConsume",
+            "descTextMapHash": "Common_Property_Desc_RpConsume"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_Rush_Title",
+            "descTextMapHash": "SPBilly_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_Counter_01_Title",
+            "descTextMapHash": "SPBilly_Skill_Counter_01_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_Counter_02_Title",
+            "descTextMapHash": "SPBilly_Skill_Counter_02_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_QTE_Title",
+            "descTextMapHash": "SPBilly_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_ExQTE_Title",
+            "descTextMapHash": "SPBilly_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_BeHitAid_01_Title",
+            "descTextMapHash": "SPBilly_Skill_BeHitAid_01_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_ParryAid_Title",
+            "descTextMapHash": "SPBilly_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "SPBilly_Skill_AssaultAid_Title",
+            "descTextMapHash": "SPBilly_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "SPBilly_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "SPBilly_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "SPBilly_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "SPBilly_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "SPBilly_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "SPBilly_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

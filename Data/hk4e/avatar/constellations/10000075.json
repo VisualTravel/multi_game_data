@@ -1,0 +1,54 @@
+{
+    "id": 10000075,
+    "skillDepotId": 7501,
+    "constellations": [
+        {
+            "talentId": 751,
+            "index": 1,
+            "nameTextMapHash": 868773065,
+            "descTextMapHash": 3424058423,
+            "icon": "UI_Talent_S_Wanderer_01",
+            "openConfig": "Wanderer_Constellation_1"
+        },
+        {
+            "talentId": 752,
+            "index": 2,
+            "nameTextMapHash": 2086697169,
+            "descTextMapHash": 1024331071,
+            "icon": "UI_Talent_S_Wanderer_02",
+            "openConfig": "Wanderer_Constellation_2"
+        },
+        {
+            "talentId": 753,
+            "index": 3,
+            "nameTextMapHash": 215650713,
+            "descTextMapHash": 2516153687,
+            "icon": "UI_Talent_U_Wanderer_02",
+            "openConfig": "Wanderer_Constellation_3"
+        },
+        {
+            "talentId": 754,
+            "index": 4,
+            "nameTextMapHash": 3961952345,
+            "descTextMapHash": 3465818367,
+            "icon": "UI_Talent_S_Wanderer_03",
+            "openConfig": "Wanderer_Constellation_4"
+        },
+        {
+            "talentId": 755,
+            "index": 5,
+            "nameTextMapHash": 1037858905,
+            "descTextMapHash": 3032413431,
+            "icon": "UI_Talent_U_Wanderer_01",
+            "openConfig": "Wanderer_Constellation_5"
+        },
+        {
+            "talentId": 756,
+            "index": 6,
+            "nameTextMapHash": 3600134161,
+            "descTextMapHash": 4050146719,
+            "icon": "UI_Talent_S_Wanderer_04",
+            "openConfig": "Wanderer_Constellation_6"
+        }
+    ]
+}

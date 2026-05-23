@@ -1,0 +1,40 @@
+{
+    "id": 10000053,
+    "skillDepotId": 5301,
+    "combatSkills": [
+        {
+            "skillId": 10531,
+            "nameTextMapHash": 1631640581,
+            "descTextMapHash": 1904361664,
+            "icon": "Skill_A_04",
+            "proudSkillGroupId": 5331
+        },
+        {
+            "skillId": 10532,
+            "nameTextMapHash": 866969613,
+            "descTextMapHash": 2361803880,
+            "icon": "Skill_S_Sayu_01",
+            "proudSkillGroupId": 5332
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 1284587621,
+            "descTextMapHash": 1766003131,
+            "icon": "UI_Talent_S_Sayu_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3662641549,
+            "descTextMapHash": 3244306483,
+            "icon": "UI_Talent_S_Sayu_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1990554101,
+            "descTextMapHash": 356439491,
+            "icon": "UI_Talent_S_Sayu_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

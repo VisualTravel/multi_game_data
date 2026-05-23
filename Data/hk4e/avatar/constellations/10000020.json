@@ -1,0 +1,54 @@
+{
+    "id": 10000020,
+    "skillDepotId": 2001,
+    "constellations": [
+        {
+            "talentId": 201,
+            "index": 1,
+            "nameTextMapHash": 456118681,
+            "descTextMapHash": 3596693911,
+            "icon": "UI_Talent_S_Razor_01",
+            "openConfig": "Razor_Constellation_1"
+        },
+        {
+            "talentId": 202,
+            "index": 2,
+            "nameTextMapHash": 3370625097,
+            "descTextMapHash": 791295375,
+            "icon": "UI_Talent_S_Razor_02",
+            "openConfig": "Razor_Constellation_2"
+        },
+        {
+            "talentId": 203,
+            "index": 3,
+            "nameTextMapHash": 3366391177,
+            "descTextMapHash": 2668228831,
+            "icon": "UI_Talent_U_Razor_02",
+            "openConfig": "Razor_Constellation_3"
+        },
+        {
+            "talentId": 204,
+            "index": 4,
+            "nameTextMapHash": 770838889,
+            "descTextMapHash": 3886927103,
+            "icon": "UI_Talent_S_Razor_03",
+            "openConfig": "Razor_Constellation_4"
+        },
+        {
+            "talentId": 205,
+            "index": 5,
+            "nameTextMapHash": 1781682665,
+            "descTextMapHash": 2350685383,
+            "icon": "UI_Talent_U_Razor_01",
+            "openConfig": "Razor_Constellation_5"
+        },
+        {
+            "talentId": 206,
+            "index": 6,
+            "nameTextMapHash": 4050704465,
+            "descTextMapHash": 2977840263,
+            "icon": "UI_Talent_S_Razor_04",
+            "openConfig": "Razor_Constellation_6"
+        }
+    ]
+}

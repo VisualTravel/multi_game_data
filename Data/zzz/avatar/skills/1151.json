@@ -1,0 +1,321 @@
+{
+    "id": 1151,
+    "skills": [
+        {
+            "nameTextMapHash": "Lucy_Skill_Normal_Desc",
+            "descTextMapHash": "Lucy_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucy_Wood_Skill_Normal_01_Desc",
+            "descTextMapHash": "Lucy_Wood_Skill_Normal_01_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucy_Wood_Skill_SyncAttack_02_Desc",
+            "descTextMapHash": "Lucy_Wood_Skill_SyncAttack_02_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_Special_Desc",
+            "descTextMapHash": "Lucy_Skill_Special_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_ExSpecial_Desc",
+            "descTextMapHash": "Lucy_Skill_ExSpecial_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucy_Wood_Skill_Encourage_Desc",
+            "descTextMapHash": "Lucy_Wood_Skill_Encourage_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_Evade_Desc",
+            "descTextMapHash": "Lucy_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_Rush_Desc",
+            "descTextMapHash": "Lucy_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_Counter_Desc",
+            "descTextMapHash": "Lucy_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_QTE_Desc",
+            "descTextMapHash": "Lucy_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_ExQTE_Desc",
+            "descTextMapHash": "Lucy_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_BeHitAid_Desc",
+            "descTextMapHash": "Lucy_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_ParryAid_Desc",
+            "descTextMapHash": "Lucy_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_AssaultAid_Desc",
+            "descTextMapHash": "Lucy_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_Normal_Title",
+            "descTextMapHash": "Lucy_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Lucy_Property_Normal_03_Desc_Dmg_01",
+            "descTextMapHash": "Lucy_Property_Normal_03_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Lucy_Property_Normal_03_Desc_Stun_01",
+            "descTextMapHash": "Lucy_Property_Normal_03_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "Lucy_Wood_Skill_Normal_01_Title",
+            "descTextMapHash": "Lucy_Wood_Skill_Normal_01_Title"
+        },
+        {
+            "nameTextMapHash": "Lucy_Wood_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Lucy_Wood_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Lucy_Wood_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Lucy_Wood_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Lucy_Wood_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Lucy_Wood_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Lucy_Wood_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Lucy_Wood_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Lucy_Wood_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Lucy_Wood_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Lucy_Wood_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Lucy_Wood_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Lucy_Wood_Skill_SyncAttack_02_Title",
+            "descTextMapHash": "Lucy_Wood_Skill_SyncAttack_02_Title"
+        },
+        {
+            "nameTextMapHash": "Lucy_Wood_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Lucy_Wood_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Lucy_Wood_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Lucy_Wood_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "Lucy_Wood_Skill_Encourage_Title",
+            "descTextMapHash": "Lucy_Wood_Skill_Encourage_Title"
+        },
+        {
+            "nameTextMapHash": "Lucy_Encourage_AtkUP_Desc",
+            "descTextMapHash": "Lucy_Encourage_AtkUP_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_Special_Title",
+            "descTextMapHash": "Lucy_Skill_Special_Title"
+        },
+        {
+            "nameTextMapHash": "Lucy_Property_Special_Desc_Dmg_01",
+            "descTextMapHash": "Lucy_Property_Special_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Lucy_Property_Special_Desc_Dmg_02",
+            "descTextMapHash": "Lucy_Property_Special_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Lucy_Property_Special_Desc_Stun_01",
+            "descTextMapHash": "Lucy_Property_Special_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Lucy_Property_Special_Desc_Stun_02",
+            "descTextMapHash": "Lucy_Property_Special_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_ExSpecial_Title",
+            "descTextMapHash": "Lucy_Skill_ExSpecial_Title"
+        },
+        {
+            "nameTextMapHash": "Lucy_Property_Special_Desc_Dmg_01",
+            "descTextMapHash": "Lucy_Property_Special_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Lucy_Property_Special_Desc_Dmg_02",
+            "descTextMapHash": "Lucy_Property_Special_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Lucy_Property_Special_Desc_Stun_01",
+            "descTextMapHash": "Lucy_Property_Special_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Lucy_Property_Special_Desc_Stun_02",
+            "descTextMapHash": "Lucy_Property_Special_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_Rush_Title",
+            "descTextMapHash": "Lucy_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_Counter_Title",
+            "descTextMapHash": "Lucy_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_QTE_Title",
+            "descTextMapHash": "Lucy_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_ExQTE_Title",
+            "descTextMapHash": "Lucy_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_BeHitAid_Title",
+            "descTextMapHash": "Lucy_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_ParryAid_Title",
+            "descTextMapHash": "Lucy_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Lucy_Skill_AssaultAid_Title",
+            "descTextMapHash": "Lucy_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "Lucy_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "Lucy_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "Lucy_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "Lucy_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "Lucy_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "Lucy_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

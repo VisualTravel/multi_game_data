@@ -1,0 +1,40 @@
+{
+    "id": 10000063,
+    "skillDepotId": 6301,
+    "combatSkills": [
+        {
+            "skillId": 10631,
+            "nameTextMapHash": 2933046501,
+            "descTextMapHash": 3127230504,
+            "icon": "Skill_A_03",
+            "proudSkillGroupId": 6331
+        },
+        {
+            "skillId": 10632,
+            "nameTextMapHash": 3028595085,
+            "descTextMapHash": 917615616,
+            "icon": "Skill_S_Shenhe_01",
+            "proudSkillGroupId": 6332
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3816902837,
+            "descTextMapHash": 1196405195,
+            "icon": "UI_Talent_S_Shenhe_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3169168565,
+            "descTextMapHash": 2828541003,
+            "icon": "UI_Talent_S_Shenhe_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1867530725,
+            "descTextMapHash": 3605695923,
+            "icon": "UI_Talent_Expedition_Liyue",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

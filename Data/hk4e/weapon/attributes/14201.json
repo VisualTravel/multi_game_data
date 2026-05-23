@@ -1,0 +1,100 @@
+{
+    "id": 14201,
+    "nameTextMapHash": 2705029563,
+    "descTextMapHash": 728246637,
+    "rarity": 2,
+    "weaponType": "WEAPON_CATALYST",
+    "icon": "UI_EquipIcon_Catalyst_Pocket",
+    "baseStats": {
+        "attackBase": 32.93
+    },
+    "refinements": {
+        "affixId": 0,
+        "nameTextMapHash": null,
+        "levels": []
+    },
+    "promotions": [
+        {
+            "level": 0,
+            "maxLevel": 20,
+            "addAttack": 0,
+            "costItems": []
+        },
+        {
+            "level": 1,
+            "maxLevel": 40,
+            "addAttack": 11.7,
+            "costItems": [
+                {
+                    "id": 114001,
+                    "count": 1
+                },
+                {
+                    "id": 112014,
+                    "count": 1
+                },
+                {
+                    "id": 112005,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "level": 2,
+            "maxLevel": 50,
+            "addAttack": 23.3,
+            "costItems": [
+                {
+                    "id": 114002,
+                    "count": 1
+                },
+                {
+                    "id": 112014,
+                    "count": 5
+                },
+                {
+                    "id": 112005,
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "level": 3,
+            "maxLevel": 60,
+            "addAttack": 35,
+            "costItems": [
+                {
+                    "id": 114002,
+                    "count": 3
+                },
+                {
+                    "id": 112015,
+                    "count": 3
+                },
+                {
+                    "id": 112006,
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "level": 4,
+            "maxLevel": 70,
+            "addAttack": 46.7,
+            "costItems": [
+                {
+                    "id": 114003,
+                    "count": 1
+                },
+                {
+                    "id": 112015,
+                    "count": 5
+                },
+                {
+                    "id": 112006,
+                    "count": 4
+                }
+            ]
+        }
+    ]
+}

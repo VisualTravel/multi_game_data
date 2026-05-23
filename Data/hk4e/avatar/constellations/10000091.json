@@ -1,0 +1,54 @@
+{
+    "id": 10000091,
+    "skillDepotId": 9101,
+    "constellations": [
+        {
+            "talentId": 911,
+            "index": 1,
+            "nameTextMapHash": 3689024969,
+            "descTextMapHash": 1833390591,
+            "icon": "UI_Talent_S_Navia_01",
+            "openConfig": "Navia_Constellation_1"
+        },
+        {
+            "talentId": 912,
+            "index": 2,
+            "nameTextMapHash": 4246728761,
+            "descTextMapHash": 3824009415,
+            "icon": "UI_Talent_S_Navia_02",
+            "openConfig": "Navia_Constellation_2"
+        },
+        {
+            "talentId": 913,
+            "index": 3,
+            "nameTextMapHash": 4008218041,
+            "descTextMapHash": 3410355711,
+            "icon": "UI_Talent_U_Navia_01",
+            "openConfig": "Navia_Constellation_3"
+        },
+        {
+            "talentId": 914,
+            "index": 4,
+            "nameTextMapHash": 3461444785,
+            "descTextMapHash": 601633271,
+            "icon": "UI_Talent_S_Navia_03",
+            "openConfig": "Navia_Constellation_4"
+        },
+        {
+            "talentId": 915,
+            "index": 5,
+            "nameTextMapHash": 3983243649,
+            "descTextMapHash": 2676784639,
+            "icon": "UI_Talent_U_Navia_02",
+            "openConfig": "Navia_Constellation_5"
+        },
+        {
+            "talentId": 916,
+            "index": 6,
+            "nameTextMapHash": 4110232641,
+            "descTextMapHash": 2381304071,
+            "icon": "UI_Talent_S_Navia_04",
+            "openConfig": "Navia_Constellation_6"
+        }
+    ]
+}

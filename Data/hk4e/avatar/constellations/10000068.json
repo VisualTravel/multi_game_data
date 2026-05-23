@@ -1,0 +1,54 @@
+{
+    "id": 10000068,
+    "skillDepotId": 6801,
+    "constellations": [
+        {
+            "talentId": 681,
+            "index": 1,
+            "nameTextMapHash": 1156598073,
+            "descTextMapHash": 2364339263,
+            "icon": "UI_Talent_S_Dori_01",
+            "openConfig": "Dori_Constellation_1"
+        },
+        {
+            "talentId": 682,
+            "index": 2,
+            "nameTextMapHash": 3136137417,
+            "descTextMapHash": 683721919,
+            "icon": "UI_Talent_S_Dori_02",
+            "openConfig": "Dori_Constellation_2"
+        },
+        {
+            "talentId": 683,
+            "index": 3,
+            "nameTextMapHash": 4285795529,
+            "descTextMapHash": 2003425623,
+            "icon": "UI_Talent_U_Dori_02",
+            "openConfig": "Dori_Constellation_3"
+        },
+        {
+            "talentId": 684,
+            "index": 4,
+            "nameTextMapHash": 3498424705,
+            "descTextMapHash": 895972615,
+            "icon": "UI_Talent_S_Dori_03",
+            "openConfig": "Dori_Constellation_4"
+        },
+        {
+            "talentId": 685,
+            "index": 5,
+            "nameTextMapHash": 3715109969,
+            "descTextMapHash": 3465488663,
+            "icon": "UI_Talent_U_Dori_01",
+            "openConfig": "Dori_Constellation_5"
+        },
+        {
+            "talentId": 686,
+            "index": 6,
+            "nameTextMapHash": 1782869129,
+            "descTextMapHash": 1392847887,
+            "icon": "UI_Talent_S_Dori_04",
+            "openConfig": "Dori_Constellation_6"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 10000003,
+    "skillDepotId": 301,
+    "constellations": [
+        {
+            "talentId": 31,
+            "index": 1,
+            "nameTextMapHash": 2935753129,
+            "descTextMapHash": 988897431,
+            "icon": "UI_Talent_S_Qin_01",
+            "openConfig": "Qin_Talent_1"
+        },
+        {
+            "talentId": 32,
+            "index": 2,
+            "nameTextMapHash": 573725161,
+            "descTextMapHash": 544289807,
+            "icon": "UI_Talent_S_Qin_02",
+            "openConfig": "Qin_Talent_2"
+        },
+        {
+            "talentId": 33,
+            "index": 3,
+            "nameTextMapHash": 997607873,
+            "descTextMapHash": 3837932671,
+            "icon": "UI_Talent_U_Qin_02",
+            "openConfig": "Qin_Talent_3"
+        },
+        {
+            "talentId": 34,
+            "index": 4,
+            "nameTextMapHash": 2887613457,
+            "descTextMapHash": 2911210911,
+            "icon": "UI_Talent_S_Qin_03",
+            "openConfig": "Qin_Talent_4"
+        },
+        {
+            "talentId": 35,
+            "index": 5,
+            "nameTextMapHash": 2712156273,
+            "descTextMapHash": 3588132927,
+            "icon": "UI_Talent_U_Qin_01",
+            "openConfig": "Qin_Talent_5"
+        },
+        {
+            "talentId": 36,
+            "index": 6,
+            "nameTextMapHash": 3167949041,
+            "descTextMapHash": 4148193751,
+            "icon": "UI_Talent_S_Qin_04",
+            "openConfig": "Qin_Talent_6"
+        }
+    ]
+}

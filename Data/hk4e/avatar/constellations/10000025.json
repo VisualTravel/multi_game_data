@@ -1,0 +1,54 @@
+{
+    "id": 10000025,
+    "skillDepotId": 2501,
+    "constellations": [
+        {
+            "talentId": 251,
+            "index": 1,
+            "nameTextMapHash": 792197377,
+            "descTextMapHash": 3521725647,
+            "icon": "UI_Talent_S_Xingqiu_01",
+            "openConfig": "Xingqiu_Constellation_1"
+        },
+        {
+            "talentId": 252,
+            "index": 2,
+            "nameTextMapHash": 4158193737,
+            "descTextMapHash": 1801327791,
+            "icon": "UI_Talent_S_Xingqiu_02",
+            "openConfig": "Xingqiu_Constellation_2"
+        },
+        {
+            "talentId": 253,
+            "index": 3,
+            "nameTextMapHash": 3515928625,
+            "descTextMapHash": 2322919439,
+            "icon": "UI_Talent_U_Xingqiu_01",
+            "openConfig": "Xingqiu_Constellation_3"
+        },
+        {
+            "talentId": 254,
+            "index": 4,
+            "nameTextMapHash": 3998346513,
+            "descTextMapHash": 2523868223,
+            "icon": "UI_Talent_S_Xingqiu_03",
+            "openConfig": "Xingqiu_Constellation_4"
+        },
+        {
+            "talentId": 255,
+            "index": 5,
+            "nameTextMapHash": 2024006745,
+            "descTextMapHash": 3421075471,
+            "icon": "UI_Talent_U_Xingqiu_02",
+            "openConfig": "Xingqiu_Constellation_5"
+        },
+        {
+            "talentId": 256,
+            "index": 6,
+            "nameTextMapHash": 4055521313,
+            "descTextMapHash": 2227218487,
+            "icon": "UI_Talent_S_Xingqiu_04",
+            "openConfig": "Xingqiu_Constellation_6"
+        }
+    ]
+}

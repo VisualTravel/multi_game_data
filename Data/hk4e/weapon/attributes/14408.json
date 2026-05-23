@@ -1,0 +1,186 @@
+{
+    "id": 14408,
+    "nameTextMapHash": 3273998499,
+    "descTextMapHash": 3555971517,
+    "rarity": 4,
+    "weaponType": "WEAPON_CATALYST",
+    "icon": "UI_EquipIcon_Catalyst_Blackrock",
+    "baseStats": {
+        "attackBase": 42.401,
+        "subStatType": "FIGHT_PROP_CRITICAL_HURT",
+        "subStatInitValue": 0.12
+    },
+    "refinements": {
+        "affixId": 114408,
+        "nameTextMapHash": 1776215435,
+        "levels": [
+            {
+                "refinement": 1,
+                "nameTextMapHash": 1776215435,
+                "descTextMapHash": 215534985,
+                "params": [
+                    0.12,
+                    30
+                ]
+            },
+            {
+                "refinement": 2,
+                "nameTextMapHash": 3334631483,
+                "descTextMapHash": 816725145,
+                "params": [
+                    0.15,
+                    30
+                ]
+            },
+            {
+                "refinement": 3,
+                "nameTextMapHash": 2506617899,
+                "descTextMapHash": 3681941513,
+                "params": [
+                    0.18,
+                    30
+                ]
+            },
+            {
+                "refinement": 4,
+                "nameTextMapHash": 4138638587,
+                "descTextMapHash": 906061145,
+                "params": [
+                    0.21,
+                    30
+                ]
+            },
+            {
+                "refinement": 5,
+                "nameTextMapHash": 339931171,
+                "descTextMapHash": 436195369,
+                "params": [
+                    0.24,
+                    30
+                ]
+            }
+        ]
+    },
+    "promotions": [
+        {
+            "level": 0,
+            "maxLevel": 20,
+            "addAttack": 0,
+            "costItems": []
+        },
+        {
+            "level": 1,
+            "maxLevel": 40,
+            "addAttack": 25.9,
+            "costItems": [
+                {
+                    "id": 114013,
+                    "count": 3
+                },
+                {
+                    "id": 112029,
+                    "count": 3
+                },
+                {
+                    "id": 112008,
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "level": 2,
+            "maxLevel": 50,
+            "addAttack": 51.9,
+            "costItems": [
+                {
+                    "id": 114014,
+                    "count": 3
+                },
+                {
+                    "id": 112029,
+                    "count": 12
+                },
+                {
+                    "id": 112008,
+                    "count": 8
+                }
+            ]
+        },
+        {
+            "level": 3,
+            "maxLevel": 60,
+            "addAttack": 77.8,
+            "costItems": [
+                {
+                    "id": 114014,
+                    "count": 6
+                },
+                {
+                    "id": 112030,
+                    "count": 6
+                },
+                {
+                    "id": 112009,
+                    "count": 6
+                }
+            ]
+        },
+        {
+            "level": 4,
+            "maxLevel": 70,
+            "addAttack": 103.7,
+            "costItems": [
+                {
+                    "id": 114015,
+                    "count": 3
+                },
+                {
+                    "id": 112030,
+                    "count": 12
+                },
+                {
+                    "id": 112009,
+                    "count": 9
+                }
+            ]
+        },
+        {
+            "level": 5,
+            "maxLevel": 80,
+            "addAttack": 129.7,
+            "costItems": [
+                {
+                    "id": 114015,
+                    "count": 6
+                },
+                {
+                    "id": 112031,
+                    "count": 9
+                },
+                {
+                    "id": 112010,
+                    "count": 6
+                }
+            ]
+        },
+        {
+            "level": 6,
+            "maxLevel": 90,
+            "addAttack": 155.6,
+            "costItems": [
+                {
+                    "id": 114016,
+                    "count": 4
+                },
+                {
+                    "id": 112031,
+                    "count": 18
+                },
+                {
+                    "id": 112010,
+                    "count": 12
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 10000087,
+    "skillDepotId": 8701,
+    "constellations": [
+        {
+            "talentId": 871,
+            "index": 1,
+            "nameTextMapHash": 3840365857,
+            "descTextMapHash": 1228355591,
+            "icon": "UI_Talent_S_Neuvillette_01",
+            "openConfig": "Neuvillette_Constellation_1"
+        },
+        {
+            "talentId": 872,
+            "index": 2,
+            "nameTextMapHash": 2437610633,
+            "descTextMapHash": 3291076927,
+            "icon": "UI_Talent_S_Neuvillette_02",
+            "openConfig": "Neuvillette_Constellation_2"
+        },
+        {
+            "talentId": 873,
+            "index": 3,
+            "nameTextMapHash": 2720290017,
+            "descTextMapHash": 2622238207,
+            "icon": "UI_Talent_U_Neuvillette_01",
+            "openConfig": "Neuvillette_Constellation_3"
+        },
+        {
+            "talentId": 874,
+            "index": 4,
+            "nameTextMapHash": 1561601289,
+            "descTextMapHash": 3253387287,
+            "icon": "UI_Talent_S_Neuvillette_03",
+            "openConfig": "Neuvillette_Constellation_4"
+        },
+        {
+            "talentId": 875,
+            "index": 5,
+            "nameTextMapHash": 4222513497,
+            "descTextMapHash": 3167902759,
+            "icon": "UI_Talent_U_Neuvillette_02",
+            "openConfig": "Neuvillette_Constellation_5"
+        },
+        {
+            "talentId": 876,
+            "index": 6,
+            "nameTextMapHash": 1739750817,
+            "descTextMapHash": 2954032279,
+            "icon": "UI_Talent_S_Neuvillette_04",
+            "openConfig": "Neuvillette_Constellation_6"
+        }
+    ]
+}

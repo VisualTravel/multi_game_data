@@ -1,0 +1,40 @@
+{
+    "id": 10000034,
+    "skillDepotId": 3401,
+    "combatSkills": [
+        {
+            "skillId": 10341,
+            "nameTextMapHash": 1521715701,
+            "descTextMapHash": 3131530592,
+            "icon": "Skill_A_04",
+            "proudSkillGroupId": 3431
+        },
+        {
+            "skillId": 10342,
+            "nameTextMapHash": 737506389,
+            "descTextMapHash": 204798264,
+            "icon": "Skill_S_Noel_01",
+            "proudSkillGroupId": 3432
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 4119686205,
+            "descTextMapHash": 59436107,
+            "icon": "UI_Talent_S_Noel_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 10500405,
+            "descTextMapHash": 3560753459,
+            "icon": "UI_Talent_S_Noel_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1771533717,
+            "descTextMapHash": 4099574835,
+            "icon": "UI_Talent_Cook_Defense",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

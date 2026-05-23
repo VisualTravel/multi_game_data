@@ -1,0 +1,46 @@
+{
+    "id": 10000125,
+    "skillDepotId": 12501,
+    "combatSkills": [
+        {
+            "skillId": 11251,
+            "nameTextMapHash": 1120751629,
+            "descTextMapHash": 507349304,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 12531
+        },
+        {
+            "skillId": 11252,
+            "nameTextMapHash": 554770709,
+            "descTextMapHash": 1148827816,
+            "icon": "Skill_S_Columbina_01",
+            "proudSkillGroupId": 12532
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 715767965,
+            "descTextMapHash": 1335899171,
+            "icon": "UI_Talent_S_Columbina_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1160006133,
+            "descTextMapHash": 819659971,
+            "icon": "UI_Talent_S_Columbina_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1735367085,
+            "descTextMapHash": 79900803,
+            "icon": "UI_Talent_S_Columbina_07",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 2560118909,
+            "descTextMapHash": 2236746187,
+            "icon": "UI_Talent_S_Columbina_08",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

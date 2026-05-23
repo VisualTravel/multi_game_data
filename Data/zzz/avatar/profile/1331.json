@@ -1,0 +1,21 @@
+{
+    "id": 1331,
+    "nameTextMapHash": "Avatar_Female_Size02_Vivian",
+    "skins": [
+        {
+            "nameTextMapHash": null,
+            "descTextMapHash": null
+        },
+        {
+            "nameTextMapHash": null,
+            "descTextMapHash": null
+        }
+    ],
+    "descTextMapHash": "Partner_ProfileDesc_1331",
+    "impressionTextMapHash": "Partner_Impression_f_1331",
+    "gender": "Partner_Gender_02",
+    "stature": "Partner_Stature_1331",
+    "birthday": "Partner_Birthday_1331",
+    "campBg": "PartnerBg_CampMockingBirdOfGallery",
+    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+}

@@ -1,0 +1,40 @@
+{
+    "id": 10000056,
+    "skillDepotId": 5601,
+    "combatSkills": [
+        {
+            "skillId": 10561,
+            "nameTextMapHash": 1547761861,
+            "descTextMapHash": 4139104344,
+            "icon": "Skill_A_02",
+            "proudSkillGroupId": 5631
+        },
+        {
+            "skillId": 10562,
+            "nameTextMapHash": 2752567757,
+            "descTextMapHash": 4167203120,
+            "icon": "Skill_S_Sara_01",
+            "proudSkillGroupId": 5632
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3514400965,
+            "descTextMapHash": 701827235,
+            "icon": "UI_Talent_S_Sara_01",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 2365582789,
+            "descTextMapHash": 138769459,
+            "icon": "UI_Talent_S_Sara_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3504701645,
+            "descTextMapHash": 3436263651,
+            "icon": "UI_Talent_S_Sara_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

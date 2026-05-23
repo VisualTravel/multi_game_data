@@ -1,0 +1,54 @@
+{
+    "id": 10000062,
+    "skillDepotId": 6201,
+    "constellations": [
+        {
+            "talentId": 621,
+            "index": 1,
+            "nameTextMapHash": 1426348289,
+            "descTextMapHash": 4200725767,
+            "icon": "UI_Talent_S_Aloy_Lock",
+            "openConfig": ""
+        },
+        {
+            "talentId": 622,
+            "index": 2,
+            "nameTextMapHash": 3468410889,
+            "descTextMapHash": 1371842791,
+            "icon": "UI_Talent_S_Aloy_Lock",
+            "openConfig": ""
+        },
+        {
+            "talentId": 623,
+            "index": 3,
+            "nameTextMapHash": 2621661209,
+            "descTextMapHash": 873529775,
+            "icon": "UI_Talent_S_Aloy_Lock",
+            "openConfig": ""
+        },
+        {
+            "talentId": 624,
+            "index": 4,
+            "nameTextMapHash": 890048705,
+            "descTextMapHash": 2073552343,
+            "icon": "UI_Talent_S_Aloy_Lock",
+            "openConfig": ""
+        },
+        {
+            "talentId": 625,
+            "index": 5,
+            "nameTextMapHash": 2013072401,
+            "descTextMapHash": 554590543,
+            "icon": "UI_Talent_S_Aloy_Lock",
+            "openConfig": ""
+        },
+        {
+            "talentId": 626,
+            "index": 6,
+            "nameTextMapHash": 3578738697,
+            "descTextMapHash": 1335613687,
+            "icon": "UI_Talent_S_Aloy_Lock",
+            "openConfig": ""
+        }
+    ]
+}

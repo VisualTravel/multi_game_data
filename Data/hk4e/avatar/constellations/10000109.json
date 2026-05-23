@@ -1,0 +1,54 @@
+{
+    "id": 10000109,
+    "skillDepotId": 10901,
+    "constellations": [
+        {
+            "talentId": 1091,
+            "index": 1,
+            "nameTextMapHash": 3847762265,
+            "descTextMapHash": 2705949167,
+            "icon": "UI_Talent_S_Mizuki_01",
+            "openConfig": "Mizuki_Constellation_1"
+        },
+        {
+            "talentId": 1092,
+            "index": 2,
+            "nameTextMapHash": 2812066201,
+            "descTextMapHash": 1191332103,
+            "icon": "UI_Talent_S_Mizuki_02",
+            "openConfig": "Mizuki_Constellation_2"
+        },
+        {
+            "talentId": 1093,
+            "index": 3,
+            "nameTextMapHash": 3158764849,
+            "descTextMapHash": 2223946231,
+            "icon": "UI_Talent_U_Mizuki_01",
+            "openConfig": "Mizuki_Constellation_3"
+        },
+        {
+            "talentId": 1094,
+            "index": 4,
+            "nameTextMapHash": 646613001,
+            "descTextMapHash": 2226877479,
+            "icon": "UI_Talent_S_Mizuki_03",
+            "openConfig": "Mizuki_Constellation_4"
+        },
+        {
+            "talentId": 1095,
+            "index": 5,
+            "nameTextMapHash": 270820705,
+            "descTextMapHash": 1703647479,
+            "icon": "UI_Talent_U_Mizuki_02",
+            "openConfig": "Mizuki_Constellation_5"
+        },
+        {
+            "talentId": 1096,
+            "index": 6,
+            "nameTextMapHash": 2997427569,
+            "descTextMapHash": 912464343,
+            "icon": "UI_Talent_S_Mizuki_04",
+            "openConfig": "Mizuki_Constellation_6"
+        }
+    ]
+}

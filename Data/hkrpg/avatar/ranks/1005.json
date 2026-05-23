@@ -1,0 +1,90 @@
+{
+    "id": 1005,
+    "ranks": [
+        {
+            "rankId": 100501,
+            "index": 1,
+            "nameTextMapHash": "AvatarRankName_100501",
+            "descTextMapHash": "AvatarRankDesc_100501",
+            "icon": "SkillIcon_1005_Rank1.png",
+            "params": [
+                {
+                    "Value": 1
+                },
+                {
+                    "Value": 0.3
+                },
+                {
+                    "Value": 2
+                }
+            ],
+            "skillAddLevelList": {}
+        },
+        {
+            "rankId": 100502,
+            "index": 2,
+            "nameTextMapHash": "AvatarRankName_100502",
+            "descTextMapHash": "AvatarRankDesc_100502",
+            "icon": "SkillIcon_1005_Rank2.png",
+            "params": [
+                {
+                    "Value": 0.25
+                }
+            ],
+            "skillAddLevelList": {}
+        },
+        {
+            "rankId": 100503,
+            "index": 3,
+            "nameTextMapHash": "AvatarRankName_100503",
+            "descTextMapHash": "AvatarRankDesc_100503",
+            "icon": "SkillIcon_1005_BP.png",
+            "params": [],
+            "skillAddLevelList": {
+                "100502": 2,
+                "100501": 1
+            }
+        },
+        {
+            "rankId": 100504,
+            "index": 4,
+            "nameTextMapHash": "AvatarRankName_100504",
+            "descTextMapHash": "AvatarRankDesc_100504",
+            "icon": "SkillIcon_1005_Rank4.png",
+            "params": [
+                {
+                    "Value": 2
+                }
+            ],
+            "skillAddLevelList": {}
+        },
+        {
+            "rankId": 100505,
+            "index": 5,
+            "nameTextMapHash": "AvatarRankName_100505",
+            "descTextMapHash": "AvatarRankDesc_100505",
+            "icon": "SkillIcon_1005_Ultra.png",
+            "params": [],
+            "skillAddLevelList": {
+                "100503": 2,
+                "100504": 2
+            }
+        },
+        {
+            "rankId": 100506,
+            "index": 6,
+            "nameTextMapHash": "AvatarRankName_100506",
+            "descTextMapHash": "AvatarRankDesc_100506",
+            "icon": "SkillIcon_1005_Rank6.png",
+            "params": [
+                {
+                    "Value": 1.56
+                },
+                {
+                    "Value": 1
+                }
+            ],
+            "skillAddLevelList": {}
+        }
+    ]
+}

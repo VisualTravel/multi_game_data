@@ -1,0 +1,40 @@
+{
+    "id": 10000066,
+    "skillDepotId": 6601,
+    "combatSkills": [
+        {
+            "skillId": 10661,
+            "nameTextMapHash": 3116393605,
+            "descTextMapHash": 3145153016,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 6631
+        },
+        {
+            "skillId": 10662,
+            "nameTextMapHash": 856237173,
+            "descTextMapHash": 64942160,
+            "icon": "Skill_S_Ayato_01",
+            "proudSkillGroupId": 6632
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3736274413,
+            "descTextMapHash": 2546406659,
+            "icon": "UI_Talent_S_Ayato_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 8289349,
+            "descTextMapHash": 1701064155,
+            "icon": "UI_Talent_S_Ayato_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1590740317,
+            "descTextMapHash": 720429075,
+            "icon": "UI_Talent_S_Ayato_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

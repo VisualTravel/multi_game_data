@@ -1,0 +1,111 @@
+{
+    "id": 1051,
+    "nameTextMapHash": "Avatar_Female_Size03_Yidhari",
+    "profession": 11,
+    "tags": [
+        "Yidhari",
+        "Punch",
+        "Ice",
+        "Female",
+        "Camp11",
+        "Size3",
+        "AidTypeParry",
+        "Yidhari",
+        "EtherEyesSize3"
+    ],
+    "promotions": [
+        {
+            "level": 1,
+            "maxLevel": 10,
+            "addHp": 0,
+            "addAttack": 0,
+            "addDefense": 0,
+            "costMaterials": [
+                {
+                    "id": "10",
+                    "count": 24000
+                },
+                {
+                    "id": "100216",
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "level": 2,
+            "maxLevel": 20,
+            "addHp": 0,
+            "addAttack": 0,
+            "addDefense": 0,
+            "costMaterials": [
+                {
+                    "id": "10",
+                    "count": 56000
+                },
+                {
+                    "id": "100226",
+                    "count": 12
+                }
+            ]
+        },
+        {
+            "level": 3,
+            "maxLevel": 30,
+            "addHp": 0,
+            "addAttack": 0,
+            "addDefense": 0,
+            "costMaterials": [
+                {
+                    "id": "10",
+                    "count": 120000
+                },
+                {
+                    "id": "100226",
+                    "count": 20
+                }
+            ]
+        },
+        {
+            "level": 4,
+            "maxLevel": 40,
+            "addHp": 0,
+            "addAttack": 0,
+            "addDefense": 0,
+            "costMaterials": [
+                {
+                    "id": "10",
+                    "count": 200000
+                },
+                {
+                    "id": "100236",
+                    "count": 10
+                }
+            ]
+        },
+        {
+            "level": 5,
+            "maxLevel": 50,
+            "addHp": 0,
+            "addAttack": 0,
+            "addDefense": 0,
+            "costMaterials": [
+                {
+                    "id": "10",
+                    "count": 400000
+                },
+                {
+                    "id": "100236",
+                    "count": 20
+                }
+            ]
+        },
+        {
+            "level": 6,
+            "maxLevel": 60,
+            "addHp": 0,
+            "addAttack": 0,
+            "addDefense": 0,
+            "costMaterials": []
+        }
+    ]
+}

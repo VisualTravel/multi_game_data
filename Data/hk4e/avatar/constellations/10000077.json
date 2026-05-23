@@ -1,0 +1,54 @@
+{
+    "id": 10000077,
+    "skillDepotId": 7701,
+    "constellations": [
+        {
+            "talentId": 771,
+            "index": 1,
+            "nameTextMapHash": 2088048657,
+            "descTextMapHash": 2207252855,
+            "icon": "UI_Talent_S_Yaoyao_01",
+            "openConfig": "Yaoyao_Constellation_1"
+        },
+        {
+            "talentId": 772,
+            "index": 2,
+            "nameTextMapHash": 1185801489,
+            "descTextMapHash": 2615148679,
+            "icon": "UI_Talent_S_Yaoyao_02",
+            "openConfig": "Yaoyao_Constellation_2"
+        },
+        {
+            "talentId": 773,
+            "index": 3,
+            "nameTextMapHash": 1513031025,
+            "descTextMapHash": 2456299903,
+            "icon": "UI_Talent_U_Yaoyao_01",
+            "openConfig": "Yaoyao_Constellation_3"
+        },
+        {
+            "talentId": 774,
+            "index": 4,
+            "nameTextMapHash": 2674638049,
+            "descTextMapHash": 2648079719,
+            "icon": "UI_Talent_S_Yaoyao_03",
+            "openConfig": "Yaoyao_Constellation_4"
+        },
+        {
+            "talentId": 775,
+            "index": 5,
+            "nameTextMapHash": 738869289,
+            "descTextMapHash": 3407005751,
+            "icon": "UI_Talent_U_Yaoyao_02",
+            "openConfig": "Yaoyao_Constellation_5"
+        },
+        {
+            "talentId": 776,
+            "index": 6,
+            "nameTextMapHash": 4046679241,
+            "descTextMapHash": 3305258375,
+            "icon": "UI_Talent_S_Yaoyao_04",
+            "openConfig": "Yaoyao_Constellation_6"
+        }
+    ]
+}

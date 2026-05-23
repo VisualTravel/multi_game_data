@@ -1,0 +1,54 @@
+{
+    "id": 10000110,
+    "skillDepotId": 11001,
+    "constellations": [
+        {
+            "talentId": 1101,
+            "index": 1,
+            "nameTextMapHash": 2256667785,
+            "descTextMapHash": 596846975,
+            "icon": "UI_Talent_S_Iansan_01",
+            "openConfig": "Iansan_Constellation_1"
+        },
+        {
+            "talentId": 1102,
+            "index": 2,
+            "nameTextMapHash": 587053417,
+            "descTextMapHash": 1439132935,
+            "icon": "UI_Talent_S_Iansan_02",
+            "openConfig": "Iansan_Constellation_2"
+        },
+        {
+            "talentId": 1103,
+            "index": 3,
+            "nameTextMapHash": 1214735625,
+            "descTextMapHash": 2748682335,
+            "icon": "UI_Talent_U_Iansan_01",
+            "openConfig": "Iansan_Constellation_3"
+        },
+        {
+            "talentId": 1104,
+            "index": 4,
+            "nameTextMapHash": 432086121,
+            "descTextMapHash": 3198633007,
+            "icon": "UI_Talent_S_Iansan_03",
+            "openConfig": "Iansan_Constellation_4"
+        },
+        {
+            "talentId": 1105,
+            "index": 5,
+            "nameTextMapHash": 2367612353,
+            "descTextMapHash": 1319527479,
+            "icon": "UI_Talent_U_Iansan_02",
+            "openConfig": "Iansan_Constellation_5"
+        },
+        {
+            "talentId": 1106,
+            "index": 6,
+            "nameTextMapHash": 916377025,
+            "descTextMapHash": 1133708623,
+            "icon": "UI_Talent_S_Iansan_04",
+            "openConfig": "Iansan_Constellation_6"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 10000108,
+    "skillDepotId": 10801,
+    "constellations": [
+        {
+            "talentId": 1081,
+            "index": 1,
+            "nameTextMapHash": 2166860801,
+            "descTextMapHash": 3034687695,
+            "icon": "UI_Talent_S_Lanyan_01",
+            "openConfig": "Lanyan_Constellation_1"
+        },
+        {
+            "talentId": 1082,
+            "index": 2,
+            "nameTextMapHash": 1027794081,
+            "descTextMapHash": 2425095679,
+            "icon": "UI_Talent_S_Lanyan_02",
+            "openConfig": "Lanyan_Constellation_2"
+        },
+        {
+            "talentId": 1083,
+            "index": 3,
+            "nameTextMapHash": 1378401545,
+            "descTextMapHash": 732168543,
+            "icon": "UI_Talent_U_Lanyan_01",
+            "openConfig": "Lanyan_Constellation_3"
+        },
+        {
+            "talentId": 1084,
+            "index": 4,
+            "nameTextMapHash": 1800743393,
+            "descTextMapHash": 2154168583,
+            "icon": "UI_Talent_S_Lanyan_03",
+            "openConfig": "Lanyan_Constellation_4"
+        },
+        {
+            "talentId": 1085,
+            "index": 5,
+            "nameTextMapHash": 1247967361,
+            "descTextMapHash": 3118573823,
+            "icon": "UI_Talent_U_Lanyan_02",
+            "openConfig": "Lanyan_Constellation_5"
+        },
+        {
+            "talentId": 1086,
+            "index": 6,
+            "nameTextMapHash": 759718953,
+            "descTextMapHash": 3205410151,
+            "icon": "UI_Talent_S_Lanyan_04",
+            "openConfig": "Lanyan_Constellation_6"
+        }
+    ]
+}

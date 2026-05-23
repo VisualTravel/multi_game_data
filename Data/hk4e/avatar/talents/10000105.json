@@ -1,0 +1,53 @@
+{
+    "id": 10000105,
+    "skillDepotId": 10501,
+    "combatSkills": [
+        {
+            "skillId": 30501,
+            "nameTextMapHash": 818975229,
+            "descTextMapHash": 1504757048,
+            "icon": "Skill_A_02",
+            "proudSkillGroupId": 10531
+        },
+        {
+            "skillId": 30502,
+            "nameTextMapHash": 4286405869,
+            "descTextMapHash": 2359790872,
+            "icon": "Skill_S_Olorun_01",
+            "proudSkillGroupId": 10532
+        },
+        {
+            "skillId": 30506,
+            "nameTextMapHash": 2526862789,
+            "descTextMapHash": 375537072,
+            "icon": "Skill_E_Olorun_03",
+            "proudSkillGroupId": 0
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3933974557,
+            "descTextMapHash": 3154941059,
+            "icon": "UI_Talent_S_Olorun_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3071741189,
+            "descTextMapHash": 1895922827,
+            "icon": "UI_Talent_S_Olorun_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1345864189,
+            "descTextMapHash": 943536539,
+            "icon": "UI_Talent_S_Olorun_07",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 1531755757,
+            "descTextMapHash": 2015853571,
+            "icon": "UI_Talent_S_Olorun_08",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

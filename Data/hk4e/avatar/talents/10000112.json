@@ -1,0 +1,40 @@
+{
+    "id": 10000112,
+    "skillDepotId": 11201,
+    "combatSkills": [
+        {
+            "skillId": 11121,
+            "nameTextMapHash": 3071263197,
+            "descTextMapHash": 4237086760,
+            "icon": "Skill_A_03",
+            "proudSkillGroupId": 11231
+        },
+        {
+            "skillId": 11122,
+            "nameTextMapHash": 178961429,
+            "descTextMapHash": 4061087840,
+            "icon": "Skill_S_Escoffier_01",
+            "proudSkillGroupId": 11232
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 108134493,
+            "descTextMapHash": 874671459,
+            "icon": "UI_Talent_S_Escoffier_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1542818277,
+            "descTextMapHash": 3849050139,
+            "icon": "UI_Talent_S_Escoffier_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 2816291061,
+            "descTextMapHash": 2012664851,
+            "icon": "UI_Talent_S_Escoffier_08",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

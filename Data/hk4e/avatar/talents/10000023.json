@@ -1,0 +1,40 @@
+{
+    "id": 10000023,
+    "skillDepotId": 2301,
+    "combatSkills": [
+        {
+            "skillId": 10231,
+            "nameTextMapHash": 2921788821,
+            "descTextMapHash": 2304447960,
+            "icon": "Skill_A_03",
+            "proudSkillGroupId": 2331
+        },
+        {
+            "skillId": 10232,
+            "nameTextMapHash": 1925269741,
+            "descTextMapHash": 3652072736,
+            "icon": "Skill_S_Xiangling_01",
+            "proudSkillGroupId": 2332
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 338716141,
+            "descTextMapHash": 3659479387,
+            "icon": "UI_Talent_S_Xiangling_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3631919501,
+            "descTextMapHash": 4053428323,
+            "icon": "UI_Talent_S_Xiangling_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 4101042637,
+            "descTextMapHash": 3985819811,
+            "icon": "UI_Talent_Cook_Attack",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

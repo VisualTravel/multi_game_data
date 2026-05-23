@@ -1,0 +1,54 @@
+{
+    "id": 10000066,
+    "skillDepotId": 6601,
+    "constellations": [
+        {
+            "talentId": 661,
+            "index": 1,
+            "nameTextMapHash": 2715418057,
+            "descTextMapHash": 501879071,
+            "icon": "UI_Talent_S_Ayato_01",
+            "openConfig": "Ayato_Constellation_1"
+        },
+        {
+            "talentId": 662,
+            "index": 2,
+            "nameTextMapHash": 4259062785,
+            "descTextMapHash": 3191408815,
+            "icon": "UI_Talent_S_Ayato_02",
+            "openConfig": "Ayato_Constellation_2"
+        },
+        {
+            "talentId": 663,
+            "index": 3,
+            "nameTextMapHash": 2402833417,
+            "descTextMapHash": 893583671,
+            "icon": "UI_Talent_U_Ayato_02",
+            "openConfig": "Ayato_Constellation_3"
+        },
+        {
+            "talentId": 664,
+            "index": 4,
+            "nameTextMapHash": 517643625,
+            "descTextMapHash": 1916994927,
+            "icon": "UI_Talent_S_Ayato_03",
+            "openConfig": "Ayato_Constellation_4"
+        },
+        {
+            "talentId": 665,
+            "index": 5,
+            "nameTextMapHash": 993707169,
+            "descTextMapHash": 2541321663,
+            "icon": "UI_Talent_U_Ayato_01",
+            "openConfig": "Ayato_Constellation_5"
+        },
+        {
+            "talentId": 666,
+            "index": 6,
+            "nameTextMapHash": 1168375913,
+            "descTextMapHash": 2267009151,
+            "icon": "UI_Talent_S_Ayato_04",
+            "openConfig": "Ayato_Constellation_6"
+        }
+    ]
+}

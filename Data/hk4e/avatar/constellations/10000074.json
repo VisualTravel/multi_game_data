@@ -1,0 +1,54 @@
+{
+    "id": 10000074,
+    "skillDepotId": 7401,
+    "constellations": [
+        {
+            "talentId": 741,
+            "index": 1,
+            "nameTextMapHash": 624034169,
+            "descTextMapHash": 1381518663,
+            "icon": "UI_Talent_S_Layla_01",
+            "openConfig": "Layla_Constellation_1"
+        },
+        {
+            "talentId": 742,
+            "index": 2,
+            "nameTextMapHash": 1108627585,
+            "descTextMapHash": 1073516599,
+            "icon": "UI_Talent_S_Layla_02",
+            "openConfig": "Layla_Constellation_2"
+        },
+        {
+            "talentId": 743,
+            "index": 3,
+            "nameTextMapHash": 1578144217,
+            "descTextMapHash": 670134735,
+            "icon": "UI_Talent_U_Layla_01",
+            "openConfig": "Layla_Constellation_3"
+        },
+        {
+            "talentId": 744,
+            "index": 4,
+            "nameTextMapHash": 886256817,
+            "descTextMapHash": 3376385255,
+            "icon": "UI_Talent_S_Layla_03",
+            "openConfig": "Layla_Constellation_4"
+        },
+        {
+            "talentId": 745,
+            "index": 5,
+            "nameTextMapHash": 1129381953,
+            "descTextMapHash": 2999140663,
+            "icon": "UI_Talent_U_Layla_02",
+            "openConfig": "Layla_Constellation_5"
+        },
+        {
+            "talentId": 746,
+            "index": 6,
+            "nameTextMapHash": 1961053441,
+            "descTextMapHash": 114201887,
+            "icon": "UI_Talent_S_Layla_04",
+            "openConfig": "Layla_Constellation_6"
+        }
+    ]
+}

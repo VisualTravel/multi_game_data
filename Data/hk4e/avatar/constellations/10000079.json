@@ -1,0 +1,54 @@
+{
+    "id": 10000079,
+    "skillDepotId": 7901,
+    "constellations": [
+        {
+            "talentId": 791,
+            "index": 1,
+            "nameTextMapHash": 975929417,
+            "descTextMapHash": 572638591,
+            "icon": "UI_Talent_S_Dehya_01",
+            "openConfig": "Dehya_Constellation_1"
+        },
+        {
+            "talentId": 792,
+            "index": 2,
+            "nameTextMapHash": 1063268601,
+            "descTextMapHash": 3507377407,
+            "icon": "UI_Talent_S_Dehya_02",
+            "openConfig": "Dehya_Constellation_2"
+        },
+        {
+            "talentId": 793,
+            "index": 3,
+            "nameTextMapHash": 3309645225,
+            "descTextMapHash": 890857543,
+            "icon": "UI_Talent_U_Dehya_01",
+            "openConfig": "Dehya_Constellation_3"
+        },
+        {
+            "talentId": 794,
+            "index": 4,
+            "nameTextMapHash": 1318685825,
+            "descTextMapHash": 1101112519,
+            "icon": "UI_Talent_S_Dehya_03",
+            "openConfig": "Dehya_Constellation_4"
+        },
+        {
+            "talentId": 795,
+            "index": 5,
+            "nameTextMapHash": 2001861665,
+            "descTextMapHash": 640280743,
+            "icon": "UI_Talent_U_Dehya_02",
+            "openConfig": "Dehya_Constellation_5"
+        },
+        {
+            "talentId": 796,
+            "index": 6,
+            "nameTextMapHash": 2802373841,
+            "descTextMapHash": 343338087,
+            "icon": "UI_Talent_S_Dehya_04",
+            "openConfig": "Dehya_Constellation_6"
+        }
+    ]
+}

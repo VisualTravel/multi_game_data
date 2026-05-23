@@ -1,0 +1,54 @@
+{
+    "id": 10000024,
+    "skillDepotId": 2401,
+    "constellations": [
+        {
+            "talentId": 241,
+            "index": 1,
+            "nameTextMapHash": 1598246073,
+            "descTextMapHash": 2899101127,
+            "icon": "UI_Talent_S_Beidou_02",
+            "openConfig": "Beidou_Constellation_1"
+        },
+        {
+            "talentId": 242,
+            "index": 2,
+            "nameTextMapHash": 2620399769,
+            "descTextMapHash": 2277441935,
+            "icon": "UI_Talent_S_Beidou_01",
+            "openConfig": "Beidou_Constellation_2"
+        },
+        {
+            "talentId": 243,
+            "index": 3,
+            "nameTextMapHash": 2741836993,
+            "descTextMapHash": 4053128407,
+            "icon": "UI_Talent_U_Beidou_01",
+            "openConfig": "Beidou_Constellation_3"
+        },
+        {
+            "talentId": 244,
+            "index": 4,
+            "nameTextMapHash": 1523100897,
+            "descTextMapHash": 1024043391,
+            "icon": "UI_Talent_S_Beidou_03",
+            "openConfig": "Beidou_Constellation_4"
+        },
+        {
+            "talentId": 245,
+            "index": 5,
+            "nameTextMapHash": 2181637521,
+            "descTextMapHash": 938586615,
+            "icon": "UI_Talent_U_Beidou_02",
+            "openConfig": "Beidou_Constellation_5"
+        },
+        {
+            "talentId": 246,
+            "index": 6,
+            "nameTextMapHash": 688451937,
+            "descTextMapHash": 1391917287,
+            "icon": "UI_Talent_S_Beidou_04",
+            "openConfig": "Beidou_Constellation_6"
+        }
+    ]
+}

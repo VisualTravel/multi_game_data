@@ -1,0 +1,40 @@
+{
+    "id": 10000055,
+    "skillDepotId": 5501,
+    "combatSkills": [
+        {
+            "skillId": 10551,
+            "nameTextMapHash": 527760517,
+            "descTextMapHash": 2178965904,
+            "icon": "Skill_A_02",
+            "proudSkillGroupId": 5531
+        },
+        {
+            "skillId": 10552,
+            "nameTextMapHash": 2527852581,
+            "descTextMapHash": 1410061528,
+            "icon": "Skill_S_Gorou_01",
+            "proudSkillGroupId": 5532
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 574867765,
+            "descTextMapHash": 1439744475,
+            "icon": "UI_Talent_S_Gorou_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 787754445,
+            "descTextMapHash": 175486427,
+            "icon": "UI_Talent_S_Gorou_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 705002701,
+            "descTextMapHash": 291297539,
+            "icon": "UI_Talent_S_Gorou_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

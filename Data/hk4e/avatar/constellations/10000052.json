@@ -1,0 +1,54 @@
+{
+    "id": 10000052,
+    "skillDepotId": 5201,
+    "constellations": [
+        {
+            "talentId": 521,
+            "index": 1,
+            "nameTextMapHash": 1241899473,
+            "descTextMapHash": 705509495,
+            "icon": "UI_Talent_S_Shougun_01",
+            "openConfig": "Shougun_Constellation_1"
+        },
+        {
+            "talentId": 522,
+            "index": 2,
+            "nameTextMapHash": 2594998721,
+            "descTextMapHash": 4099832223,
+            "icon": "UI_Talent_S_Shougun_03",
+            "openConfig": "Shougun_Constellation_2"
+        },
+        {
+            "talentId": 523,
+            "index": 3,
+            "nameTextMapHash": 250956849,
+            "descTextMapHash": 3261841815,
+            "icon": "UI_Talent_U_Shougun_02",
+            "openConfig": "Shougun_Constellation_3"
+        },
+        {
+            "talentId": 524,
+            "index": 4,
+            "nameTextMapHash": 1996395745,
+            "descTextMapHash": 4043363607,
+            "icon": "UI_Talent_S_Shougun_02",
+            "openConfig": "Shougun_Constellation_4"
+        },
+        {
+            "talentId": 525,
+            "index": 5,
+            "nameTextMapHash": 361792665,
+            "descTextMapHash": 1503284487,
+            "icon": "UI_Talent_U_Shougun_01",
+            "openConfig": "Shougun_Constellation_5"
+        },
+        {
+            "talentId": 526,
+            "index": 6,
+            "nameTextMapHash": 1600913897,
+            "descTextMapHash": 1732565431,
+            "icon": "UI_Talent_S_Shougun_04",
+            "openConfig": "Shougun_Constellation_6"
+        }
+    ]
+}

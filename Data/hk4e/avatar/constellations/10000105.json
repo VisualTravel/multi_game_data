@@ -1,0 +1,54 @@
+{
+    "id": 10000105,
+    "skillDepotId": 10501,
+    "constellations": [
+        {
+            "talentId": 1051,
+            "index": 1,
+            "nameTextMapHash": 1374802977,
+            "descTextMapHash": 1931689375,
+            "icon": "UI_Talent_S_Olorun_01",
+            "openConfig": "Olorun_Constellation_1"
+        },
+        {
+            "talentId": 1052,
+            "index": 2,
+            "nameTextMapHash": 770856089,
+            "descTextMapHash": 3299158335,
+            "icon": "UI_Talent_S_Olorun_02",
+            "openConfig": "Olorun_Constellation_2"
+        },
+        {
+            "talentId": 1053,
+            "index": 3,
+            "nameTextMapHash": 3381007425,
+            "descTextMapHash": 4024564951,
+            "icon": "UI_Talent_U_Olorun_01",
+            "openConfig": "Olorun_Constellation_3"
+        },
+        {
+            "talentId": 1054,
+            "index": 4,
+            "nameTextMapHash": 3603602561,
+            "descTextMapHash": 2985334063,
+            "icon": "UI_Talent_S_Olorun_03",
+            "openConfig": "Olorun_Constellation_4"
+        },
+        {
+            "talentId": 1055,
+            "index": 5,
+            "nameTextMapHash": 2132163585,
+            "descTextMapHash": 2731917591,
+            "icon": "UI_Talent_U_Olorun_02",
+            "openConfig": "Olorun_Constellation_5"
+        },
+        {
+            "talentId": 1056,
+            "index": 6,
+            "nameTextMapHash": 543450217,
+            "descTextMapHash": 2958934511,
+            "icon": "UI_Talent_S_Olorun_04",
+            "openConfig": "Olorun_Constellation_6"
+        }
+    ]
+}

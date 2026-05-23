@@ -1,0 +1,54 @@
+{
+    "id": 10000095,
+    "skillDepotId": 9501,
+    "constellations": [
+        {
+            "talentId": 951,
+            "index": 1,
+            "nameTextMapHash": 2069380153,
+            "descTextMapHash": 62042263,
+            "icon": "UI_Talent_S_Sigewinne_01",
+            "openConfig": "Sigewinne_Constellation_1"
+        },
+        {
+            "talentId": 952,
+            "index": 2,
+            "nameTextMapHash": 2490532081,
+            "descTextMapHash": 3504124391,
+            "icon": "UI_Talent_S_Sigewinne_02",
+            "openConfig": "Sigewinne_Constellation_2"
+        },
+        {
+            "talentId": 953,
+            "index": 3,
+            "nameTextMapHash": 2818554353,
+            "descTextMapHash": 4146947367,
+            "icon": "UI_Talent_U_Sigewinne_01",
+            "openConfig": "Sigewinne_Constellation_3"
+        },
+        {
+            "talentId": 954,
+            "index": 4,
+            "nameTextMapHash": 952229337,
+            "descTextMapHash": 2940536023,
+            "icon": "UI_Talent_S_Sigewinne_03",
+            "openConfig": "Sigewinne_Constellation_4"
+        },
+        {
+            "talentId": 955,
+            "index": 5,
+            "nameTextMapHash": 3412453553,
+            "descTextMapHash": 1790125431,
+            "icon": "UI_Talent_U_Sigewinne_02",
+            "openConfig": "Sigewinne_Constellation_5"
+        },
+        {
+            "talentId": 956,
+            "index": 6,
+            "nameTextMapHash": 2161046649,
+            "descTextMapHash": 2720278695,
+            "icon": "UI_Talent_S_Sigewinne_04",
+            "openConfig": "Sigewinne_Constellation_6"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": 10000120,
+    "skillDepotId": 12001,
+    "combatSkills": [
+        {
+            "skillId": 11201,
+            "nameTextMapHash": 462475749,
+            "descTextMapHash": 1766244368,
+            "icon": "Skill_A_03",
+            "proudSkillGroupId": 12031
+        },
+        {
+            "skillId": 11202,
+            "nameTextMapHash": 1113770141,
+            "descTextMapHash": 358480048,
+            "icon": "Skill_S_Flins_01",
+            "proudSkillGroupId": 12032
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 546575765,
+            "descTextMapHash": 3602818451,
+            "icon": "UI_Talent_S_Flins_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 218242349,
+            "descTextMapHash": 1267724395,
+            "icon": "UI_Talent_S_Flins_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3099740333,
+            "descTextMapHash": 1784973667,
+            "icon": "UI_Talent_S_Flins_07",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 3890331909,
+            "descTextMapHash": 2153087219,
+            "icon": "UI_Talent_S_Flins_08",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

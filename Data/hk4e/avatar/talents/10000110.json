@@ -1,0 +1,46 @@
+{
+    "id": 10000110,
+    "skillDepotId": 11001,
+    "combatSkills": [
+        {
+            "skillId": 11101,
+            "nameTextMapHash": 622065069,
+            "descTextMapHash": 1291715720,
+            "icon": "Skill_A_03",
+            "proudSkillGroupId": 11031
+        },
+        {
+            "skillId": 11102,
+            "nameTextMapHash": 1283395933,
+            "descTextMapHash": 966109624,
+            "icon": "Skill_S_Iansan_01",
+            "proudSkillGroupId": 11032
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 4291878285,
+            "descTextMapHash": 3086394635,
+            "icon": "UI_Talent_S_Iansan_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 183911709,
+            "descTextMapHash": 1419654419,
+            "icon": "UI_Talent_S_Iansan_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 2853282869,
+            "descTextMapHash": 511230075,
+            "icon": "UI_Talent_S_Varesa_07",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 4025466285,
+            "descTextMapHash": 2181864955,
+            "icon": "UI_Talent_S_Iansan_08",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

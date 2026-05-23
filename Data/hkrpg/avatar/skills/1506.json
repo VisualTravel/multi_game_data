@@ -1,0 +1,703 @@
+{
+    "id": 1506,
+    "skills": [
+        {
+            "skillId": 150601,
+            "nameTextMapHash": 14399814237178217629,
+            "icon": "SkillIcon_1506_Normal.png",
+            "skillType": "",
+            "maxLevel": 10,
+            "spNeed": null
+        },
+        {
+            "skillId": 150602,
+            "nameTextMapHash": 16690949513181429296,
+            "icon": "SkillIcon_1506_BP.png",
+            "skillType": "",
+            "maxLevel": 15,
+            "spNeed": null
+        },
+        {
+            "skillId": 150603,
+            "nameTextMapHash": 11493815825744483156,
+            "icon": "SkillIcon_1506_Ultra.png",
+            "skillType": "",
+            "maxLevel": 15,
+            "spNeed": {
+                "Value": 60
+            }
+        },
+        {
+            "skillId": 150604,
+            "nameTextMapHash": 1740806900365141060,
+            "icon": "SkillIcon_1506_Passive.png",
+            "skillType": "",
+            "maxLevel": 15,
+            "spNeed": null
+        },
+        {
+            "skillId": 150606,
+            "nameTextMapHash": 10428075745571345240,
+            "icon": "SkillIcon_1506_Normal.png",
+            "skillType": "",
+            "maxLevel": 1,
+            "spNeed": null
+        },
+        {
+            "skillId": 150607,
+            "nameTextMapHash": 16223708826358830299,
+            "icon": "SkillIcon_1506_Maze.png",
+            "skillType": "",
+            "maxLevel": 1,
+            "spNeed": null
+        },
+        {
+            "skillId": 150608,
+            "nameTextMapHash": 11448142540012860028,
+            "icon": "UltraItem_1506_00.png",
+            "skillType": "",
+            "maxLevel": 10,
+            "spNeed": null
+        },
+        {
+            "skillId": 150610,
+            "nameTextMapHash": 11294812309058924236,
+            "icon": "UltraItem_1506_01.png",
+            "skillType": "",
+            "maxLevel": 10,
+            "spNeed": null
+        },
+        {
+            "skillId": 150612,
+            "nameTextMapHash": 945587258996380800,
+            "icon": "UltraItem_1506_02.png",
+            "skillType": "",
+            "maxLevel": 10,
+            "spNeed": null
+        },
+        {
+            "skillId": 150618,
+            "nameTextMapHash": 15457240962563954089,
+            "icon": "UltraItem_1506_03.png",
+            "skillType": "",
+            "maxLevel": 10,
+            "spNeed": null
+        },
+        {
+            "skillId": 150620,
+            "nameTextMapHash": 6519469219942451824,
+            "icon": "SkillIcon_1506_Elation.png",
+            "skillType": "",
+            "maxLevel": 15,
+            "spNeed": null
+        },
+        {
+            "skillId": 150621,
+            "nameTextMapHash": 2561903966451777571,
+            "icon": "SkillIcon_1506_Elation02.png",
+            "skillType": "",
+            "maxLevel": 15,
+            "spNeed": null
+        }
+    ],
+    "traceNodes": [
+        {
+            "pointId": 1506001,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150601,
+                150608,
+                150610,
+                150612,
+                150618
+            ],
+            "maxLevel": 6,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506001,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150601,
+                150608,
+                150610,
+                150612,
+                150618
+            ],
+            "maxLevel": 6,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506001,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150601,
+                150608,
+                150610,
+                150612,
+                150618
+            ],
+            "maxLevel": 6,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506001,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150601,
+                150608,
+                150610,
+                150612,
+                150618
+            ],
+            "maxLevel": 6,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506001,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150601,
+                150608,
+                150610,
+                150612,
+                150618
+            ],
+            "maxLevel": 6,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506001,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150601,
+                150608,
+                150610,
+                150612,
+                150618
+            ],
+            "maxLevel": 6,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506002,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150602
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506002,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150602
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506002,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150602
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506002,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150602
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506002,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150602
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506002,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150602
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506002,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150602
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506002,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150602
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506002,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150602
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506002,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150602
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506003,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150603
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506003,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150603
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506003,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150603
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506003,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150603
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506003,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150603
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506003,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150603
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506003,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150603
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506003,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150603
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506003,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150603
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506003,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150603
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506004,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150604
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506004,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150604
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506004,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150604
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506004,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150604
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506004,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150604
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506004,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150604
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506004,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150604
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506004,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150604
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506004,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150604
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506004,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150604
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506007,
+            "pointType": 2,
+            "levelUpSkillId": [
+                150607
+            ],
+            "maxLevel": 1,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506101,
+            "pointType": 3,
+            "levelUpSkillId": [],
+            "maxLevel": 1,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506102,
+            "pointType": 3,
+            "levelUpSkillId": [],
+            "maxLevel": 1,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506103,
+            "pointType": 3,
+            "levelUpSkillId": [],
+            "maxLevel": 1,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506201,
+            "pointType": 1,
+            "levelUpSkillId": [],
+            "maxLevel": 1,
+            "statusAddList": [
+                {
+                    "property": "CriticalChanceBase",
+                    "value": 0.026999999
+                }
+            ]
+        },
+        {
+            "pointId": 1506202,
+            "pointType": 1,
+            "levelUpSkillId": [],
+            "maxLevel": 1,
+            "statusAddList": [
+                {
+                    "property": "SpeedDelta",
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "pointId": 1506203,
+            "pointType": 1,
+            "levelUpSkillId": [],
+            "maxLevel": 1,
+            "statusAddList": [
+                {
+                    "property": "CriticalChanceBase",
+                    "value": 0.026999999
+                }
+            ]
+        },
+        {
+            "pointId": 1506204,
+            "pointType": 1,
+            "levelUpSkillId": [],
+            "maxLevel": 1,
+            "statusAddList": [
+                {
+                    "property": "ElationDamageAddedRatioBase",
+                    "value": 0.04
+                }
+            ]
+        },
+        {
+            "pointId": 1506205,
+            "pointType": 1,
+            "levelUpSkillId": [],
+            "maxLevel": 1,
+            "statusAddList": [
+                {
+                    "property": "CriticalChanceBase",
+                    "value": 0.04
+                }
+            ]
+        },
+        {
+            "pointId": 1506206,
+            "pointType": 1,
+            "levelUpSkillId": [],
+            "maxLevel": 1,
+            "statusAddList": [
+                {
+                    "property": "SpeedDelta",
+                    "value": 3
+                }
+            ]
+        },
+        {
+            "pointId": 1506207,
+            "pointType": 1,
+            "levelUpSkillId": [],
+            "maxLevel": 1,
+            "statusAddList": [
+                {
+                    "property": "CriticalChanceBase",
+                    "value": 0.04
+                }
+            ]
+        },
+        {
+            "pointId": 1506208,
+            "pointType": 1,
+            "levelUpSkillId": [],
+            "maxLevel": 1,
+            "statusAddList": [
+                {
+                    "property": "ElationDamageAddedRatioBase",
+                    "value": 0.06
+                }
+            ]
+        },
+        {
+            "pointId": 1506209,
+            "pointType": 1,
+            "levelUpSkillId": [],
+            "maxLevel": 1,
+            "statusAddList": [
+                {
+                    "property": "SpeedDelta",
+                    "value": 4
+                }
+            ]
+        },
+        {
+            "pointId": 1506210,
+            "pointType": 1,
+            "levelUpSkillId": [],
+            "maxLevel": 1,
+            "statusAddList": [
+                {
+                    "property": "CriticalChanceBase",
+                    "value": 0.053
+                }
+            ]
+        },
+        {
+            "pointId": 1506420,
+            "pointType": 4,
+            "levelUpSkillId": [
+                150620,
+                150621
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506420,
+            "pointType": 4,
+            "levelUpSkillId": [
+                150620,
+                150621
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506420,
+            "pointType": 4,
+            "levelUpSkillId": [
+                150620,
+                150621
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506420,
+            "pointType": 4,
+            "levelUpSkillId": [
+                150620,
+                150621
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506420,
+            "pointType": 4,
+            "levelUpSkillId": [
+                150620,
+                150621
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506420,
+            "pointType": 4,
+            "levelUpSkillId": [
+                150620,
+                150621
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506420,
+            "pointType": 4,
+            "levelUpSkillId": [
+                150620,
+                150621
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506420,
+            "pointType": 4,
+            "levelUpSkillId": [
+                150620,
+                150621
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506420,
+            "pointType": 4,
+            "levelUpSkillId": [
+                150620,
+                150621
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        },
+        {
+            "pointId": 1506420,
+            "pointType": 4,
+            "levelUpSkillId": [
+                150620,
+                150621
+            ],
+            "maxLevel": 10,
+            "statusAddList": []
+        }
+    ]
+}

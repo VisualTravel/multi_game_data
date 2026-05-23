@@ -1,0 +1,40 @@
+{
+    "id": 10000069,
+    "skillDepotId": 6901,
+    "combatSkills": [
+        {
+            "skillId": 10691,
+            "nameTextMapHash": 3409522045,
+            "descTextMapHash": 416049528,
+            "icon": "Skill_A_02",
+            "proudSkillGroupId": 6931
+        },
+        {
+            "skillId": 10692,
+            "nameTextMapHash": 3726986301,
+            "descTextMapHash": 3970360504,
+            "icon": "Skill_S_Tighnari_01",
+            "proudSkillGroupId": 6932
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 4268650789,
+            "descTextMapHash": 2730346547,
+            "icon": "UI_Talent_S_Tighnari_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 848821669,
+            "descTextMapHash": 3888955835,
+            "icon": "UI_Talent_S_Tighnari_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 704527549,
+            "descTextMapHash": 2405982315,
+            "icon": "UI_Talent_S_Tighnari_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

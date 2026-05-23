@@ -1,0 +1,449 @@
+{
+    "id": 1471,
+    "skills": [
+        {
+            "nameTextMapHash": "BanYue_Skill_Normal_Light_Desc",
+            "descTextMapHash": "BanYue_Skill_Normal_Light_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_Normal_Heavy_Desc",
+            "descTextMapHash": "BanYue_Skill_Normal_Heavy_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_Normal_EnterAngry_Desc",
+            "descTextMapHash": "BanYue_Skill_Normal_EnterAngry_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_Normal_Charge_Desc",
+            "descTextMapHash": "BanYue_Skill_Normal_Charge_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_Normal_FinalAttack_Desc",
+            "descTextMapHash": "BanYue_Skill_Normal_FinalAttack_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_Normal_FinalAttack_Enhance_Desc",
+            "descTextMapHash": "BanYue_Skill_Normal_FinalAttack_Enhance_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_ExSpecial_Defense_Desc",
+            "descTextMapHash": "BanYue_Skill_ExSpecial_Defense_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_ExSpecial_02_Desc",
+            "descTextMapHash": "BanYue_Skill_ExSpecial_02_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_ExSpecial_01_Desc",
+            "descTextMapHash": "BanYue_Skill_ExSpecial_01_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_ExSpecial_04_Desc",
+            "descTextMapHash": "BanYue_Skill_ExSpecial_04_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_ExSpecial_03_Desc",
+            "descTextMapHash": "BanYue_Skill_ExSpecial_03_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_ExSpecial_01_Enhance_Desc",
+            "descTextMapHash": "BanYue_Skill_ExSpecial_01_Enhance_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_ExSpecial_03_Enhance_Desc",
+            "descTextMapHash": "BanYue_Skill_ExSpecial_03_Enhance_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_ExSpecial_Cancel_Desc",
+            "descTextMapHash": "BanYue_Skill_ExSpecial_Cancel_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_Evade_Desc",
+            "descTextMapHash": "BanYue_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_Evade_Taunt_Desc",
+            "descTextMapHash": "BanYue_Skill_Evade_Taunt_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_Rush_Desc",
+            "descTextMapHash": "BanYue_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_Counter_Desc",
+            "descTextMapHash": "BanYue_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_QTE_Desc",
+            "descTextMapHash": "BanYue_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_ExQTE_Desc",
+            "descTextMapHash": "BanYue_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_BeHitAid_Desc",
+            "descTextMapHash": "BanYue_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_ParryAid_Desc",
+            "descTextMapHash": "BanYue_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_AssaultAid_Desc",
+            "descTextMapHash": "BanYue_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_AssaultAid_Light_Desc",
+            "descTextMapHash": "BanYue_Skill_AssaultAid_Light_Desc"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_Normal_Light_Title",
+            "descTextMapHash": "BanYue_Skill_Normal_Light_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_Normal_Heavy_Title",
+            "descTextMapHash": "BanYue_Skill_Normal_Heavy_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_Normal_EnterAngry_Title",
+            "descTextMapHash": "BanYue_Skill_Normal_EnterAngry_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_Normal_FinalAttack_Title",
+            "descTextMapHash": "BanYue_Skill_Normal_FinalAttack_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_Normal_FinalAttack_Enhance_Title",
+            "descTextMapHash": "BanYue_Skill_Normal_FinalAttack_Enhance_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_ExSpecial_Defense_Title",
+            "descTextMapHash": "BanYue_Skill_ExSpecial_Defense_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_ExSpecial_02_Title",
+            "descTextMapHash": "BanYue_Skill_ExSpecial_02_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_RpConsume",
+            "descTextMapHash": "Common_Property_Desc_RpConsume"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_ExSpecial_01_Title",
+            "descTextMapHash": "BanYue_Skill_ExSpecial_01_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_RpConsume",
+            "descTextMapHash": "Common_Property_Desc_RpConsume"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_ExSpecial_04_Title",
+            "descTextMapHash": "BanYue_Skill_ExSpecial_04_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_RpConsume",
+            "descTextMapHash": "Common_Property_Desc_RpConsume"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_ExSpecial_03_Title",
+            "descTextMapHash": "BanYue_Skill_ExSpecial_03_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_RpConsume",
+            "descTextMapHash": "Common_Property_Desc_RpConsume"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_ExSpecial_01_Enhance_Title",
+            "descTextMapHash": "BanYue_Skill_ExSpecial_01_Enhance_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_RpConsume",
+            "descTextMapHash": "Common_Property_Desc_RpConsume"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_ExSpecial_03_Enhance_Title",
+            "descTextMapHash": "BanYue_Skill_ExSpecial_03_Enhance_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_RpConsume",
+            "descTextMapHash": "Common_Property_Desc_RpConsume"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_Rush_Title",
+            "descTextMapHash": "BanYue_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_Counter_Title",
+            "descTextMapHash": "BanYue_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_QTE_Title",
+            "descTextMapHash": "BanYue_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_ExQTE_Title",
+            "descTextMapHash": "BanYue_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_BeHitAid_Title",
+            "descTextMapHash": "BanYue_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_ParryAid_Title",
+            "descTextMapHash": "BanYue_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_AssaultAid_Title",
+            "descTextMapHash": "BanYue_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "BanYue_Skill_AssaultAid_Light_Title",
+            "descTextMapHash": "BanYue_Skill_AssaultAid_Light_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "BanYue_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "BanYue_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "BanYue_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "BanYue_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "BanYue_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "BanYue_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 10000006,
+    "skillDepotId": 601,
+    "combatSkills": [
+        {
+            "skillId": 10060,
+            "nameTextMapHash": 2499143989,
+            "descTextMapHash": 3362612400,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 431
+        },
+        {
+            "skillId": 10061,
+            "nameTextMapHash": 3342928221,
+            "descTextMapHash": 2036101496,
+            "icon": "Skill_S_Lisa_01",
+            "proudSkillGroupId": 432
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3611282821,
+            "descTextMapHash": 1118492795,
+            "icon": "UI_Talent_S_Lisa_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1069142525,
+            "descTextMapHash": 3499444667,
+            "icon": "UI_Talent_S_Lisa_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 200498389,
+            "descTextMapHash": 3877764179,
+            "icon": "UI_Talent_Combine_Potion",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

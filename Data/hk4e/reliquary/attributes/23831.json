@@ -1,0 +1,21 @@
+{
+    "id": 23831,
+    "nameTextMapHash": 3882661244,
+    "descTextMapHash": 3408987416,
+    "rarity": 5,
+    "setId": 15046,
+    "equipType": "EQUIP_RING",
+    "icon": "UI_RelicIcon_15046_1",
+    "showPic": "Eff_UI_RelicIcon_15046_1",
+    "mainPropDepotId": 5099,
+    "appendPropDepotId": 964,
+    "appendPropNum": 4,
+    "addPropLevels": [
+        5,
+        9,
+        13,
+        17,
+        21
+    ],
+    "maxLevel": 21
+}

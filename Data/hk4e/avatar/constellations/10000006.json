@@ -1,0 +1,54 @@
+{
+    "id": 10000006,
+    "skillDepotId": 601,
+    "constellations": [
+        {
+            "talentId": 41,
+            "index": 1,
+            "nameTextMapHash": 12874089,
+            "descTextMapHash": 1939598815,
+            "icon": "UI_Talent_S_Lisa_01",
+            "openConfig": "Lisa_Constellation_1"
+        },
+        {
+            "talentId": 42,
+            "index": 2,
+            "nameTextMapHash": 1523215809,
+            "descTextMapHash": 607154655,
+            "icon": "UI_Talent_S_Lisa_02",
+            "openConfig": "Lisa_Constellation_2"
+        },
+        {
+            "talentId": 43,
+            "index": 3,
+            "nameTextMapHash": 3707731441,
+            "descTextMapHash": 3643569183,
+            "icon": "UI_Talent_U_Lisa_02",
+            "openConfig": "Lisa_Constellation_3"
+        },
+        {
+            "talentId": 44,
+            "index": 4,
+            "nameTextMapHash": 1540276609,
+            "descTextMapHash": 4061309071,
+            "icon": "UI_Talent_S_Lisa_03",
+            "openConfig": "Lisa_Constellation_4"
+        },
+        {
+            "talentId": 45,
+            "index": 5,
+            "nameTextMapHash": 2256540761,
+            "descTextMapHash": 1025563999,
+            "icon": "UI_Talent_U_Lisa_01",
+            "openConfig": "Lisa_Constellation_5"
+        },
+        {
+            "talentId": 46,
+            "index": 6,
+            "nameTextMapHash": 2935728161,
+            "descTextMapHash": 2237369815,
+            "icon": "UI_Talent_S_Lisa_04",
+            "openConfig": "Lisa_Constellation_6"
+        }
+    ]
+}

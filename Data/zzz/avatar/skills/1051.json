@@ -1,0 +1,345 @@
+{
+    "id": 1051,
+    "skills": [
+        {
+            "nameTextMapHash": "Yidhari_Skill_Normal_Desc",
+            "descTextMapHash": "Yidhari_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_Branch_01_Desc",
+            "descTextMapHash": "Yidhari_Skill_Branch_01_Desc"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_Branch_02_Desc",
+            "descTextMapHash": "Yidhari_Skill_Branch_02_Desc"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_Special_01_Desc",
+            "descTextMapHash": "Yidhari_Skill_Special_01_Desc"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_ExSpecial_01_Desc",
+            "descTextMapHash": "Yidhari_Skill_ExSpecial_01_Desc"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_Special_02_Desc",
+            "descTextMapHash": "Yidhari_Skill_Special_02_Desc"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_ExSpecial_02_Desc",
+            "descTextMapHash": "Yidhari_Skill_ExSpecial_02_Desc"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_Evade_Desc",
+            "descTextMapHash": "Yidhari_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_Rush_Desc",
+            "descTextMapHash": "Yidhari_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_Counter_Desc",
+            "descTextMapHash": "Yidhari_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_QTE_Desc",
+            "descTextMapHash": "Yidhari_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_Space_Desc",
+            "descTextMapHash": "Yidhari_Skill_Space_Desc"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_ExQTE_Desc",
+            "descTextMapHash": "Yidhari_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_BeHitAid_Desc",
+            "descTextMapHash": "Yidhari_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_ParryAid_Desc",
+            "descTextMapHash": "Yidhari_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_AssaultAid_Desc",
+            "descTextMapHash": "Yidhari_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_Normal_Title",
+            "descTextMapHash": "Yidhari_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Yidhari_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Yidhari_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_Branch_01_Title",
+            "descTextMapHash": "Yidhari_Skill_Branch_01_Title"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Property_ChargeAttack_Desc_Dmg_01",
+            "descTextMapHash": "Yidhari_Property_ChargeAttack_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Property_ChargeAttack_Desc_Dmg_02",
+            "descTextMapHash": "Yidhari_Property_ChargeAttack_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Property_ChargeAttack_Desc_Dmg_03",
+            "descTextMapHash": "Yidhari_Property_ChargeAttack_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Property_ChargeAttack_Desc_Dmg_03_Loop",
+            "descTextMapHash": "Yidhari_Property_ChargeAttack_Desc_Dmg_03_Loop"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Property_ChargeAttack_Desc_Stun_01",
+            "descTextMapHash": "Yidhari_Property_ChargeAttack_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Property_ChargeAttack_Desc_Stun_02",
+            "descTextMapHash": "Yidhari_Property_ChargeAttack_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Property_ChargeAttack_Desc_Stun_03",
+            "descTextMapHash": "Yidhari_Property_ChargeAttack_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Property_ChargeAttack_Desc_Stun_03_Loop",
+            "descTextMapHash": "Yidhari_Property_ChargeAttack_Desc_Stun_03_Loop"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_Branch_02_Title",
+            "descTextMapHash": "Yidhari_Skill_Branch_02_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_Special_01_Title",
+            "descTextMapHash": "Yidhari_Skill_Special_01_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_ExSpecial_01_Title",
+            "descTextMapHash": "Yidhari_Skill_ExSpecial_01_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_RpConsume",
+            "descTextMapHash": "Common_Property_Desc_RpConsume"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_Special_02_Title",
+            "descTextMapHash": "Yidhari_Skill_Special_02_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_ExSpecial_02_Title",
+            "descTextMapHash": "Yidhari_Skill_ExSpecial_02_Title"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Property_ExSpecial_Desc_Dmg_02",
+            "descTextMapHash": "Yidhari_Property_ExSpecial_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Property_ExSpecial_Desc_Dmg_02_Space",
+            "descTextMapHash": "Yidhari_Property_ExSpecial_Desc_Dmg_02_Space"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Property_ExSpecial_Desc_Stun_02",
+            "descTextMapHash": "Yidhari_Property_ExSpecial_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_RpConsume",
+            "descTextMapHash": "Common_Property_Desc_RpConsume"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_Rush_Title",
+            "descTextMapHash": "Yidhari_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_Counter_Title",
+            "descTextMapHash": "Yidhari_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_QTE_Title",
+            "descTextMapHash": "Yidhari_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Property_QTE_Desc_Dmg_Space",
+            "descTextMapHash": "Yidhari_Property_QTE_Desc_Dmg_Space"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Property_QTE_Desc_Stun_Space",
+            "descTextMapHash": "Yidhari_Property_QTE_Desc_Stun_Space"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_ExQTE_Title",
+            "descTextMapHash": "Yidhari_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_BeHitAid_Title",
+            "descTextMapHash": "Yidhari_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_ParryAid_Title",
+            "descTextMapHash": "Yidhari_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Yidhari_Skill_AssaultAid_Title",
+            "descTextMapHash": "Yidhari_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "Yidhari_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "Yidhari_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "Yidhari_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "Yidhari_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "Yidhari_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "Yidhari_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 10000067,
+    "skillDepotId": 6701,
+    "constellations": [
+        {
+            "talentId": 671,
+            "index": 1,
+            "nameTextMapHash": 2655987137,
+            "descTextMapHash": 838051847,
+            "icon": "UI_Talent_S_Collei_01",
+            "openConfig": "Collei_Constellation_1"
+        },
+        {
+            "talentId": 672,
+            "index": 2,
+            "nameTextMapHash": 3472491985,
+            "descTextMapHash": 3024851207,
+            "icon": "UI_Talent_S_Collei_02",
+            "openConfig": "Collei_Constellation_2"
+        },
+        {
+            "talentId": 673,
+            "index": 3,
+            "nameTextMapHash": 1426971073,
+            "descTextMapHash": 56316087,
+            "icon": "UI_Talent_U_Collei_02",
+            "openConfig": "Collei_Constellation_3"
+        },
+        {
+            "talentId": 674,
+            "index": 4,
+            "nameTextMapHash": 3753636217,
+            "descTextMapHash": 4094592039,
+            "icon": "UI_Talent_S_Collei_03",
+            "openConfig": "Collei_Constellation_4"
+        },
+        {
+            "talentId": 675,
+            "index": 5,
+            "nameTextMapHash": 2500538433,
+            "descTextMapHash": 2543166839,
+            "icon": "UI_Talent_U_Collei_01",
+            "openConfig": "Collei_Constellation_5"
+        },
+        {
+            "talentId": 676,
+            "index": 6,
+            "nameTextMapHash": 1091837217,
+            "descTextMapHash": 1015584855,
+            "icon": "UI_Talent_S_Collei_04",
+            "openConfig": "Collei_Constellation_6"
+        }
+    ]
+}

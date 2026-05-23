@@ -1,0 +1,189 @@
+{
+    "id": 11422,
+    "nameTextMapHash": 2448629019,
+    "descTextMapHash": 449598549,
+    "rarity": 4,
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "icon": "UI_EquipIcon_Sword_Kasabouzu",
+    "baseStats": {
+        "attackBase": 42.401
+    },
+    "refinements": {
+        "affixId": 111422,
+        "nameTextMapHash": 3451100379,
+        "levels": [
+            {
+                "refinement": 1,
+                "nameTextMapHash": 3451100379,
+                "descTextMapHash": 4144694345,
+                "params": [
+                    10,
+                    0.16,
+                    15
+                ]
+            },
+            {
+                "refinement": 2,
+                "nameTextMapHash": 1435365675,
+                "descTextMapHash": 4192568457,
+                "params": [
+                    10,
+                    0.2,
+                    15
+                ]
+            },
+            {
+                "refinement": 3,
+                "nameTextMapHash": 1769230659,
+                "descTextMapHash": 3708899353,
+                "params": [
+                    10,
+                    0.24,
+                    15
+                ]
+            },
+            {
+                "refinement": 4,
+                "nameTextMapHash": 2358175931,
+                "descTextMapHash": 4047793393,
+                "params": [
+                    10,
+                    0.28,
+                    15
+                ]
+            },
+            {
+                "refinement": 5,
+                "nameTextMapHash": 2029582603,
+                "descTextMapHash": 3683551497,
+                "params": [
+                    10,
+                    0.32,
+                    15
+                ]
+            }
+        ]
+    },
+    "promotions": [
+        {
+            "level": 0,
+            "maxLevel": 20,
+            "addAttack": 0,
+            "costItems": []
+        },
+        {
+            "level": 1,
+            "maxLevel": 40,
+            "addAttack": 25.9,
+            "costItems": [
+                {
+                    "id": 114029,
+                    "count": 3
+                },
+                {
+                    "id": 112071,
+                    "count": 3
+                },
+                {
+                    "id": 112044,
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "level": 2,
+            "maxLevel": 50,
+            "addAttack": 51.9,
+            "costItems": [
+                {
+                    "id": 114030,
+                    "count": 3
+                },
+                {
+                    "id": 112071,
+                    "count": 12
+                },
+                {
+                    "id": 112044,
+                    "count": 8
+                }
+            ]
+        },
+        {
+            "level": 3,
+            "maxLevel": 60,
+            "addAttack": 77.8,
+            "costItems": [
+                {
+                    "id": 114030,
+                    "count": 6
+                },
+                {
+                    "id": 112072,
+                    "count": 6
+                },
+                {
+                    "id": 112045,
+                    "count": 6
+                }
+            ]
+        },
+        {
+            "level": 4,
+            "maxLevel": 70,
+            "addAttack": 103.7,
+            "costItems": [
+                {
+                    "id": 114031,
+                    "count": 3
+                },
+                {
+                    "id": 112072,
+                    "count": 12
+                },
+                {
+                    "id": 112045,
+                    "count": 9
+                }
+            ]
+        },
+        {
+            "level": 5,
+            "maxLevel": 80,
+            "addAttack": 129.7,
+            "costItems": [
+                {
+                    "id": 114031,
+                    "count": 6
+                },
+                {
+                    "id": 112073,
+                    "count": 9
+                },
+                {
+                    "id": 112046,
+                    "count": 6
+                }
+            ]
+        },
+        {
+            "level": 6,
+            "maxLevel": 90,
+            "addAttack": 155.6,
+            "costItems": [
+                {
+                    "id": 114032,
+                    "count": 4
+                },
+                {
+                    "id": 112073,
+                    "count": 18
+                },
+                {
+                    "id": 112046,
+                    "count": 12
+                }
+            ]
+        }
+    ]
+}

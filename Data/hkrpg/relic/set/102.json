@@ -1,0 +1,21 @@
+{
+    "id": 102,
+    "nameTextMapHash": 15961209207711443438,
+    "effects": [
+        {
+            "requireNum": 2,
+            "descTextMapHash": "RelicDesc_1022",
+            "params": [
+                0.12
+            ]
+        },
+        {
+            "requireNum": 4,
+            "descTextMapHash": "RelicDesc_1024",
+            "params": [
+                0.06,
+                0.1
+            ]
+        }
+    ]
+}

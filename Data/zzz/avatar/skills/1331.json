@@ -1,0 +1,289 @@
+{
+    "id": 1331,
+    "skills": [
+        {
+            "nameTextMapHash": "Vivian_Skill_Normal_Desc",
+            "descTextMapHash": "Vivian_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_Branch_Ground_Desc",
+            "descTextMapHash": "Vivian_Skill_Branch_Ground_Desc"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_Branch_Air_Desc",
+            "descTextMapHash": "Vivian_Skill_Branch_Air_Desc"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_Branch_Extra_Desc",
+            "descTextMapHash": "Vivian_Skill_Branch_Extra_Desc"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_Special_Desc",
+            "descTextMapHash": "Vivian_Skill_Special_Desc"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_ExSpecial_Desc",
+            "descTextMapHash": "Vivian_Skill_ExSpecial_Desc"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_Evade_Desc",
+            "descTextMapHash": "Vivian_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_Rush_Desc",
+            "descTextMapHash": "Vivian_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_Counter_Desc",
+            "descTextMapHash": "Vivian_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_AutoEvade_Desc",
+            "descTextMapHash": "Vivian_Skill_AutoEvade_Desc"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_QTE_Desc",
+            "descTextMapHash": "Vivian_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_ExQTE_Desc",
+            "descTextMapHash": "Vivian_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_BeHitAid_Desc",
+            "descTextMapHash": "Vivian_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_ParryAid_Desc",
+            "descTextMapHash": "Vivian_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_AssaultAid_Desc",
+            "descTextMapHash": "Vivian_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_Normal_Title",
+            "descTextMapHash": "Vivian_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_Branch_Ground_Title",
+            "descTextMapHash": "Vivian_Skill_Branch_Ground_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_Branch_Air_Title",
+            "descTextMapHash": "Vivian_Skill_Branch_Air_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_Branch_Extra_Title",
+            "descTextMapHash": "Vivian_Skill_Branch_Extra_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_Special_Title",
+            "descTextMapHash": "Vivian_Skill_Special_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_ExSpecial_Title",
+            "descTextMapHash": "Vivian_Skill_ExSpecial_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_Rush_Title",
+            "descTextMapHash": "Vivian_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_Counter_Title",
+            "descTextMapHash": "Vivian_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_QTE_Title",
+            "descTextMapHash": "Vivian_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_ExQTE_Title",
+            "descTextMapHash": "Vivian_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_BeHitAid_Title",
+            "descTextMapHash": "Vivian_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_ParryAid_Title",
+            "descTextMapHash": "Vivian_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Vivian_Skill_AssaultAid_Title",
+            "descTextMapHash": "Vivian_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "Vivian_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "Vivian_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "Vivian_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "Vivian_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "Vivian_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "Vivian_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

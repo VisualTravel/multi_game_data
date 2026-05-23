@@ -1,0 +1,40 @@
+{
+    "id": 10000109,
+    "skillDepotId": 10901,
+    "combatSkills": [
+        {
+            "skillId": 11091,
+            "nameTextMapHash": 2187131365,
+            "descTextMapHash": 1413241104,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 10931
+        },
+        {
+            "skillId": 11092,
+            "nameTextMapHash": 477826157,
+            "descTextMapHash": 1850631632,
+            "icon": "Skill_S_Mizuki_01",
+            "proudSkillGroupId": 10932
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2463380941,
+            "descTextMapHash": 439689379,
+            "icon": "UI_Talent_S_Mizuki_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 25145605,
+            "descTextMapHash": 2318344515,
+            "icon": "UI_Talent_S_Mizuki_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3170019445,
+            "descTextMapHash": 268133611,
+            "icon": "UI_Talent_S_Mizuki_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 10000051,
+    "skillDepotId": 5101,
+    "constellations": [
+        {
+            "talentId": 511,
+            "index": 1,
+            "nameTextMapHash": 1401913601,
+            "descTextMapHash": 1142115463,
+            "icon": "UI_Talent_S_Eula_02",
+            "openConfig": "Eula_Constellation_1"
+        },
+        {
+            "talentId": 512,
+            "index": 2,
+            "nameTextMapHash": 4116601993,
+            "descTextMapHash": 2873232895,
+            "icon": "UI_Talent_S_Eula_01",
+            "openConfig": "Eula_Constellation_2"
+        },
+        {
+            "talentId": 513,
+            "index": 3,
+            "nameTextMapHash": 4017023225,
+            "descTextMapHash": 3953678567,
+            "icon": "UI_Talent_U_Eula_01",
+            "openConfig": "Eula_Constellation_3"
+        },
+        {
+            "talentId": 514,
+            "index": 4,
+            "nameTextMapHash": 260126841,
+            "descTextMapHash": 2211149151,
+            "icon": "UI_Talent_S_Eula_03",
+            "openConfig": "Eula_Constellation_4"
+        },
+        {
+            "talentId": 515,
+            "index": 5,
+            "nameTextMapHash": 3295715833,
+            "descTextMapHash": 4202659295,
+            "icon": "UI_Talent_U_Eula_02",
+            "openConfig": "Eula_Constellation_5"
+        },
+        {
+            "talentId": 516,
+            "index": 6,
+            "nameTextMapHash": 1963500825,
+            "descTextMapHash": 658737255,
+            "icon": "UI_Talent_S_Eula_04",
+            "openConfig": "Eula_Constellation_6"
+        }
+    ]
+}

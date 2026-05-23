@@ -1,0 +1,324 @@
+{
+    "1000": [
+        {
+            "type": "FIGHT_PROP_HP",
+            "nameTextMapHash": "Reliquary_Main_Affix_TOUGH"
+        },
+        {
+            "type": "FIGHT_PROP_HP_PERCENT",
+            "nameTextMapHash": "Reliquary_Main_Affix_STRONG"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK",
+            "nameTextMapHash": "Reliquary_Main_Affix_RUTHLESS"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT",
+            "nameTextMapHash": "Reliquary_Main_Affix_FATAL"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE",
+            "nameTextMapHash": "Reliquary_Main_Affix_GLORY"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT",
+            "nameTextMapHash": "Reliquary_Main_Affix_EMINENCE"
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+            "nameTextMapHash": "Reliquary_Main_Affix_EXULTATION"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY",
+            "nameTextMapHash": "Reliquary_Main_Affix_WISDOM"
+        },
+        {
+            "type": "FIGHT_PROP_FIRE_SUB_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_GLORY"
+        },
+        {
+            "type": "FIGHT_PROP_ELEC_SUB_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_GLORY"
+        },
+        {
+            "type": "FIGHT_PROP_ICE_SUB_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_GLORY"
+        },
+        {
+            "type": "FIGHT_PROP_WATER_SUB_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_GLORY"
+        },
+        {
+            "type": "FIGHT_PROP_WIND_SUB_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_GLORY"
+        },
+        {
+            "type": "FIGHT_PROP_ROCK_SUB_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_GLORY"
+        },
+        {
+            "type": "FIGHT_PROP_GRASS_SUB_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_GLORY"
+        }
+    ],
+    "2000": [
+        {
+            "type": "FIGHT_PROP_ATTACK",
+            "nameTextMapHash": "Reliquary_Main_Affix_RUTHLESS"
+        }
+    ],
+    "3000": [
+        {
+            "type": "FIGHT_PROP_HP",
+            "nameTextMapHash": "Reliquary_Main_Affix_TOUGH"
+        },
+        {
+            "type": "FIGHT_PROP_HP_PERCENT",
+            "nameTextMapHash": "Reliquary_Main_Affix_STRONG"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK",
+            "nameTextMapHash": "Reliquary_Main_Affix_RUTHLESS"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT",
+            "nameTextMapHash": "Reliquary_Main_Affix_FATAL"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE",
+            "nameTextMapHash": "Reliquary_Main_Affix_GLORY"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT",
+            "nameTextMapHash": "Reliquary_Main_Affix_EMINENCE"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL",
+            "nameTextMapHash": "Reliquary_Main_Affix_CRUEL"
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_FIERCE"
+        },
+        {
+            "type": "FIGHT_PROP_HEAL_ADD",
+            "nameTextMapHash": "Reliquary_Main_Affix_HOLINESS"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY",
+            "nameTextMapHash": "Reliquary_Main_Affix_WISDOM"
+        }
+    ],
+    "4000": [
+        {
+            "type": "FIGHT_PROP_HP",
+            "nameTextMapHash": "Reliquary_Main_Affix_TOUGH"
+        }
+    ],
+    "5000": [
+        {
+            "type": "FIGHT_PROP_HP",
+            "nameTextMapHash": "Reliquary_Main_Affix_TOUGH"
+        },
+        {
+            "type": "FIGHT_PROP_HP_PERCENT",
+            "nameTextMapHash": "Reliquary_Main_Affix_STRONG"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK",
+            "nameTextMapHash": "Reliquary_Main_Affix_RUTHLESS"
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT",
+            "nameTextMapHash": "Reliquary_Main_Affix_FATAL"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE",
+            "nameTextMapHash": "Reliquary_Main_Affix_GLORY"
+        },
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT",
+            "nameTextMapHash": "Reliquary_Main_Affix_EMINENCE"
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY",
+            "nameTextMapHash": "Reliquary_Main_Affix_WISDOM"
+        },
+        {
+            "type": "FIGHT_PROP_FIRE_ADD_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_CONCENTRATION"
+        },
+        {
+            "type": "FIGHT_PROP_ELEC_ADD_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_CONCENTRATION"
+        },
+        {
+            "type": "FIGHT_PROP_ICE_ADD_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_CONCENTRATION"
+        },
+        {
+            "type": "FIGHT_PROP_WATER_ADD_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_CONCENTRATION"
+        },
+        {
+            "type": "FIGHT_PROP_WIND_ADD_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_CONCENTRATION"
+        },
+        {
+            "type": "FIGHT_PROP_ROCK_ADD_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_CONCENTRATION"
+        },
+        {
+            "type": "FIGHT_PROP_GRASS_ADD_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_CONCENTRATION"
+        },
+        {
+            "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_CONCENTRATION"
+        }
+    ],
+    "1099": [
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT",
+            "nameTextMapHash": "Reliquary_Main_Affix_FATAL"
+        }
+    ],
+    "1098": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT",
+            "nameTextMapHash": "Reliquary_Main_Affix_STRONG"
+        }
+    ],
+    "1097": [
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT",
+            "nameTextMapHash": "Reliquary_Main_Affix_EMINENCE"
+        }
+    ],
+    "1096": [
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+            "nameTextMapHash": "Reliquary_Main_Affix_EXULTATION"
+        }
+    ],
+    "1095": [
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY",
+            "nameTextMapHash": "Reliquary_Main_Affix_WISDOM"
+        }
+    ],
+    "3099": [
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT",
+            "nameTextMapHash": "Reliquary_Main_Affix_FATAL"
+        }
+    ],
+    "3098": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT",
+            "nameTextMapHash": "Reliquary_Main_Affix_STRONG"
+        }
+    ],
+    "3097": [
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT",
+            "nameTextMapHash": "Reliquary_Main_Affix_EMINENCE"
+        }
+    ],
+    "3096": [
+        {
+            "type": "FIGHT_PROP_CRITICAL",
+            "nameTextMapHash": "Reliquary_Main_Affix_CRUEL"
+        }
+    ],
+    "3095": [
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_FIERCE"
+        }
+    ],
+    "3094": [
+        {
+            "type": "FIGHT_PROP_HEAL_ADD",
+            "nameTextMapHash": "Reliquary_Main_Affix_HOLINESS"
+        }
+    ],
+    "3093": [
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY",
+            "nameTextMapHash": "Reliquary_Main_Affix_WISDOM"
+        }
+    ],
+    "5099": [
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT",
+            "nameTextMapHash": "Reliquary_Main_Affix_FATAL"
+        }
+    ],
+    "5098": [
+        {
+            "type": "FIGHT_PROP_HP_PERCENT",
+            "nameTextMapHash": "Reliquary_Main_Affix_STRONG"
+        }
+    ],
+    "5097": [
+        {
+            "type": "FIGHT_PROP_DEFENSE_PERCENT",
+            "nameTextMapHash": "Reliquary_Main_Affix_EMINENCE"
+        }
+    ],
+    "5096": [
+        {
+            "type": "FIGHT_PROP_FIRE_ADD_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_CONCENTRATION"
+        }
+    ],
+    "5095": [
+        {
+            "type": "FIGHT_PROP_ELEC_ADD_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_CONCENTRATION"
+        }
+    ],
+    "5094": [
+        {
+            "type": "FIGHT_PROP_ICE_ADD_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_CONCENTRATION"
+        }
+    ],
+    "5093": [
+        {
+            "type": "FIGHT_PROP_WATER_ADD_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_CONCENTRATION"
+        }
+    ],
+    "5092": [
+        {
+            "type": "FIGHT_PROP_WIND_ADD_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_CONCENTRATION"
+        }
+    ],
+    "5091": [
+        {
+            "type": "FIGHT_PROP_ROCK_ADD_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_CONCENTRATION"
+        }
+    ],
+    "5090": [
+        {
+            "type": "FIGHT_PROP_GRASS_ADD_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_CONCENTRATION"
+        }
+    ],
+    "5089": [
+        {
+            "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+            "nameTextMapHash": "Reliquary_Main_Affix_CONCENTRATION"
+        }
+    ],
+    "5088": [
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY",
+            "nameTextMapHash": "Reliquary_Main_Affix_WISDOM"
+        }
+    ]
+}

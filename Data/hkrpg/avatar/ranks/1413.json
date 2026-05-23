@@ -1,0 +1,108 @@
+{
+    "id": 1413,
+    "ranks": [
+        {
+            "rankId": 141301,
+            "index": 1,
+            "nameTextMapHash": "AvatarRankName_141301",
+            "descTextMapHash": "AvatarRankDesc_141301",
+            "icon": "SkillIcon_1413_Rank1.png",
+            "params": [
+                {
+                    "Value": 1.2
+                },
+                {
+                    "Value": 1.25
+                },
+                {
+                    "Value": 1.3
+                },
+                {
+                    "Value": 1.5
+                }
+            ],
+            "skillAddLevelList": {}
+        },
+        {
+            "rankId": 141302,
+            "index": 2,
+            "nameTextMapHash": "AvatarRankName_141302",
+            "descTextMapHash": "AvatarRankDesc_141302",
+            "icon": "SkillIcon_1413_Rank2.png",
+            "params": [
+                {
+                    "Value": 2
+                },
+                {
+                    "Value": 2
+                },
+                {
+                    "Value": 0.4
+                }
+            ],
+            "skillAddLevelList": {}
+        },
+        {
+            "rankId": 141303,
+            "index": 3,
+            "nameTextMapHash": "AvatarRankName_141303",
+            "descTextMapHash": "AvatarRankDesc_141303",
+            "icon": "SkillIcon_1413_BP.png",
+            "params": [],
+            "skillAddLevelList": {
+                "141302": 2,
+                "141301": 1,
+                "1141303": 1,
+                "141309": 2,
+                "1141305": 1,
+                "1141306": 1
+            }
+        },
+        {
+            "rankId": 141304,
+            "index": 4,
+            "nameTextMapHash": "AvatarRankName_141304",
+            "descTextMapHash": "AvatarRankDesc_141304",
+            "icon": "SkillIcon_1413_Rank4.png",
+            "params": [
+                {
+                    "Value": 0.25
+                },
+                {
+                    "Value": 0.25
+                }
+            ],
+            "skillAddLevelList": {}
+        },
+        {
+            "rankId": 141305,
+            "index": 5,
+            "nameTextMapHash": "AvatarRankName_141305",
+            "descTextMapHash": "AvatarRankDesc_141305",
+            "icon": "SkillIcon_1413_Ultra.png",
+            "params": [],
+            "skillAddLevelList": {
+                "141303": 2,
+                "141304": 2,
+                "1141301": 1,
+                "1141307": 1
+            }
+        },
+        {
+            "rankId": 141306,
+            "index": 6,
+            "nameTextMapHash": "AvatarRankName_141306",
+            "descTextMapHash": "AvatarRankDesc_141306",
+            "icon": "SkillIcon_1413_Rank6.png",
+            "params": [
+                {
+                    "Value": 0.3
+                },
+                {
+                    "Value": 0.2
+                }
+            ],
+            "skillAddLevelList": {}
+        }
+    ]
+}

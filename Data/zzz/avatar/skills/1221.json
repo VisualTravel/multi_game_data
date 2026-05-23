@@ -1,0 +1,305 @@
+{
+    "id": 1221,
+    "skills": [
+        {
+            "nameTextMapHash": "Yanagi_Skill_Normal_Desc",
+            "descTextMapHash": "Yanagi_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_Special_Desc",
+            "descTextMapHash": "Yanagi_Skill_Special_Desc"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_ExSpecial_Desc",
+            "descTextMapHash": "Yanagi_Skill_ExSpecial_Desc"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_Evade_Desc",
+            "descTextMapHash": "Yanagi_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_Rush_Desc",
+            "descTextMapHash": "Yanagi_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_Counter_Desc",
+            "descTextMapHash": "Yanagi_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_QTE_Desc",
+            "descTextMapHash": "Yanagi_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_ExQTE_Desc",
+            "descTextMapHash": "Yanagi_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_BeHitAid_Desc",
+            "descTextMapHash": "Yanagi_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_ParryAid_Desc",
+            "descTextMapHash": "Yanagi_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_AssaultAid_Desc",
+            "descTextMapHash": "Yanagi_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_Normal_Title_A",
+            "descTextMapHash": "Yanagi_Skill_Normal_Title_A"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_05",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_05"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_05",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_05"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_Normal_Title_B",
+            "descTextMapHash": "Yanagi_Skill_Normal_Title_B"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_05",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_05"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_05",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_05"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_Special_Title",
+            "descTextMapHash": "Yanagi_Skill_Special_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_ExSpecial_Title",
+            "descTextMapHash": "Yanagi_Skill_ExSpecial_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_Rush_Title",
+            "descTextMapHash": "Yanagi_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_Counter_Title",
+            "descTextMapHash": "Yanagi_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_QTE_Title",
+            "descTextMapHash": "Yanagi_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_ExQTE_Title",
+            "descTextMapHash": "Yanagi_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_BeHitAid_Title",
+            "descTextMapHash": "Yanagi_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_ParryAid_Title",
+            "descTextMapHash": "Yanagi_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Skill_AssaultAid_Title",
+            "descTextMapHash": "Yanagi_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Property_ExQTE_Desc_DamageRatio",
+            "descTextMapHash": "Yanagi_Property_ExQTE_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Property_ExSpecial_Desc_DamageRatio_01",
+            "descTextMapHash": "Yanagi_Property_ExSpecial_Desc_DamageRatio_01"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Property_ExSpecial_Desc_BreakStunRatio_01",
+            "descTextMapHash": "Yanagi_Property_ExSpecial_Desc_BreakStunRatio_01"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Property_ExSpecial_Desc_DamageRatio_02",
+            "descTextMapHash": "Yanagi_Property_ExSpecial_Desc_DamageRatio_02"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Property_ExSpecial_Desc_BreakStunRatio_02",
+            "descTextMapHash": "Yanagi_Property_ExSpecial_Desc_BreakStunRatio_02"
+        },
+        {
+            "nameTextMapHash": "Yanagi_Property_ExSpecial_Desc_DamageRatio_03",
+            "descTextMapHash": "Yanagi_Property_ExSpecial_Desc_DamageRatio_03"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "Yanagi_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "Yanagi_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "Yanagi_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "Yanagi_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "Yanagi_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "Yanagi_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

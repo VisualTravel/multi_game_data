@@ -1,0 +1,54 @@
+{
+    "id": 10000088,
+    "skillDepotId": 8801,
+    "constellations": [
+        {
+            "talentId": 881,
+            "index": 1,
+            "nameTextMapHash": 2993271985,
+            "descTextMapHash": 2701312023,
+            "icon": "UI_Talent_S_Charlotte_01",
+            "openConfig": "Charlotte_Constellation_1"
+        },
+        {
+            "talentId": 882,
+            "index": 2,
+            "nameTextMapHash": 2781039769,
+            "descTextMapHash": 2657009815,
+            "icon": "UI_Talent_S_Charlotte_02",
+            "openConfig": "Charlotte_Constellation_2"
+        },
+        {
+            "talentId": 883,
+            "index": 3,
+            "nameTextMapHash": 2635170905,
+            "descTextMapHash": 3096808935,
+            "icon": "UI_Talent_U_Charlotte_01",
+            "openConfig": "Charlotte_Constellation_3"
+        },
+        {
+            "talentId": 884,
+            "index": 4,
+            "nameTextMapHash": 1687165353,
+            "descTextMapHash": 2634137679,
+            "icon": "UI_Talent_S_Charlotte_03",
+            "openConfig": "Charlotte_Constellation_4"
+        },
+        {
+            "talentId": 885,
+            "index": 5,
+            "nameTextMapHash": 3847358953,
+            "descTextMapHash": 1583831151,
+            "icon": "UI_Talent_U_Charlotte_02",
+            "openConfig": "Charlotte_Constellation_5"
+        },
+        {
+            "talentId": 886,
+            "index": 6,
+            "nameTextMapHash": 445668417,
+            "descTextMapHash": 1739507031,
+            "icon": "UI_Talent_S_Charlotte_04",
+            "openConfig": "Charlotte_Constellation_6"
+        }
+    ]
+}

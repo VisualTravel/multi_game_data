@@ -1,0 +1,54 @@
+{
+    "id": 10000002,
+    "skillDepotId": 201,
+    "constellations": [
+        {
+            "talentId": 21,
+            "index": 1,
+            "nameTextMapHash": 3364695537,
+            "descTextMapHash": 194851991,
+            "icon": "UI_Talent_S_Ayaka_01",
+            "openConfig": "Ayaka_Constellation_1"
+        },
+        {
+            "talentId": 22,
+            "index": 2,
+            "nameTextMapHash": 562006217,
+            "descTextMapHash": 846521535,
+            "icon": "UI_Talent_S_Ayaka_02",
+            "openConfig": "Ayaka_Constellation_2"
+        },
+        {
+            "talentId": 23,
+            "index": 3,
+            "nameTextMapHash": 1186654377,
+            "descTextMapHash": 2194748751,
+            "icon": "UI_Talent_U_Ayaka_02",
+            "openConfig": "Ayaka_Constellation_3"
+        },
+        {
+            "talentId": 24,
+            "index": 4,
+            "nameTextMapHash": 2463453657,
+            "descTextMapHash": 2503540143,
+            "icon": "UI_Talent_S_Ayaka_03",
+            "openConfig": "Ayaka_Constellation_4"
+        },
+        {
+            "talentId": 25,
+            "index": 5,
+            "nameTextMapHash": 51560785,
+            "descTextMapHash": 2689473807,
+            "icon": "UI_Talent_U_Ayaka_01",
+            "openConfig": "Ayaka_Constellation_5"
+        },
+        {
+            "talentId": 26,
+            "index": 6,
+            "nameTextMapHash": 2587184401,
+            "descTextMapHash": 1834326191,
+            "icon": "UI_Talent_S_Ayaka_04",
+            "openConfig": "Ayaka_Constellation_6"
+        }
+    ]
+}

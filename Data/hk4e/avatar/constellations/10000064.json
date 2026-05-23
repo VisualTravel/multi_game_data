@@ -1,0 +1,54 @@
+{
+    "id": 10000064,
+    "skillDepotId": 6401,
+    "constellations": [
+        {
+            "talentId": 641,
+            "index": 1,
+            "nameTextMapHash": 3266663729,
+            "descTextMapHash": 196547639,
+            "icon": "UI_Talent_S_Yunjin_01",
+            "openConfig": "Yunjin_Constellation_1"
+        },
+        {
+            "talentId": 642,
+            "index": 2,
+            "nameTextMapHash": 3949156737,
+            "descTextMapHash": 1258924079,
+            "icon": "UI_Talent_S_Yunjin_02",
+            "openConfig": "Yunjin_Constellation_2"
+        },
+        {
+            "talentId": 643,
+            "index": 3,
+            "nameTextMapHash": 3536888057,
+            "descTextMapHash": 26925079,
+            "icon": "UI_Talent_U_Yunjin_01",
+            "openConfig": "Yunjin_Constellation_3"
+        },
+        {
+            "talentId": 644,
+            "index": 4,
+            "nameTextMapHash": 2785617089,
+            "descTextMapHash": 2804374551,
+            "icon": "UI_Talent_S_Yunjin_03",
+            "openConfig": "Yunjin_Constellation_4"
+        },
+        {
+            "talentId": 645,
+            "index": 5,
+            "nameTextMapHash": 1985941689,
+            "descTextMapHash": 1265824015,
+            "icon": "UI_Talent_U_Yunjin_02",
+            "openConfig": "Yunjin_Constellation_5"
+        },
+        {
+            "talentId": 646,
+            "index": 6,
+            "nameTextMapHash": 2696040833,
+            "descTextMapHash": 3355249799,
+            "icon": "UI_Talent_S_Yunjin_04",
+            "openConfig": "Yunjin_Constellation_6"
+        }
+    ]
+}

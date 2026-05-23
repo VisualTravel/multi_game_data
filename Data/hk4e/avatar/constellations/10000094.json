@@ -1,0 +1,54 @@
+{
+    "id": 10000094,
+    "skillDepotId": 9401,
+    "constellations": [
+        {
+            "talentId": 941,
+            "index": 1,
+            "nameTextMapHash": 689896825,
+            "descTextMapHash": 256130415,
+            "icon": "UI_Talent_S_Chiori_01",
+            "openConfig": "Chiori_Constellation_1"
+        },
+        {
+            "talentId": 942,
+            "index": 2,
+            "nameTextMapHash": 2112971153,
+            "descTextMapHash": 583489951,
+            "icon": "UI_Talent_S_Chiori_03",
+            "openConfig": "Chiori_Constellation_4"
+        },
+        {
+            "talentId": 943,
+            "index": 3,
+            "nameTextMapHash": 645847449,
+            "descTextMapHash": 1781876047,
+            "icon": "UI_Talent_U_Chiori_01",
+            "openConfig": "Chiori_Constellation_3"
+        },
+        {
+            "talentId": 944,
+            "index": 4,
+            "nameTextMapHash": 6373505,
+            "descTextMapHash": 3824887847,
+            "icon": "UI_Talent_S_Chiori_02",
+            "openConfig": "Chiori_Constellation_2"
+        },
+        {
+            "talentId": 945,
+            "index": 5,
+            "nameTextMapHash": 167855529,
+            "descTextMapHash": 3198149663,
+            "icon": "UI_Talent_U_Chiori_02",
+            "openConfig": "Chiori_Constellation_5"
+        },
+        {
+            "talentId": 946,
+            "index": 6,
+            "nameTextMapHash": 94227617,
+            "descTextMapHash": 420286535,
+            "icon": "UI_Talent_S_Chiori_04",
+            "openConfig": "Chiori_Constellation_6"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 10000064,
+    "skillDepotId": 6401,
+    "combatSkills": [
+        {
+            "skillId": 10641,
+            "nameTextMapHash": 4286587293,
+            "descTextMapHash": 1810788776,
+            "icon": "Skill_A_03",
+            "proudSkillGroupId": 6431
+        },
+        {
+            "skillId": 10642,
+            "nameTextMapHash": 2178271741,
+            "descTextMapHash": 1567883432,
+            "icon": "Skill_S_Yunjin_01",
+            "proudSkillGroupId": 6432
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2061261309,
+            "descTextMapHash": 1764839675,
+            "icon": "UI_Talent_S_Yunjin_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1468378453,
+            "descTextMapHash": 3288929659,
+            "icon": "UI_Talent_S_Yunjin_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 773398885,
+            "descTextMapHash": 1415116931,
+            "icon": "UI_Talent_S_Yunjin_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

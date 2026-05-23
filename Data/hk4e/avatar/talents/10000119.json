@@ -1,0 +1,46 @@
+{
+    "id": 10000119,
+    "skillDepotId": 11901,
+    "combatSkills": [
+        {
+            "skillId": 11191,
+            "nameTextMapHash": 2071054341,
+            "descTextMapHash": 3435232584,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 11931
+        },
+        {
+            "skillId": 11192,
+            "nameTextMapHash": 1298536581,
+            "descTextMapHash": 3332794792,
+            "icon": "Skill_S_Lauma_01",
+            "proudSkillGroupId": 11932
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3292095749,
+            "descTextMapHash": 2271775851,
+            "icon": "UI_Talent_S_Lauma_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3467859197,
+            "descTextMapHash": 2674139283,
+            "icon": "UI_Talent_S_Lauma_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 2495229965,
+            "descTextMapHash": 3041427899,
+            "icon": "UI_Talent_S_Lauma_07",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 856454485,
+            "descTextMapHash": 2514885019,
+            "icon": "UI_Talent_S_Lauma_08",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

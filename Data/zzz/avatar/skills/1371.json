@@ -1,0 +1,381 @@
+{
+    "id": 1371,
+    "skills": [
+        {
+            "nameTextMapHash": "YiXuan_Skill_Normal_Desc",
+            "descTextMapHash": "YiXuan_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Normal_Enhance_Desc",
+            "descTextMapHash": "YiXuan_Skill_Normal_Enhance_Desc"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Normal_Enhance_02_Desc",
+            "descTextMapHash": "YiXuan_Skill_Normal_Enhance_02_Desc"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Normal_05_Enhance_Desc",
+            "descTextMapHash": "YiXuan_Skill_Normal_05_Enhance_Desc"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Special_Desc",
+            "descTextMapHash": "YiXuan_Skill_Special_Desc"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_ExSpecial_01_Desc",
+            "descTextMapHash": "YiXuan_Skill_ExSpecial_01_Desc"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_ExSpecial_02_Desc",
+            "descTextMapHash": "YiXuan_Skill_ExSpecial_02_Desc"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_ExSpecial_03_Desc",
+            "descTextMapHash": "YiXuan_Skill_ExSpecial_03_Desc"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Evade_Desc",
+            "descTextMapHash": "YiXuan_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Rush_Desc",
+            "descTextMapHash": "YiXuan_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Dash_Desc",
+            "descTextMapHash": "YiXuan_Skill_Dash_Desc"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Counter_Desc",
+            "descTextMapHash": "YiXuan_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_QTE_Desc",
+            "descTextMapHash": "YiXuan_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_ExQTE_Desc",
+            "descTextMapHash": "YiXuan_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_ExQTE_02_Desc",
+            "descTextMapHash": "YiXuan_Skill_ExQTE_02_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_BeHitAid_Desc",
+            "descTextMapHash": "YiXuan_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_ParryAid_Desc",
+            "descTextMapHash": "YiXuan_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_AssaultAid_Desc",
+            "descTextMapHash": "YiXuan_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Normal_Title",
+            "descTextMapHash": "YiXuan_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_05",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_05"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_05",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_05"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Normal_Enhance_Title",
+            "descTextMapHash": "YiXuan_Skill_Normal_Enhance_Title"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Normal_Desc_Dmg_04_01",
+            "descTextMapHash": "YiXuan_Skill_Normal_Desc_Dmg_04_01"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Normal_Desc_Stun_04_01",
+            "descTextMapHash": "YiXuan_Skill_Normal_Desc_Stun_04_01"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Normal_Enhance_02_Title",
+            "descTextMapHash": "YiXuan_Skill_Normal_Enhance_02_Title"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Normal_Desc_Dmg_04_02",
+            "descTextMapHash": "YiXuan_Skill_Normal_Desc_Dmg_04_02"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Normal_Desc_Stun_04_02",
+            "descTextMapHash": "YiXuan_Skill_Normal_Desc_Stun_04_02"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Normal_05_Enhance_Title",
+            "descTextMapHash": "YiXuan_Skill_Normal_05_Enhance_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Special_Title",
+            "descTextMapHash": "YiXuan_Skill_Special_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_ExSpecial_01_Title",
+            "descTextMapHash": "YiXuan_Skill_ExSpecial_01_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Exsp_01_Desc_Dmg_01",
+            "descTextMapHash": "YiXuan_Skill_Exsp_01_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Exsp_01_Desc_Stun_01",
+            "descTextMapHash": "YiXuan_Skill_Exsp_01_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Property_ExSpecial_01_SpCostDesc_03",
+            "descTextMapHash": "YiXuan_Property_ExSpecial_01_SpCostDesc_03"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Exsp_02_Desc_Dmg_02",
+            "descTextMapHash": "YiXuan_Skill_Exsp_02_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Exsp_02_Desc_Stun_02",
+            "descTextMapHash": "YiXuan_Skill_Exsp_02_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Exsp_02_Desc_Dmg_03",
+            "descTextMapHash": "YiXuan_Skill_Exsp_02_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Exsp_02_Desc_Stun_03",
+            "descTextMapHash": "YiXuan_Skill_Exsp_02_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_ExSpecial_02_Title",
+            "descTextMapHash": "YiXuan_Skill_ExSpecial_02_Title"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Exsp_02_Desc_Dmg_01",
+            "descTextMapHash": "YiXuan_Skill_Exsp_02_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Exsp_02_Desc_Stun_01",
+            "descTextMapHash": "YiXuan_Skill_Exsp_02_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Property_ExSpecial_01_SpCostDesc_02",
+            "descTextMapHash": "YiXuan_Property_ExSpecial_01_SpCostDesc_02"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Property_ExSpecial_02_SpCostValue_01",
+            "descTextMapHash": "YiXuan_Property_ExSpecial_02_SpCostValue_01"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Property_ExSpecial_02_SpCostValue_03",
+            "descTextMapHash": "YiXuan_Property_ExSpecial_02_SpCostValue_03"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_ExSpecial_03_Title",
+            "descTextMapHash": "YiXuan_Skill_ExSpecial_03_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Rush_Title",
+            "descTextMapHash": "YiXuan_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_Counter_Title",
+            "descTextMapHash": "YiXuan_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_QTE_Title",
+            "descTextMapHash": "YiXuan_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_ExQTE_Title",
+            "descTextMapHash": "YiXuan_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_BeHitAid_Title",
+            "descTextMapHash": "YiXuan_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_ParryAid_Title",
+            "descTextMapHash": "YiXuan_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_AssaultAid_Title",
+            "descTextMapHash": "YiXuan_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "YiXuan_Skill_ExQTE_02_Title",
+            "descTextMapHash": "YiXuan_Skill_ExQTE_02_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "YiXuan_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "YiXuan_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "YiXuan_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "YiXuan_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "YiXuan_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "YiXuan_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

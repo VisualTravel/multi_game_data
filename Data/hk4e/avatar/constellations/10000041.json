@@ -1,0 +1,54 @@
+{
+    "id": 10000041,
+    "skillDepotId": 4101,
+    "constellations": [
+        {
+            "talentId": 411,
+            "index": 1,
+            "nameTextMapHash": 3262518681,
+            "descTextMapHash": 452602119,
+            "icon": "UI_Talent_S_Mona_01",
+            "openConfig": "Mona_Talent_01"
+        },
+        {
+            "talentId": 412,
+            "index": 2,
+            "nameTextMapHash": 3030801713,
+            "descTextMapHash": 2775747911,
+            "icon": "UI_Talent_S_Mona_02",
+            "openConfig": "Mona_Talent_02"
+        },
+        {
+            "talentId": 413,
+            "index": 3,
+            "nameTextMapHash": 3782923609,
+            "descTextMapHash": 4292321735,
+            "icon": "UI_Talent_U_Mona_01",
+            "openConfig": "Mona_Talent_03"
+        },
+        {
+            "talentId": 414,
+            "index": 4,
+            "nameTextMapHash": 488631345,
+            "descTextMapHash": 4223849663,
+            "icon": "UI_Talent_S_Mona_03",
+            "openConfig": "Mona_Talent_04"
+        },
+        {
+            "talentId": 415,
+            "index": 5,
+            "nameTextMapHash": 496657489,
+            "descTextMapHash": 167333135,
+            "icon": "UI_Talent_U_Mona_02",
+            "openConfig": "Mona_Talent_05"
+        },
+        {
+            "talentId": 416,
+            "index": 6,
+            "nameTextMapHash": 300946497,
+            "descTextMapHash": 2932631807,
+            "icon": "UI_Talent_S_Mona_04",
+            "openConfig": "Mona_Talent_06"
+        }
+    ]
+}

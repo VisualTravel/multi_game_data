@@ -1,0 +1,377 @@
+{
+    "id": 1201,
+    "skills": [
+        {
+            "nameTextMapHash": "Harumasa_Skill_Normal_Desc",
+            "descTextMapHash": "Harumasa_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_MoveAttack_Desc",
+            "descTextMapHash": "Harumasa_Skill_MoveAttack_Desc"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_AimAttack_Desc",
+            "descTextMapHash": "Harumasa_Skill_AimAttack_Desc"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_TriggerAttack_Desc",
+            "descTextMapHash": "Harumasa_Skill_TriggerAttack_Desc"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_Special_Desc",
+            "descTextMapHash": "Harumasa_Skill_Special_Desc"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_ExSpecial_Desc",
+            "descTextMapHash": "Harumasa_Skill_ExSpecial_Desc"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_ExSpecial_Upgrade_Desc",
+            "descTextMapHash": "Harumasa_Skill_ExSpecial_Upgrade_Desc"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_Evade_Desc",
+            "descTextMapHash": "Harumasa_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_Rush_Desc",
+            "descTextMapHash": "Harumasa_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_Counter_Desc",
+            "descTextMapHash": "Harumasa_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_QTE_Desc",
+            "descTextMapHash": "Harumasa_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_ExQTE_Desc",
+            "descTextMapHash": "Harumasa_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_ExQTE_Upgrade_Desc",
+            "descTextMapHash": "Harumasa_Skill_ExQTE_Upgrade_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_BeHitAid_Desc",
+            "descTextMapHash": "Harumasa_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_ParryAid_Desc",
+            "descTextMapHash": "Harumasa_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_AssaultAid_Desc",
+            "descTextMapHash": "Harumasa_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_FinishingSlash_Desc",
+            "descTextMapHash": "Harumasa_Skill_FinishingSlash_Desc"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_FinishingSlash_Upgrade_Desc",
+            "descTextMapHash": "Harumasa_Skill_FinishingSlash_Upgrade_Desc"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_Normal_Title",
+            "descTextMapHash": "Harumasa_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_05",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_05"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_05",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_05"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_MoveAttack_Title",
+            "descTextMapHash": "Harumasa_Skill_MoveAttack_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_AimAttack_Title",
+            "descTextMapHash": "Harumasa_Skill_AimAttack_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_TriggerAttack_Title",
+            "descTextMapHash": "Harumasa_Skill_TriggerAttack_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_Special_Title",
+            "descTextMapHash": "Harumasa_Skill_Special_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_ExSpecial_Title",
+            "descTextMapHash": "Harumasa_Skill_ExSpecial_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_ExSpecial_Upgrade_Title",
+            "descTextMapHash": "Harumasa_Skill_ExSpecial_Upgrade_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_Rush_Title",
+            "descTextMapHash": "Harumasa_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_Counter_Title",
+            "descTextMapHash": "Harumasa_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_QTE_Title",
+            "descTextMapHash": "Harumasa_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_ExQTE_Title",
+            "descTextMapHash": "Harumasa_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_ExQTE_Upgrade_Title",
+            "descTextMapHash": "Harumasa_Skill_ExQTE_Upgrade_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_BeHitAid_Title",
+            "descTextMapHash": "Harumasa_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_ParryAid_Title",
+            "descTextMapHash": "Harumasa_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_AssaultAid_Title",
+            "descTextMapHash": "Harumasa_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_FinishingSlash_Title",
+            "descTextMapHash": "Harumasa_Skill_FinishingSlash_Title"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Property_FinishingSlash_Desc_DamageRatio_01",
+            "descTextMapHash": "Harumasa_Property_FinishingSlash_Desc_DamageRatio_01"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Property_FinishingSlash_Desc_DamageRatio_02",
+            "descTextMapHash": "Harumasa_Property_FinishingSlash_Desc_DamageRatio_02"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Property_FinishingSlash_Desc_DamageRatio_03",
+            "descTextMapHash": "Harumasa_Property_FinishingSlash_Desc_DamageRatio_03"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Property_FinishingSlash_Desc_BreakStunRatio_01",
+            "descTextMapHash": "Harumasa_Property_FinishingSlash_Desc_BreakStunRatio_01"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Property_FinishingSlash_Desc_BreakStunRatio_02",
+            "descTextMapHash": "Harumasa_Property_FinishingSlash_Desc_BreakStunRatio_02"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Property_FinishingSlash_Desc_BreakStunRatio_03",
+            "descTextMapHash": "Harumasa_Property_FinishingSlash_Desc_BreakStunRatio_03"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Skill_FinishingSlash_UpgradeTitle",
+            "descTextMapHash": "Harumasa_Skill_FinishingSlash_UpgradeTitle"
+        },
+        {
+            "nameTextMapHash": "Harumasa_Property_FinishingSlash_Upgrade_Desc_DamageRatio_01",
+            "descTextMapHash": "Harumasa_Property_FinishingSlash_Upgrade_Desc_DamageRatio_01"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "Harumasa_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "Harumasa_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "Harumasa_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "Harumasa_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "Harumasa_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "Harumasa_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

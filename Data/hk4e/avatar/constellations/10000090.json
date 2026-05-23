@@ -1,0 +1,54 @@
+{
+    "id": 10000090,
+    "skillDepotId": 9001,
+    "constellations": [
+        {
+            "talentId": 901,
+            "index": 1,
+            "nameTextMapHash": 398920769,
+            "descTextMapHash": 3123102119,
+            "icon": "UI_Talent_S_Chevreuse_01",
+            "openConfig": "Chevreuse_Constellation_1"
+        },
+        {
+            "talentId": 902,
+            "index": 2,
+            "nameTextMapHash": 2697537777,
+            "descTextMapHash": 3329833999,
+            "icon": "UI_Talent_S_Chevreuse_02",
+            "openConfig": "Chevreuse_Constellation_2"
+        },
+        {
+            "talentId": 903,
+            "index": 3,
+            "nameTextMapHash": 2071053617,
+            "descTextMapHash": 2002552207,
+            "icon": "UI_Talent_U_Chevreuse_01",
+            "openConfig": "Chevreuse_Constellation_3"
+        },
+        {
+            "talentId": 904,
+            "index": 4,
+            "nameTextMapHash": 737123625,
+            "descTextMapHash": 3219931159,
+            "icon": "UI_Talent_S_Chevreuse_03",
+            "openConfig": "Chevreuse_Constellation_4"
+        },
+        {
+            "talentId": 905,
+            "index": 5,
+            "nameTextMapHash": 4209803729,
+            "descTextMapHash": 2866944343,
+            "icon": "UI_Talent_U_Chevreuse_02",
+            "openConfig": "Chevreuse_Constellation_5"
+        },
+        {
+            "talentId": 906,
+            "index": 6,
+            "nameTextMapHash": 3915840561,
+            "descTextMapHash": 2694669439,
+            "icon": "UI_Talent_S_Chevreuse_04",
+            "openConfig": "Chevreuse_Constellation_6"
+        }
+    ]
+}

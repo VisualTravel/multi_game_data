@@ -1,0 +1,54 @@
+{
+    "id": 10000021,
+    "skillDepotId": 2101,
+    "constellations": [
+        {
+            "talentId": 211,
+            "index": 1,
+            "nameTextMapHash": 1803598873,
+            "descTextMapHash": 2709231063,
+            "icon": "UI_Talent_S_Ambor_01",
+            "openConfig": "Ambor_Talent_212"
+        },
+        {
+            "talentId": 212,
+            "index": 2,
+            "nameTextMapHash": 2183507145,
+            "descTextMapHash": 967025055,
+            "icon": "UI_Talent_S_Ambor_02",
+            "openConfig": "Ambor_Talent_213"
+        },
+        {
+            "talentId": 213,
+            "index": 3,
+            "nameTextMapHash": 1196596641,
+            "descTextMapHash": 2432552439,
+            "icon": "UI_Talent_U_Ambor_02",
+            "openConfig": "Ambor_Talent_E_Levelup"
+        },
+        {
+            "talentId": 214,
+            "index": 4,
+            "nameTextMapHash": 2969048313,
+            "descTextMapHash": 3308084711,
+            "icon": "UI_Talent_S_Ambor_03",
+            "openConfig": "Ambor_Talent_211"
+        },
+        {
+            "talentId": 215,
+            "index": 5,
+            "nameTextMapHash": 1752632681,
+            "descTextMapHash": 3697934583,
+            "icon": "UI_Talent_U_Ambor_01",
+            "openConfig": "Ambor_Talent_S_Levelup"
+        },
+        {
+            "talentId": 216,
+            "index": 6,
+            "nameTextMapHash": 1429105737,
+            "descTextMapHash": 2414193767,
+            "icon": "UI_Talent_S_Ambor_04",
+            "openConfig": "Ambor_Talent_216"
+        }
+    ]
+}

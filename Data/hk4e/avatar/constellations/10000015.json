@@ -1,0 +1,54 @@
+{
+    "id": 10000015,
+    "skillDepotId": 1501,
+    "constellations": [
+        {
+            "talentId": 151,
+            "index": 1,
+            "nameTextMapHash": 1478938033,
+            "descTextMapHash": 2364565991,
+            "icon": "UI_Talent_S_Kaeya_01",
+            "openConfig": "Kaeya_Constellation_1"
+        },
+        {
+            "talentId": 152,
+            "index": 2,
+            "nameTextMapHash": 1425365433,
+            "descTextMapHash": 2342847911,
+            "icon": "UI_Talent_S_Kaeya_02",
+            "openConfig": "Kaeya_Constellation_2"
+        },
+        {
+            "talentId": 153,
+            "index": 3,
+            "nameTextMapHash": 1397995697,
+            "descTextMapHash": 4020405287,
+            "icon": "UI_Talent_U_Kaeya_01",
+            "openConfig": "Kaeya_Constellation_3"
+        },
+        {
+            "talentId": 154,
+            "index": 4,
+            "nameTextMapHash": 1595754497,
+            "descTextMapHash": 3513561575,
+            "icon": "UI_Talent_S_Kaeya_03",
+            "openConfig": "Kaeya_Constellation_4"
+        },
+        {
+            "talentId": 155,
+            "index": 5,
+            "nameTextMapHash": 1102683585,
+            "descTextMapHash": 3968399367,
+            "icon": "UI_Talent_U_Kaeya_02",
+            "openConfig": "Kaeya_Constellation_5"
+        },
+        {
+            "talentId": 156,
+            "index": 6,
+            "nameTextMapHash": 2310553705,
+            "descTextMapHash": 3726105031,
+            "icon": "UI_Talent_S_Kaeya_04",
+            "openConfig": "Kaeya_Constellation_6"
+        }
+    ]
+}

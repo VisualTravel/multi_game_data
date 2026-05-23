@@ -1,0 +1,54 @@
+{
+    "id": 10000053,
+    "skillDepotId": 5301,
+    "constellations": [
+        {
+            "talentId": 531,
+            "index": 1,
+            "nameTextMapHash": 1959569841,
+            "descTextMapHash": 443786623,
+            "icon": "UI_Talent_S_Sayu_01",
+            "openConfig": "Sayu_Constellation_1"
+        },
+        {
+            "talentId": 532,
+            "index": 2,
+            "nameTextMapHash": 2759348225,
+            "descTextMapHash": 2039052767,
+            "icon": "UI_Talent_S_Sayu_02",
+            "openConfig": "Sayu_Constellation_2"
+        },
+        {
+            "talentId": 533,
+            "index": 3,
+            "nameTextMapHash": 1035024865,
+            "descTextMapHash": 2151111159,
+            "icon": "UI_Talent_U_Sayu_02",
+            "openConfig": "Sayu_Constellation_3"
+        },
+        {
+            "talentId": 534,
+            "index": 4,
+            "nameTextMapHash": 3582154129,
+            "descTextMapHash": 2015469711,
+            "icon": "UI_Talent_S_Sayu_03",
+            "openConfig": "Sayu_Constellation_4"
+        },
+        {
+            "talentId": 535,
+            "index": 5,
+            "nameTextMapHash": 4066463977,
+            "descTextMapHash": 3761904935,
+            "icon": "UI_Talent_U_Sayu_01",
+            "openConfig": "Sayu_Constellation_5"
+        },
+        {
+            "talentId": 536,
+            "index": 6,
+            "nameTextMapHash": 3913839841,
+            "descTextMapHash": 3551240383,
+            "icon": "UI_Talent_S_Sayu_04",
+            "openConfig": "Sayu_Constellation_6"
+        }
+    ]
+}

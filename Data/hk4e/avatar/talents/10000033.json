@@ -1,0 +1,40 @@
+{
+    "id": 10000033,
+    "skillDepotId": 3301,
+    "combatSkills": [
+        {
+            "skillId": 10331,
+            "nameTextMapHash": 2900039733,
+            "descTextMapHash": 3006750992,
+            "icon": "Skill_A_02",
+            "proudSkillGroupId": 3331
+        },
+        {
+            "skillId": 10332,
+            "nameTextMapHash": 863456293,
+            "descTextMapHash": 4166160472,
+            "icon": "Skill_S_Tartaglia_01",
+            "proudSkillGroupId": 3332
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3534614005,
+            "descTextMapHash": 2913186835,
+            "icon": "UI_Talent_S_Tartaglia_03",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 662583773,
+            "descTextMapHash": 2794165467,
+            "icon": "UI_Talent_S_Tartaglia_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3474328653,
+            "descTextMapHash": 3671922915,
+            "icon": "UI_Talent_S_Tartaglia_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

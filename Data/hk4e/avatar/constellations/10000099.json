@@ -1,0 +1,54 @@
+{
+    "id": 10000099,
+    "skillDepotId": 9901,
+    "constellations": [
+        {
+            "talentId": 991,
+            "index": 1,
+            "nameTextMapHash": 740812865,
+            "descTextMapHash": 1921212431,
+            "icon": "UI_Talent_S_Emilie_01",
+            "openConfig": "Emilie_Constellation_1"
+        },
+        {
+            "talentId": 992,
+            "index": 2,
+            "nameTextMapHash": 888272097,
+            "descTextMapHash": 2420728215,
+            "icon": "UI_Talent_S_Emilie_02",
+            "openConfig": "Emilie_Constellation_2"
+        },
+        {
+            "talentId": 993,
+            "index": 3,
+            "nameTextMapHash": 1597660457,
+            "descTextMapHash": 4015232399,
+            "icon": "UI_Talent_U_Emilie_01",
+            "openConfig": "Emilie_Constellation_3"
+        },
+        {
+            "talentId": 994,
+            "index": 4,
+            "nameTextMapHash": 349963729,
+            "descTextMapHash": 3341136095,
+            "icon": "UI_Talent_S_Emilie_03",
+            "openConfig": "Emilie_Constellation_4"
+        },
+        {
+            "talentId": 995,
+            "index": 5,
+            "nameTextMapHash": 100926833,
+            "descTextMapHash": 1432257591,
+            "icon": "UI_Talent_U_Emilie_02",
+            "openConfig": "Emilie_Constellation_5"
+        },
+        {
+            "talentId": 996,
+            "index": 6,
+            "nameTextMapHash": 1536750705,
+            "descTextMapHash": 1697944887,
+            "icon": "UI_Talent_S_Emilie_04",
+            "openConfig": "Emilie_Constellation_6"
+        }
+    ]
+}

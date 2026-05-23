@@ -1,0 +1,100 @@
+{
+    "id": 12201,
+    "nameTextMapHash": 1182966091,
+    "descTextMapHash": 169605469,
+    "rarity": 2,
+    "weaponType": "WEAPON_CLAYMORE",
+    "icon": "UI_EquipIcon_Claymore_Oyaji",
+    "baseStats": {
+        "attackBase": 32.93
+    },
+    "refinements": {
+        "affixId": 0,
+        "nameTextMapHash": null,
+        "levels": []
+    },
+    "promotions": [
+        {
+            "level": 0,
+            "maxLevel": 20,
+            "addAttack": 0,
+            "costItems": []
+        },
+        {
+            "level": 1,
+            "maxLevel": 40,
+            "addAttack": 11.7,
+            "costItems": [
+                {
+                    "id": 114005,
+                    "count": 1
+                },
+                {
+                    "id": 112020,
+                    "count": 1
+                },
+                {
+                    "id": 112002,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "level": 2,
+            "maxLevel": 50,
+            "addAttack": 23.3,
+            "costItems": [
+                {
+                    "id": 114006,
+                    "count": 1
+                },
+                {
+                    "id": 112020,
+                    "count": 5
+                },
+                {
+                    "id": 112002,
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "level": 3,
+            "maxLevel": 60,
+            "addAttack": 35,
+            "costItems": [
+                {
+                    "id": 114006,
+                    "count": 3
+                },
+                {
+                    "id": 112021,
+                    "count": 3
+                },
+                {
+                    "id": 112003,
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "level": 4,
+            "maxLevel": 70,
+            "addAttack": 46.7,
+            "costItems": [
+                {
+                    "id": 114007,
+                    "count": 1
+                },
+                {
+                    "id": 112021,
+                    "count": 5
+                },
+                {
+                    "id": 112003,
+                    "count": 4
+                }
+            ]
+        }
+    ]
+}

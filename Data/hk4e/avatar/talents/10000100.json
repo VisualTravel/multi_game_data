@@ -1,0 +1,46 @@
+{
+    "id": 10000100,
+    "skillDepotId": 10001,
+    "combatSkills": [
+        {
+            "skillId": 11001,
+            "nameTextMapHash": 4116744293,
+            "descTextMapHash": 1347355680,
+            "icon": "Skill_A_03",
+            "proudSkillGroupId": 10031
+        },
+        {
+            "skillId": 11002,
+            "nameTextMapHash": 534022181,
+            "descTextMapHash": 790944136,
+            "icon": "Skill_S_Kachina_01",
+            "proudSkillGroupId": 10032
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 1167570173,
+            "descTextMapHash": 504694211,
+            "icon": "UI_Talent_S_Kachina_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1959285821,
+            "descTextMapHash": 1579279683,
+            "icon": "UI_Talent_S_Kachina_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 16013805,
+            "descTextMapHash": 311460187,
+            "icon": "UI_Talent_S_Kachina_07",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 718581789,
+            "descTextMapHash": 774491579,
+            "icon": "UI_Talent_S_Kachina_08",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

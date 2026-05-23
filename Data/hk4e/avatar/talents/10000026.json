@@ -1,0 +1,40 @@
+{
+    "id": 10000026,
+    "skillDepotId": 2601,
+    "combatSkills": [
+        {
+            "skillId": 10261,
+            "nameTextMapHash": 232047933,
+            "descTextMapHash": 81972376,
+            "icon": "Skill_A_03",
+            "proudSkillGroupId": 2631
+        },
+        {
+            "skillId": 10262,
+            "nameTextMapHash": 45357229,
+            "descTextMapHash": 1423350968,
+            "icon": "Skill_S_Xiao_01",
+            "proudSkillGroupId": 2632
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 1374918717,
+            "descTextMapHash": 3596784955,
+            "icon": "UI_Talent_S_Xiao_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 2600189189,
+            "descTextMapHash": 1170290155,
+            "icon": "UI_Talent_S_Xiao_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1046467645,
+            "descTextMapHash": 1894256979,
+            "icon": "UI_Talent_Explosion_Climb",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 10000034,
+    "skillDepotId": 3401,
+    "constellations": [
+        {
+            "talentId": 341,
+            "index": 1,
+            "nameTextMapHash": 3743570273,
+            "descTextMapHash": 2305612271,
+            "icon": "UI_Talent_S_Noel_01",
+            "openConfig": "Noel_Talent_341"
+        },
+        {
+            "talentId": 342,
+            "index": 2,
+            "nameTextMapHash": 680992073,
+            "descTextMapHash": 2663640239,
+            "icon": "UI_Talent_S_Noel_02",
+            "openConfig": "Noel_Talent_342"
+        },
+        {
+            "talentId": 343,
+            "index": 3,
+            "nameTextMapHash": 4141797449,
+            "descTextMapHash": 2912207199,
+            "icon": "UI_Talent_U_Noel_01",
+            "openConfig": "Noel_Talent_S_Levelup"
+        },
+        {
+            "talentId": 344,
+            "index": 4,
+            "nameTextMapHash": 50520097,
+            "descTextMapHash": 4101456215,
+            "icon": "UI_Talent_S_Noel_03",
+            "openConfig": "Noel_Talent_344"
+        },
+        {
+            "talentId": 345,
+            "index": 5,
+            "nameTextMapHash": 976069081,
+            "descTextMapHash": 2820351255,
+            "icon": "UI_Talent_U_Noel_02",
+            "openConfig": "Noel_Talent_E_Levelup"
+        },
+        {
+            "talentId": 346,
+            "index": 6,
+            "nameTextMapHash": 79083841,
+            "descTextMapHash": 2091164863,
+            "icon": "UI_Talent_S_Noel_04",
+            "openConfig": "Noel_Talent_346"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 10000107,
+    "skillDepotId": 10701,
+    "constellations": [
+        {
+            "talentId": 1071,
+            "index": 1,
+            "nameTextMapHash": 148025721,
+            "descTextMapHash": 1128690815,
+            "icon": "UI_Talent_S_Citlali_01",
+            "openConfig": "Citlali_Constellation_1"
+        },
+        {
+            "talentId": 1072,
+            "index": 2,
+            "nameTextMapHash": 2870162929,
+            "descTextMapHash": 3414507599,
+            "icon": "UI_Talent_S_Citlali_02",
+            "openConfig": "Citlali_Constellation_2"
+        },
+        {
+            "talentId": 1073,
+            "index": 3,
+            "nameTextMapHash": 1709441289,
+            "descTextMapHash": 1738125639,
+            "icon": "UI_Talent_U_Citlali_01",
+            "openConfig": "Citlali_Constellation_3"
+        },
+        {
+            "talentId": 1074,
+            "index": 4,
+            "nameTextMapHash": 2241977817,
+            "descTextMapHash": 844169599,
+            "icon": "UI_Talent_S_Citlali_03",
+            "openConfig": "Citlali_Constellation_4"
+        },
+        {
+            "talentId": 1075,
+            "index": 5,
+            "nameTextMapHash": 337811769,
+            "descTextMapHash": 3995337215,
+            "icon": "UI_Talent_U_Citlali_02",
+            "openConfig": "Citlali_Constellation_5"
+        },
+        {
+            "talentId": 1076,
+            "index": 6,
+            "nameTextMapHash": 1572836713,
+            "descTextMapHash": 1732395279,
+            "icon": "UI_Talent_S_Citlali_04",
+            "openConfig": "Citlali_Constellation_6"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 10000124,
+    "skillDepotId": 12401,
+    "constellations": [
+        {
+            "talentId": 1241,
+            "index": 1,
+            "nameTextMapHash": 4129793257,
+            "descTextMapHash": 3414486143,
+            "icon": "UI_Talent_S_Jahoda_03",
+            "openConfig": "Jahoda_Constellation_1"
+        },
+        {
+            "talentId": 1242,
+            "index": 2,
+            "nameTextMapHash": 2860272705,
+            "descTextMapHash": 692331951,
+            "icon": "UI_Talent_S_Jahoda_02",
+            "openConfig": "Jahoda_Constellation_2"
+        },
+        {
+            "talentId": 1243,
+            "index": 3,
+            "nameTextMapHash": 2870980833,
+            "descTextMapHash": 1367736607,
+            "icon": "UI_Talent_U_Jahoda_01",
+            "openConfig": "Jahoda_Constellation_3"
+        },
+        {
+            "talentId": 1244,
+            "index": 4,
+            "nameTextMapHash": 3056170129,
+            "descTextMapHash": 887764199,
+            "icon": "UI_Talent_S_Jahoda_01",
+            "openConfig": "Jahoda_Constellation_4"
+        },
+        {
+            "talentId": 1245,
+            "index": 5,
+            "nameTextMapHash": 1070924833,
+            "descTextMapHash": 1228864583,
+            "icon": "UI_Talent_U_Jahoda_02",
+            "openConfig": "Jahoda_Constellation_5"
+        },
+        {
+            "talentId": 1246,
+            "index": 6,
+            "nameTextMapHash": 3040403921,
+            "descTextMapHash": 2205471751,
+            "icon": "UI_Talent_S_Jahoda_04",
+            "openConfig": "Jahoda_Constellation_6"
+        }
+    ]
+}

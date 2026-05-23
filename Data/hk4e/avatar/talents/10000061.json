@@ -1,0 +1,40 @@
+{
+    "id": 10000061,
+    "skillDepotId": 6101,
+    "combatSkills": [
+        {
+            "skillId": 10611,
+            "nameTextMapHash": 2089915453,
+            "descTextMapHash": 288912712,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 6131
+        },
+        {
+            "skillId": 10612,
+            "nameTextMapHash": 3512914269,
+            "descTextMapHash": 2238188544,
+            "icon": "Skill_S_Momoka_01",
+            "proudSkillGroupId": 6132
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 4017209669,
+            "descTextMapHash": 4023198939,
+            "icon": "UI_Talent_S_Momoka_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 2101970181,
+            "descTextMapHash": 2938528771,
+            "icon": "UI_Talent_S_Momoka_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3092481501,
+            "descTextMapHash": 1887945779,
+            "icon": "UI_Talent_S_Aloy_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

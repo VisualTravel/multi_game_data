@@ -1,0 +1,54 @@
+{
+    "id": 10000113,
+    "skillDepotId": 11301,
+    "constellations": [
+        {
+            "talentId": 1131,
+            "index": 1,
+            "nameTextMapHash": 2814485609,
+            "descTextMapHash": 1501876287,
+            "icon": "UI_Talent_S_Ifa_01",
+            "openConfig": "Ifa_Constellation_1"
+        },
+        {
+            "talentId": 1132,
+            "index": 2,
+            "nameTextMapHash": 343417985,
+            "descTextMapHash": 1249098799,
+            "icon": "UI_Talent_S_Ifa_02",
+            "openConfig": "Ifa_Constellation_2"
+        },
+        {
+            "talentId": 1133,
+            "index": 3,
+            "nameTextMapHash": 3301468409,
+            "descTextMapHash": 2641799423,
+            "icon": "UI_Talent_U_Ifa_01",
+            "openConfig": "Ifa_Constellation_3"
+        },
+        {
+            "talentId": 1134,
+            "index": 4,
+            "nameTextMapHash": 2541029529,
+            "descTextMapHash": 3105534399,
+            "icon": "UI_Talent_S_Ifa_03",
+            "openConfig": "Ifa_Constellation_4"
+        },
+        {
+            "talentId": 1135,
+            "index": 5,
+            "nameTextMapHash": 1988960393,
+            "descTextMapHash": 995679631,
+            "icon": "UI_Talent_U_Ifa_02",
+            "openConfig": "Ifa_Constellation_5"
+        },
+        {
+            "talentId": 1136,
+            "index": 6,
+            "nameTextMapHash": 1817396705,
+            "descTextMapHash": 1435639951,
+            "icon": "UI_Talent_S_Ifa_04",
+            "openConfig": "Ifa_Constellation_6"
+        }
+    ]
+}

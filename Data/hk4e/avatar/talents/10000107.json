@@ -1,0 +1,53 @@
+{
+    "id": 10000107,
+    "skillDepotId": 10701,
+    "combatSkills": [
+        {
+            "skillId": 11071,
+            "nameTextMapHash": 226354629,
+            "descTextMapHash": 4264786080,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 10731
+        },
+        {
+            "skillId": 11072,
+            "nameTextMapHash": 1671602349,
+            "descTextMapHash": 2524050632,
+            "icon": "Skill_S_Citlali_01",
+            "proudSkillGroupId": 10732
+        },
+        {
+            "skillId": 11076,
+            "nameTextMapHash": 2796949725,
+            "descTextMapHash": 2369047848,
+            "icon": "Skill_S_Citlali_03",
+            "proudSkillGroupId": 0
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 998843565,
+            "descTextMapHash": 4033363987,
+            "icon": "UI_Talent_S_Citlali_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 4171429141,
+            "descTextMapHash": 3825590299,
+            "icon": "UI_Talent_S_Citlali_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 437883013,
+            "descTextMapHash": 2084746379,
+            "icon": "UI_Talent_S_Citlali_08",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 3402736725,
+            "descTextMapHash": 1397249131,
+            "icon": "UI_Talent_S_Mavuika_08",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 10000046,
+    "skillDepotId": 4601,
+    "constellations": [
+        {
+            "talentId": 461,
+            "index": 1,
+            "nameTextMapHash": 2081199193,
+            "descTextMapHash": 67777719,
+            "icon": "UI_Talent_S_Hutao_03",
+            "openConfig": "Hutao_Constellation_1"
+        },
+        {
+            "talentId": 462,
+            "index": 2,
+            "nameTextMapHash": 1768747369,
+            "descTextMapHash": 3620258903,
+            "icon": "UI_Talent_S_Hutao_01",
+            "openConfig": "Hutao_Constellation_2"
+        },
+        {
+            "talentId": 463,
+            "index": 3,
+            "nameTextMapHash": 3111083185,
+            "descTextMapHash": 3057870071,
+            "icon": "UI_Talent_U_Hutao_01",
+            "openConfig": "Hutao_Constellation_3"
+        },
+        {
+            "talentId": 464,
+            "index": 4,
+            "nameTextMapHash": 4276933097,
+            "descTextMapHash": 3695286279,
+            "icon": "UI_Talent_S_Hutao_02",
+            "openConfig": "Hutao_Constellation_4"
+        },
+        {
+            "talentId": 465,
+            "index": 5,
+            "nameTextMapHash": 658527361,
+            "descTextMapHash": 2735458471,
+            "icon": "UI_Talent_U_Hutao_02",
+            "openConfig": "Hutao_Constellation_5"
+        },
+        {
+            "talentId": 466,
+            "index": 6,
+            "nameTextMapHash": 2361885697,
+            "descTextMapHash": 3811816727,
+            "icon": "UI_Talent_S_Hutao_04",
+            "openConfig": "Hutao_Constellation_6"
+        }
+    ]
+}

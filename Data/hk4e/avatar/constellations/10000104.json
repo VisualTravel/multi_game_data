@@ -1,0 +1,54 @@
+{
+    "id": 10000104,
+    "skillDepotId": 10401,
+    "constellations": [
+        {
+            "talentId": 1041,
+            "index": 1,
+            "nameTextMapHash": 465486001,
+            "descTextMapHash": 3862803695,
+            "icon": "UI_Talent_S_Chasca_01",
+            "openConfig": "Chasca_Constellation_1"
+        },
+        {
+            "talentId": 1042,
+            "index": 2,
+            "nameTextMapHash": 3910827289,
+            "descTextMapHash": 3643355487,
+            "icon": "UI_Talent_S_Chasca_02",
+            "openConfig": "Chasca_Constellation_2"
+        },
+        {
+            "talentId": 1043,
+            "index": 3,
+            "nameTextMapHash": 1841740105,
+            "descTextMapHash": 3485796759,
+            "icon": "UI_Talent_U_Chasca_01",
+            "openConfig": "Chasca_Constellation_3"
+        },
+        {
+            "talentId": 1044,
+            "index": 4,
+            "nameTextMapHash": 667354417,
+            "descTextMapHash": 2289202271,
+            "icon": "UI_Talent_S_Chasca_03",
+            "openConfig": "Chasca_Constellation_4"
+        },
+        {
+            "talentId": 1045,
+            "index": 5,
+            "nameTextMapHash": 1459308833,
+            "descTextMapHash": 2742279247,
+            "icon": "UI_Talent_U_Chasca_02",
+            "openConfig": "Chasca_Constellation_5"
+        },
+        {
+            "talentId": 1046,
+            "index": 6,
+            "nameTextMapHash": 1544162401,
+            "descTextMapHash": 1570718103,
+            "icon": "UI_Talent_S_Chasca_04",
+            "openConfig": "Chasca_Constellation_6"
+        }
+    ]
+}

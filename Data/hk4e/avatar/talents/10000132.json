@@ -1,0 +1,46 @@
+{
+    "id": 10000132,
+    "skillDepotId": 13201,
+    "combatSkills": [
+        {
+            "skillId": 11321,
+            "nameTextMapHash": 1006036133,
+            "descTextMapHash": 4092228608,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 13231
+        },
+        {
+            "skillId": 11322,
+            "nameTextMapHash": 2934257109,
+            "descTextMapHash": 2759634264,
+            "icon": "Skill_S_Prune_01",
+            "proudSkillGroupId": 13232
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 1446117485,
+            "descTextMapHash": 1040395499,
+            "icon": "UI_Talent_S_Prune_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1978909965,
+            "descTextMapHash": 3651852403,
+            "icon": "UI_Talent_S_Prune_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3931982973,
+            "descTextMapHash": 945400307,
+            "icon": "UI_Talent_S_Prune_08",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 690482325,
+            "descTextMapHash": 853347827,
+            "icon": "UI_Talent_S_Prune_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

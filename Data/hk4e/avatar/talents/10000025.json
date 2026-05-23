@@ -1,0 +1,40 @@
+{
+    "id": 10000025,
+    "skillDepotId": 2501,
+    "combatSkills": [
+        {
+            "skillId": 10381,
+            "nameTextMapHash": 3909984477,
+            "descTextMapHash": 503478736,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 2531
+        },
+        {
+            "skillId": 10382,
+            "nameTextMapHash": 4213665965,
+            "descTextMapHash": 200360248,
+            "icon": "Skill_S_Xingqiu_01",
+            "proudSkillGroupId": 2532
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3839275325,
+            "descTextMapHash": 1227799763,
+            "icon": "UI_Talent_S_Xingqiu_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1606021549,
+            "descTextMapHash": 4284313627,
+            "icon": "UI_Talent_S_Xingqiu_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3481722973,
+            "descTextMapHash": 3755741339,
+            "icon": "UI_Talent_Combine_Talent",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

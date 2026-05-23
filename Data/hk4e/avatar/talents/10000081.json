@@ -1,0 +1,40 @@
+{
+    "id": 10000081,
+    "skillDepotId": 8101,
+    "combatSkills": [
+        {
+            "skillId": 10811,
+            "nameTextMapHash": 2101931029,
+            "descTextMapHash": 183925016,
+            "icon": "Skill_A_04",
+            "proudSkillGroupId": 8131
+        },
+        {
+            "skillId": 10812,
+            "nameTextMapHash": 4260508917,
+            "descTextMapHash": 3670753288,
+            "icon": "Skill_S_Kaveh_01",
+            "proudSkillGroupId": 8132
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 444482733,
+            "descTextMapHash": 3428274331,
+            "icon": "UI_Talent_S_Kaveh_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 4205698357,
+            "descTextMapHash": 1749561651,
+            "icon": "UI_Talent_S_Kaveh_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1658970493,
+            "descTextMapHash": 839041299,
+            "icon": "UI_Talent_S_Yoimiya_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 10000092,
+    "skillDepotId": 9201,
+    "constellations": [
+        {
+            "talentId": 921,
+            "index": 1,
+            "nameTextMapHash": 4018877873,
+            "descTextMapHash": 3450583255,
+            "icon": "UI_Talent_S_Gaming_01",
+            "openConfig": "Gaming_Constellation_1"
+        },
+        {
+            "talentId": 922,
+            "index": 2,
+            "nameTextMapHash": 246603977,
+            "descTextMapHash": 3328192543,
+            "icon": "UI_Talent_S_Gaming_02",
+            "openConfig": "Gaming_Constellation_2"
+        },
+        {
+            "talentId": 923,
+            "index": 3,
+            "nameTextMapHash": 4116317577,
+            "descTextMapHash": 1295622207,
+            "icon": "UI_Talent_U_Gaming_01",
+            "openConfig": "Gaming_Constellation_3"
+        },
+        {
+            "talentId": 924,
+            "index": 4,
+            "nameTextMapHash": 4187766889,
+            "descTextMapHash": 2357270623,
+            "icon": "UI_Talent_S_Gaming_03",
+            "openConfig": "Gaming_Constellation_4"
+        },
+        {
+            "talentId": 925,
+            "index": 5,
+            "nameTextMapHash": 3549979873,
+            "descTextMapHash": 75197663,
+            "icon": "UI_Talent_U_Gaming_02",
+            "openConfig": "Gaming_Constellation_5"
+        },
+        {
+            "talentId": 926,
+            "index": 6,
+            "nameTextMapHash": 3486976121,
+            "descTextMapHash": 2246195671,
+            "icon": "UI_Talent_S_Gaming_04",
+            "openConfig": "Gaming_Constellation_6"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 10000044,
+    "skillDepotId": 4401,
+    "constellations": [
+        {
+            "talentId": 441,
+            "index": 1,
+            "nameTextMapHash": 3068951001,
+            "descTextMapHash": 3151757471,
+            "icon": "UI_Talent_S_Xinyan_01",
+            "openConfig": "Xinyan_Constellation_1"
+        },
+        {
+            "talentId": 442,
+            "index": 2,
+            "nameTextMapHash": 2247567417,
+            "descTextMapHash": 4058914903,
+            "icon": "UI_Talent_S_Xinyan_02",
+            "openConfig": "Xinyan_Constellation_2"
+        },
+        {
+            "talentId": 443,
+            "index": 3,
+            "nameTextMapHash": 3545262417,
+            "descTextMapHash": 4067253751,
+            "icon": "UI_Talent_U_Xinyan_01",
+            "openConfig": "Xinyan_Constellation_3"
+        },
+        {
+            "talentId": 444,
+            "index": 4,
+            "nameTextMapHash": 3472180281,
+            "descTextMapHash": 630340871,
+            "icon": "UI_Talent_S_Xinyan_03",
+            "openConfig": "Xinyan_Constellation_4"
+        },
+        {
+            "talentId": 445,
+            "index": 5,
+            "nameTextMapHash": 3343552585,
+            "descTextMapHash": 1190369383,
+            "icon": "UI_Talent_U_Xinyan_02",
+            "openConfig": "Xinyan_Constellation_5"
+        },
+        {
+            "talentId": 446,
+            "index": 6,
+            "nameTextMapHash": 2632855681,
+            "descTextMapHash": 1450101855,
+            "icon": "UI_Talent_S_Xinyan_04",
+            "openConfig": "Xinyan_Constellation_6"
+        }
+    ]
+}

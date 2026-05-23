@@ -1,0 +1,47 @@
+{
+    "id": 10000002,
+    "skillDepotId": 201,
+    "combatSkills": [
+        {
+            "skillId": 10024,
+            "nameTextMapHash": 813430205,
+            "descTextMapHash": 3246000152,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 231
+        },
+        {
+            "skillId": 10018,
+            "nameTextMapHash": 682887613,
+            "descTextMapHash": 4048562608,
+            "icon": "Skill_S_Ayaka_01",
+            "proudSkillGroupId": 232
+        },
+        {
+            "skillId": 10013,
+            "nameTextMapHash": 2687935733,
+            "descTextMapHash": 1819205104,
+            "icon": "Skill_S_Ayaka_02",
+            "proudSkillGroupId": 233
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 894491949,
+            "descTextMapHash": 2636479891,
+            "icon": "UI_Talent_S_Ayaka_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 93137277,
+            "descTextMapHash": 3965125939,
+            "icon": "UI_Talent_S_Ayaka_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 447551629,
+            "descTextMapHash": 779979035,
+            "icon": "UI_Talent_Combine_Weapon_Double",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

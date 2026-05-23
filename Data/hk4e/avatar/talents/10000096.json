@@ -1,0 +1,40 @@
+{
+    "id": 10000096,
+    "skillDepotId": 9601,
+    "combatSkills": [
+        {
+            "skillId": 10961,
+            "nameTextMapHash": 3395884205,
+            "descTextMapHash": 1331352824,
+            "icon": "Skill_A_03",
+            "proudSkillGroupId": 9631
+        },
+        {
+            "skillId": 10962,
+            "nameTextMapHash": 88212789,
+            "descTextMapHash": 3339866608,
+            "icon": "Skill_S_Arlecchino_01",
+            "proudSkillGroupId": 9632
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 1161358413,
+            "descTextMapHash": 539613355,
+            "icon": "UI_Talent_S_Arlecchino_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1331115029,
+            "descTextMapHash": 1406040091,
+            "icon": "UI_Talent_S_Arlecchino_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1874328925,
+            "descTextMapHash": 936115699,
+            "icon": "UI_Talent_S_Arlecchino_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

@@ -1,0 +1,341 @@
+{
+    "id": 1410,
+    "nameTextMapHash": 11044358311620332259,
+    "rarity": 5,
+    "damageType": "Physical",
+    "baseType": "Warlock",
+    "icon": "1410.png",
+    "skillList": [
+        141001,
+        141002,
+        141003,
+        141004,
+        141006,
+        141007
+    ],
+    "rankIDList": [
+        141001,
+        141002,
+        141003,
+        141004,
+        141005,
+        141006
+    ],
+    "promotions": [
+        {
+            "promotion": null,
+            "maxLevel": 20,
+            "attackBase": {
+                "Value": 81.84
+            },
+            "attackAdd": {
+                "Value": 4.092
+            },
+            "hpBase": {
+                "Value": 163.68
+            },
+            "hpAdd": {
+                "Value": 8.184
+            },
+            "defenceBase": {
+                "Value": 66
+            },
+            "defenceAdd": {
+                "Value": 3.3
+            },
+            "speedBase": {
+                "Value": 102
+            },
+            "criticalChance": {
+                "Value": 0.05
+            },
+            "criticalDamage": {
+                "Value": 0.5
+            },
+            "baseAggro": {
+                "Value": 100
+            },
+            "costItems": [
+                {
+                    "id": 2,
+                    "count": 4000
+                },
+                {
+                    "id": 115001,
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "promotion": 1,
+            "maxLevel": 30,
+            "attackBase": {
+                "Value": 114.576
+            },
+            "attackAdd": {
+                "Value": 4.092
+            },
+            "hpBase": {
+                "Value": 229.152
+            },
+            "hpAdd": {
+                "Value": 8.184
+            },
+            "defenceBase": {
+                "Value": 92.4
+            },
+            "defenceAdd": {
+                "Value": 3.3
+            },
+            "speedBase": {
+                "Value": 102
+            },
+            "criticalChance": {
+                "Value": 0.05
+            },
+            "criticalDamage": {
+                "Value": 0.5
+            },
+            "baseAggro": {
+                "Value": 100
+            },
+            "costItems": [
+                {
+                    "id": 2,
+                    "count": 8000
+                },
+                {
+                    "id": 115001,
+                    "count": 10
+                }
+            ]
+        },
+        {
+            "promotion": 2,
+            "maxLevel": 40,
+            "attackBase": {
+                "Value": 147.312
+            },
+            "attackAdd": {
+                "Value": 4.092
+            },
+            "hpBase": {
+                "Value": 294.624
+            },
+            "hpAdd": {
+                "Value": 8.184
+            },
+            "defenceBase": {
+                "Value": 118.8
+            },
+            "defenceAdd": {
+                "Value": 3.3
+            },
+            "speedBase": {
+                "Value": 102
+            },
+            "criticalChance": {
+                "Value": 0.05
+            },
+            "criticalDamage": {
+                "Value": 0.5
+            },
+            "baseAggro": {
+                "Value": 100
+            },
+            "costItems": [
+                {
+                    "id": 2,
+                    "count": 16000
+                },
+                {
+                    "id": 115002,
+                    "count": 6
+                },
+                {
+                    "id": 110431,
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "promotion": 3,
+            "maxLevel": 50,
+            "attackBase": {
+                "Value": 180.048
+            },
+            "attackAdd": {
+                "Value": 4.092
+            },
+            "hpBase": {
+                "Value": 360.096
+            },
+            "hpAdd": {
+                "Value": 8.184
+            },
+            "defenceBase": {
+                "Value": 145.2
+            },
+            "defenceAdd": {
+                "Value": 3.3
+            },
+            "speedBase": {
+                "Value": 102
+            },
+            "criticalChance": {
+                "Value": 0.05
+            },
+            "criticalDamage": {
+                "Value": 0.5
+            },
+            "baseAggro": {
+                "Value": 100
+            },
+            "costItems": [
+                {
+                    "id": 2,
+                    "count": 40000
+                },
+                {
+                    "id": 115002,
+                    "count": 9
+                },
+                {
+                    "id": 110431,
+                    "count": 7
+                }
+            ]
+        },
+        {
+            "promotion": 4,
+            "maxLevel": 60,
+            "attackBase": {
+                "Value": 212.784
+            },
+            "attackAdd": {
+                "Value": 4.092
+            },
+            "hpBase": {
+                "Value": 425.568
+            },
+            "hpAdd": {
+                "Value": 8.184
+            },
+            "defenceBase": {
+                "Value": 171.6
+            },
+            "defenceAdd": {
+                "Value": 3.3
+            },
+            "speedBase": {
+                "Value": 102
+            },
+            "criticalChance": {
+                "Value": 0.05
+            },
+            "criticalDamage": {
+                "Value": 0.5
+            },
+            "baseAggro": {
+                "Value": 100
+            },
+            "costItems": [
+                {
+                    "id": 2,
+                    "count": 80000
+                },
+                {
+                    "id": 115003,
+                    "count": 6
+                },
+                {
+                    "id": 110431,
+                    "count": 20
+                }
+            ]
+        },
+        {
+            "promotion": 5,
+            "maxLevel": 70,
+            "attackBase": {
+                "Value": 245.52
+            },
+            "attackAdd": {
+                "Value": 4.092
+            },
+            "hpBase": {
+                "Value": 491.04
+            },
+            "hpAdd": {
+                "Value": 8.184
+            },
+            "defenceBase": {
+                "Value": 198
+            },
+            "defenceAdd": {
+                "Value": 3.3
+            },
+            "speedBase": {
+                "Value": 102
+            },
+            "criticalChance": {
+                "Value": 0.05
+            },
+            "criticalDamage": {
+                "Value": 0.5
+            },
+            "baseAggro": {
+                "Value": 100
+            },
+            "costItems": [
+                {
+                    "id": 2,
+                    "count": 160000
+                },
+                {
+                    "id": 115003,
+                    "count": 9
+                },
+                {
+                    "id": 110431,
+                    "count": 35
+                }
+            ]
+        },
+        {
+            "promotion": 6,
+            "maxLevel": 80,
+            "attackBase": {
+                "Value": 278.256
+            },
+            "attackAdd": {
+                "Value": 4.092
+            },
+            "hpBase": {
+                "Value": 556.512
+            },
+            "hpAdd": {
+                "Value": 8.184
+            },
+            "defenceBase": {
+                "Value": 224.4
+            },
+            "defenceAdd": {
+                "Value": 3.3
+            },
+            "speedBase": {
+                "Value": 102
+            },
+            "criticalChance": {
+                "Value": 0.05
+            },
+            "criticalDamage": {
+                "Value": 0.5
+            },
+            "baseAggro": {
+                "Value": 100
+            },
+            "costItems": []
+        }
+    ]
+}

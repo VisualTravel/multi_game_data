@@ -1,0 +1,409 @@
+{
+    "id": 1191,
+    "skills": [
+        {
+            "nameTextMapHash": "Ellen_Skill_Normal_Desc",
+            "descTextMapHash": "Ellen_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Normal_Enhance_Desc",
+            "descTextMapHash": "Ellen_Skill_Normal_Enhance_Desc"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Normal_02_03_Desc",
+            "descTextMapHash": "Ellen_Skill_Normal_02_03_Desc"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Normal_Upgrade_01_Desc",
+            "descTextMapHash": "Ellen_Skill_Normal_Upgrade_01_Desc"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Special_Desc",
+            "descTextMapHash": "Ellen_Skill_Special_Desc"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_ExSpecial_01_Desc",
+            "descTextMapHash": "Ellen_Skill_ExSpecial_01_Desc"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_ExSpecial_02_Desc",
+            "descTextMapHash": "Ellen_Skill_ExSpecial_02_Desc"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Evade_Desc",
+            "descTextMapHash": "Ellen_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Dash_Desc",
+            "descTextMapHash": "Ellen_Skill_Dash_Desc"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Dash_Slash_Desc",
+            "descTextMapHash": "Ellen_Skill_Dash_Slash_Desc"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Dash_Slash_Upgrade_Desc",
+            "descTextMapHash": "Ellen_Skill_Dash_Slash_Upgrade_Desc"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_EnhanceCount_Desc",
+            "descTextMapHash": "Ellen_Skill_EnhanceCount_Desc"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Rush_Desc",
+            "descTextMapHash": "Ellen_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Rush_Enhance_Desc",
+            "descTextMapHash": "Ellen_Skill_Rush_Enhance_Desc"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Counter_Desc",
+            "descTextMapHash": "Ellen_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_QTE_Desc",
+            "descTextMapHash": "Ellen_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_ExQTE_Desc",
+            "descTextMapHash": "Ellen_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_BeHitAid_Desc",
+            "descTextMapHash": "Ellen_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_ParryAid_Desc",
+            "descTextMapHash": "Ellen_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_AssaultAid_Desc",
+            "descTextMapHash": "Ellen_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Normal_Title",
+            "descTextMapHash": "Ellen_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Normal_Enhance_Title",
+            "descTextMapHash": "Ellen_Skill_Normal_Enhance_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Normal_02_03_Title",
+            "descTextMapHash": "Ellen_Skill_Normal_02_03_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Normal_Upgrade_01_Title",
+            "descTextMapHash": "Ellen_Skill_Normal_Upgrade_01_Title"
+        },
+        {
+            "nameTextMapHash": "Ellen_Property_Normal_Upgrade_01_Desc_DamageRatio_01",
+            "descTextMapHash": "Ellen_Property_Normal_Upgrade_01_Desc_DamageRatio_01"
+        },
+        {
+            "nameTextMapHash": "Ellen_Property_Normal_Upgrade_01_Desc_DamageRatio_02",
+            "descTextMapHash": "Ellen_Property_Normal_Upgrade_01_Desc_DamageRatio_02"
+        },
+        {
+            "nameTextMapHash": "Ellen_Property_Normal_Upgrade_01_Desc_DamageRatio_03",
+            "descTextMapHash": "Ellen_Property_Normal_Upgrade_01_Desc_DamageRatio_03"
+        },
+        {
+            "nameTextMapHash": "Ellen_Property_Normal_Upgrade_01_Desc_Stun_01",
+            "descTextMapHash": "Ellen_Property_Normal_Upgrade_01_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Ellen_Property_Normal_Upgrade_01_Desc_Stun_02",
+            "descTextMapHash": "Ellen_Property_Normal_Upgrade_01_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Ellen_Property_Normal_Upgrade_01_Desc_Stun_03",
+            "descTextMapHash": "Ellen_Property_Normal_Upgrade_01_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Special_Title",
+            "descTextMapHash": "Ellen_Skill_Special_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_ExSpecial_01_Title",
+            "descTextMapHash": "Ellen_Skill_ExSpecial_01_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_ExSpecial_02_Title",
+            "descTextMapHash": "Ellen_Skill_ExSpecial_02_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Dash_Slash_Title",
+            "descTextMapHash": "Ellen_Skill_Dash_Slash_Title"
+        },
+        {
+            "nameTextMapHash": "Ellen_Property_Dash_Desc_DamageRatio",
+            "descTextMapHash": "Ellen_Property_Dash_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Ellen_Property_Cut_01_Desc_DamageRatio",
+            "descTextMapHash": "Ellen_Property_Cut_01_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Ellen_Property_Cut_02_Desc_DamageRatio",
+            "descTextMapHash": "Ellen_Property_Cut_02_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Ellen_Property_Dash_Desc_BreakStunRatio",
+            "descTextMapHash": "Ellen_Property_Dash_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Ellen_Property_Cut_01_Desc_BreakStunRatio",
+            "descTextMapHash": "Ellen_Property_Cut_01_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Ellen_Property_Cut_02_Desc_BreakStunRatio",
+            "descTextMapHash": "Ellen_Property_Cut_02_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Ellen_Property_Cut_01_Desc_EnhanceCount",
+            "descTextMapHash": "Ellen_Property_Cut_01_Desc_EnhanceCount"
+        },
+        {
+            "nameTextMapHash": "Ellen_Property_Cut_02_Desc_EnhanceCount",
+            "descTextMapHash": "Ellen_Property_Cut_02_Desc_EnhanceCount"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Rush_Title",
+            "descTextMapHash": "Ellen_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Rush_Enhance_Title",
+            "descTextMapHash": "Ellen_Skill_Rush_Enhance_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_Counter_Title",
+            "descTextMapHash": "Ellen_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_QTE_Title",
+            "descTextMapHash": "Ellen_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_ExQTE_Title",
+            "descTextMapHash": "Ellen_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_BeHitAid_Title",
+            "descTextMapHash": "Ellen_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_ParryAid_Title",
+            "descTextMapHash": "Ellen_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Ellen_Skill_AssaultAid_Title",
+            "descTextMapHash": "Ellen_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "Ellen_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "Ellen_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "Ellen_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "Ellen_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "Ellen_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "Ellen_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

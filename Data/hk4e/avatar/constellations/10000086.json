@@ -1,0 +1,54 @@
+{
+    "id": 10000086,
+    "skillDepotId": 8601,
+    "constellations": [
+        {
+            "talentId": 861,
+            "index": 1,
+            "nameTextMapHash": 4114524601,
+            "descTextMapHash": 2935572527,
+            "icon": "UI_Talent_S_Wriothesley_01",
+            "openConfig": "Wriothesley_Constellation_1"
+        },
+        {
+            "talentId": 862,
+            "index": 2,
+            "nameTextMapHash": 2190383313,
+            "descTextMapHash": 2294412511,
+            "icon": "UI_Talent_S_Wriothesley_02",
+            "openConfig": "Wriothesley_Constellation_2"
+        },
+        {
+            "talentId": 863,
+            "index": 3,
+            "nameTextMapHash": 1926021257,
+            "descTextMapHash": 1200372935,
+            "icon": "UI_Talent_U_Wriothesley_01",
+            "openConfig": "Wriothesley_Constellation_3"
+        },
+        {
+            "talentId": 864,
+            "index": 4,
+            "nameTextMapHash": 2263893337,
+            "descTextMapHash": 531474935,
+            "icon": "UI_Talent_S_Wriothesley_03",
+            "openConfig": "Wriothesley_Constellation_4"
+        },
+        {
+            "talentId": 865,
+            "index": 5,
+            "nameTextMapHash": 2419244273,
+            "descTextMapHash": 2614066263,
+            "icon": "UI_Talent_U_Wriothesley_02",
+            "openConfig": "Wriothesley_Constellation_5"
+        },
+        {
+            "talentId": 866,
+            "index": 6,
+            "nameTextMapHash": 126955769,
+            "descTextMapHash": 2420456783,
+            "icon": "UI_Talent_S_Wriothesley_04",
+            "openConfig": "Wriothesley_Constellation_6"
+        }
+    ]
+}

@@ -1,0 +1,329 @@
+{
+    "id": 1321,
+    "skills": [
+        {
+            "nameTextMapHash": "Evelyn_Skill_Normal_Desc",
+            "descTextMapHash": "Evelyn_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_Enhance_Desc",
+            "descTextMapHash": "Evelyn_Skill_Enhance_Desc"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_Branch_01_Desc",
+            "descTextMapHash": "Evelyn_Skill_Branch_01_Desc"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_Branch_02_Desc",
+            "descTextMapHash": "Evelyn_Skill_Branch_02_Desc"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_RopeSpecial_Desc",
+            "descTextMapHash": "Evelyn_Skill_RopeSpecial_Desc"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_Special_Desc",
+            "descTextMapHash": "Evelyn_Skill_Special_Desc"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_ExSpecial_Desc",
+            "descTextMapHash": "Evelyn_Skill_ExSpecial_Desc"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_Evade_Desc",
+            "descTextMapHash": "Evelyn_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_Rush_Desc",
+            "descTextMapHash": "Evelyn_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_Counter_Desc",
+            "descTextMapHash": "Evelyn_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_QTE_Desc",
+            "descTextMapHash": "Evelyn_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_ExQTE_Desc",
+            "descTextMapHash": "Evelyn_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_ExQTE_02_Desc",
+            "descTextMapHash": "Evelyn_Skill_ExQTE_02_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_BeHitAid_Desc",
+            "descTextMapHash": "Evelyn_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_ParryAid_Desc",
+            "descTextMapHash": "Evelyn_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_AssaultAid_Desc",
+            "descTextMapHash": "Evelyn_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_Normal_Title",
+            "descTextMapHash": "Evelyn_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_05",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_05"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_05",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_05"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_Branch_01_Title",
+            "descTextMapHash": "Evelyn_Skill_Branch_01_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_Branch_02_Title",
+            "descTextMapHash": "Evelyn_Skill_Branch_02_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_RopeSpecial_Title",
+            "descTextMapHash": "Evelyn_Skill_RopeSpecial_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_Special_Title",
+            "descTextMapHash": "Evelyn_Skill_Special_Title"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Property_Branch_Desc_Dmg_01",
+            "descTextMapHash": "Evelyn_Property_Branch_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Property_Branch_Desc_Dmg_02",
+            "descTextMapHash": "Evelyn_Property_Branch_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Property_Branch_Desc_Stun_01",
+            "descTextMapHash": "Evelyn_Property_Branch_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Property_Branch_Desc_Stun_02",
+            "descTextMapHash": "Evelyn_Property_Branch_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_ExSpecial_Title",
+            "descTextMapHash": "Evelyn_Skill_ExSpecial_Title"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Property_Branch_Desc_Dmg_01",
+            "descTextMapHash": "Evelyn_Property_Branch_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Property_Branch_Desc_Dmg_02",
+            "descTextMapHash": "Evelyn_Property_Branch_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Property_Branch_Desc_Stun_01",
+            "descTextMapHash": "Evelyn_Property_Branch_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Property_Branch_Desc_Stun_02",
+            "descTextMapHash": "Evelyn_Property_Branch_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_Rush_Title",
+            "descTextMapHash": "Evelyn_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_Counter_Title",
+            "descTextMapHash": "Evelyn_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_QTE_Title",
+            "descTextMapHash": "Evelyn_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_ExQTE_Title",
+            "descTextMapHash": "Evelyn_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_ExQTE_02_Title",
+            "descTextMapHash": "Evelyn_Skill_ExQTE_02_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_BeHitAid_Title",
+            "descTextMapHash": "Evelyn_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_ParryAid_Title",
+            "descTextMapHash": "Evelyn_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Evelyn_Skill_AssaultAid_Title",
+            "descTextMapHash": "Evelyn_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "Evelyn_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "Evelyn_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "Evelyn_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "Evelyn_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "Evelyn_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "Evelyn_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

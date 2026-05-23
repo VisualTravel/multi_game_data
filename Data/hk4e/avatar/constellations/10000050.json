@@ -1,0 +1,54 @@
+{
+    "id": 10000050,
+    "skillDepotId": 5001,
+    "constellations": [
+        {
+            "talentId": 501,
+            "index": 1,
+            "nameTextMapHash": 288006153,
+            "descTextMapHash": 3077252167,
+            "icon": "UI_Talent_S_Tohma_01",
+            "openConfig": "Tohma_Constellation_1"
+        },
+        {
+            "talentId": 502,
+            "index": 2,
+            "nameTextMapHash": 4132403369,
+            "descTextMapHash": 1866802359,
+            "icon": "UI_Talent_S_Tohma_02",
+            "openConfig": "Tohma_Constellation_2"
+        },
+        {
+            "talentId": 503,
+            "index": 3,
+            "nameTextMapHash": 2578791561,
+            "descTextMapHash": 2167441687,
+            "icon": "UI_Talent_U_Tohma_01",
+            "openConfig": "Tohma_Constellation_3"
+        },
+        {
+            "talentId": 504,
+            "index": 4,
+            "nameTextMapHash": 1754888249,
+            "descTextMapHash": 976028007,
+            "icon": "UI_Talent_S_Tohma_03",
+            "openConfig": "Tohma_Constellation_4"
+        },
+        {
+            "talentId": 505,
+            "index": 5,
+            "nameTextMapHash": 3609709849,
+            "descTextMapHash": 1553651015,
+            "icon": "UI_Talent_U_Tohma_02",
+            "openConfig": "Tohma_Constellation_5"
+        },
+        {
+            "talentId": 506,
+            "index": 6,
+            "nameTextMapHash": 297689409,
+            "descTextMapHash": 2142833151,
+            "icon": "UI_Talent_S_Tohma_04",
+            "openConfig": "Tohma_Constellation_6"
+        }
+    ]
+}

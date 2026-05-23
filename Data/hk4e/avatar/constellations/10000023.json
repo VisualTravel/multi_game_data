@@ -1,0 +1,54 @@
+{
+    "id": 10000023,
+    "skillDepotId": 2301,
+    "constellations": [
+        {
+            "talentId": 231,
+            "index": 1,
+            "nameTextMapHash": 1194444937,
+            "descTextMapHash": 3866122399,
+            "icon": "UI_Talent_S_Xiangling_01",
+            "openConfig": "Xiangling_Talent_231"
+        },
+        {
+            "talentId": 232,
+            "index": 2,
+            "nameTextMapHash": 1745094065,
+            "descTextMapHash": 515394687,
+            "icon": "UI_Talent_S_Xiangling_02",
+            "openConfig": "Xiangling_Talent_232"
+        },
+        {
+            "talentId": 233,
+            "index": 3,
+            "nameTextMapHash": 2414003409,
+            "descTextMapHash": 1194236287,
+            "icon": "UI_Talent_U_Xiangling_02",
+            "openConfig": "Xiangling_Talent_E_Levelup"
+        },
+        {
+            "talentId": 234,
+            "index": 4,
+            "nameTextMapHash": 2365968849,
+            "descTextMapHash": 2051518719,
+            "icon": "UI_Talent_S_Xiangling_03",
+            "openConfig": "Xiangling_Talent_234"
+        },
+        {
+            "talentId": 235,
+            "index": 5,
+            "nameTextMapHash": 4257441793,
+            "descTextMapHash": 4011281551,
+            "icon": "UI_Talent_U_Xiangling_01",
+            "openConfig": "Xiangling_Talent_S_Levelup"
+        },
+        {
+            "talentId": 236,
+            "index": 6,
+            "nameTextMapHash": 2739861521,
+            "descTextMapHash": 366896479,
+            "icon": "UI_Talent_S_Xiangling_04",
+            "openConfig": "Xiangling_Talent_236"
+        }
+    ]
+}

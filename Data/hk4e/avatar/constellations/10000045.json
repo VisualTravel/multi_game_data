@@ -1,0 +1,54 @@
+{
+    "id": 10000045,
+    "skillDepotId": 4501,
+    "constellations": [
+        {
+            "talentId": 451,
+            "index": 1,
+            "nameTextMapHash": 1747861721,
+            "descTextMapHash": 3325524351,
+            "icon": "UI_Talent_S_Rosaria_01",
+            "openConfig": "Rosaria_Constellation_1"
+        },
+        {
+            "talentId": 452,
+            "index": 2,
+            "nameTextMapHash": 3870317753,
+            "descTextMapHash": 1426432255,
+            "icon": "UI_Talent_S_Rosaria_02",
+            "openConfig": "Rosaria_Constellation_2"
+        },
+        {
+            "talentId": 453,
+            "index": 3,
+            "nameTextMapHash": 3057954913,
+            "descTextMapHash": 3853272103,
+            "icon": "UI_Talent_U_Rosaria_01",
+            "openConfig": "Rosaria_Constellation_3"
+        },
+        {
+            "talentId": 454,
+            "index": 4,
+            "nameTextMapHash": 1072343465,
+            "descTextMapHash": 1502603351,
+            "icon": "UI_Talent_S_Rosaria_03",
+            "openConfig": "Rosaria_Constellation_4"
+        },
+        {
+            "talentId": 455,
+            "index": 5,
+            "nameTextMapHash": 1802655225,
+            "descTextMapHash": 2207642951,
+            "icon": "UI_Talent_U_Rosaria_02",
+            "openConfig": "Rosaria_Constellation_5"
+        },
+        {
+            "talentId": 456,
+            "index": 6,
+            "nameTextMapHash": 3739872265,
+            "descTextMapHash": 1651443887,
+            "icon": "UI_Talent_S_Rosaria_04",
+            "openConfig": "Rosaria_Constellation_6"
+        }
+    ]
+}

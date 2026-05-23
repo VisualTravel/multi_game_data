@@ -1,0 +1,40 @@
+{
+    "id": 10000032,
+    "skillDepotId": 3201,
+    "combatSkills": [
+        {
+            "skillId": 10321,
+            "nameTextMapHash": 422353221,
+            "descTextMapHash": 280312952,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 3231
+        },
+        {
+            "skillId": 10322,
+            "nameTextMapHash": 1809314301,
+            "descTextMapHash": 2368393328,
+            "icon": "Skill_S_Bennett_01",
+            "proudSkillGroupId": 3232
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 1863603245,
+            "descTextMapHash": 684037363,
+            "icon": "UI_Talent_S_Bennett_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1897523213,
+            "descTextMapHash": 2550793243,
+            "icon": "UI_Talent_S_Bennett_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1766090197,
+            "descTextMapHash": 1620965819,
+            "icon": "UI_Talent_Expedition_Mengde",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

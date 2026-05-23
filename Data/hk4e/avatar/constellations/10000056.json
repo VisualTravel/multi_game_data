@@ -1,0 +1,54 @@
+{
+    "id": 10000056,
+    "skillDepotId": 5601,
+    "constellations": [
+        {
+            "talentId": 561,
+            "index": 1,
+            "nameTextMapHash": 2730852441,
+            "descTextMapHash": 2966673567,
+            "icon": "UI_Talent_S_Sara_05",
+            "openConfig": "Sara_Constellation_1"
+        },
+        {
+            "talentId": 562,
+            "index": 2,
+            "nameTextMapHash": 828426713,
+            "descTextMapHash": 3371927015,
+            "icon": "UI_Talent_S_Sara_02",
+            "openConfig": "Sara_Constellation_2"
+        },
+        {
+            "talentId": 563,
+            "index": 3,
+            "nameTextMapHash": 847916265,
+            "descTextMapHash": 1002234239,
+            "icon": "UI_Talent_U_Sara_02",
+            "openConfig": "Sara_Constellation_3"
+        },
+        {
+            "talentId": 564,
+            "index": 4,
+            "nameTextMapHash": 4283073809,
+            "descTextMapHash": 3556395063,
+            "icon": "UI_Talent_S_Sara_03",
+            "openConfig": "Sara_Constellation_4"
+        },
+        {
+            "talentId": 565,
+            "index": 5,
+            "nameTextMapHash": 747301089,
+            "descTextMapHash": 3457909247,
+            "icon": "UI_Talent_U_Sara_01",
+            "openConfig": "Sara_Constellation_5"
+        },
+        {
+            "talentId": 566,
+            "index": 6,
+            "nameTextMapHash": 165492097,
+            "descTextMapHash": 3985105143,
+            "icon": "UI_Talent_S_Sara_04",
+            "openConfig": "Sara_Constellation_6"
+        }
+    ]
+}

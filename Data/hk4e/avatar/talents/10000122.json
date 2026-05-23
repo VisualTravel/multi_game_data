@@ -1,0 +1,46 @@
+{
+    "id": 10000122,
+    "skillDepotId": 12201,
+    "combatSkills": [
+        {
+            "skillId": 11221,
+            "nameTextMapHash": 3474612493,
+            "descTextMapHash": 1457975320,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 12231
+        },
+        {
+            "skillId": 11222,
+            "nameTextMapHash": 1767720053,
+            "descTextMapHash": 17355848,
+            "icon": "Skill_S_Nefer_01",
+            "proudSkillGroupId": 12232
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3598923949,
+            "descTextMapHash": 1631578187,
+            "icon": "UI_Talent_S_Nefer_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3234270421,
+            "descTextMapHash": 2021507203,
+            "icon": "UI_Talent_S_Nefer_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3737257405,
+            "descTextMapHash": 2351329715,
+            "icon": "UI_Talent_S_Nefer_07",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 1455050781,
+            "descTextMapHash": 3396877755,
+            "icon": "UI_Talent_S_Nefer_08",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

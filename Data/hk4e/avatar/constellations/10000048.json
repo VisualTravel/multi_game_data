@@ -1,0 +1,54 @@
+{
+    "id": 10000048,
+    "skillDepotId": 4801,
+    "constellations": [
+        {
+            "talentId": 481,
+            "index": 1,
+            "nameTextMapHash": 690499809,
+            "descTextMapHash": 3765119039,
+            "icon": "UI_Talent_S_Feiyan_01",
+            "openConfig": "Feiyan_Constellation_1"
+        },
+        {
+            "talentId": 482,
+            "index": 2,
+            "nameTextMapHash": 886053313,
+            "descTextMapHash": 821476695,
+            "icon": "UI_Talent_S_Feiyan_02",
+            "openConfig": "Feiyan_Constellation_2"
+        },
+        {
+            "talentId": 483,
+            "index": 3,
+            "nameTextMapHash": 168010785,
+            "descTextMapHash": 246599983,
+            "icon": "UI_Talent_U_Feiyan_01",
+            "openConfig": "Feiyan_Constellation_3"
+        },
+        {
+            "talentId": 484,
+            "index": 4,
+            "nameTextMapHash": 2878639121,
+            "descTextMapHash": 1661753439,
+            "icon": "UI_Talent_S_Feiyan_03",
+            "openConfig": "Feiyan_Constellation_4"
+        },
+        {
+            "talentId": 485,
+            "index": 5,
+            "nameTextMapHash": 3698266505,
+            "descTextMapHash": 876690903,
+            "icon": "UI_Talent_U_Feiyan_02",
+            "openConfig": "Feiyan_Constellation_5"
+        },
+        {
+            "talentId": 486,
+            "index": 6,
+            "nameTextMapHash": 3677492353,
+            "descTextMapHash": 2987376007,
+            "icon": "UI_Talent_S_Feiyan_04",
+            "openConfig": "Feiyan_Constellation_6"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 10000070,
+    "skillDepotId": 7001,
+    "combatSkills": [
+        {
+            "skillId": 10701,
+            "nameTextMapHash": 1390577909,
+            "descTextMapHash": 1185987936,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 7031
+        },
+        {
+            "skillId": 10702,
+            "nameTextMapHash": 2640547021,
+            "descTextMapHash": 3630488616,
+            "icon": "Skill_S_Nilou_01",
+            "proudSkillGroupId": 7032
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 1079985437,
+            "descTextMapHash": 2790893747,
+            "icon": "UI_Talent_S_Nilou_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 4260729117,
+            "descTextMapHash": 174659915,
+            "icon": "UI_Talent_S_Nilou_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 746325437,
+            "descTextMapHash": 141861283,
+            "icon": "UI_Talent_S_Yunjin_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

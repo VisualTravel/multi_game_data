@@ -1,0 +1,277 @@
+{
+    "id": 1521,
+    "skills": [
+        {
+            "nameTextMapHash": "Cissia_Skill_Normal_Desc",
+            "descTextMapHash": "Cissia_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_Branch_Desc",
+            "descTextMapHash": "Cissia_Skill_Branch_Desc"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_CurseBurst_Desc",
+            "descTextMapHash": "Cissia_Skill_CurseBurst_Desc"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_Special_01_Desc",
+            "descTextMapHash": "Cissia_Skill_Special_01_Desc"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_ExSpecial_01_Desc",
+            "descTextMapHash": "Cissia_Skill_ExSpecial_01_Desc"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_Evade_Desc",
+            "descTextMapHash": "Cissia_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_Rush_Desc",
+            "descTextMapHash": "Cissia_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_Counter_Desc",
+            "descTextMapHash": "Cissia_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_QTE_Desc",
+            "descTextMapHash": "Cissia_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_ExQTE_Desc",
+            "descTextMapHash": "Cissia_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_BeHitAid_Desc",
+            "descTextMapHash": "Cissia_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_ParryAid_Desc",
+            "descTextMapHash": "Cissia_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_AssaultAid_Desc",
+            "descTextMapHash": "Cissia_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_Normal_Title",
+            "descTextMapHash": "Cissia_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_Branch_Title",
+            "descTextMapHash": "Cissia_Skill_Branch_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_CurseBurst_Title",
+            "descTextMapHash": "Cissia_Skill_CurseBurst_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_Special_01_Title",
+            "descTextMapHash": "Cissia_Skill_Special_01_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_ExSpecial_01_Title",
+            "descTextMapHash": "Cissia_Skill_ExSpecial_01_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_ExSpecial_Extra_Property_Desc_Dmg_01",
+            "descTextMapHash": "Cissia_Skill_ExSpecial_Extra_Property_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_ExSpecial_Extra_Property_Desc_Stun_01",
+            "descTextMapHash": "Cissia_Skill_ExSpecial_Extra_Property_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_Rush_Title",
+            "descTextMapHash": "Cissia_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_Counter_Title",
+            "descTextMapHash": "Cissia_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_QTE_Title",
+            "descTextMapHash": "Cissia_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_ExQTE_Title",
+            "descTextMapHash": "Cissia_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_BeHitAid_Title",
+            "descTextMapHash": "Cissia_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_ParryAid_Title",
+            "descTextMapHash": "Cissia_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Cissia_Skill_AssaultAid_Title",
+            "descTextMapHash": "Cissia_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "Cissia_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "Cissia_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "Cissia_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "Cissia_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "Cissia_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "Cissia_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

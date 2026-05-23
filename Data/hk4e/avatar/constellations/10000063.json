@@ -1,0 +1,54 @@
+{
+    "id": 10000063,
+    "skillDepotId": 6301,
+    "constellations": [
+        {
+            "talentId": 631,
+            "index": 1,
+            "nameTextMapHash": 4149849577,
+            "descTextMapHash": 1344815239,
+            "icon": "UI_Talent_S_Shenhe_02",
+            "openConfig": "Shenhe_Constellation_1"
+        },
+        {
+            "talentId": 632,
+            "index": 2,
+            "nameTextMapHash": 865989105,
+            "descTextMapHash": 626517111,
+            "icon": "UI_Talent_S_Shenhe_01",
+            "openConfig": "Shenhe_Constellation_2"
+        },
+        {
+            "talentId": 633,
+            "index": 3,
+            "nameTextMapHash": 1441247489,
+            "descTextMapHash": 552199,
+            "icon": "UI_Talent_U_Shenhe_01",
+            "openConfig": "Shenhe_Constellation_3"
+        },
+        {
+            "talentId": 634,
+            "index": 4,
+            "nameTextMapHash": 2316341393,
+            "descTextMapHash": 3717716415,
+            "icon": "UI_Talent_S_Shenhe_03",
+            "openConfig": "Shenhe_Constellation_4"
+        },
+        {
+            "talentId": 635,
+            "index": 5,
+            "nameTextMapHash": 2221286841,
+            "descTextMapHash": 3627816983,
+            "icon": "UI_Talent_U_Shenhe_02",
+            "openConfig": "Shenhe_Constellation_5"
+        },
+        {
+            "talentId": 636,
+            "index": 6,
+            "nameTextMapHash": 1596851281,
+            "descTextMapHash": 2857246775,
+            "icon": "UI_Talent_S_Shenhe_04",
+            "openConfig": "Shenhe_Constellation_6"
+        }
+    ]
+}

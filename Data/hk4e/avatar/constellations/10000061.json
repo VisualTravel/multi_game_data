@@ -1,0 +1,54 @@
+{
+    "id": 10000061,
+    "skillDepotId": 6101,
+    "constellations": [
+        {
+            "talentId": 611,
+            "index": 1,
+            "nameTextMapHash": 3502158873,
+            "descTextMapHash": 1368346087,
+            "icon": "UI_Talent_S_Momoka_01",
+            "openConfig": "Momoka_Constellation_1"
+        },
+        {
+            "talentId": 612,
+            "index": 2,
+            "nameTextMapHash": 3954516065,
+            "descTextMapHash": 2538080407,
+            "icon": "UI_Talent_S_Momoka_02",
+            "openConfig": "Momoka_Constellation_2"
+        },
+        {
+            "talentId": 613,
+            "index": 3,
+            "nameTextMapHash": 3397892401,
+            "descTextMapHash": 3218345351,
+            "icon": "UI_Talent_U_Momoka_01",
+            "openConfig": "Momoka_Constellation_3"
+        },
+        {
+            "talentId": 614,
+            "index": 4,
+            "nameTextMapHash": 3551684865,
+            "descTextMapHash": 2912087495,
+            "icon": "UI_Talent_S_Momoka_04",
+            "openConfig": "Momoka_Constellation_4"
+        },
+        {
+            "talentId": 615,
+            "index": 5,
+            "nameTextMapHash": 34942257,
+            "descTextMapHash": 2975759831,
+            "icon": "UI_Talent_U_Momoka_02",
+            "openConfig": "Momoka_Constellation_5"
+        },
+        {
+            "talentId": 616,
+            "index": 6,
+            "nameTextMapHash": 2439940481,
+            "descTextMapHash": 335597623,
+            "icon": "UI_Talent_S_Momoka_03",
+            "openConfig": "Momoka_Constellation_6"
+        }
+    ]
+}

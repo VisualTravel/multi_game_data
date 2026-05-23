@@ -1,0 +1,40 @@
+{
+    "id": 10000093,
+    "skillDepotId": 9301,
+    "combatSkills": [
+        {
+            "skillId": 10931,
+            "nameTextMapHash": 3031546037,
+            "descTextMapHash": 2761927832,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 9331
+        },
+        {
+            "skillId": 10932,
+            "nameTextMapHash": 418523637,
+            "descTextMapHash": 2228432192,
+            "icon": "Skill_S_Liuyun_01",
+            "proudSkillGroupId": 9332
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 1114914237,
+            "descTextMapHash": 660789307,
+            "icon": "UI_Talent_S_Liuyun_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3770830029,
+            "descTextMapHash": 2827326891,
+            "icon": "UI_Talent_S_Liuyun_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1543802173,
+            "descTextMapHash": 1282326011,
+            "icon": "UI_Talent_S_Liuyun_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

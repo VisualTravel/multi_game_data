@@ -1,0 +1,54 @@
+{
+    "id": 10000096,
+    "skillDepotId": 9601,
+    "constellations": [
+        {
+            "talentId": 961,
+            "index": 1,
+            "nameTextMapHash": 1931573609,
+            "descTextMapHash": 616607903,
+            "icon": "UI_Talent_S_Arlecchino_01",
+            "openConfig": "Arlecchino_Constellation_1"
+        },
+        {
+            "talentId": 962,
+            "index": 2,
+            "nameTextMapHash": 2743280057,
+            "descTextMapHash": 178397695,
+            "icon": "UI_Talent_S_Arlecchino_02",
+            "openConfig": "Arlecchino_Constellation_2"
+        },
+        {
+            "talentId": 963,
+            "index": 3,
+            "nameTextMapHash": 1222541609,
+            "descTextMapHash": 1505879071,
+            "icon": "UI_Talent_U_Arlecchino_01",
+            "openConfig": "Arlecchino_Constellation_3"
+        },
+        {
+            "talentId": 964,
+            "index": 4,
+            "nameTextMapHash": 2103472489,
+            "descTextMapHash": 4133108055,
+            "icon": "UI_Talent_S_Arlecchino_03",
+            "openConfig": "Arlecchino_Constellation_4"
+        },
+        {
+            "talentId": 965,
+            "index": 5,
+            "nameTextMapHash": 3475324945,
+            "descTextMapHash": 1012066639,
+            "icon": "UI_Talent_U_Arlecchino_02",
+            "openConfig": "Arlecchino_Constellation_5"
+        },
+        {
+            "talentId": 966,
+            "index": 6,
+            "nameTextMapHash": 585561425,
+            "descTextMapHash": 4255841423,
+            "icon": "UI_Talent_S_Arlecchino_04",
+            "openConfig": "Arlecchino_Constellation_6"
+        }
+    ]
+}

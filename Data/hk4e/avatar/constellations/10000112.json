@@ -1,0 +1,54 @@
+{
+    "id": 10000112,
+    "skillDepotId": 11201,
+    "constellations": [
+        {
+            "talentId": 1121,
+            "index": 1,
+            "nameTextMapHash": 811894161,
+            "descTextMapHash": 3708119303,
+            "icon": "UI_Talent_S_Escoffier_01",
+            "openConfig": "Escoffier_Constellation_1"
+        },
+        {
+            "talentId": 1122,
+            "index": 2,
+            "nameTextMapHash": 2812704905,
+            "descTextMapHash": 2874839375,
+            "icon": "UI_Talent_S_Escoffier_02",
+            "openConfig": "Escoffier_Constellation_2"
+        },
+        {
+            "talentId": 1123,
+            "index": 3,
+            "nameTextMapHash": 4179118481,
+            "descTextMapHash": 1759466719,
+            "icon": "UI_Talent_U_Escoffier_01",
+            "openConfig": "Escoffier_Constellation_3"
+        },
+        {
+            "talentId": 1124,
+            "index": 4,
+            "nameTextMapHash": 1564361897,
+            "descTextMapHash": 349416831,
+            "icon": "UI_Talent_S_Escoffier_03",
+            "openConfig": "Escoffier_Constellation_4"
+        },
+        {
+            "talentId": 1125,
+            "index": 5,
+            "nameTextMapHash": 193981809,
+            "descTextMapHash": 55712959,
+            "icon": "UI_Talent_U_Escoffier_02",
+            "openConfig": "Escoffier_Constellation_5"
+        },
+        {
+            "talentId": 1126,
+            "index": 6,
+            "nameTextMapHash": 2361530849,
+            "descTextMapHash": 314174519,
+            "icon": "UI_Talent_S_Escoffier_04",
+            "openConfig": "Escoffier_Constellation_6"
+        }
+    ]
+}

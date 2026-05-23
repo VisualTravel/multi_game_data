@@ -1,0 +1,40 @@
+{
+    "id": 10000076,
+    "skillDepotId": 7601,
+    "combatSkills": [
+        {
+            "skillId": 10761,
+            "nameTextMapHash": 47731813,
+            "descTextMapHash": 4233673024,
+            "icon": "Skill_A_02",
+            "proudSkillGroupId": 7631
+        },
+        {
+            "skillId": 10762,
+            "nameTextMapHash": 593897829,
+            "descTextMapHash": 3487349912,
+            "icon": "Skill_S_Faruzan_01",
+            "proudSkillGroupId": 7632
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2949865501,
+            "descTextMapHash": 67427819,
+            "icon": "UI_Talent_S_Faruzan_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3724168525,
+            "descTextMapHash": 2841068683,
+            "icon": "UI_Talent_S_Faruzan_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 2732974245,
+            "descTextMapHash": 494209243,
+            "icon": "UI_Talent_S_Cyno_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

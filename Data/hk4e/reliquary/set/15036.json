@@ -1,0 +1,26 @@
+{
+    "id": 15036,
+    "setNeedNum": [
+        2,
+        4
+    ],
+    "effects": [
+        {
+            "requireNum": 2,
+            "descTextMapHash": 3591394537,
+            "params": []
+        },
+        {
+            "requireNum": 4,
+            "descTextMapHash": 2509713777,
+            "params": [
+                5,
+                0.1,
+                6,
+                1,
+                1,
+                3
+            ]
+        }
+    ]
+}

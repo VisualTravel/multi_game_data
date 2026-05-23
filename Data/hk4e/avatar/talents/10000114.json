@@ -1,0 +1,40 @@
+{
+    "id": 10000114,
+    "skillDepotId": 11401,
+    "combatSkills": [
+        {
+            "skillId": 11141,
+            "nameTextMapHash": 3714723941,
+            "descTextMapHash": 2425463048,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 11431
+        },
+        {
+            "skillId": 11142,
+            "nameTextMapHash": 3456500781,
+            "descTextMapHash": 3740180496,
+            "icon": "Skill_S_SkirkNew_01",
+            "proudSkillGroupId": 11432
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 1667684637,
+            "descTextMapHash": 3118452763,
+            "icon": "UI_Talent_S_SkirkNew_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 2035329405,
+            "descTextMapHash": 635611419,
+            "icon": "UI_Talent_S_SkirkNew_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 940882293,
+            "descTextMapHash": 1714270491,
+            "icon": "UI_Talent_S_SkirkNew_08",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

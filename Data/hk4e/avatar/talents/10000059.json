@@ -1,0 +1,40 @@
+{
+    "id": 10000059,
+    "skillDepotId": 5901,
+    "combatSkills": [
+        {
+            "skillId": 10591,
+            "nameTextMapHash": 2195671413,
+            "descTextMapHash": 1669209376,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 5931
+        },
+        {
+            "skillId": 10592,
+            "nameTextMapHash": 3012297781,
+            "descTextMapHash": 2688600376,
+            "icon": "Skill_S_Heizo_01",
+            "proudSkillGroupId": 5932
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 1259547077,
+            "descTextMapHash": 1686165531,
+            "icon": "UI_Talent_S_Heizo_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 834687325,
+            "descTextMapHash": 2886727987,
+            "icon": "UI_Talent_S_Heizo_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 2266183085,
+            "descTextMapHash": 3003363715,
+            "icon": "UI_Talent_Explosion_Sprint",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

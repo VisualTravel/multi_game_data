@@ -1,0 +1,14 @@
+{
+    "id": 10000005,
+    "skillDepotId": 501,
+    "combatSkills": [
+        {
+            "skillId": 100540,
+            "nameTextMapHash": 1952055533,
+            "descTextMapHash": 1517379584,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 730
+        }
+    ],
+    "passiveSkills": []
+}

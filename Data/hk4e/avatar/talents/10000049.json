@@ -1,0 +1,40 @@
+{
+    "id": 10000049,
+    "skillDepotId": 4901,
+    "combatSkills": [
+        {
+            "skillId": 10491,
+            "nameTextMapHash": 1887244733,
+            "descTextMapHash": 672946400,
+            "icon": "Skill_A_02",
+            "proudSkillGroupId": 4931
+        },
+        {
+            "skillId": 10492,
+            "nameTextMapHash": 3119835613,
+            "descTextMapHash": 3354049592,
+            "icon": "Skill_S_Yoimiya_01",
+            "proudSkillGroupId": 4932
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 539963541,
+            "descTextMapHash": 3580171643,
+            "icon": "UI_Talent_S_Yoimiya_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1567653061,
+            "descTextMapHash": 2717127043,
+            "icon": "UI_Talent_S_Yoimiya_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 964826125,
+            "descTextMapHash": 953360891,
+            "icon": "UI_Talent_S_Yoimiya_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

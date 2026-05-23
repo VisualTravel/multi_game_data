@@ -1,0 +1,106 @@
+{
+    "id": 14306,
+    "nameTextMapHash": 302690787,
+    "descTextMapHash": 3867432333,
+    "rarity": 3,
+    "weaponType": "WEAPON_CATALYST",
+    "icon": "UI_EquipIcon_Catalyst_Amber",
+    "baseStats": {
+        "attackBase": 38.7413
+    },
+    "refinements": {
+        "affixId": 114306,
+        "nameTextMapHash": 1944680691,
+        "levels": [
+            {
+                "refinement": 1,
+                "nameTextMapHash": 1944680691,
+                "descTextMapHash": 2949139721,
+                "params": [
+                    0.06,
+                    6
+                ]
+            },
+            {
+                "refinement": 2,
+                "nameTextMapHash": 4134324539,
+                "descTextMapHash": 902954145,
+                "params": [
+                    0.075,
+                    6
+                ]
+            },
+            {
+                "refinement": 3,
+                "nameTextMapHash": 2397126819,
+                "descTextMapHash": 4062007553,
+                "params": [
+                    0.09,
+                    6
+                ]
+            },
+            {
+                "refinement": 4,
+                "nameTextMapHash": 31634603,
+                "descTextMapHash": 3669605481,
+                "params": [
+                    0.105,
+                    6
+                ]
+            },
+            {
+                "refinement": 5,
+                "nameTextMapHash": 33330467,
+                "descTextMapHash": 243001,
+                "params": [
+                    0.12,
+                    6
+                ]
+            }
+        ]
+    },
+    "promotions": [
+        {
+            "level": 0,
+            "maxLevel": 20,
+            "addAttack": 0,
+            "costItems": []
+        },
+        {
+            "level": 1,
+            "maxLevel": 40,
+            "addAttack": 19.5,
+            "costItems": []
+        },
+        {
+            "level": 2,
+            "maxLevel": 50,
+            "addAttack": 38.9,
+            "costItems": []
+        },
+        {
+            "level": 3,
+            "maxLevel": 60,
+            "addAttack": 58.4,
+            "costItems": []
+        },
+        {
+            "level": 4,
+            "maxLevel": 70,
+            "addAttack": 77.8,
+            "costItems": []
+        },
+        {
+            "level": 5,
+            "maxLevel": 80,
+            "addAttack": 97.3,
+            "costItems": []
+        },
+        {
+            "level": 6,
+            "maxLevel": 90,
+            "addAttack": 116.7,
+            "costItems": []
+        }
+    ]
+}

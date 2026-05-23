@@ -1,0 +1,54 @@
+{
+    "id": 10000033,
+    "skillDepotId": 3301,
+    "constellations": [
+        {
+            "talentId": 331,
+            "index": 1,
+            "nameTextMapHash": 1777276257,
+            "descTextMapHash": 926659959,
+            "icon": "UI_Talent_S_Tartaglia_01",
+            "openConfig": "Tartaglia_Constellation_1"
+        },
+        {
+            "talentId": 332,
+            "index": 2,
+            "nameTextMapHash": 3821979753,
+            "descTextMapHash": 3189610943,
+            "icon": "UI_Talent_S_Tartaglia_02",
+            "openConfig": "Tartaglia_Constellation_2"
+        },
+        {
+            "talentId": 333,
+            "index": 3,
+            "nameTextMapHash": 1562607913,
+            "descTextMapHash": 1409214471,
+            "icon": "UI_Talent_U_Tartaglia_01",
+            "openConfig": "Tartaglia_Constellation_3"
+        },
+        {
+            "talentId": 334,
+            "index": 4,
+            "nameTextMapHash": 3252659577,
+            "descTextMapHash": 2705924551,
+            "icon": "UI_Talent_S_Tartaglia_05",
+            "openConfig": "Tartaglia_Constellation_4"
+        },
+        {
+            "talentId": 335,
+            "index": 5,
+            "nameTextMapHash": 1429851537,
+            "descTextMapHash": 2922456495,
+            "icon": "UI_Talent_U_Tartaglia_02",
+            "openConfig": "Tartaglia_Constellation_5"
+        },
+        {
+            "talentId": 336,
+            "index": 6,
+            "nameTextMapHash": 1479737849,
+            "descTextMapHash": 792778111,
+            "icon": "UI_Talent_S_Tartaglia_04",
+            "openConfig": "Tartaglia_Constellation_6"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 10000123,
+    "skillDepotId": 12301,
+    "constellations": [
+        {
+            "talentId": 1231,
+            "index": 1,
+            "nameTextMapHash": 39237793,
+            "descTextMapHash": 549417391,
+            "icon": "UI_Talent_S_Durin_03",
+            "openConfig": "Durin_Constellation_1"
+        },
+        {
+            "talentId": 1232,
+            "index": 2,
+            "nameTextMapHash": 380017041,
+            "descTextMapHash": 1348634111,
+            "icon": "UI_Talent_S_Durin_04",
+            "openConfig": "Durin_Constellation_2"
+        },
+        {
+            "talentId": 1233,
+            "index": 3,
+            "nameTextMapHash": 1096728017,
+            "descTextMapHash": 3009268847,
+            "icon": "UI_Talent_U_Durin_01",
+            "openConfig": "Durin_Constellation_3"
+        },
+        {
+            "talentId": 1234,
+            "index": 4,
+            "nameTextMapHash": 1437833273,
+            "descTextMapHash": 1168708743,
+            "icon": "UI_Talent_S_Durin_05",
+            "openConfig": "Durin_Constellation_4"
+        },
+        {
+            "talentId": 1235,
+            "index": 5,
+            "nameTextMapHash": 1871441105,
+            "descTextMapHash": 437935223,
+            "icon": "UI_Talent_U_Durin_02",
+            "openConfig": "Durin_Constellation_5"
+        },
+        {
+            "talentId": 1236,
+            "index": 6,
+            "nameTextMapHash": 13578313,
+            "descTextMapHash": 785576135,
+            "icon": "UI_Talent_S_Durin_06",
+            "openConfig": "Durin_Constellation_6"
+        }
+    ]
+}

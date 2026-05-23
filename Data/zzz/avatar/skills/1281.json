@@ -1,0 +1,289 @@
+{
+    "id": 1281,
+    "skills": [
+        {
+            "nameTextMapHash": "Clara_Skill_Normal_Desc",
+            "descTextMapHash": "Clara_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_Special_01_Desc",
+            "descTextMapHash": "Clara_Skill_Special_01_Desc"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_Special_02_Desc",
+            "descTextMapHash": "Clara_Skill_Special_02_Desc"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_ExSpecial_01_Desc",
+            "descTextMapHash": "Clara_Skill_ExSpecial_01_Desc"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_ExSpecial_02_Desc",
+            "descTextMapHash": "Clara_Skill_ExSpecial_02_Desc"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_Evade_Desc",
+            "descTextMapHash": "Clara_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_Rush_Desc",
+            "descTextMapHash": "Clara_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_Counter_Desc",
+            "descTextMapHash": "Clara_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_QTE_Desc",
+            "descTextMapHash": "Clara_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_ExQTE_Desc",
+            "descTextMapHash": "Clara_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_BeHitAid_Desc",
+            "descTextMapHash": "Clara_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_ParryAid_Desc",
+            "descTextMapHash": "Clara_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_AssaultAid_Desc",
+            "descTextMapHash": "Clara_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_Normal_Title",
+            "descTextMapHash": "Clara_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_Special_01_Title",
+            "descTextMapHash": "Clara_Skill_Special_01_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_Special_02_Title",
+            "descTextMapHash": "Clara_Skill_Special_02_Title"
+        },
+        {
+            "nameTextMapHash": "Clara_Property_Special_Desc_DamageRatio_01",
+            "descTextMapHash": "Clara_Property_Special_Desc_DamageRatio_01"
+        },
+        {
+            "nameTextMapHash": "Clara_Property_Special_Desc_DamageRatio_02",
+            "descTextMapHash": "Clara_Property_Special_Desc_DamageRatio_02"
+        },
+        {
+            "nameTextMapHash": "Clara_Property_Special_Desc_DamageRatio_03",
+            "descTextMapHash": "Clara_Property_Special_Desc_DamageRatio_03"
+        },
+        {
+            "nameTextMapHash": "Clara_Property_Special_Desc_BreakStunRatio_01",
+            "descTextMapHash": "Clara_Property_Special_Desc_BreakStunRatio_01"
+        },
+        {
+            "nameTextMapHash": "Clara_Property_Special_Desc_BreakStunRatio_02",
+            "descTextMapHash": "Clara_Property_Special_Desc_BreakStunRatio_02"
+        },
+        {
+            "nameTextMapHash": "Clara_Property_Special_Desc_BreakStunRatio_03",
+            "descTextMapHash": "Clara_Property_Special_Desc_BreakStunRatio_03"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_ExSpecial_01_Title",
+            "descTextMapHash": "Clara_Skill_ExSpecial_01_Title"
+        },
+        {
+            "nameTextMapHash": "Clara_Property_ExSpecial01_Desc_DamageRatio",
+            "descTextMapHash": "Clara_Property_ExSpecial01_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Clara_Property_ExSpecial01_Desc_BreakStunRatio",
+            "descTextMapHash": "Clara_Property_ExSpecial01_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_ExSpecial_02_Title",
+            "descTextMapHash": "Clara_Skill_ExSpecial_02_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_Rush_Title",
+            "descTextMapHash": "Clara_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_Counter_Title",
+            "descTextMapHash": "Clara_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_QTE_Title",
+            "descTextMapHash": "Clara_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_ExQTE_Title",
+            "descTextMapHash": "Clara_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_BeHitAid_Title",
+            "descTextMapHash": "Clara_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_ParryAid_Title",
+            "descTextMapHash": "Clara_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Clara_Skill_AssaultAid_Title",
+            "descTextMapHash": "Clara_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "Clara_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "Clara_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "Clara_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "Clara_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "Clara_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "Clara_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

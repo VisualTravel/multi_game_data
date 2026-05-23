@@ -1,0 +1,54 @@
+{
+    "id": 10000035,
+    "skillDepotId": 3501,
+    "constellations": [
+        {
+            "talentId": 351,
+            "index": 1,
+            "nameTextMapHash": 3894833521,
+            "descTextMapHash": 1696126103,
+            "icon": "UI_Talent_S_Qiqi_01",
+            "openConfig": "Qiqi_Constellation_1"
+        },
+        {
+            "talentId": 352,
+            "index": 2,
+            "nameTextMapHash": 388179361,
+            "descTextMapHash": 606329007,
+            "icon": "UI_Talent_S_Qiqi_02",
+            "openConfig": "Qiqi_Constellation_2"
+        },
+        {
+            "talentId": 353,
+            "index": 3,
+            "nameTextMapHash": 1454042537,
+            "descTextMapHash": 2773207239,
+            "icon": "UI_Talent_U_Qiqi_01",
+            "openConfig": "Qiqi_Constellation_3"
+        },
+        {
+            "talentId": 354,
+            "index": 4,
+            "nameTextMapHash": 3785957809,
+            "descTextMapHash": 1811613895,
+            "icon": "UI_Talent_S_Qiqi_03",
+            "openConfig": "Qiqi_Constellation_4"
+        },
+        {
+            "talentId": 355,
+            "index": 5,
+            "nameTextMapHash": 243639329,
+            "descTextMapHash": 655434095,
+            "icon": "UI_Talent_U_Qiqi_02",
+            "openConfig": "Qiqi_Constellation_5"
+        },
+        {
+            "talentId": 356,
+            "index": 6,
+            "nameTextMapHash": 1456237985,
+            "descTextMapHash": 1392516215,
+            "icon": "UI_Talent_S_Qiqi_04",
+            "openConfig": "Qiqi_Constellation_6"
+        }
+    ]
+}

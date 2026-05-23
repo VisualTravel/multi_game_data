@@ -1,0 +1,54 @@
+{
+    "id": 10000097,
+    "skillDepotId": 9701,
+    "constellations": [
+        {
+            "talentId": 971,
+            "index": 1,
+            "nameTextMapHash": 2929345953,
+            "descTextMapHash": 63676671,
+            "icon": "UI_Talent_S_Sethos_01",
+            "openConfig": "Sethos_Constellation_1"
+        },
+        {
+            "talentId": 972,
+            "index": 2,
+            "nameTextMapHash": 4002600217,
+            "descTextMapHash": 2748153111,
+            "icon": "UI_Talent_S_Sethos_02",
+            "openConfig": "Sethos_Constellation_2"
+        },
+        {
+            "talentId": 973,
+            "index": 3,
+            "nameTextMapHash": 3225646441,
+            "descTextMapHash": 1122503783,
+            "icon": "UI_Talent_U_Sethos_01",
+            "openConfig": "Sethos_Constellation_3"
+        },
+        {
+            "talentId": 974,
+            "index": 4,
+            "nameTextMapHash": 1034621345,
+            "descTextMapHash": 758586487,
+            "icon": "UI_Talent_S_Sethos_03",
+            "openConfig": "Sethos_Constellation_4"
+        },
+        {
+            "talentId": 975,
+            "index": 5,
+            "nameTextMapHash": 1113819633,
+            "descTextMapHash": 723914999,
+            "icon": "UI_Talent_U_Sethos_02",
+            "openConfig": "Sethos_Constellation_5"
+        },
+        {
+            "talentId": 976,
+            "index": 6,
+            "nameTextMapHash": 1135303145,
+            "descTextMapHash": 3861559575,
+            "icon": "UI_Talent_S_Sethos_04",
+            "openConfig": "Sethos_Constellation_6"
+        }
+    ]
+}

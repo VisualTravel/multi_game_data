@@ -1,0 +1,12 @@
+{
+    "id": 33400,
+    "nameTextMapHash": "EquipmentSuit_33400_name",
+    "effects": {
+        "twoPiece": {
+            "descTextMapHash": "EquipmentSuit_33400_2_des"
+        },
+        "fourPiece": {
+            "descTextMapHash": "EquipmentSuit_33400_4_des"
+        }
+    }
+}

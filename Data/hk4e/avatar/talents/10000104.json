@@ -1,0 +1,46 @@
+{
+    "id": 10000104,
+    "skillDepotId": 10401,
+    "combatSkills": [
+        {
+            "skillId": 11041,
+            "nameTextMapHash": 894584245,
+            "descTextMapHash": 2654453832,
+            "icon": "Skill_A_02",
+            "proudSkillGroupId": 10431
+        },
+        {
+            "skillId": 11042,
+            "nameTextMapHash": 3865567357,
+            "descTextMapHash": 2752073944,
+            "icon": "Skill_S_Chasca_01",
+            "proudSkillGroupId": 10432
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2366571941,
+            "descTextMapHash": 2143690163,
+            "icon": "UI_Talent_S_Chasca_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 2417375333,
+            "descTextMapHash": 3354829891,
+            "icon": "UI_Talent_S_Chasca_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 2129958061,
+            "descTextMapHash": 2448885851,
+            "icon": "UI_Talent_S_Chasca_07",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 1583358221,
+            "descTextMapHash": 668993979,
+            "icon": "UI_Talent_S_Chasca_08",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

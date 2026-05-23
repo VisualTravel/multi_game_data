@@ -1,0 +1,54 @@
+{
+    "id": 10000043,
+    "skillDepotId": 4301,
+    "constellations": [
+        {
+            "talentId": 431,
+            "index": 1,
+            "nameTextMapHash": 1387979801,
+            "descTextMapHash": 659439671,
+            "icon": "UI_Talent_S_Sucrose_01",
+            "openConfig": "Sucrose_Constellation_1"
+        },
+        {
+            "talentId": 432,
+            "index": 2,
+            "nameTextMapHash": 412718177,
+            "descTextMapHash": 393014655,
+            "icon": "UI_Talent_S_Sucrose_02",
+            "openConfig": "Sucrose_Constellation_2"
+        },
+        {
+            "talentId": 433,
+            "index": 3,
+            "nameTextMapHash": 3504452649,
+            "descTextMapHash": 3346841087,
+            "icon": "UI_Talent_U_Sucrose_01",
+            "openConfig": "Sucrose_Constellation_3"
+        },
+        {
+            "talentId": 434,
+            "index": 4,
+            "nameTextMapHash": 2203237409,
+            "descTextMapHash": 1019396423,
+            "icon": "UI_Talent_S_Sucrose_03",
+            "openConfig": "Sucrose_Constellation_4"
+        },
+        {
+            "talentId": 435,
+            "index": 5,
+            "nameTextMapHash": 1605290329,
+            "descTextMapHash": 901461439,
+            "icon": "UI_Talent_U_Sucrose_02",
+            "openConfig": "Sucrose_Constellation_5"
+        },
+        {
+            "talentId": 436,
+            "index": 6,
+            "nameTextMapHash": 344304937,
+            "descTextMapHash": 4078577031,
+            "icon": "UI_Talent_S_Sucrose_04",
+            "openConfig": "Sucrose_Constellation_6"
+        }
+    ]
+}

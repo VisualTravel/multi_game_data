@@ -1,0 +1,40 @@
+{
+    "id": 10000092,
+    "skillDepotId": 9201,
+    "combatSkills": [
+        {
+            "skillId": 10921,
+            "nameTextMapHash": 526099557,
+            "descTextMapHash": 440396008,
+            "icon": "Skill_A_04",
+            "proudSkillGroupId": 9231
+        },
+        {
+            "skillId": 10922,
+            "nameTextMapHash": 2601302325,
+            "descTextMapHash": 2614778880,
+            "icon": "Skill_S_Gaming_01",
+            "proudSkillGroupId": 9232
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2690435389,
+            "descTextMapHash": 3676076291,
+            "icon": "UI_Talent_S_Gaming_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1429562741,
+            "descTextMapHash": 3903207755,
+            "icon": "UI_Talent_S_Gaming_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1742505997,
+            "descTextMapHash": 401997259,
+            "icon": "UI_Talent_S_Dehya_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

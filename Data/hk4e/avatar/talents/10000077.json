@@ -1,0 +1,40 @@
+{
+    "id": 10000077,
+    "skillDepotId": 7701,
+    "combatSkills": [
+        {
+            "skillId": 10771,
+            "nameTextMapHash": 403331285,
+            "descTextMapHash": 1838127344,
+            "icon": "Skill_A_03",
+            "proudSkillGroupId": 7731
+        },
+        {
+            "skillId": 10772,
+            "nameTextMapHash": 3738044709,
+            "descTextMapHash": 1207031224,
+            "icon": "Skill_S_Yaoyao_01",
+            "proudSkillGroupId": 7732
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 1806136669,
+            "descTextMapHash": 613796971,
+            "icon": "UI_Talent_S_Yaoyao_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 442397741,
+            "descTextMapHash": 146925579,
+            "icon": "UI_Talent_S_Yaoyao_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 2108274781,
+            "descTextMapHash": 496849403,
+            "icon": "UI_Talent_S_Yaoyao_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

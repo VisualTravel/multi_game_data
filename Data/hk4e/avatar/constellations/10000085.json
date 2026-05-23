@@ -1,0 +1,54 @@
+{
+    "id": 10000085,
+    "skillDepotId": 8501,
+    "constellations": [
+        {
+            "talentId": 851,
+            "index": 1,
+            "nameTextMapHash": 2267561113,
+            "descTextMapHash": 3704799271,
+            "icon": "UI_Talent_S_Freminet_01",
+            "openConfig": "Freminet_Constellation_1"
+        },
+        {
+            "talentId": 852,
+            "index": 2,
+            "nameTextMapHash": 2404188193,
+            "descTextMapHash": 203581487,
+            "icon": "UI_Talent_S_Freminet_02",
+            "openConfig": "Freminet_Constellation_2"
+        },
+        {
+            "talentId": 853,
+            "index": 3,
+            "nameTextMapHash": 2569900185,
+            "descTextMapHash": 3239889999,
+            "icon": "UI_Talent_U_Freminet_01",
+            "openConfig": "Freminet_Constellation_3"
+        },
+        {
+            "talentId": 854,
+            "index": 4,
+            "nameTextMapHash": 2906179801,
+            "descTextMapHash": 1201397063,
+            "icon": "UI_Talent_S_Freminet_03",
+            "openConfig": "Freminet_Constellation_4"
+        },
+        {
+            "talentId": 855,
+            "index": 5,
+            "nameTextMapHash": 2128994601,
+            "descTextMapHash": 3696772231,
+            "icon": "UI_Talent_U_Freminet_02",
+            "openConfig": "Freminet_Constellation_5"
+        },
+        {
+            "talentId": 856,
+            "index": 6,
+            "nameTextMapHash": 2077326505,
+            "descTextMapHash": 770079951,
+            "icon": "UI_Talent_S_Freminet_04",
+            "openConfig": "Freminet_Constellation_6"
+        }
+    ]
+}

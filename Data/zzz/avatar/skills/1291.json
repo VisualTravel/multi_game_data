@@ -1,0 +1,317 @@
+{
+    "id": 1291,
+    "skills": [
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Normal_Desc",
+            "descTextMapHash": "HugoVlad_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Normal_Enhance_Desc",
+            "descTextMapHash": "HugoVlad_Skill_Normal_Enhance_Desc"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Special_Desc",
+            "descTextMapHash": "HugoVlad_Skill_Special_Desc"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_ExSpecial_02_Desc",
+            "descTextMapHash": "HugoVlad_Skill_ExSpecial_02_Desc"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Evade_Desc",
+            "descTextMapHash": "HugoVlad_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Rush_Desc",
+            "descTextMapHash": "HugoVlad_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Counter_Desc",
+            "descTextMapHash": "HugoVlad_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_QTE_Desc",
+            "descTextMapHash": "HugoVlad_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_ExQTE_Desc",
+            "descTextMapHash": "HugoVlad_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_BeHitAid_Desc",
+            "descTextMapHash": "HugoVlad_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_ParryAid_Desc",
+            "descTextMapHash": "HugoVlad_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_AssaultAid_Desc",
+            "descTextMapHash": "HugoVlad_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Normal_Title",
+            "descTextMapHash": "HugoVlad_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Normal_Desc_Dmg_04_01",
+            "descTextMapHash": "HugoVlad_Skill_Normal_Desc_Dmg_04_01"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Normal_Desc_Dmg_04_02",
+            "descTextMapHash": "HugoVlad_Skill_Normal_Desc_Dmg_04_02"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Normal_Desc_Dmg_04_03",
+            "descTextMapHash": "HugoVlad_Skill_Normal_Desc_Dmg_04_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Normal_Desc_Stun_04_01",
+            "descTextMapHash": "HugoVlad_Skill_Normal_Desc_Stun_04_01"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Normal_Desc_Stun_04_02",
+            "descTextMapHash": "HugoVlad_Skill_Normal_Desc_Stun_04_02"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Normal_Desc_Stun_04_03",
+            "descTextMapHash": "HugoVlad_Skill_Normal_Desc_Stun_04_03"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Normal_Enhance_Title",
+            "descTextMapHash": "HugoVlad_Skill_Normal_Enhance_Title"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Normal_Desc_Dmg_04_01",
+            "descTextMapHash": "HugoVlad_Skill_Normal_Desc_Dmg_04_01"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Normal_Desc_Dmg_04_02",
+            "descTextMapHash": "HugoVlad_Skill_Normal_Desc_Dmg_04_02"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Normal_Desc_Dmg_04_03",
+            "descTextMapHash": "HugoVlad_Skill_Normal_Desc_Dmg_04_03"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Normal_Desc_Stun_04_01",
+            "descTextMapHash": "HugoVlad_Skill_Normal_Desc_Stun_04_01"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Normal_Desc_Stun_04_02",
+            "descTextMapHash": "HugoVlad_Skill_Normal_Desc_Stun_04_02"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Normal_Desc_Stun_04_03",
+            "descTextMapHash": "HugoVlad_Skill_Normal_Desc_Stun_04_03"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Special_Title",
+            "descTextMapHash": "HugoVlad_Skill_Special_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_ExSpecial_02_Title",
+            "descTextMapHash": "HugoVlad_Skill_ExSpecial_02_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Rush_Title",
+            "descTextMapHash": "HugoVlad_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Counter_Title",
+            "descTextMapHash": "HugoVlad_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Counter_Desc_Dmg_01_01",
+            "descTextMapHash": "HugoVlad_Skill_Counter_Desc_Dmg_01_01"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Counter_Desc_Dmg_01_02",
+            "descTextMapHash": "HugoVlad_Skill_Counter_Desc_Dmg_01_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Counter_Desc_Stun_01_01",
+            "descTextMapHash": "HugoVlad_Skill_Counter_Desc_Stun_01_01"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Counter_Desc_Stun_01_02",
+            "descTextMapHash": "HugoVlad_Skill_Counter_Desc_Stun_01_02"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_QTE_Title",
+            "descTextMapHash": "HugoVlad_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_QTE_Desc_Dmg_01_01",
+            "descTextMapHash": "HugoVlad_Skill_QTE_Desc_Dmg_01_01"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_QTE_Desc_Stun_01_01",
+            "descTextMapHash": "HugoVlad_Skill_QTE_Desc_Stun_01_01"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_ExQTE_Title",
+            "descTextMapHash": "HugoVlad_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_BeHitAid_Title",
+            "descTextMapHash": "HugoVlad_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Counter_Desc_Dmg_01_01",
+            "descTextMapHash": "HugoVlad_Skill_Counter_Desc_Dmg_01_01"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Counter_Desc_Dmg_01_02",
+            "descTextMapHash": "HugoVlad_Skill_Counter_Desc_Dmg_01_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Counter_Desc_Stun_01_01",
+            "descTextMapHash": "HugoVlad_Skill_Counter_Desc_Stun_01_01"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_Counter_Desc_Stun_01_02",
+            "descTextMapHash": "HugoVlad_Skill_Counter_Desc_Stun_01_02"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_ParryAid_Title",
+            "descTextMapHash": "HugoVlad_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "HugoVlad_Skill_AssaultAid_Title",
+            "descTextMapHash": "HugoVlad_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "HugoVlad_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "HugoVlad_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "HugoVlad_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "HugoVlad_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "HugoVlad_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "HugoVlad_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

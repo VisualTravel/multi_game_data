@@ -1,0 +1,54 @@
+{
+    "id": 10000055,
+    "skillDepotId": 5501,
+    "constellations": [
+        {
+            "talentId": 551,
+            "index": 1,
+            "nameTextMapHash": 674795649,
+            "descTextMapHash": 438942183,
+            "icon": "UI_Talent_S_Gorou_01",
+            "openConfig": "Gorou_Constellation_1"
+        },
+        {
+            "talentId": 552,
+            "index": 2,
+            "nameTextMapHash": 879885745,
+            "descTextMapHash": 2750518583,
+            "icon": "UI_Talent_S_Gorou_02",
+            "openConfig": "Gorou_Constellation_2"
+        },
+        {
+            "talentId": 553,
+            "index": 3,
+            "nameTextMapHash": 1718190545,
+            "descTextMapHash": 3711276463,
+            "icon": "UI_Talent_U_Gorou_01",
+            "openConfig": "Gorou_Constellation_3"
+        },
+        {
+            "talentId": 554,
+            "index": 4,
+            "nameTextMapHash": 3990139377,
+            "descTextMapHash": 2595428727,
+            "icon": "UI_Talent_S_Gorou_03",
+            "openConfig": "Gorou_Constellation_4"
+        },
+        {
+            "talentId": 555,
+            "index": 5,
+            "nameTextMapHash": 1205827025,
+            "descTextMapHash": 1584360679,
+            "icon": "UI_Talent_U_Gorou_02",
+            "openConfig": "Gorou_Constellation_5"
+        },
+        {
+            "talentId": 556,
+            "index": 6,
+            "nameTextMapHash": 3335516265,
+            "descTextMapHash": 622715351,
+            "icon": "UI_Talent_S_Gorou_04",
+            "openConfig": "Gorou_Constellation_6"
+        }
+    ]
+}

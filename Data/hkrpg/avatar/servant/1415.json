@@ -1,0 +1,71 @@
+{
+    "id": 1415,
+    "servantId": 11415,
+    "nameTextMapHash": 12853558968518270305,
+    "headIcon": "11415.png",
+    "waitingImg": "11415.png",
+    "attributes": {
+        "hpBase": "0",
+        "hpInherit": "#1",
+        "speedBase": "0",
+        "aggro": {
+            "Value": 100
+        }
+    },
+    "skills": [
+        {
+            "skillId": 1141501
+        },
+        {
+            "skillId": 1141502
+        },
+        {
+            "skillId": 1141503
+        },
+        {
+            "skillId": 1141505
+        },
+        {
+            "skillId": 1141513
+        },
+        {
+            "skillId": 1141514
+        },
+        {
+            "skillId": 1141515
+        },
+        {
+            "skillId": 1141516
+        },
+        {
+            "skillId": 1141517
+        },
+        {
+            "skillId": 1141518
+        },
+        {
+            "skillId": 1141519
+        },
+        {
+            "skillId": 1141520
+        },
+        {
+            "skillId": 1141521
+        },
+        {
+            "skillId": 1141522
+        },
+        {
+            "skillId": 1141523
+        },
+        {
+            "skillId": 1141524
+        },
+        {
+            "skillId": 1141525
+        },
+        {
+            "skillId": 1141526
+        }
+    ]
+}

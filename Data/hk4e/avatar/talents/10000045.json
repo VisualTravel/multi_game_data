@@ -1,0 +1,40 @@
+{
+    "id": 10000045,
+    "skillDepotId": 4501,
+    "combatSkills": [
+        {
+            "skillId": 10451,
+            "nameTextMapHash": 37073957,
+            "descTextMapHash": 1514817584,
+            "icon": "Skill_A_03",
+            "proudSkillGroupId": 4531
+        },
+        {
+            "skillId": 10452,
+            "nameTextMapHash": 2398604517,
+            "descTextMapHash": 1467181408,
+            "icon": "Skill_S_Rosaria_01",
+            "proudSkillGroupId": 4532
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 1821354453,
+            "descTextMapHash": 978610259,
+            "icon": "UI_Talent_S_Rosaria_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3761750205,
+            "descTextMapHash": 311863307,
+            "icon": "UI_Talent_S_Rosaria_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1285745693,
+            "descTextMapHash": 3191921099,
+            "icon": "UI_Talent_Rosaria_NightRunner",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

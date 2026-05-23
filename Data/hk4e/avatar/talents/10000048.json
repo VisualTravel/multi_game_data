@@ -1,0 +1,40 @@
+{
+    "id": 10000048,
+    "skillDepotId": 4801,
+    "combatSkills": [
+        {
+            "skillId": 10481,
+            "nameTextMapHash": 2553270533,
+            "descTextMapHash": 2964053104,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 4831
+        },
+        {
+            "skillId": 10482,
+            "nameTextMapHash": 4230929773,
+            "descTextMapHash": 37335528,
+            "icon": "Skill_S_Feiyan_01",
+            "proudSkillGroupId": 4832
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3896656989,
+            "descTextMapHash": 3007453531,
+            "icon": "UI_Talent_S_Feiyan_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3992510557,
+            "descTextMapHash": 3308736995,
+            "icon": "UI_Talent_S_Feiyan_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1046409365,
+            "descTextMapHash": 3547894851,
+            "icon": "UI_Talent_Collect_Local_Liyue",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

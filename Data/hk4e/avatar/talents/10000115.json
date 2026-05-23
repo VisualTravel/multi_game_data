@@ -1,0 +1,40 @@
+{
+    "id": 10000115,
+    "skillDepotId": 11501,
+    "combatSkills": [
+        {
+            "skillId": 11151,
+            "nameTextMapHash": 3970841797,
+            "descTextMapHash": 698059056,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 11531
+        },
+        {
+            "skillId": 11152,
+            "nameTextMapHash": 142283893,
+            "descTextMapHash": 4138515944,
+            "icon": "Skill_S_Dahlia_01",
+            "proudSkillGroupId": 11532
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 1131035685,
+            "descTextMapHash": 369058179,
+            "icon": "UI_Talent_S_Dahlia_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 642038117,
+            "descTextMapHash": 20028611,
+            "icon": "UI_Talent_S_Dahlia_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1742591125,
+            "descTextMapHash": 2342128907,
+            "icon": "UI_Talent_S_Dehya_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

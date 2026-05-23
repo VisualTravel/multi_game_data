@@ -1,0 +1,46 @@
+{
+    "id": 10000123,
+    "skillDepotId": 12301,
+    "combatSkills": [
+        {
+            "skillId": 11231,
+            "nameTextMapHash": 2691078405,
+            "descTextMapHash": 3380825448,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 12331
+        },
+        {
+            "skillId": 11232,
+            "nameTextMapHash": 286217245,
+            "descTextMapHash": 1500963952,
+            "icon": "Skill_S_Durin_01",
+            "proudSkillGroupId": 12332
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3550532957,
+            "descTextMapHash": 2835613755,
+            "icon": "UI_Talent_S_Durin_01",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1290776637,
+            "descTextMapHash": 1501837443,
+            "icon": "UI_Talent_S_Durin_02",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 818562309,
+            "descTextMapHash": 2212111707,
+            "icon": "UI_Talent_S_Durin_07",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 3755781445,
+            "descTextMapHash": 3622833155,
+            "icon": "UI_Talent_S_Durin_03",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

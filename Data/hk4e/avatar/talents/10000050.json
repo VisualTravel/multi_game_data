@@ -1,0 +1,40 @@
+{
+    "id": 10000050,
+    "skillDepotId": 5001,
+    "combatSkills": [
+        {
+            "skillId": 10501,
+            "nameTextMapHash": 3651752365,
+            "descTextMapHash": 3009612072,
+            "icon": "Skill_A_03",
+            "proudSkillGroupId": 5031
+        },
+        {
+            "skillId": 10502,
+            "nameTextMapHash": 3732507069,
+            "descTextMapHash": 432172200,
+            "icon": "Skill_S_Tohma_01",
+            "proudSkillGroupId": 5032
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2361871525,
+            "descTextMapHash": 1069704651,
+            "icon": "UI_Talent_S_Tohma_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 4028465645,
+            "descTextMapHash": 4029622747,
+            "icon": "UI_Talent_S_Tohma_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1914526909,
+            "descTextMapHash": 2521602059,
+            "icon": "UI_Talent_S_Tohma_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

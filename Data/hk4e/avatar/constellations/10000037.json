@@ -1,0 +1,54 @@
+{
+    "id": 10000037,
+    "skillDepotId": 3701,
+    "constellations": [
+        {
+            "talentId": 371,
+            "index": 1,
+            "nameTextMapHash": 2361723385,
+            "descTextMapHash": 975174791,
+            "icon": "UI_Talent_S_Ganyu_01",
+            "openConfig": "Ganyu_Constellation_1"
+        },
+        {
+            "talentId": 372,
+            "index": 2,
+            "nameTextMapHash": 1383329801,
+            "descTextMapHash": 3346117807,
+            "icon": "UI_Talent_S_Ganyu_02",
+            "openConfig": "Ganyu_Constellation_2"
+        },
+        {
+            "talentId": 373,
+            "index": 3,
+            "nameTextMapHash": 3222344961,
+            "descTextMapHash": 2569531631,
+            "icon": "UI_Talent_U_Ganyu_01",
+            "openConfig": "Ganyu_Constellation_3"
+        },
+        {
+            "talentId": 374,
+            "index": 4,
+            "nameTextMapHash": 3290499081,
+            "descTextMapHash": 1565817023,
+            "icon": "UI_Talent_S_Ganyu_03",
+            "openConfig": "Ganyu_Constellation_4"
+        },
+        {
+            "talentId": 375,
+            "index": 5,
+            "nameTextMapHash": 1752707417,
+            "descTextMapHash": 1288501359,
+            "icon": "UI_Talent_U_Ganyu_02",
+            "openConfig": "Ganyu_Constellation_5"
+        },
+        {
+            "talentId": 376,
+            "index": 6,
+            "nameTextMapHash": 37217545,
+            "descTextMapHash": 3563825207,
+            "icon": "UI_Talent_S_Ganyu_04",
+            "openConfig": "Ganyu_Constellation_6"
+        }
+    ]
+}

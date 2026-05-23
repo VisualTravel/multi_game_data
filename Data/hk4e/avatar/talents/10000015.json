@@ -1,0 +1,40 @@
+{
+    "id": 10000015,
+    "skillDepotId": 1501,
+    "combatSkills": [
+        {
+            "skillId": 10073,
+            "nameTextMapHash": 3795823997,
+            "descTextMapHash": 3473499320,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 1531
+        },
+        {
+            "skillId": 10074,
+            "nameTextMapHash": 1067425061,
+            "descTextMapHash": 1929962560,
+            "icon": "Skill_S_Kaeya_01",
+            "proudSkillGroupId": 1532
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 73889085,
+            "descTextMapHash": 2556398915,
+            "icon": "UI_Talent_S_Kaeya_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 2837975501,
+            "descTextMapHash": 1886880811,
+            "icon": "UI_Talent_S_Kaeya_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 433695005,
+            "descTextMapHash": 1546033427,
+            "icon": "UI_Talent_Explosion_Sprint",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

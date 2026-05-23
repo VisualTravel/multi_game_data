@@ -1,0 +1,201 @@
+{
+    "id": 14522,
+    "nameTextMapHash": 1441327235,
+    "descTextMapHash": 2638689509,
+    "rarity": 5,
+    "weaponType": "WEAPON_CATALYST",
+    "icon": "UI_EquipIcon_Catalyst_Brisingamen",
+    "baseStats": {
+        "attackBase": 44.3358,
+        "subStatType": "FIGHT_PROP_CRITICAL_HURT",
+        "subStatInitValue": 0.192
+    },
+    "refinements": {
+        "affixId": 114522,
+        "nameTextMapHash": 2904213659,
+        "levels": [
+            {
+                "refinement": 1,
+                "nameTextMapHash": 2904213659,
+                "descTextMapHash": 3781937177,
+                "params": [
+                    0.14,
+                    0.6,
+                    12,
+                    14,
+                    18
+                ]
+            },
+            {
+                "refinement": 2,
+                "nameTextMapHash": 955963403,
+                "descTextMapHash": 346550513,
+                "params": [
+                    0.16,
+                    0.8,
+                    12,
+                    15,
+                    18
+                ]
+            },
+            {
+                "refinement": 3,
+                "nameTextMapHash": 684526987,
+                "descTextMapHash": 213323833,
+                "params": [
+                    0.18,
+                    1,
+                    12,
+                    16,
+                    18
+                ]
+            },
+            {
+                "refinement": 4,
+                "nameTextMapHash": 930045995,
+                "descTextMapHash": 3638630857,
+                "params": [
+                    0.2,
+                    1.2,
+                    12,
+                    17,
+                    18
+                ]
+            },
+            {
+                "refinement": 5,
+                "nameTextMapHash": 1060275387,
+                "descTextMapHash": 3683213569,
+                "params": [
+                    0.22,
+                    1.4,
+                    12,
+                    18,
+                    18
+                ]
+            }
+        ]
+    },
+    "promotions": [
+        {
+            "level": 0,
+            "maxLevel": 20,
+            "addAttack": 0,
+            "costItems": []
+        },
+        {
+            "level": 1,
+            "maxLevel": 40,
+            "addAttack": 31.1,
+            "costItems": [
+                {
+                    "id": 114081,
+                    "count": 5
+                },
+                {
+                    "id": 112137,
+                    "count": 5
+                },
+                {
+                    "id": 112125,
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "level": 2,
+            "maxLevel": 50,
+            "addAttack": 62.2,
+            "costItems": [
+                {
+                    "id": 114082,
+                    "count": 5
+                },
+                {
+                    "id": 112137,
+                    "count": 18
+                },
+                {
+                    "id": 112125,
+                    "count": 12
+                }
+            ]
+        },
+        {
+            "level": 3,
+            "maxLevel": 60,
+            "addAttack": 93.4,
+            "costItems": [
+                {
+                    "id": 114082,
+                    "count": 9
+                },
+                {
+                    "id": 112138,
+                    "count": 9
+                },
+                {
+                    "id": 112126,
+                    "count": 9
+                }
+            ]
+        },
+        {
+            "level": 4,
+            "maxLevel": 70,
+            "addAttack": 124.5,
+            "costItems": [
+                {
+                    "id": 114083,
+                    "count": 5
+                },
+                {
+                    "id": 112138,
+                    "count": 18
+                },
+                {
+                    "id": 112126,
+                    "count": 14
+                }
+            ]
+        },
+        {
+            "level": 5,
+            "maxLevel": 80,
+            "addAttack": 155.6,
+            "costItems": [
+                {
+                    "id": 114083,
+                    "count": 9
+                },
+                {
+                    "id": 112139,
+                    "count": 14
+                },
+                {
+                    "id": 112127,
+                    "count": 9
+                }
+            ]
+        },
+        {
+            "level": 6,
+            "maxLevel": 90,
+            "addAttack": 186.7,
+            "costItems": [
+                {
+                    "id": 114084,
+                    "count": 6
+                },
+                {
+                    "id": 112139,
+                    "count": 27
+                },
+                {
+                    "id": 112127,
+                    "count": 18
+                }
+            ]
+        }
+    ]
+}

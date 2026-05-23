@@ -1,0 +1,33 @@
+{
+    "id": 10000118,
+    "skillDepotId": 11801,
+    "combatSkills": [
+        {
+            "skillId": 11171,
+            "nameTextMapHash": 3368284549,
+            "descTextMapHash": 3512850744,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 11731
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 666712229,
+            "descTextMapHash": 1291123867,
+            "icon": "UI_Talent_S_LittleIdol_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 206217621,
+            "descTextMapHash": 1090239707,
+            "icon": "UI_Talent_S_LittleIdol_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 565052845,
+            "descTextMapHash": 789988659,
+            "icon": "UI_Talent_S_LittleIdol_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

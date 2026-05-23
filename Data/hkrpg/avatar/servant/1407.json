@@ -1,0 +1,41 @@
+{
+    "id": 1407,
+    "servantId": 11407,
+    "nameTextMapHash": 9405473727784758980,
+    "headIcon": "11407.png",
+    "waitingImg": "11407.png",
+    "attributes": {
+        "hpBase": "0",
+        "hpInherit": "0",
+        "speedBase": "#1",
+        "aggro": {
+            "Value": 100
+        }
+    },
+    "skills": [
+        {
+            "skillId": 1140701
+        },
+        {
+            "skillId": 1140702
+        },
+        {
+            "skillId": 1140703
+        },
+        {
+            "skillId": 1140705
+        },
+        {
+            "skillId": 1140706
+        },
+        {
+            "skillId": 1140710
+        },
+        {
+            "skillId": 1140711
+        },
+        {
+            "skillId": 1140712
+        }
+    ]
+}

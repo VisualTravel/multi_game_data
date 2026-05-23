@@ -1,0 +1,54 @@
+{
+    "id": 10000122,
+    "skillDepotId": 12201,
+    "constellations": [
+        {
+            "talentId": 1221,
+            "index": 1,
+            "nameTextMapHash": 1810447841,
+            "descTextMapHash": 1497144535,
+            "icon": "UI_Talent_S_Nefer_01",
+            "openConfig": "Nefer_Constellation_1"
+        },
+        {
+            "talentId": 1222,
+            "index": 2,
+            "nameTextMapHash": 2561039729,
+            "descTextMapHash": 3840705663,
+            "icon": "UI_Talent_S_Nefer_02",
+            "openConfig": "Nefer_Constellation_2"
+        },
+        {
+            "talentId": 1223,
+            "index": 3,
+            "nameTextMapHash": 3653127521,
+            "descTextMapHash": 632726543,
+            "icon": "UI_Talent_U_Nefer_01",
+            "openConfig": "Nefer_Constellation_3"
+        },
+        {
+            "talentId": 1224,
+            "index": 4,
+            "nameTextMapHash": 948261233,
+            "descTextMapHash": 519046263,
+            "icon": "UI_Talent_S_Nefer_03",
+            "openConfig": "Nefer_Constellation_4"
+        },
+        {
+            "talentId": 1225,
+            "index": 5,
+            "nameTextMapHash": 2320998809,
+            "descTextMapHash": 3038082359,
+            "icon": "UI_Talent_U_Nefer_02",
+            "openConfig": "Nefer_Constellation_5"
+        },
+        {
+            "talentId": 1226,
+            "index": 6,
+            "nameTextMapHash": 3875848417,
+            "descTextMapHash": 3324305687,
+            "icon": "UI_Talent_S_Nefer_04",
+            "openConfig": "Nefer_Constellation_6"
+        }
+    ]
+}

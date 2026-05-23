@@ -1,0 +1,54 @@
+{
+    "id": 10000014,
+    "skillDepotId": 1401,
+    "constellations": [
+        {
+            "talentId": 141,
+            "index": 1,
+            "nameTextMapHash": 696499609,
+            "descTextMapHash": 1541078279,
+            "icon": "UI_Talent_S_Barbara_01",
+            "openConfig": "Barbara_Constellation_1"
+        },
+        {
+            "talentId": 142,
+            "index": 2,
+            "nameTextMapHash": 3458095329,
+            "descTextMapHash": 3401415943,
+            "icon": "UI_Talent_S_Barbara_02",
+            "openConfig": "Barbara_Constellation_2"
+        },
+        {
+            "talentId": 143,
+            "index": 3,
+            "nameTextMapHash": 929990745,
+            "descTextMapHash": 3525415319,
+            "icon": "UI_Talent_U_Barbara_02",
+            "openConfig": "Barbara_Constellation_3"
+        },
+        {
+            "talentId": 144,
+            "index": 4,
+            "nameTextMapHash": 2093148473,
+            "descTextMapHash": 1120189767,
+            "icon": "UI_Talent_S_Barbara_03",
+            "openConfig": "Barbara_Constellation_4"
+        },
+        {
+            "talentId": 145,
+            "index": 5,
+            "nameTextMapHash": 3139814905,
+            "descTextMapHash": 1422637159,
+            "icon": "UI_Talent_U_Barbara_01",
+            "openConfig": "Barbara_Constellation_5"
+        },
+        {
+            "talentId": 146,
+            "index": 6,
+            "nameTextMapHash": 2183173281,
+            "descTextMapHash": 3744328127,
+            "icon": "UI_Talent_S_Barbara_04",
+            "openConfig": "Barbara_Constellation_6"
+        }
+    ]
+}

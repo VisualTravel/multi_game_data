@@ -1,0 +1,54 @@
+{
+    "id": 10000116,
+    "skillDepotId": 11601,
+    "constellations": [
+        {
+            "talentId": 1161,
+            "index": 1,
+            "nameTextMapHash": 2792673553,
+            "descTextMapHash": 1379942879,
+            "icon": "UI_Talent_S_Ineffa_01",
+            "openConfig": "Ineffa_Constellation_1"
+        },
+        {
+            "talentId": 1162,
+            "index": 2,
+            "nameTextMapHash": 3292331041,
+            "descTextMapHash": 2774236615,
+            "icon": "UI_Talent_S_Ineffa_02",
+            "openConfig": "Ineffa_Constellation_2"
+        },
+        {
+            "talentId": 1163,
+            "index": 3,
+            "nameTextMapHash": 1658222977,
+            "descTextMapHash": 3664329935,
+            "icon": "UI_Talent_U_Ineffa_01",
+            "openConfig": "Ineffa_Constellation_3"
+        },
+        {
+            "talentId": 1164,
+            "index": 4,
+            "nameTextMapHash": 3299317897,
+            "descTextMapHash": 1798830319,
+            "icon": "UI_Talent_S_Ineffa_03",
+            "openConfig": "Ineffa_Constellation_4"
+        },
+        {
+            "talentId": 1165,
+            "index": 5,
+            "nameTextMapHash": 1316229593,
+            "descTextMapHash": 1468469271,
+            "icon": "UI_Talent_U_Ineffa_02",
+            "openConfig": "Ineffa_Constellation_5"
+        },
+        {
+            "talentId": 1166,
+            "index": 6,
+            "nameTextMapHash": 2510148033,
+            "descTextMapHash": 715750631,
+            "icon": "UI_Talent_S_Ineffa_04",
+            "openConfig": "Ineffa_Constellation_6"
+        }
+    ]
+}

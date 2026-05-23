@@ -1,0 +1,40 @@
+{
+    "id": 10000062,
+    "skillDepotId": 6201,
+    "combatSkills": [
+        {
+            "skillId": 10621,
+            "nameTextMapHash": 2994648485,
+            "descTextMapHash": 3151277472,
+            "icon": "Skill_A_02",
+            "proudSkillGroupId": 6231
+        },
+        {
+            "skillId": 10622,
+            "nameTextMapHash": 1871687965,
+            "descTextMapHash": 647988592,
+            "icon": "Skill_S_Aloy_01",
+            "proudSkillGroupId": 6232
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 523305365,
+            "descTextMapHash": 3940970907,
+            "icon": "UI_Talent_S_Aloy_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 433318997,
+            "descTextMapHash": 4257487235,
+            "icon": "UI_Talent_S_Aloy_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 3414124565,
+            "descTextMapHash": 3074892883,
+            "icon": "UI_Talent_S_Aloy_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

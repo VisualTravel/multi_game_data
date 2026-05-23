@@ -1,0 +1,40 @@
+{
+    "id": 10000058,
+    "skillDepotId": 5801,
+    "combatSkills": [
+        {
+            "skillId": 10581,
+            "nameTextMapHash": 3966360853,
+            "descTextMapHash": 976224360,
+            "icon": "Skill_A_Catalyst_MD",
+            "proudSkillGroupId": 5831
+        },
+        {
+            "skillId": 10582,
+            "nameTextMapHash": 823034989,
+            "descTextMapHash": 1814358328,
+            "icon": "Skill_S_Yae_01",
+            "proudSkillGroupId": 5832
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 4293081189,
+            "descTextMapHash": 3689732219,
+            "icon": "UI_Talent_S_Yae_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1210171637,
+            "descTextMapHash": 886862267,
+            "icon": "UI_Talent_S_Yae_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 294063517,
+            "descTextMapHash": 1058193419,
+            "icon": "UI_Talent_S_Yae_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

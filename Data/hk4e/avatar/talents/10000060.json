@@ -1,0 +1,40 @@
+{
+    "id": 10000060,
+    "skillDepotId": 6001,
+    "combatSkills": [
+        {
+            "skillId": 10606,
+            "nameTextMapHash": 1713742133,
+            "descTextMapHash": 2537126376,
+            "icon": "Skill_A_02",
+            "proudSkillGroupId": 6031
+        },
+        {
+            "skillId": 10607,
+            "nameTextMapHash": 890827021,
+            "descTextMapHash": 1089733824,
+            "icon": "Skill_S_Yelan_01",
+            "proudSkillGroupId": 6032
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2010349021,
+            "descTextMapHash": 3218137499,
+            "icon": "UI_Talent_S_Yelan_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1181356333,
+            "descTextMapHash": 1408090395,
+            "icon": "UI_Talent_S_Yelan_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 4230028541,
+            "descTextMapHash": 3143097467,
+            "icon": "UI_Talent_Expedition_Liyue",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

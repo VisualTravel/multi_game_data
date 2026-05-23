@@ -1,0 +1,556 @@
+{
+    "id": 10000014,
+    "nameTextMapHash": 3775298658,
+    "rarity": 4,
+    "weaponType": "WEAPON_CATALYST",
+    "bodyType": "BODY_GIRL",
+    "icon": "UI_AvatarIcon_Barbara",
+    "sideIcon": "UI_AvatarIcon_Side_Barbara",
+    "baseStats": {
+        "hpBase": 820.6119,
+        "attackBase": 13.356,
+        "defenseBase": 56.0805,
+        "critical": 0.05,
+        "criticalHurt": 0.5
+    },
+    "growthCurves": {
+        "hp": "GROW_CURVE_HP_S4",
+        "attack": "GROW_CURVE_ATTACK_S4",
+        "defense": "GROW_CURVE_HP_S4"
+    },
+    "promotions": [
+        {
+            "level": 0,
+            "maxLevel": 20,
+            "addProps": {},
+            "costItems": []
+        },
+        {
+            "level": 1,
+            "maxLevel": 40,
+            "addProps": {
+                "FIGHT_PROP_BASE_HP": 613.0391,
+                "FIGHT_PROP_BASE_DEFENSE": 41.895,
+                "FIGHT_PROP_BASE_ATTACK": 9.97785
+            },
+            "costItems": [
+                {
+                    "id": 104121,
+                    "count": 1
+                },
+                {
+                    "id": 100025,
+                    "count": 3
+                },
+                {
+                    "id": 112008,
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "level": 2,
+            "maxLevel": 50,
+            "addProps": {
+                "FIGHT_PROP_BASE_HP": 1048.6195,
+                "FIGHT_PROP_BASE_DEFENSE": 71.6625,
+                "FIGHT_PROP_BASE_ATTACK": 17.067375,
+                "FIGHT_PROP_HP_PERCENT": 0.06
+            },
+            "costItems": [
+                {
+                    "id": 104122,
+                    "count": 3
+                },
+                {
+                    "id": 113012,
+                    "count": 2
+                },
+                {
+                    "id": 100025,
+                    "count": 10
+                },
+                {
+                    "id": 112008,
+                    "count": 15
+                }
+            ]
+        },
+        {
+            "level": 3,
+            "maxLevel": 60,
+            "addProps": {
+                "FIGHT_PROP_BASE_HP": 1629.3934,
+                "FIGHT_PROP_BASE_DEFENSE": 111.3525,
+                "FIGHT_PROP_BASE_ATTACK": 26.520075,
+                "FIGHT_PROP_HP_PERCENT": 0.12
+            },
+            "costItems": [
+                {
+                    "id": 104122,
+                    "count": 6
+                },
+                {
+                    "id": 113012,
+                    "count": 4
+                },
+                {
+                    "id": 100025,
+                    "count": 20
+                },
+                {
+                    "id": 112009,
+                    "count": 12
+                }
+            ]
+        },
+        {
+            "level": 4,
+            "maxLevel": 70,
+            "addProps": {
+                "FIGHT_PROP_BASE_HP": 2064.9739,
+                "FIGHT_PROP_BASE_DEFENSE": 141.12,
+                "FIGHT_PROP_BASE_ATTACK": 33.6096,
+                "FIGHT_PROP_HP_PERCENT": 0.12
+            },
+            "costItems": [
+                {
+                    "id": 104123,
+                    "count": 3
+                },
+                {
+                    "id": 113012,
+                    "count": 8
+                },
+                {
+                    "id": 100025,
+                    "count": 30
+                },
+                {
+                    "id": 112009,
+                    "count": 18
+                }
+            ]
+        },
+        {
+            "level": 5,
+            "maxLevel": 80,
+            "addProps": {
+                "FIGHT_PROP_BASE_HP": 2500.5542,
+                "FIGHT_PROP_BASE_DEFENSE": 170.8875,
+                "FIGHT_PROP_BASE_ATTACK": 40.699123,
+                "FIGHT_PROP_HP_PERCENT": 0.18
+            },
+            "costItems": [
+                {
+                    "id": 104123,
+                    "count": 6
+                },
+                {
+                    "id": 113012,
+                    "count": 12
+                },
+                {
+                    "id": 100025,
+                    "count": 45
+                },
+                {
+                    "id": 112010,
+                    "count": 12
+                }
+            ]
+        },
+        {
+            "level": 6,
+            "maxLevel": 90,
+            "addProps": {
+                "FIGHT_PROP_BASE_HP": 2936.1348,
+                "FIGHT_PROP_BASE_DEFENSE": 200.655,
+                "FIGHT_PROP_BASE_ATTACK": 47.78865,
+                "FIGHT_PROP_HP_PERCENT": 0.24
+            },
+            "costItems": [
+                {
+                    "id": 104124,
+                    "count": 6
+                },
+                {
+                    "id": 113012,
+                    "count": 20
+                },
+                {
+                    "id": 100025,
+                    "count": 60
+                },
+                {
+                    "id": 112010,
+                    "count": 24
+                }
+            ]
+        }
+    ],
+    "levels": {
+        "experienceCurve": [
+            {
+                "level": 1,
+                "expToNext": 1000
+            },
+            {
+                "level": 2,
+                "expToNext": 1325
+            },
+            {
+                "level": 3,
+                "expToNext": 1700
+            },
+            {
+                "level": 4,
+                "expToNext": 2150
+            },
+            {
+                "level": 5,
+                "expToNext": 2625
+            },
+            {
+                "level": 6,
+                "expToNext": 3150
+            },
+            {
+                "level": 7,
+                "expToNext": 3725
+            },
+            {
+                "level": 8,
+                "expToNext": 4350
+            },
+            {
+                "level": 9,
+                "expToNext": 5000
+            },
+            {
+                "level": 10,
+                "expToNext": 5700
+            },
+            {
+                "level": 11,
+                "expToNext": 6450
+            },
+            {
+                "level": 12,
+                "expToNext": 7225
+            },
+            {
+                "level": 13,
+                "expToNext": 8050
+            },
+            {
+                "level": 14,
+                "expToNext": 8925
+            },
+            {
+                "level": 15,
+                "expToNext": 9825
+            },
+            {
+                "level": 16,
+                "expToNext": 10750
+            },
+            {
+                "level": 17,
+                "expToNext": 11725
+            },
+            {
+                "level": 18,
+                "expToNext": 12725
+            },
+            {
+                "level": 19,
+                "expToNext": 13775
+            },
+            {
+                "level": 20,
+                "expToNext": 14875
+            },
+            {
+                "level": 21,
+                "expToNext": 16800
+            },
+            {
+                "level": 22,
+                "expToNext": 18000
+            },
+            {
+                "level": 23,
+                "expToNext": 19250
+            },
+            {
+                "level": 24,
+                "expToNext": 20550
+            },
+            {
+                "level": 25,
+                "expToNext": 21875
+            },
+            {
+                "level": 26,
+                "expToNext": 23250
+            },
+            {
+                "level": 27,
+                "expToNext": 24650
+            },
+            {
+                "level": 28,
+                "expToNext": 26100
+            },
+            {
+                "level": 29,
+                "expToNext": 27575
+            },
+            {
+                "level": 30,
+                "expToNext": 29100
+            },
+            {
+                "level": 31,
+                "expToNext": 30650
+            },
+            {
+                "level": 32,
+                "expToNext": 32250
+            },
+            {
+                "level": 33,
+                "expToNext": 33875
+            },
+            {
+                "level": 34,
+                "expToNext": 35550
+            },
+            {
+                "level": 35,
+                "expToNext": 37250
+            },
+            {
+                "level": 36,
+                "expToNext": 38975
+            },
+            {
+                "level": 37,
+                "expToNext": 40750
+            },
+            {
+                "level": 38,
+                "expToNext": 42575
+            },
+            {
+                "level": 39,
+                "expToNext": 44425
+            },
+            {
+                "level": 40,
+                "expToNext": 46300
+            },
+            {
+                "level": 41,
+                "expToNext": 50625
+            },
+            {
+                "level": 42,
+                "expToNext": 52700
+            },
+            {
+                "level": 43,
+                "expToNext": 54775
+            },
+            {
+                "level": 44,
+                "expToNext": 56900
+            },
+            {
+                "level": 45,
+                "expToNext": 59075
+            },
+            {
+                "level": 46,
+                "expToNext": 61275
+            },
+            {
+                "level": 47,
+                "expToNext": 63525
+            },
+            {
+                "level": 48,
+                "expToNext": 65800
+            },
+            {
+                "level": 49,
+                "expToNext": 68125
+            },
+            {
+                "level": 50,
+                "expToNext": 70475
+            },
+            {
+                "level": 51,
+                "expToNext": 76500
+            },
+            {
+                "level": 52,
+                "expToNext": 79050
+            },
+            {
+                "level": 53,
+                "expToNext": 81650
+            },
+            {
+                "level": 54,
+                "expToNext": 84275
+            },
+            {
+                "level": 55,
+                "expToNext": 86950
+            },
+            {
+                "level": 56,
+                "expToNext": 89650
+            },
+            {
+                "level": 57,
+                "expToNext": 92400
+            },
+            {
+                "level": 58,
+                "expToNext": 95175
+            },
+            {
+                "level": 59,
+                "expToNext": 98000
+            },
+            {
+                "level": 60,
+                "expToNext": 100875
+            },
+            {
+                "level": 61,
+                "expToNext": 108950
+            },
+            {
+                "level": 62,
+                "expToNext": 112050
+            },
+            {
+                "level": 63,
+                "expToNext": 115175
+            },
+            {
+                "level": 64,
+                "expToNext": 118325
+            },
+            {
+                "level": 65,
+                "expToNext": 121525
+            },
+            {
+                "level": 66,
+                "expToNext": 124775
+            },
+            {
+                "level": 67,
+                "expToNext": 128075
+            },
+            {
+                "level": 68,
+                "expToNext": 131400
+            },
+            {
+                "level": 69,
+                "expToNext": 134775
+            },
+            {
+                "level": 70,
+                "expToNext": 138175
+            },
+            {
+                "level": 71,
+                "expToNext": 148700
+            },
+            {
+                "level": 72,
+                "expToNext": 152375
+            },
+            {
+                "level": 73,
+                "expToNext": 156075
+            },
+            {
+                "level": 74,
+                "expToNext": 159825
+            },
+            {
+                "level": 75,
+                "expToNext": 163600
+            },
+            {
+                "level": 76,
+                "expToNext": 167425
+            },
+            {
+                "level": 77,
+                "expToNext": 171300
+            },
+            {
+                "level": 78,
+                "expToNext": 175225
+            },
+            {
+                "level": 79,
+                "expToNext": 179175
+            },
+            {
+                "level": 80,
+                "expToNext": 183175
+            },
+            {
+                "level": 81,
+                "expToNext": 216225
+            },
+            {
+                "level": 82,
+                "expToNext": 243025
+            },
+            {
+                "level": 83,
+                "expToNext": 273100
+            },
+            {
+                "level": 84,
+                "expToNext": 306800
+            },
+            {
+                "level": 85,
+                "expToNext": 344600
+            },
+            {
+                "level": 86,
+                "expToNext": 386950
+            },
+            {
+                "level": 87,
+                "expToNext": 434425
+            },
+            {
+                "level": 88,
+                "expToNext": 487625
+            },
+            {
+                "level": 89,
+                "expToNext": 547200
+            },
+            {
+                "level": 90,
+                "expToNext": 613950
+            }
+        ]
+    }
+}

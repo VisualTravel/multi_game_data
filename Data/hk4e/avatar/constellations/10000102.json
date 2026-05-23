@@ -1,0 +1,54 @@
+{
+    "id": 10000102,
+    "skillDepotId": 10201,
+    "constellations": [
+        {
+            "talentId": 1021,
+            "index": 1,
+            "nameTextMapHash": 985140641,
+            "descTextMapHash": 1925738703,
+            "icon": "UI_Talent_S_Mualani_01",
+            "openConfig": "Mualani_Constellation_1"
+        },
+        {
+            "talentId": 1022,
+            "index": 2,
+            "nameTextMapHash": 1018012993,
+            "descTextMapHash": 492392495,
+            "icon": "UI_Talent_S_Mualani_02",
+            "openConfig": "Mualani_Constellation_2"
+        },
+        {
+            "talentId": 1023,
+            "index": 3,
+            "nameTextMapHash": 2809940313,
+            "descTextMapHash": 3748105391,
+            "icon": "UI_Talent_U_Mualani_01",
+            "openConfig": "Mualani_Constellation_3"
+        },
+        {
+            "talentId": 1024,
+            "index": 4,
+            "nameTextMapHash": 84971929,
+            "descTextMapHash": 2006825415,
+            "icon": "UI_Talent_S_Mualani_03",
+            "openConfig": "Mualani_Constellation_4"
+        },
+        {
+            "talentId": 1025,
+            "index": 5,
+            "nameTextMapHash": 1734370449,
+            "descTextMapHash": 1899582863,
+            "icon": "UI_Talent_U_Mualani_02",
+            "openConfig": "Mualani_Constellation_5"
+        },
+        {
+            "talentId": 1026,
+            "index": 6,
+            "nameTextMapHash": 2582545881,
+            "descTextMapHash": 273177719,
+            "icon": "UI_Talent_S_Mualani_04",
+            "openConfig": "Mualani_Constellation_6"
+        }
+    ]
+}

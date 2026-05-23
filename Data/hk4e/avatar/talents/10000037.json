@@ -1,0 +1,40 @@
+{
+    "id": 10000037,
+    "skillDepotId": 3701,
+    "combatSkills": [
+        {
+            "skillId": 10371,
+            "nameTextMapHash": 798389461,
+            "descTextMapHash": 3036547248,
+            "icon": "Skill_A_02",
+            "proudSkillGroupId": 3731
+        },
+        {
+            "skillId": 10372,
+            "nameTextMapHash": 1812426093,
+            "descTextMapHash": 2539066504,
+            "icon": "Skill_S_Ganyu_01",
+            "proudSkillGroupId": 3732
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3611339165,
+            "descTextMapHash": 931734779,
+            "icon": "UI_Talent_S_Ganyu_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 760610189,
+            "descTextMapHash": 218500243,
+            "icon": "UI_Talent_S_Ganyu_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 4278042925,
+            "descTextMapHash": 2590341483,
+            "icon": "UI_Talent_Forge_Bow",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

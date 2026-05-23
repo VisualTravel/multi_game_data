@@ -1,0 +1,54 @@
+{
+    "id": 10000089,
+    "skillDepotId": 8901,
+    "constellations": [
+        {
+            "talentId": 891,
+            "index": 1,
+            "nameTextMapHash": 1796273,
+            "descTextMapHash": 2915363079,
+            "icon": "UI_Talent_S_Furina_01",
+            "openConfig": "Furina_Constellation_1"
+        },
+        {
+            "talentId": 892,
+            "index": 2,
+            "nameTextMapHash": 3119753377,
+            "descTextMapHash": 1346666799,
+            "icon": "UI_Talent_S_Furina_04",
+            "openConfig": "Furina_Constellation_6"
+        },
+        {
+            "talentId": 893,
+            "index": 3,
+            "nameTextMapHash": 3349664969,
+            "descTextMapHash": 1316846895,
+            "icon": "UI_Talent_U_Furina_02",
+            "openConfig": "Furina_Constellation_5"
+        },
+        {
+            "talentId": 894,
+            "index": 4,
+            "nameTextMapHash": 3047423481,
+            "descTextMapHash": 2787322351,
+            "icon": "UI_Talent_S_Furina_03",
+            "openConfig": "Furina_Constellation_4"
+        },
+        {
+            "talentId": 895,
+            "index": 5,
+            "nameTextMapHash": 2146750841,
+            "descTextMapHash": 3859991911,
+            "icon": "UI_Talent_U_Furina_01",
+            "openConfig": "Furina_Constellation_3"
+        },
+        {
+            "talentId": 896,
+            "index": 6,
+            "nameTextMapHash": 3889320409,
+            "descTextMapHash": 2439370791,
+            "icon": "UI_Talent_S_Furina_02",
+            "openConfig": "Furina_Constellation_2"
+        }
+    ]
+}

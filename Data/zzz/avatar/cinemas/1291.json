@@ -1,0 +1,65 @@
+{
+    "id": 1291,
+    "cinemas": [
+        {
+            "level": 1,
+            "type": 0,
+            "nameTextMapHash": "HugoVlad_Talent_01_Title",
+            "descTextMapHash": {
+                "descRealign": "HugoVlad_Talent_01_Desc_01_Realign",
+                "descAlt": "HugoVlad_Talent_01_Desc_02",
+                "desc": "HugoVlad_Talent_01_Desc_01"
+            }
+        },
+        {
+            "level": 2,
+            "type": 0,
+            "nameTextMapHash": "HugoVlad_Talent_02_Title",
+            "descTextMapHash": {
+                "descRealign": "HugoVlad_Talent_02_Desc_01_Realign",
+                "descAlt": "HugoVlad_Talent_02_Desc_02",
+                "desc": "HugoVlad_Talent_02_Desc_01"
+            }
+        },
+        {
+            "level": 3,
+            "type": 2,
+            "nameTextMapHash": "HugoVlad_Talent_03_Title",
+            "descTextMapHash": {
+                "descRealign": "Common_Talent_Desc",
+                "descAlt": "HugoVlad_Talent_03_Desc_02",
+                "desc": "Common_Talent_Desc"
+            }
+        },
+        {
+            "level": 4,
+            "type": 0,
+            "nameTextMapHash": "HugoVlad_Talent_04_Title",
+            "descTextMapHash": {
+                "descRealign": "HugoVlad_Talent_04_Desc_01_Realign",
+                "descAlt": "HugoVlad_Talent_04_Desc_02",
+                "desc": "HugoVlad_Talent_04_Desc_01"
+            }
+        },
+        {
+            "level": 5,
+            "type": 2,
+            "nameTextMapHash": "HugoVlad_Talent_05_Title",
+            "descTextMapHash": {
+                "descRealign": "Common_Talent_Desc",
+                "descAlt": "HugoVlad_Talent_05_Desc_02",
+                "desc": "Common_Talent_Desc"
+            }
+        },
+        {
+            "level": 6,
+            "type": 0,
+            "nameTextMapHash": "HugoVlad_Talent_06_Title",
+            "descTextMapHash": {
+                "descRealign": "HugoVlad_Talent_06_Desc_01_Realign",
+                "descAlt": "HugoVlad_Talent_06_Desc_02",
+                "desc": "HugoVlad_Talent_06_Desc_01"
+            }
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 10000078,
+    "skillDepotId": 7801,
+    "constellations": [
+        {
+            "talentId": 781,
+            "index": 1,
+            "nameTextMapHash": 1459644873,
+            "descTextMapHash": 1350239343,
+            "icon": "UI_Talent_S_Alhatham_02",
+            "openConfig": "Alhatham_Constellation_1"
+        },
+        {
+            "talentId": 782,
+            "index": 2,
+            "nameTextMapHash": 3637949497,
+            "descTextMapHash": 1314977247,
+            "icon": "UI_Talent_S_Alhatham_01",
+            "openConfig": "Alhatham_Constellation_2"
+        },
+        {
+            "talentId": 783,
+            "index": 3,
+            "nameTextMapHash": 2621845801,
+            "descTextMapHash": 3590318303,
+            "icon": "UI_Talent_U_Alhatham_01",
+            "openConfig": "Alhatham_Constellation_3"
+        },
+        {
+            "talentId": 784,
+            "index": 4,
+            "nameTextMapHash": 1055939881,
+            "descTextMapHash": 2223376895,
+            "icon": "UI_Talent_S_Alhatham_03",
+            "openConfig": "Alhatham_Constellation_4"
+        },
+        {
+            "talentId": 785,
+            "index": 5,
+            "nameTextMapHash": 3387152873,
+            "descTextMapHash": 822412615,
+            "icon": "UI_Talent_U_Alhatham_02",
+            "openConfig": "Alhatham_Constellation_5"
+        },
+        {
+            "talentId": 786,
+            "index": 6,
+            "nameTextMapHash": 540494281,
+            "descTextMapHash": 3238715695,
+            "icon": "UI_Talent_S_Alhatham_04",
+            "openConfig": "Alhatham_Constellation_6"
+        }
+    ]
+}

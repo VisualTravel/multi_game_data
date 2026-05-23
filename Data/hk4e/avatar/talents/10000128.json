@@ -1,0 +1,46 @@
+{
+    "id": 10000128,
+    "skillDepotId": 12801,
+    "combatSkills": [
+        {
+            "skillId": 11281,
+            "nameTextMapHash": 492034421,
+            "descTextMapHash": 2077475192,
+            "icon": "Skill_A_04",
+            "proudSkillGroupId": 12831
+        },
+        {
+            "skillId": 11282,
+            "nameTextMapHash": 3731268653,
+            "descTextMapHash": 3808864360,
+            "icon": "Skill_S_Varka_01",
+            "proudSkillGroupId": 12832
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3324676389,
+            "descTextMapHash": 1922205707,
+            "icon": "UI_Talent_S_Varka_06",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 632774837,
+            "descTextMapHash": 1596973363,
+            "icon": "UI_Talent_S_Varka_05",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 2538811661,
+            "descTextMapHash": 146415827,
+            "icon": "UI_Talent_S_Varka_07",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 3292706893,
+            "descTextMapHash": 1528216747,
+            "icon": "UI_Talent_S_Varka_08",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

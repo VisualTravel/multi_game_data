@@ -1,0 +1,46 @@
+{
+    "id": 10000124,
+    "skillDepotId": 12401,
+    "combatSkills": [
+        {
+            "skillId": 11241,
+            "nameTextMapHash": 895696229,
+            "descTextMapHash": 4190730336,
+            "icon": "Skill_A_02",
+            "proudSkillGroupId": 12431
+        },
+        {
+            "skillId": 11242,
+            "nameTextMapHash": 487614669,
+            "descTextMapHash": 3702433968,
+            "icon": "Skill_S_Jahoda_01",
+            "proudSkillGroupId": 12432
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2766369261,
+            "descTextMapHash": 3920928963,
+            "icon": "UI_Talent_S_Jahoda_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 1996768357,
+            "descTextMapHash": 512513315,
+            "icon": "UI_Talent_S_Jahoda_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 607017317,
+            "descTextMapHash": 801500603,
+            "icon": "UI_Talent_S_Jahoda_07",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 2576391669,
+            "descTextMapHash": 1325488475,
+            "icon": "UI_Talent_S_Jahoda_08",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

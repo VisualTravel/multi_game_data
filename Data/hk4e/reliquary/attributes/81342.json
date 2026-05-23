@@ -1,0 +1,21 @@
+{
+    "id": 81342,
+    "nameTextMapHash": 1026406492,
+    "descTextMapHash": 90532320,
+    "rarity": 3,
+    "setId": 15007,
+    "equipType": "EQUIP_BRACER",
+    "icon": "UI_RelicIcon_15007_4",
+    "showPic": "Eff_UI_RelicIcon_15007_4",
+    "mainPropDepotId": 4000,
+    "appendPropDepotId": 301,
+    "appendPropNum": 2,
+    "addPropLevels": [
+        5,
+        9,
+        13,
+        17,
+        21
+    ],
+    "maxLevel": 13
+}

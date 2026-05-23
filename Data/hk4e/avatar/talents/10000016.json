@@ -1,0 +1,40 @@
+{
+    "id": 10000016,
+    "skillDepotId": 1601,
+    "combatSkills": [
+        {
+            "skillId": 10160,
+            "nameTextMapHash": 2878873773,
+            "descTextMapHash": 2306677240,
+            "icon": "Skill_A_04",
+            "proudSkillGroupId": 1631
+        },
+        {
+            "skillId": 10161,
+            "nameTextMapHash": 2979035429,
+            "descTextMapHash": 1648914688,
+            "icon": "Skill_S_Diluc_01_01",
+            "proudSkillGroupId": 1632
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 2844158213,
+            "descTextMapHash": 1808773251,
+            "icon": "UI_Talent_S_Diluc_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 2904319165,
+            "descTextMapHash": 2686849171,
+            "icon": "UI_Talent_S_Diluc_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 4168878421,
+            "descTextMapHash": 1726567523,
+            "icon": "UI_Talent_Forge_Claymore",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

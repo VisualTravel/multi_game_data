@@ -1,0 +1,54 @@
+{
+    "id": 10000121,
+    "skillDepotId": 12101,
+    "constellations": [
+        {
+            "talentId": 1211,
+            "index": 1,
+            "nameTextMapHash": 4005356569,
+            "descTextMapHash": 4004139207,
+            "icon": "UI_Talent_S_Aino_03",
+            "openConfig": "Aino_Constellation_1"
+        },
+        {
+            "talentId": 1212,
+            "index": 2,
+            "nameTextMapHash": 2152460585,
+            "descTextMapHash": 3079173127,
+            "icon": "UI_Talent_S_Aino_02",
+            "openConfig": "Aino_Constellation_2"
+        },
+        {
+            "talentId": 1213,
+            "index": 3,
+            "nameTextMapHash": 2831327249,
+            "descTextMapHash": 2634774567,
+            "icon": "UI_Talent_U_Aino_01",
+            "openConfig": "Aino_Constellation_3"
+        },
+        {
+            "talentId": 1214,
+            "index": 4,
+            "nameTextMapHash": 4217016769,
+            "descTextMapHash": 3513553967,
+            "icon": "UI_Talent_S_Aino_01",
+            "openConfig": "Aino_Constellation_4"
+        },
+        {
+            "talentId": 1215,
+            "index": 5,
+            "nameTextMapHash": 1105249705,
+            "descTextMapHash": 1377322055,
+            "icon": "UI_Talent_U_Aino_02",
+            "openConfig": "Aino_Constellation_5"
+        },
+        {
+            "talentId": 1216,
+            "index": 6,
+            "nameTextMapHash": 3992074361,
+            "descTextMapHash": 480959991,
+            "icon": "UI_Talent_S_Aino_04",
+            "openConfig": "Aino_Constellation_6"
+        }
+    ]
+}

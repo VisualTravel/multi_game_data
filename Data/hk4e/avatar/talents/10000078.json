@@ -1,0 +1,40 @@
+{
+    "id": 10000078,
+    "skillDepotId": 7801,
+    "combatSkills": [
+        {
+            "skillId": 10781,
+            "nameTextMapHash": 4231831917,
+            "descTextMapHash": 1536918896,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 7831
+        },
+        {
+            "skillId": 10782,
+            "nameTextMapHash": 1674438093,
+            "descTextMapHash": 3631586392,
+            "icon": "Skill_S_Alhatham_01",
+            "proudSkillGroupId": 7832
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 4124589237,
+            "descTextMapHash": 2821262771,
+            "icon": "UI_Talent_S_Alhatham_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 3595608541,
+            "descTextMapHash": 202181803,
+            "icon": "UI_Talent_S_Alhatham_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 1935331509,
+            "descTextMapHash": 746918395,
+            "icon": "UI_Talent_S_Alhatham_07",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

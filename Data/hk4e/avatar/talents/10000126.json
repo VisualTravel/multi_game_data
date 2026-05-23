@@ -1,0 +1,46 @@
+{
+    "id": 10000126,
+    "skillDepotId": 12601,
+    "combatSkills": [
+        {
+            "skillId": 11261,
+            "nameTextMapHash": 645860789,
+            "descTextMapHash": 1640020400,
+            "icon": "Skill_A_01",
+            "proudSkillGroupId": 12631
+        },
+        {
+            "skillId": 11262,
+            "nameTextMapHash": 511796581,
+            "descTextMapHash": 38127752,
+            "icon": "Skill_S_Zibai_01",
+            "proudSkillGroupId": 12632
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": 3368082789,
+            "descTextMapHash": 4099151163,
+            "icon": "UI_Talent_S_Zibai_05",
+            "unlockAtPromotion": 1
+        },
+        {
+            "nameTextMapHash": 953804029,
+            "descTextMapHash": 4032853499,
+            "icon": "UI_Talent_S_Zibai_06",
+            "unlockAtPromotion": 4
+        },
+        {
+            "nameTextMapHash": 197086309,
+            "descTextMapHash": 2330050851,
+            "icon": "UI_Talent_S_Zibai_07",
+            "unlockAtPromotion": 0
+        },
+        {
+            "nameTextMapHash": 2322901485,
+            "descTextMapHash": 4076345827,
+            "icon": "UI_Talent_S_Zibai_08",
+            "unlockAtPromotion": 0
+        }
+    ]
+}

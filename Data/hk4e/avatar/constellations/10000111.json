@@ -1,0 +1,54 @@
+{
+    "id": 10000111,
+    "skillDepotId": 11101,
+    "constellations": [
+        {
+            "talentId": 1111,
+            "index": 1,
+            "nameTextMapHash": 2869312769,
+            "descTextMapHash": 1301085543,
+            "icon": "UI_Talent_S_Varesa_01",
+            "openConfig": "Varesa_Constellation_1"
+        },
+        {
+            "talentId": 1112,
+            "index": 2,
+            "nameTextMapHash": 4263704577,
+            "descTextMapHash": 168420535,
+            "icon": "UI_Talent_S_Varesa_02",
+            "openConfig": "Varesa_Constellation_2"
+        },
+        {
+            "talentId": 1113,
+            "index": 3,
+            "nameTextMapHash": 595030209,
+            "descTextMapHash": 3976685671,
+            "icon": "UI_Talent_U_Varesa_01",
+            "openConfig": "Varesa_Constellation_3"
+        },
+        {
+            "talentId": 1114,
+            "index": 4,
+            "nameTextMapHash": 2869666281,
+            "descTextMapHash": 3557774679,
+            "icon": "UI_Talent_S_Varesa_03",
+            "openConfig": "Varesa_Constellation_4"
+        },
+        {
+            "talentId": 1115,
+            "index": 5,
+            "nameTextMapHash": 1174458737,
+            "descTextMapHash": 2585314383,
+            "icon": "UI_Talent_U_Varesa_02",
+            "openConfig": "Varesa_Constellation_5"
+        },
+        {
+            "talentId": 1116,
+            "index": 6,
+            "nameTextMapHash": 1661118537,
+            "descTextMapHash": 1355588007,
+            "icon": "UI_Talent_S_Varesa_04",
+            "openConfig": "Varesa_Constellation_6"
+        }
+    ]
+}

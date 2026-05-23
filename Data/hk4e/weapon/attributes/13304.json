@@ -1,0 +1,101 @@
+{
+    "id": 13304,
+    "nameTextMapHash": 500612307,
+    "descTextMapHash": 3767447885,
+    "rarity": 3,
+    "weaponType": "WEAPON_POLE",
+    "icon": "UI_EquipIcon_Pole_Flagpole",
+    "baseStats": {
+        "attackBase": 9.9
+    },
+    "refinements": {
+        "affixId": 113304,
+        "nameTextMapHash": 2951249275,
+        "levels": [
+            {
+                "refinement": 1,
+                "nameTextMapHash": 2951249275,
+                "descTextMapHash": 3846743545,
+                "params": [
+                    0.08
+                ]
+            },
+            {
+                "refinement": 2,
+                "nameTextMapHash": 1725710835,
+                "descTextMapHash": 2732932377,
+                "params": [
+                    0.1
+                ]
+            },
+            {
+                "refinement": 3,
+                "nameTextMapHash": 2881194267,
+                "descTextMapHash": 2876315977,
+                "params": [
+                    0.12
+                ]
+            },
+            {
+                "refinement": 4,
+                "nameTextMapHash": 1200305651,
+                "descTextMapHash": 2119574529,
+                "params": [
+                    0.14
+                ]
+            },
+            {
+                "refinement": 5,
+                "nameTextMapHash": 43015187,
+                "descTextMapHash": 1106651273,
+                "params": [
+                    0.16
+                ]
+            }
+        ]
+    },
+    "promotions": [
+        {
+            "level": 0,
+            "maxLevel": 20,
+            "addAttack": 0,
+            "costItems": []
+        },
+        {
+            "level": 1,
+            "maxLevel": 40,
+            "addAttack": 19.5,
+            "costItems": []
+        },
+        {
+            "level": 2,
+            "maxLevel": 50,
+            "addAttack": 38.9,
+            "costItems": []
+        },
+        {
+            "level": 3,
+            "maxLevel": 60,
+            "addAttack": 58.4,
+            "costItems": []
+        },
+        {
+            "level": 4,
+            "maxLevel": 70,
+            "addAttack": 77.8,
+            "costItems": []
+        },
+        {
+            "level": 5,
+            "maxLevel": 80,
+            "addAttack": 97.3,
+            "costItems": []
+        },
+        {
+            "level": 6,
+            "maxLevel": 90,
+            "addAttack": 116.7,
+            "costItems": []
+        }
+    ]
+}

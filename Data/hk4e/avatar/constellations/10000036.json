@@ -1,0 +1,54 @@
+{
+    "id": 10000036,
+    "skillDepotId": 3601,
+    "constellations": [
+        {
+            "talentId": 361,
+            "index": 1,
+            "nameTextMapHash": 1859111337,
+            "descTextMapHash": 3874733319,
+            "icon": "UI_Talent_S_Chongyun_01",
+            "openConfig": "Chongyun_Talent_361"
+        },
+        {
+            "talentId": 362,
+            "index": 2,
+            "nameTextMapHash": 1016771721,
+            "descTextMapHash": 1537894911,
+            "icon": "UI_Talent_S_Chongyun_02",
+            "openConfig": "Chongyun_Talent_362"
+        },
+        {
+            "talentId": 363,
+            "index": 3,
+            "nameTextMapHash": 294514897,
+            "descTextMapHash": 1615073687,
+            "icon": "UI_Talent_U_Chongyun_01",
+            "openConfig": "Chongyun_ElementBurst_Up"
+        },
+        {
+            "talentId": 364,
+            "index": 4,
+            "nameTextMapHash": 1282887681,
+            "descTextMapHash": 461481359,
+            "icon": "UI_Talent_S_Chongyun_03",
+            "openConfig": "Chongyun_Talent_22"
+        },
+        {
+            "talentId": 365,
+            "index": 5,
+            "nameTextMapHash": 1493556457,
+            "descTextMapHash": 3819808039,
+            "icon": "UI_Talent_U_Chongyun_02",
+            "openConfig": "Chongyun_ElementSkill_Up"
+        },
+        {
+            "talentId": 366,
+            "index": 6,
+            "nameTextMapHash": 3391919345,
+            "descTextMapHash": 121953439,
+            "icon": "UI_Talent_S_Chongyun_04",
+            "openConfig": "Chongyun_Talent_366"
+        }
+    ]
+}

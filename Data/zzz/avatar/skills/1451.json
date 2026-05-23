@@ -1,0 +1,321 @@
+{
+    "id": 1451,
+    "skills": [
+        {
+            "nameTextMapHash": "Lucia_Skill_Normal_Desc",
+            "descTextMapHash": "Lucia_Skill_Normal_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_Special_Desc",
+            "descTextMapHash": "Lucia_Skill_Special_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_ExSpecial_Desc",
+            "descTextMapHash": "Lucia_Skill_ExSpecial_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_Evade_Desc",
+            "descTextMapHash": "Lucia_Skill_Evade_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_Rush_Desc",
+            "descTextMapHash": "Lucia_Skill_Rush_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_Counter_Desc",
+            "descTextMapHash": "Lucia_Skill_Counter_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_QTE_Desc",
+            "descTextMapHash": "Lucia_Skill_QTE_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_ExQTE_Desc",
+            "descTextMapHash": "Lucia_Skill_ExQTE_Desc"
+        },
+        {
+            "nameTextMapHash": "",
+            "descTextMapHash": ""
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_BeHitAid_Desc",
+            "descTextMapHash": "Lucia_Skill_BeHitAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_ParryAid_Desc",
+            "descTextMapHash": "Lucia_Skill_ParryAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_AssaultAid_Desc",
+            "descTextMapHash": "Lucia_Skill_AssaultAid_Desc"
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_Normal_Title",
+            "descTextMapHash": "Lucia_Skill_Normal_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Dmg_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Dmg_04"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_Desc_Dmg_01",
+            "descTextMapHash": "Lucia_Property_Summon_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_Ex_Desc_Dmg_01",
+            "descTextMapHash": "Lucia_Property_Summon_Ex_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_ChainAtk_Desc_Dmg_01",
+            "descTextMapHash": "Lucia_Property_Summon_ChainAtk_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Normal_Desc_Stun_04",
+            "descTextMapHash": "Common_Property_Normal_Desc_Stun_04"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_Desc_Stun_01",
+            "descTextMapHash": "Lucia_Property_Summon_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_Ex_Desc_Stun_01",
+            "descTextMapHash": "Lucia_Property_Summon_Ex_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_ChainAtk_Desc_Stun_01",
+            "descTextMapHash": "Lucia_Property_Summon_ChainAtk_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_Special_Title",
+            "descTextMapHash": "Lucia_Skill_Special_Title"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_Desc_Dmg_01",
+            "descTextMapHash": "Lucia_Property_Summon_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_Ex_Desc_Dmg_01",
+            "descTextMapHash": "Lucia_Property_Summon_Ex_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_ChainAtk_Desc_Dmg_01",
+            "descTextMapHash": "Lucia_Property_Summon_ChainAtk_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_Desc_Stun_01",
+            "descTextMapHash": "Lucia_Property_Summon_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_Ex_Desc_Stun_01",
+            "descTextMapHash": "Lucia_Property_Summon_Ex_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_ChainAtk_Desc_Stun_01",
+            "descTextMapHash": "Lucia_Property_Summon_ChainAtk_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_ExSpecial_Title",
+            "descTextMapHash": "Lucia_Skill_ExSpecial_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_SpConsume",
+            "descTextMapHash": "Common_Property_Desc_SpConsume"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_ExSpecial_Desc_Buff_01",
+            "descTextMapHash": "Lucia_Property_ExSpecial_Desc_Buff_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_ExSpecial_Desc_ExtraDmg",
+            "descTextMapHash": "Lucia_Property_ExSpecial_Desc_ExtraDmg"
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_Rush_Title",
+            "descTextMapHash": "Lucia_Skill_Rush_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_Counter_Title",
+            "descTextMapHash": "Lucia_Skill_Counter_Title"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_Desc_Dmg_01",
+            "descTextMapHash": "Lucia_Property_Summon_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_Ex_Desc_Dmg_01",
+            "descTextMapHash": "Lucia_Property_Summon_Ex_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_Desc_Stun_01",
+            "descTextMapHash": "Lucia_Property_Summon_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_Ex_Desc_Stun_01",
+            "descTextMapHash": "Lucia_Property_Summon_Ex_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_QTE_Title",
+            "descTextMapHash": "Lucia_Skill_QTE_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_ExQTE_Title",
+            "descTextMapHash": "Lucia_Skill_ExQTE_Title"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_ExQTE_Desc_Dmg_01",
+            "descTextMapHash": "Lucia_Property_ExQTE_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_ExQTE_Desc_Dmg_02",
+            "descTextMapHash": "Lucia_Property_ExQTE_Desc_Dmg_02"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_ExQTE_Ex_Desc_Stun_01",
+            "descTextMapHash": "Lucia_Property_ExQTE_Ex_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_ExQTE_Ex_Desc_Stun_02",
+            "descTextMapHash": "Lucia_Property_ExQTE_Ex_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_ExQTE_HPRecover_Desc_01",
+            "descTextMapHash": "Lucia_Property_ExQTE_HPRecover_Desc_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_BeHitAid_Title",
+            "descTextMapHash": "Lucia_Skill_BeHitAid_Title"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_Desc_Dmg_01",
+            "descTextMapHash": "Lucia_Property_Summon_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_Ex_Desc_Dmg_01",
+            "descTextMapHash": "Lucia_Property_Summon_Ex_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_ChainAtk_Desc_Dmg_01",
+            "descTextMapHash": "Lucia_Property_Summon_ChainAtk_Desc_Dmg_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_Desc_Stun_01",
+            "descTextMapHash": "Lucia_Property_Summon_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_Ex_Desc_Stun_01",
+            "descTextMapHash": "Lucia_Property_Summon_Ex_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Property_Summon_ChainAtk_Desc_Stun_01",
+            "descTextMapHash": "Lucia_Property_Summon_ChainAtk_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_ParryAid_Title",
+            "descTextMapHash": "Lucia_Skill_ParryAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_01",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_01"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_02",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_02"
+        },
+        {
+            "nameTextMapHash": "Common_Property_ParryAid_Desc_Stun_03",
+            "descTextMapHash": "Common_Property_ParryAid_Desc_Stun_03"
+        },
+        {
+            "nameTextMapHash": "Lucia_Skill_AssaultAid_Title",
+            "descTextMapHash": "Lucia_Skill_AssaultAid_Title"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_DamageRatio",
+            "descTextMapHash": "Common_Property_Desc_DamageRatio"
+        },
+        {
+            "nameTextMapHash": "Common_Property_Desc_BreakStunRatio",
+            "descTextMapHash": "Common_Property_Desc_BreakStunRatio"
+        }
+    ],
+    "passiveSkills": [
+        {
+            "nameTextMapHash": "Lucia_UniqueSkill_02_Desc",
+            "descTextMapHash": null,
+            "level": 2
+        },
+        {
+            "nameTextMapHash": "Lucia_UniqueSkill_03_Desc",
+            "descTextMapHash": null,
+            "level": 3
+        },
+        {
+            "nameTextMapHash": "Lucia_UniqueSkill_04_Desc",
+            "descTextMapHash": null,
+            "level": 4
+        },
+        {
+            "nameTextMapHash": "Lucia_UniqueSkill_05_Desc",
+            "descTextMapHash": null,
+            "level": 5
+        },
+        {
+            "nameTextMapHash": "Lucia_UniqueSkill_06_Desc",
+            "descTextMapHash": null,
+            "level": 6
+        },
+        {
+            "nameTextMapHash": "Lucia_UniqueSkill_07_Desc",
+            "descTextMapHash": null,
+            "level": 7
+        }
+    ]
+}

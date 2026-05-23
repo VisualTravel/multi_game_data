@@ -1,0 +1,100 @@
+{
+    "id": 13201,
+    "nameTextMapHash": 3070169307,
+    "descTextMapHash": 1460440477,
+    "rarity": 2,
+    "weaponType": "WEAPON_POLE",
+    "icon": "UI_EquipIcon_Pole_Rod",
+    "baseStats": {
+        "attackBase": 32.93
+    },
+    "refinements": {
+        "affixId": 0,
+        "nameTextMapHash": null,
+        "levels": []
+    },
+    "promotions": [
+        {
+            "level": 0,
+            "maxLevel": 20,
+            "addAttack": 0,
+            "costItems": []
+        },
+        {
+            "level": 1,
+            "maxLevel": 40,
+            "addAttack": 11.7,
+            "costItems": [
+                {
+                    "id": 114009,
+                    "count": 1
+                },
+                {
+                    "id": 112023,
+                    "count": 1
+                },
+                {
+                    "id": 112008,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "level": 2,
+            "maxLevel": 50,
+            "addAttack": 23.3,
+            "costItems": [
+                {
+                    "id": 114010,
+                    "count": 1
+                },
+                {
+                    "id": 112023,
+                    "count": 5
+                },
+                {
+                    "id": 112008,
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "level": 3,
+            "maxLevel": 60,
+            "addAttack": 35,
+            "costItems": [
+                {
+                    "id": 114010,
+                    "count": 3
+                },
+                {
+                    "id": 112024,
+                    "count": 3
+                },
+                {
+                    "id": 112009,
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "level": 4,
+            "maxLevel": 70,
+            "addAttack": 46.7,
+            "costItems": [
+                {
+                    "id": 114011,
+                    "count": 1
+                },
+                {
+                    "id": 112024,
+                    "count": 5
+                },
+                {
+                    "id": 112009,
+                    "count": 4
+                }
+            ]
+        }
+    ]
+}
