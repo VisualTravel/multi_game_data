@@ -1,17 +1,10 @@
 {
     "id": 1471,
-    "nameTextMapHash": "Avatar_Male_Size03_BanYue",
+    "nameTextMapHash": "Avatar_Male_Size03_BanYue_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_BanYue_Name_000",
+            "descTextMapHash": "AvatarSkin_BanYue_Desc_000"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1471",
-    "impressionTextMapHash": "Partner_Impression_f_1471",
-    "gender": "Partner_Gender_01",
-    "stature": "Partner_Stature_1471",
-    "birthday": "Partner_Birthday_1471",
-    "campBg": "PartnerBg_CampKrampusComplianceAuthority",
-    "campNameTextMapHash": "PartnerBg_CampGentleHouse"
+    ]
 }

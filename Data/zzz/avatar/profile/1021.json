@@ -1,17 +1,10 @@
 {
     "id": 1021,
-    "nameTextMapHash": "Avatar_Female_Size01_Tsubaki",
+    "nameTextMapHash": "Avatar_Female_Size01_Tsubaki_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Tsubaki_Name_000",
+            "descTextMapHash": "AvatarSkin_Tsubaki_Desc_000"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1021",
-    "impressionTextMapHash": "Partner_Impression_f_1021",
-    "gender": "Partner_Gender_02",
-    "stature": "Partner_Stature_02",
-    "birthday": "Partner_Birthday_02",
-    "campBg": "PartnerBg_CampGentleHouse",
-    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+    ]
 }

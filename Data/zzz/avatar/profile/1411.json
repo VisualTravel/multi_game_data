@@ -1,21 +1,14 @@
 {
     "id": 1411,
-    "nameTextMapHash": "Avatar_Female_Size02_Yuzuha",
+    "nameTextMapHash": "Avatar_Female_Size02_Yuzuha_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Yuzuha_Name_000",
+            "descTextMapHash": "AvatarSkin_Yuzuha_Desc_000"
         },
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Yuzuha_Name_001",
+            "descTextMapHash": "AvatarSkin_Yuzuha_Desc_001"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1411",
-    "impressionTextMapHash": "Partner_Impression_f_1411",
-    "gender": "Partner_Gender_02",
-    "stature": "Partner_Stature_1411",
-    "birthday": "Partner_Birthday_1411",
-    "campBg": "PartnerBg_CampSpookShack",
-    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+    ]
 }

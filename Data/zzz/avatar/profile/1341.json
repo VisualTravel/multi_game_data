@@ -1,17 +1,10 @@
 {
     "id": 1341,
-    "nameTextMapHash": "Avatar_Female_Size00_XiaoZhao",
+    "nameTextMapHash": "Avatar_Female_Size00_XiaoZhao_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_XiaoZhao_Name_000",
+            "descTextMapHash": "AvatarSkin_XiaoZhao_Desc_000"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1341",
-    "impressionTextMapHash": "Partner_Impression_f_1341",
-    "gender": "Partner_Gender_02",
-    "stature": "Partner_Stature_1341",
-    "birthday": "Partner_Birthday_1341",
-    "campBg": "PartnerBg_CampKrampusComplianceAuthority",
-    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+    ]
 }

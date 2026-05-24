@@ -1,17 +1,10 @@
 {
     "id": 1081,
-    "nameTextMapHash": "Avatar_Male_Size03_Billy",
+    "nameTextMapHash": "Avatar_Male_Size03_Billy_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Billy_Name_000",
+            "descTextMapHash": "AvatarSkin_Billy_Desc_000"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1081",
-    "impressionTextMapHash": "Partner_Impression_f_1081",
-    "gender": "Partner_Gender_01",
-    "stature": "Partner_Stature_04",
-    "birthday": "Partner_Birthday_04",
-    "campBg": "PartnerBg_CampGentleHouse",
-    "campNameTextMapHash": "PartnerBg_CampGentleHouse"
+    ]
 }

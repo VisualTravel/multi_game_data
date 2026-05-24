@@ -1,17 +1,10 @@
 {
     "id": 1271,
-    "nameTextMapHash": "Avatar_Male_Size01_Seth",
+    "nameTextMapHash": "Avatar_Male_Size01_Seth_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Seth_Name_000",
+            "descTextMapHash": "AvatarSkin_Seth_Desc_000"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1271",
-    "impressionTextMapHash": "Partner_Impression_f_1271",
-    "gender": "Partner_Gender_01",
-    "stature": "Partner_Stature_1271",
-    "birthday": "Partner_Birthday_1271",
-    "campBg": "PartnerBg_CampNEPS",
-    "campNameTextMapHash": "PartnerBg_CampGentleHouse"
+    ]
 }

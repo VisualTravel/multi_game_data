@@ -1,7 +1,7 @@
 {
     "id": 1491,
-    "nameTextMapHash": "Avatar_Female_Size01_Summer",
-    "profession": 13,
+    "nameTextMapHash": "Avatar_Female_Size01_Summer_En",
+    "profession": 2,
     "tags": [
         "Summer",
         "Punch",
@@ -34,9 +34,9 @@
         {
             "level": 2,
             "maxLevel": 20,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 39,
+            "addAttack": 468,
+            "addDefense": 33,
             "costMaterials": [
                 {
                     "id": "10",
@@ -51,9 +51,9 @@
         {
             "level": 3,
             "maxLevel": 30,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 77,
+            "addAttack": 936,
+            "addDefense": 66,
             "costMaterials": [
                 {
                     "id": "10",
@@ -68,9 +68,9 @@
         {
             "level": 4,
             "maxLevel": 40,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 116,
+            "addAttack": 1403,
+            "addDefense": 99,
             "costMaterials": [
                 {
                     "id": "10",
@@ -85,9 +85,9 @@
         {
             "level": 5,
             "maxLevel": 50,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 154,
+            "addAttack": 1871,
+            "addDefense": 133,
             "costMaterials": [
                 {
                     "id": "10",
@@ -102,9 +102,9 @@
         {
             "level": 6,
             "maxLevel": 60,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 193,
+            "addAttack": 2339,
+            "addDefense": 166,
             "costMaterials": []
         }
     ]

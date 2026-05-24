@@ -1,17 +1,10 @@
 {
     "id": 1291,
-    "nameTextMapHash": "Avatar_Male_Size02_HugoVlad",
+    "nameTextMapHash": "Avatar_Male_Size02_HugoVlad_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_HugoVlad_Name_000",
+            "descTextMapHash": "AvatarSkin_HugoVlad_Desc_000"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1291",
-    "impressionTextMapHash": "Partner_Impression_f_1291",
-    "gender": "Partner_Gender_01",
-    "stature": "Partner_Stature_1291",
-    "birthday": "Partner_Birthday_1291",
-    "campBg": "PartnerBg_CampMockingBirdOfGallery",
-    "campNameTextMapHash": "PartnerBg_CampGentleHouse"
+    ]
 }

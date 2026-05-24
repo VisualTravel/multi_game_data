@@ -1,7 +1,7 @@
 {
     "id": 1131,
-    "nameTextMapHash": "Avatar_Female_Size01_Aokaku",
-    "profession": 6,
+    "nameTextMapHash": "Avatar_Female_Size01_Aokaku_En",
+    "profession": 2,
     "tags": [
         "Aokaku",
         "Cut",
@@ -34,9 +34,9 @@
         {
             "level": 2,
             "maxLevel": 20,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 34,
+            "addAttack": 443,
+            "addDefense": 33,
             "costMaterials": [
                 {
                     "id": "10",
@@ -51,9 +51,9 @@
         {
             "level": 3,
             "maxLevel": 30,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 68,
+            "addAttack": 886,
+            "addDefense": 66,
             "costMaterials": [
                 {
                     "id": "10",
@@ -68,9 +68,9 @@
         {
             "level": 4,
             "maxLevel": 40,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 103,
+            "addAttack": 1329,
+            "addDefense": 99,
             "costMaterials": [
                 {
                     "id": "10",
@@ -85,9 +85,9 @@
         {
             "level": 5,
             "maxLevel": 50,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 137,
+            "addAttack": 1772,
+            "addDefense": 132,
             "costMaterials": [
                 {
                     "id": "10",
@@ -102,9 +102,9 @@
         {
             "level": 6,
             "maxLevel": 60,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 171,
+            "addAttack": 2214,
+            "addDefense": 165,
             "costMaterials": []
         }
     ]

@@ -1,17 +1,10 @@
 {
     "id": 1051,
-    "nameTextMapHash": "Avatar_Female_Size03_Yidhari",
+    "nameTextMapHash": "Avatar_Female_Size03_Yidhari_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Yidhari_Name_000",
+            "descTextMapHash": "AvatarSkin_Yidhari_Desc_000"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1051",
-    "impressionTextMapHash": "Partner_Impression_f_1051",
-    "gender": "Partner_Gender_02",
-    "stature": "Partner_Stature_1051",
-    "birthday": "Partner_Birthday_1051",
-    "campBg": "PartnerBg_CampSpookShack",
-    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+    ]
 }

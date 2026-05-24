@@ -1,17 +1,10 @@
 {
     "id": 1251,
-    "nameTextMapHash": "Avatar_Female_Size01_QingYi",
+    "nameTextMapHash": "Avatar_Female_Size01_QingYi_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_QingYi_Name_000",
+            "descTextMapHash": "AvatarSkin_QingYi_Desc_000"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1251",
-    "impressionTextMapHash": "Partner_Impression_f_1251",
-    "gender": "Partner_Gender_02",
-    "stature": "Partner_Stature_1251",
-    "birthday": "Partner_Birthday_1251",
-    "campBg": "PartnerBg_CampNEPS",
-    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+    ]
 }

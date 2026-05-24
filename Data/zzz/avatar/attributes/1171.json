@@ -1,7 +1,7 @@
 {
     "id": 1171,
-    "nameTextMapHash": "Avatar_Female_Size02_Burnice",
-    "profession": 4,
+    "nameTextMapHash": "Avatar_Female_Size02_Burnice_En",
+    "profession": 2,
     "tags": [
         "Burnice",
         "Pierce",
@@ -34,9 +34,9 @@
         {
             "level": 2,
             "maxLevel": 20,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 44,
+            "addAttack": 407,
+            "addDefense": 33,
             "costMaterials": [
                 {
                     "id": "10",
@@ -51,9 +51,9 @@
         {
             "level": 3,
             "maxLevel": 30,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 89,
+            "addAttack": 813,
+            "addDefense": 66,
             "costMaterials": [
                 {
                     "id": "10",
@@ -68,9 +68,9 @@
         {
             "level": 4,
             "maxLevel": 40,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 133,
+            "addAttack": 1220,
+            "addDefense": 99,
             "costMaterials": [
                 {
                     "id": "10",
@@ -85,9 +85,9 @@
         {
             "level": 5,
             "maxLevel": 50,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 177,
+            "addAttack": 1626,
+            "addDefense": 133,
             "costMaterials": [
                 {
                     "id": "10",
@@ -102,9 +102,9 @@
         {
             "level": 6,
             "maxLevel": 60,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 222,
+            "addAttack": 2033,
+            "addDefense": 166,
             "costMaterials": []
         }
     ]

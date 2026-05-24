@@ -1,17 +1,10 @@
 {
     "id": 1301,
-    "nameTextMapHash": "Avatar_Female_Size02_Brujas",
+    "nameTextMapHash": "Avatar_Female_Size02_Brujas_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Brujas_Name_000",
+            "descTextMapHash": "AvatarSkin_Brujas_Desc_000"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1301",
-    "impressionTextMapHash": "Partner_Impression_f_1301",
-    "gender": "Partner_Gender_02",
-    "stature": "Partner_Stature_1301",
-    "birthday": "Partner_Birthday_1301",
-    "campBg": "PartnerBg_CampObols",
-    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+    ]
 }

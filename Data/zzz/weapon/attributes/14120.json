@@ -1,35 +1,88 @@
 {
     "id": 14120,
-    "nameTextMapHash": "Item_Weapon_S_1201_Desc",
-    "rarity": null,
+    "nameTextMapHash": "Item_Weapon_S_1201_Name",
+    "rarity": 4,
     "maxStar": 5,
+    "profession": 1,
+    "baseAtk": 30000,
+    "icon": "A1DynamicLoad/ItemIconWeaponSmall/UnPacker/Weapon_S_1201Small.png",
+    "baseStat": {
+        "id": 12101,
+        "value": 48
+    },
+    "subStat": {
+        "id": 21103,
+        "value": 1920
+    },
     "talent": {
-        "levels": [
-            {
-                "star": 1,
-                "nameTextMapHash": "Weapon_TalentTitle_14120",
-                "descTextMapHash": "Weapon_TalentDes_81412001"
-            },
-            {
-                "star": 2,
-                "nameTextMapHash": "Weapon_TalentTitle_14120",
-                "descTextMapHash": "Weapon_TalentDes_81412002"
-            },
-            {
-                "star": 3,
-                "nameTextMapHash": "Weapon_TalentTitle_14120",
-                "descTextMapHash": "Weapon_TalentDes_81412003"
-            },
-            {
-                "star": 4,
-                "nameTextMapHash": "Weapon_TalentTitle_14120",
-                "descTextMapHash": "Weapon_TalentDes_81412004"
-            },
-            {
-                "star": 5,
-                "nameTextMapHash": "Weapon_TalentTitle_14120",
-                "descTextMapHash": "Weapon_TalentDes_81412005"
-            }
-        ]
-    }
+        "levels": []
+    },
+    "promotions": [
+        {
+            "level": 1,
+            "costMaterials": [
+                {
+                    "id": 10,
+                    "count": 12000
+                },
+                {
+                    "id": 101010,
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "level": 2,
+            "costMaterials": [
+                {
+                    "id": 10,
+                    "count": 28000
+                },
+                {
+                    "id": 101020,
+                    "count": 12
+                }
+            ]
+        },
+        {
+            "level": 3,
+            "costMaterials": [
+                {
+                    "id": 10,
+                    "count": 60000
+                },
+                {
+                    "id": 101020,
+                    "count": 20
+                }
+            ]
+        },
+        {
+            "level": 4,
+            "costMaterials": [
+                {
+                    "id": 10,
+                    "count": 100000
+                },
+                {
+                    "id": 101030,
+                    "count": 10
+                }
+            ]
+        },
+        {
+            "level": 5,
+            "costMaterials": [
+                {
+                    "id": 10,
+                    "count": 200000
+                },
+                {
+                    "id": 101030,
+                    "count": 20
+                }
+            ]
+        }
+    ],
+    "relatedAvatarId": 1201
 }

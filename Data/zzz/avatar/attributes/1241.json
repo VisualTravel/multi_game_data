@@ -1,7 +1,7 @@
 {
     "id": 1241,
-    "nameTextMapHash": "Avatar_Female_Size03_ZhuYuan",
-    "profession": 7,
+    "nameTextMapHash": "Avatar_Female_Size03_ZhuYuan_En",
+    "profession": 2,
     "tags": [
         "ZhuYuan",
         "Pierce",
@@ -34,9 +34,9 @@
         {
             "level": 2,
             "maxLevel": 20,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 47,
+            "addAttack": 413,
+            "addDefense": 33,
             "costMaterials": [
                 {
                     "id": "10",
@@ -51,9 +51,9 @@
         {
             "level": 3,
             "maxLevel": 30,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 95,
+            "addAttack": 826,
+            "addDefense": 66,
             "costMaterials": [
                 {
                     "id": "10",
@@ -68,9 +68,9 @@
         {
             "level": 4,
             "maxLevel": 40,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 142,
+            "addAttack": 1239,
+            "addDefense": 99,
             "costMaterials": [
                 {
                     "id": "10",
@@ -85,9 +85,9 @@
         {
             "level": 5,
             "maxLevel": 50,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 189,
+            "addAttack": 1651,
+            "addDefense": 133,
             "costMaterials": [
                 {
                     "id": "10",
@@ -102,9 +102,9 @@
         {
             "level": 6,
             "maxLevel": 60,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 236,
+            "addAttack": 2064,
+            "addDefense": 166,
             "costMaterials": []
         }
     ]

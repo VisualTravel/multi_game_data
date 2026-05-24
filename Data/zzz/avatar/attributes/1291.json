@@ -1,7 +1,7 @@
 {
     "id": 1291,
-    "nameTextMapHash": "Avatar_Male_Size02_HugoVlad",
-    "profession": 9,
+    "nameTextMapHash": "Avatar_Male_Size02_HugoVlad_En",
+    "profession": 1,
     "tags": [
         "HugoVlad",
         "Cut",
@@ -34,9 +34,9 @@
         {
             "level": 2,
             "maxLevel": 20,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 47,
+            "addAttack": 438,
+            "addDefense": 34,
             "costMaterials": [
                 {
                     "id": "10",
@@ -51,9 +51,9 @@
         {
             "level": 3,
             "maxLevel": 30,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 95,
+            "addAttack": 876,
+            "addDefense": 68,
             "costMaterials": [
                 {
                     "id": "10",
@@ -68,9 +68,9 @@
         {
             "level": 4,
             "maxLevel": 40,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 142,
+            "addAttack": 1314,
+            "addDefense": 102,
             "costMaterials": [
                 {
                     "id": "10",
@@ -85,9 +85,9 @@
         {
             "level": 5,
             "maxLevel": 50,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 189,
+            "addAttack": 1753,
+            "addDefense": 136,
             "costMaterials": [
                 {
                     "id": "10",
@@ -102,9 +102,9 @@
         {
             "level": 6,
             "maxLevel": 60,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 236,
+            "addAttack": 2191,
+            "addDefense": 170,
             "costMaterials": []
         }
     ]

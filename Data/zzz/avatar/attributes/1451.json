@@ -1,7 +1,7 @@
 {
     "id": 1451,
-    "nameTextMapHash": "Avatar_Female_Size02_Lucia",
-    "profession": 11,
+    "nameTextMapHash": "Avatar_Female_Size02_Lucia_En",
+    "profession": 2,
     "tags": [
         "Lucia",
         "Punch",
@@ -34,9 +34,9 @@
         {
             "level": 2,
             "maxLevel": 20,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 39,
+            "addAttack": 468,
+            "addDefense": 33,
             "costMaterials": [
                 {
                     "id": "10",
@@ -51,9 +51,9 @@
         {
             "level": 3,
             "maxLevel": 30,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 78,
+            "addAttack": 936,
+            "addDefense": 66,
             "costMaterials": [
                 {
                     "id": "10",
@@ -68,9 +68,9 @@
         {
             "level": 4,
             "maxLevel": 40,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 117,
+            "addAttack": 1403,
+            "addDefense": 98,
             "costMaterials": [
                 {
                     "id": "10",
@@ -85,9 +85,9 @@
         {
             "level": 5,
             "maxLevel": 50,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 156,
+            "addAttack": 1871,
+            "addDefense": 131,
             "costMaterials": [
                 {
                     "id": "10",
@@ -102,9 +102,9 @@
         {
             "level": 6,
             "maxLevel": 60,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 195,
+            "addAttack": 2339,
+            "addDefense": 164,
             "costMaterials": []
         }
     ]

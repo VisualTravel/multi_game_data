@@ -1,21 +1,14 @@
 {
     "id": 1441,
-    "nameTextMapHash": "Avatar_Male_Size03_Norano",
+    "nameTextMapHash": "Avatar_Male_Size03_Norano_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Norano_Name_000",
+            "descTextMapHash": "AvatarSkin_Norano_Desc_000"
         },
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Norano_Name_001",
+            "descTextMapHash": "AvatarSkin_Norano_Desc_001"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1441",
-    "impressionTextMapHash": "Partner_Impression_f_1441",
-    "gender": "Partner_Gender_01",
-    "stature": "Partner_Stature_1441",
-    "birthday": "Partner_Birthday_1441",
-    "campBg": "PartnerBg_CampSpookShack",
-    "campNameTextMapHash": "PartnerBg_CampGentleHouse"
+    ]
 }

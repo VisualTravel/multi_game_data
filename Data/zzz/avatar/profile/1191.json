@@ -1,21 +1,14 @@
 {
     "id": 1191,
-    "nameTextMapHash": "Avatar_Female_Size02_Ellen",
+    "nameTextMapHash": "Avatar_Female_Size02_Ellen_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Ellen_Name_000",
+            "descTextMapHash": "AvatarSkin_Ellen_Desc_000"
         },
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Ellen_Name_001",
+            "descTextMapHash": "AvatarSkin_Ellen_Desc_001"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1191",
-    "impressionTextMapHash": "Partner_Impression_f_1191",
-    "gender": "Partner_Gender_02",
-    "stature": "Partner_Stature_1191",
-    "birthday": "Partner_Birthday_1191",
-    "campBg": "PartnerBg_CampVictoriaHousekeepingCo",
-    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+    ]
 }

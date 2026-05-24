@@ -1,21 +1,14 @@
 {
     "id": 1311,
-    "nameTextMapHash": "Avatar_Female_Size03_Astra",
+    "nameTextMapHash": "Avatar_Female_Size03_Astra_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Astra_Name_000",
+            "descTextMapHash": "AvatarSkin_Astra_Desc_000"
         },
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Astra_Name_001",
+            "descTextMapHash": "AvatarSkin_Astra_Desc_001"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1311",
-    "impressionTextMapHash": "Partner_Impression_f_1311",
-    "gender": "Partner_Gender_02",
-    "stature": "Partner_Stature_1311",
-    "birthday": "Partner_Birthday_1311",
-    "campBg": "PartnerBg_CampStarsOfLyra",
-    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+    ]
 }

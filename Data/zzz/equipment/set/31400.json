@@ -1,6 +1,7 @@
 {
     "id": 31400,
     "nameTextMapHash": "EquipmentSuit_31400_name",
+    "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitHormonePunk.png",
     "effects": {
         "twoPiece": {
             "descTextMapHash": "EquipmentSuit_31400_2_des"

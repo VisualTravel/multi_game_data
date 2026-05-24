@@ -1,17 +1,10 @@
 {
     "id": 1351,
-    "nameTextMapHash": "Avatar_Female_Size03_Pulchra",
+    "nameTextMapHash": "Avatar_Female_Size03_Pulchra_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Pulchra_Name_000",
+            "descTextMapHash": "AvatarSkin_Pulchra_Desc_000"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1351",
-    "impressionTextMapHash": "Partner_Impression_f_1351",
-    "gender": "Partner_Gender_02",
-    "stature": "Partner_Stature_1351",
-    "birthday": "Partner_Birthday_1351",
-    "campBg": "PartnerBg_CampSonsOfCalydon",
-    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+    ]
 }

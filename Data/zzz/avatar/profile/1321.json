@@ -1,17 +1,10 @@
 {
     "id": 1321,
-    "nameTextMapHash": "Avatar_Female_Size03_Evelyn",
+    "nameTextMapHash": "Avatar_Female_Size03_Evelyn_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Evelyn_Name_000",
+            "descTextMapHash": "AvatarSkin_Evelyn_Desc_000"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1321",
-    "impressionTextMapHash": "Partner_Impression_f_1321",
-    "gender": "Partner_Gender_02",
-    "stature": "Partner_Stature_1321",
-    "birthday": "Partner_Birthday_1321",
-    "campBg": "PartnerBg_CampStarsOfLyra",
-    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+    ]
 }

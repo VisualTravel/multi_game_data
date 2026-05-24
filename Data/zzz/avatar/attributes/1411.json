@@ -1,7 +1,7 @@
 {
     "id": 1411,
-    "nameTextMapHash": "Avatar_Female_Size02_Yuzuha",
-    "profession": 11,
+    "nameTextMapHash": "Avatar_Female_Size02_Yuzuha_En",
+    "profession": 2,
     "tags": [
         "Yuzuha",
         "Punch",
@@ -34,9 +34,9 @@
         {
             "level": 2,
             "maxLevel": 20,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 39,
+            "addAttack": 487,
+            "addDefense": 34,
             "costMaterials": [
                 {
                     "id": "10",
@@ -51,9 +51,9 @@
         {
             "level": 3,
             "maxLevel": 30,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 78,
+            "addAttack": 974,
+            "addDefense": 68,
             "costMaterials": [
                 {
                     "id": "10",
@@ -68,9 +68,9 @@
         {
             "level": 4,
             "maxLevel": 40,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 117,
+            "addAttack": 1461,
+            "addDefense": 101,
             "costMaterials": [
                 {
                     "id": "10",
@@ -85,9 +85,9 @@
         {
             "level": 5,
             "maxLevel": 50,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 156,
+            "addAttack": 1949,
+            "addDefense": 135,
             "costMaterials": [
                 {
                     "id": "10",
@@ -102,9 +102,9 @@
         {
             "level": 6,
             "maxLevel": 60,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 195,
+            "addAttack": 2436,
+            "addDefense": 169,
             "costMaterials": []
         }
     ]

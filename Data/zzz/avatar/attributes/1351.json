@@ -1,7 +1,7 @@
 {
     "id": 1351,
-    "nameTextMapHash": "Avatar_Female_Size03_Pulchra",
-    "profession": 4,
+    "nameTextMapHash": "Avatar_Female_Size03_Pulchra_En",
+    "profession": 2,
     "tags": [
         "Pulchra",
         "Cut",
@@ -34,9 +34,9 @@
         {
             "level": 2,
             "maxLevel": 20,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 34,
+            "addAttack": 420,
+            "addDefense": 33,
             "costMaterials": [
                 {
                     "id": "10",
@@ -51,9 +51,9 @@
         {
             "level": 3,
             "maxLevel": 30,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 68,
+            "addAttack": 840,
+            "addDefense": 67,
             "costMaterials": [
                 {
                     "id": "10",
@@ -68,9 +68,9 @@
         {
             "level": 4,
             "maxLevel": 40,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 103,
+            "addAttack": 1260,
+            "addDefense": 100,
             "costMaterials": [
                 {
                     "id": "10",
@@ -85,9 +85,9 @@
         {
             "level": 5,
             "maxLevel": 50,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 137,
+            "addAttack": 1680,
+            "addDefense": 134,
             "costMaterials": [
                 {
                     "id": "10",
@@ -102,9 +102,9 @@
         {
             "level": 6,
             "maxLevel": 60,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 171,
+            "addAttack": 2100,
+            "addDefense": 167,
             "costMaterials": []
         }
     ]

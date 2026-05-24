@@ -1,6 +1,6 @@
 {
     "id": 1061,
-    "nameTextMapHash": "Avatar_Female_Size01_Corin",
+    "nameTextMapHash": "Avatar_Female_Size01_Corin_En",
     "profession": 2,
     "tags": [
         "Corin",
@@ -34,9 +34,9 @@
         {
             "level": 2,
             "maxLevel": 20,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 41,
+            "addAttack": 385,
+            "addDefense": 33,
             "costMaterials": [
                 {
                     "id": "10",
@@ -51,9 +51,9 @@
         {
             "level": 3,
             "maxLevel": 30,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 83,
+            "addAttack": 770,
+            "addDefense": 67,
             "costMaterials": [
                 {
                     "id": "10",
@@ -68,9 +68,9 @@
         {
             "level": 4,
             "maxLevel": 40,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 124,
+            "addAttack": 1155,
+            "addDefense": 100,
             "costMaterials": [
                 {
                     "id": "10",
@@ -85,9 +85,9 @@
         {
             "level": 5,
             "maxLevel": 50,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 166,
+            "addAttack": 1540,
+            "addDefense": 133,
             "costMaterials": [
                 {
                     "id": "10",
@@ -102,9 +102,9 @@
         {
             "level": 6,
             "maxLevel": 60,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 207,
+            "addAttack": 1925,
+            "addDefense": 167,
             "costMaterials": []
         }
     ]

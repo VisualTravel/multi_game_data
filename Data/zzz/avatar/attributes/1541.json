@@ -1,7 +1,7 @@
 {
     "id": 1541,
-    "nameTextMapHash": "Avatar_Female_Size03_Promeia",
-    "profession": 12,
+    "nameTextMapHash": "Avatar_Female_Size03_Promeia_En",
+    "profession": 2,
     "tags": [
         "Promeia",
         "Cut",
@@ -34,9 +34,9 @@
         {
             "level": 2,
             "maxLevel": 20,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 45,
+            "addAttack": 430,
+            "addDefense": 34,
             "costMaterials": [
                 {
                     "id": "10",
@@ -51,9 +51,9 @@
         {
             "level": 3,
             "maxLevel": 30,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 90,
+            "addAttack": 859,
+            "addDefense": 68,
             "costMaterials": [
                 {
                     "id": "10",
@@ -68,9 +68,9 @@
         {
             "level": 4,
             "maxLevel": 40,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 134,
+            "addAttack": 1289,
+            "addDefense": 101,
             "costMaterials": [
                 {
                     "id": "10",
@@ -85,9 +85,9 @@
         {
             "level": 5,
             "maxLevel": 50,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 179,
+            "addAttack": 1719,
+            "addDefense": 135,
             "costMaterials": [
                 {
                     "id": "10",
@@ -102,9 +102,9 @@
         {
             "level": 6,
             "maxLevel": 60,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 224,
+            "addAttack": 2149,
+            "addDefense": 169,
             "costMaterials": []
         }
     ]

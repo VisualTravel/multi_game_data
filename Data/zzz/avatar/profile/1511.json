@@ -1,21 +1,14 @@
 {
     "id": 1511,
-    "nameTextMapHash": "Avatar_Female_Size01_NangongYu",
+    "nameTextMapHash": "Avatar_Female_Size01_NangongYu_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_NangongYu_Name_000",
+            "descTextMapHash": "AvatarSkin_NangongYu_Desc_000"
         },
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_NangongYu_Name_001",
+            "descTextMapHash": "AvatarSkin_NangongYu_Desc_001"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1511",
-    "impressionTextMapHash": "Partner_Impression_f_1511",
-    "gender": "Partner_Gender_02",
-    "stature": "Partner_Stature_1511",
-    "birthday": "Partner_Birthday_1511",
-    "campBg": "PartnerBg_CampAngelsOfDelusion",
-    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+    ]
 }

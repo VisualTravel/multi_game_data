@@ -1,21 +1,14 @@
 {
     "id": 1091,
-    "nameTextMapHash": "Avatar_Female_Size02_Unagi",
+    "nameTextMapHash": "Avatar_Female_Size02_Unagi_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Unagi_Name_000",
+            "descTextMapHash": "AvatarSkin_Unagi_Desc_000"
         },
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Unagi_Name_001",
+            "descTextMapHash": "AvatarSkin_Unagi_Desc_001"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1091",
-    "impressionTextMapHash": "Partner_Impression_f_1091",
-    "gender": "Partner_Gender_02",
-    "stature": "Partner_Stature_1091",
-    "birthday": "Partner_Birthday_1091",
-    "campBg": "PartnerBg_CampH.S.O.S.6",
-    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+    ]
 }

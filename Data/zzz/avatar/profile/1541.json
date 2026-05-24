@@ -1,17 +1,10 @@
 {
     "id": 1541,
-    "nameTextMapHash": "Avatar_Female_Size03_Promeia",
+    "nameTextMapHash": "Avatar_Female_Size03_Promeia_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Promeia_Name_000",
+            "descTextMapHash": "AvatarSkin_Promeia_Desc_000"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1541",
-    "impressionTextMapHash": "Partner_Impression_f_1541",
-    "gender": "Partner_Gender_02",
-    "stature": "Partner_Stature_1541",
-    "birthday": "Partner_Birthday_1541",
-    "campBg": "PartnerBg_CampKrampusComplianceAuthority",
-    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+    ]
 }

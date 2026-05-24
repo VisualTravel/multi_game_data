@@ -1,17 +1,10 @@
 {
     "id": 1131,
-    "nameTextMapHash": "Avatar_Female_Size01_Aokaku",
+    "nameTextMapHash": "Avatar_Female_Size01_Aokaku_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Aokaku_Name_000",
+            "descTextMapHash": "AvatarSkin_Aokaku_Desc_000"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1131",
-    "impressionTextMapHash": "Partner_Impression_f_1131",
-    "gender": "Partner_Gender_02",
-    "stature": "Partner_Stature_1131",
-    "birthday": "Partner_Birthday_1131",
-    "campBg": "PartnerBg_CampH.S.O.S.6",
-    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+    ]
 }

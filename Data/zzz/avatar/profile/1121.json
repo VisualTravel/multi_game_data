@@ -1,17 +1,10 @@
 {
     "id": 1121,
-    "nameTextMapHash": "Avatar_Male_Size03_Ben",
+    "nameTextMapHash": "Avatar_Male_Size03_Ben_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Ben_Name_000",
+            "descTextMapHash": "AvatarSkin_Ben_Desc_000"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1121",
-    "impressionTextMapHash": "Partner_Impression_f_1121",
-    "gender": "Partner_Gender_01",
-    "stature": "Partner_Stature_06",
-    "birthday": "Partner_Birthday_06",
-    "campBg": "PartnerBg_CampBelobogIndustries",
-    "campNameTextMapHash": "PartnerBg_CampGentleHouse"
+    ]
 }

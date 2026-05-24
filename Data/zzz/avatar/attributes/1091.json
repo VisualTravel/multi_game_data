@@ -1,7 +1,7 @@
 {
     "id": 1091,
-    "nameTextMapHash": "Avatar_Female_Size02_Unagi",
-    "profession": 6,
+    "nameTextMapHash": "Avatar_Female_Size02_Unagi_En",
+    "profession": 2,
     "tags": [
         "Unagi",
         "Cut",
@@ -34,9 +34,9 @@
         {
             "level": 2,
             "maxLevel": 20,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 45,
+            "addAttack": 423,
+            "addDefense": 33,
             "costMaterials": [
                 {
                     "id": "10",
@@ -51,9 +51,9 @@
         {
             "level": 3,
             "maxLevel": 30,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 90,
+            "addAttack": 847,
+            "addDefense": 67,
             "costMaterials": [
                 {
                     "id": "10",
@@ -68,9 +68,9 @@
         {
             "level": 4,
             "maxLevel": 40,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 136,
+            "addAttack": 1270,
+            "addDefense": 100,
             "costMaterials": [
                 {
                     "id": "10",
@@ -85,9 +85,9 @@
         {
             "level": 5,
             "maxLevel": 50,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 181,
+            "addAttack": 1694,
+            "addDefense": 134,
             "costMaterials": [
                 {
                     "id": "10",
@@ -102,9 +102,9 @@
         {
             "level": 6,
             "maxLevel": 60,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 226,
+            "addAttack": 2117,
+            "addDefense": 167,
             "costMaterials": []
         }
     ]

@@ -1,17 +1,10 @@
 {
     "id": 1071,
-    "nameTextMapHash": "Avatar_Female_Size03_Caesar",
+    "nameTextMapHash": "Avatar_Female_Size03_Caesar_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Caesar_Name_000",
+            "descTextMapHash": "AvatarSkin_Caesar_Desc_000"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1071",
-    "impressionTextMapHash": "Partner_Impression_f_1071",
-    "gender": "Partner_Gender_02",
-    "stature": "Partner_Stature_1071",
-    "birthday": "Partner_Birthday_1071",
-    "campBg": "PartnerBg_CampSonsOfCalydon",
-    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+    ]
 }

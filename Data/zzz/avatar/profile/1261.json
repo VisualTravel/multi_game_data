@@ -1,21 +1,14 @@
 {
     "id": 1261,
-    "nameTextMapHash": "Avatar_Female_Size03_JaneDoe",
+    "nameTextMapHash": "Avatar_Female_Size03_JaneDoe_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_JaneDoe_Name_000",
+            "descTextMapHash": "AvatarSkin_JaneDoe_Desc_000"
         },
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_JaneDoe_Name_001",
+            "descTextMapHash": "AvatarSkin_JaneDoe_Desc_001"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1261",
-    "impressionTextMapHash": "Partner_Impression_f_1261",
-    "gender": "Partner_Gender_02",
-    "stature": "Partner_Stature_1261",
-    "birthday": "Partner_Birthday_1261",
-    "campBg": "PartnerBg_CampNEPS",
-    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+    ]
 }

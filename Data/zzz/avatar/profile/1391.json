@@ -1,17 +1,10 @@
 {
     "id": 1391,
-    "nameTextMapHash": "Avatar_Female_Size01_Jufufu",
+    "nameTextMapHash": "Avatar_Female_Size01_Jufufu_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Jufufu_Name_000",
+            "descTextMapHash": "AvatarSkin_Jufufu_Desc_000"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1391",
-    "impressionTextMapHash": "Partner_Impression_f_1391",
-    "gender": "Partner_Gender_02",
-    "stature": "Partner_Stature_1391",
-    "birthday": "Partner_Birthday_1391",
-    "campBg": "PartnerBg_CampSuibian",
-    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "id": 1111,
-    "nameTextMapHash": "Avatar_Male_Size03_Anton",
-    "profession": 3,
+    "nameTextMapHash": "Avatar_Male_Size03_Anton_En",
+    "profession": 1,
     "tags": [
         "Anton",
         "Pierce",
@@ -34,9 +34,9 @@
         {
             "level": 2,
             "maxLevel": 20,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 41,
+            "addAttack": 398,
+            "addDefense": 34,
             "costMaterials": [
                 {
                     "id": "10",
@@ -51,9 +51,9 @@
         {
             "level": 3,
             "maxLevel": 30,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 81,
+            "addAttack": 797,
+            "addDefense": 69,
             "costMaterials": [
                 {
                     "id": "10",
@@ -68,9 +68,9 @@
         {
             "level": 4,
             "maxLevel": 40,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 122,
+            "addAttack": 1195,
+            "addDefense": 103,
             "costMaterials": [
                 {
                     "id": "10",
@@ -85,9 +85,9 @@
         {
             "level": 5,
             "maxLevel": 50,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 163,
+            "addAttack": 1593,
+            "addDefense": 137,
             "costMaterials": [
                 {
                     "id": "10",
@@ -102,9 +102,9 @@
         {
             "level": 6,
             "maxLevel": 60,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 203,
+            "addAttack": 1992,
+            "addDefense": 172,
             "costMaterials": []
         }
     ]

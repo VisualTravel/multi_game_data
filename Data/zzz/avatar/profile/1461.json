@@ -1,17 +1,10 @@
 {
     "id": 1461,
-    "nameTextMapHash": "Avatar_Female_Size02_Seed",
+    "nameTextMapHash": "Avatar_Female_Size02_Seed_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_Seed_Name_000",
+            "descTextMapHash": "AvatarSkin_Seed_Desc_000"
         }
-    ],
-    "descTextMapHash": "Partner_ProfileDesc_1461",
-    "impressionTextMapHash": "Partner_Impression_f_1461",
-    "gender": "Partner_Gender_02",
-    "stature": "Partner_Stature_1461",
-    "birthday": "Partner_Birthday_1461",
-    "campBg": "PartnerBg_CampObols",
-    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+    ]
 }

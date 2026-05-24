@@ -1,6 +1,7 @@
 {
     "id": 32300,
     "nameTextMapHash": "EquipmentSuit_32300_name",
+    "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitChaosMetal.png",
     "effects": {
         "twoPiece": {
             "descTextMapHash": "EquipmentSuit_32300_2_des"

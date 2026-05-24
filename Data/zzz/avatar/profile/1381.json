@@ -1,11 +1,10 @@
 {
     "id": 1381,
-    "nameTextMapHash": "Avatar_Female_Size02_SilverAnby",
+    "nameTextMapHash": "Avatar_Female_Size02_SilverAnby_En",
     "skins": [
         {
-            "nameTextMapHash": null,
-            "descTextMapHash": null
+            "nameTextMapHash": "AvatarSkin_SilverAnby_Name_000",
+            "descTextMapHash": "AvatarSkin_SilverAnby_Desc_000"
         }
-    ],
-    "campNameTextMapHash": "PartnerBg_CampVictoriaHousekeepingCo"
+    ]
 }

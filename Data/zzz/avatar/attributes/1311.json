@@ -1,7 +1,7 @@
 {
     "id": 1311,
-    "nameTextMapHash": "Avatar_Female_Size03_Astra",
-    "profession": 8,
+    "nameTextMapHash": "Avatar_Female_Size03_Astra_En",
+    "profession": 2,
     "tags": [
         "Astra",
         "Punch",
@@ -34,9 +34,9 @@
         {
             "level": 2,
             "maxLevel": 20,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 37,
+            "addAttack": 475,
+            "addDefense": 33,
             "costMaterials": [
                 {
                     "id": "10",
@@ -51,9 +51,9 @@
         {
             "level": 3,
             "maxLevel": 30,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 74,
+            "addAttack": 950,
+            "addDefense": 66,
             "costMaterials": [
                 {
                     "id": "10",
@@ -68,9 +68,9 @@
         {
             "level": 4,
             "maxLevel": 40,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 110,
+            "addAttack": 1425,
+            "addDefense": 99,
             "costMaterials": [
                 {
                     "id": "10",
@@ -85,9 +85,9 @@
         {
             "level": 5,
             "maxLevel": 50,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 147,
+            "addAttack": 1900,
+            "addDefense": 133,
             "costMaterials": [
                 {
                     "id": "10",
@@ -102,9 +102,9 @@
         {
             "level": 6,
             "maxLevel": 60,
-            "addHp": 0,
-            "addAttack": 0,
-            "addDefense": 0,
+            "addHp": 184,
+            "addAttack": 2375,
+            "addDefense": 166,
             "costMaterials": []
         }
     ]
