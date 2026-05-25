@@ -7,7 +7,185 @@
             "nameTextMapHash": 3368284549,
             "descTextMapHash": 3512850744,
             "icon": "Skill_A_01",
-            "proudSkillGroupId": 11731
+            "proudSkillGroupId": 11731,
+            "levelUpCosts": [
+                {
+                    "level": 1,
+                    "coinCost": 0,
+                    "costMaterials": []
+                },
+                {
+                    "level": 2,
+                    "coinCost": 12500,
+                    "costMaterials": [
+                        {
+                            "id": 104353,
+                            "count": 3
+                        },
+                        {
+                            "id": 112104,
+                            "count": 6
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "coinCost": 17500,
+                    "costMaterials": [
+                        {
+                            "id": 104354,
+                            "count": 2
+                        },
+                        {
+                            "id": 112105,
+                            "count": 3
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "coinCost": 25000,
+                    "costMaterials": [
+                        {
+                            "id": 104354,
+                            "count": 4
+                        },
+                        {
+                            "id": 112105,
+                            "count": 4
+                        }
+                    ]
+                },
+                {
+                    "level": 5,
+                    "coinCost": 30000,
+                    "costMaterials": [
+                        {
+                            "id": 104354,
+                            "count": 6
+                        },
+                        {
+                            "id": 112105,
+                            "count": 6
+                        }
+                    ]
+                },
+                {
+                    "level": 6,
+                    "coinCost": 37500,
+                    "costMaterials": [
+                        {
+                            "id": 104354,
+                            "count": 9
+                        },
+                        {
+                            "id": 112105,
+                            "count": 9
+                        }
+                    ]
+                },
+                {
+                    "level": 7,
+                    "coinCost": 120000,
+                    "costMaterials": [
+                        {
+                            "id": 104355,
+                            "count": 4
+                        },
+                        {
+                            "id": 112106,
+                            "count": 4
+                        },
+                        {
+                            "id": 113069,
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "level": 8,
+                    "coinCost": 260000,
+                    "costMaterials": [
+                        {
+                            "id": 104355,
+                            "count": 6
+                        },
+                        {
+                            "id": 112106,
+                            "count": 6
+                        },
+                        {
+                            "id": 113069,
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "level": 9,
+                    "coinCost": 450000,
+                    "costMaterials": [
+                        {
+                            "id": 104355,
+                            "count": 12
+                        },
+                        {
+                            "id": 112106,
+                            "count": 9
+                        },
+                        {
+                            "id": 113069,
+                            "count": 2
+                        }
+                    ]
+                },
+                {
+                    "level": 10,
+                    "coinCost": 700000,
+                    "costMaterials": [
+                        {
+                            "id": 104355,
+                            "count": 16
+                        },
+                        {
+                            "id": 112106,
+                            "count": 12
+                        },
+                        {
+                            "id": 113069,
+                            "count": 2
+                        },
+                        {
+                            "id": 104319,
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "level": 11,
+                    "coinCost": 0,
+                    "costMaterials": []
+                },
+                {
+                    "level": 12,
+                    "coinCost": 0,
+                    "costMaterials": []
+                },
+                {
+                    "level": 13,
+                    "coinCost": 0,
+                    "costMaterials": []
+                },
+                {
+                    "level": 14,
+                    "coinCost": 0,
+                    "costMaterials": []
+                },
+                {
+                    "level": 15,
+                    "coinCost": 0,
+                    "costMaterials": []
+                }
+            ]
         }
     ],
     "passiveSkills": [
@@ -15,19 +193,40 @@
             "nameTextMapHash": 666712229,
             "descTextMapHash": 1291123867,
             "icon": "UI_Talent_S_LittleIdol_05",
-            "unlockAtPromotion": 1
+            "unlockAtPromotion": 1,
+            "levelUpCosts": [
+                {
+                    "level": 1,
+                    "coinCost": 0,
+                    "costMaterials": []
+                }
+            ]
         },
         {
             "nameTextMapHash": 206217621,
             "descTextMapHash": 1090239707,
             "icon": "UI_Talent_S_LittleIdol_06",
-            "unlockAtPromotion": 4
+            "unlockAtPromotion": 4,
+            "levelUpCosts": [
+                {
+                    "level": 1,
+                    "coinCost": 0,
+                    "costMaterials": []
+                }
+            ]
         },
         {
             "nameTextMapHash": 565052845,
             "descTextMapHash": 789988659,
             "icon": "UI_Talent_S_LittleIdol_07",
-            "unlockAtPromotion": 0
+            "unlockAtPromotion": 0,
+            "levelUpCosts": [
+                {
+                    "level": 1,
+                    "coinCost": 0,
+                    "costMaterials": []
+                }
+            ]
         }
     ]
 }

@@ -1,0 +1,20 @@
+{
+    "id": 1102,
+    "nameTextMapHash": 1324618828,
+    "descTextMapHash": 101272805,
+    "specialDescTextMapHash": 928063657,
+    "typeDescTextMapHash": 3744362622,
+    "materialType": "MATERIAL_TALENT",
+    "icon": "UI_ItemIcon_1102",
+    "rank": 5,
+    "sourceTextMapHashes": [
+        1102224740,
+        4293952778,
+        1867761065,
+        2173644261,
+        1134527851,
+        2648357968,
+        3956420020
+    ],
+    "firstJumpType": "JUMP_NONE"
+}

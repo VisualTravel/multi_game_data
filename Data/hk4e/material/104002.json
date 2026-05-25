@@ -1,0 +1,20 @@
+{
+    "id": 104002,
+    "nameTextMapHash": 509265284,
+    "descTextMapHash": 3936050469,
+    "specialDescTextMapHash": 2560683217,
+    "typeDescTextMapHash": 1996823558,
+    "materialType": "MATERIAL_EXP_FRUIT",
+    "icon": "UI_ItemIcon_104002",
+    "rank": 3,
+    "sourceTextMapHashes": [
+        1182456068,
+        1866926434,
+        1935104185,
+        2617147493,
+        3566454259,
+        2976328752,
+        13413716
+    ],
+    "firstJumpType": "JUMP_NONE"
+}

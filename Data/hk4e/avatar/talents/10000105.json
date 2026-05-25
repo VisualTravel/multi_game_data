@@ -7,21 +7,378 @@
             "nameTextMapHash": 818975229,
             "descTextMapHash": 1504757048,
             "icon": "Skill_A_02",
-            "proudSkillGroupId": 10531
+            "proudSkillGroupId": 10531,
+            "levelUpCosts": [
+                {
+                    "level": 1,
+                    "coinCost": 0,
+                    "costMaterials": []
+                },
+                {
+                    "level": 2,
+                    "coinCost": 12500,
+                    "costMaterials": [
+                        {
+                            "id": 104350,
+                            "count": 3
+                        },
+                        {
+                            "id": 112101,
+                            "count": 6
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "coinCost": 17500,
+                    "costMaterials": [
+                        {
+                            "id": 104351,
+                            "count": 2
+                        },
+                        {
+                            "id": 112102,
+                            "count": 3
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "coinCost": 25000,
+                    "costMaterials": [
+                        {
+                            "id": 104351,
+                            "count": 4
+                        },
+                        {
+                            "id": 112102,
+                            "count": 4
+                        }
+                    ]
+                },
+                {
+                    "level": 5,
+                    "coinCost": 30000,
+                    "costMaterials": [
+                        {
+                            "id": 104351,
+                            "count": 6
+                        },
+                        {
+                            "id": 112102,
+                            "count": 6
+                        }
+                    ]
+                },
+                {
+                    "level": 6,
+                    "coinCost": 37500,
+                    "costMaterials": [
+                        {
+                            "id": 104351,
+                            "count": 9
+                        },
+                        {
+                            "id": 112102,
+                            "count": 9
+                        }
+                    ]
+                },
+                {
+                    "level": 7,
+                    "coinCost": 120000,
+                    "costMaterials": [
+                        {
+                            "id": 104352,
+                            "count": 4
+                        },
+                        {
+                            "id": 112103,
+                            "count": 4
+                        },
+                        {
+                            "id": 113054,
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "level": 8,
+                    "coinCost": 260000,
+                    "costMaterials": [
+                        {
+                            "id": 104352,
+                            "count": 6
+                        },
+                        {
+                            "id": 112103,
+                            "count": 6
+                        },
+                        {
+                            "id": 113054,
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "level": 9,
+                    "coinCost": 450000,
+                    "costMaterials": [
+                        {
+                            "id": 104352,
+                            "count": 12
+                        },
+                        {
+                            "id": 112103,
+                            "count": 9
+                        },
+                        {
+                            "id": 113054,
+                            "count": 2
+                        }
+                    ]
+                },
+                {
+                    "level": 10,
+                    "coinCost": 700000,
+                    "costMaterials": [
+                        {
+                            "id": 104352,
+                            "count": 16
+                        },
+                        {
+                            "id": 112103,
+                            "count": 12
+                        },
+                        {
+                            "id": 113054,
+                            "count": 2
+                        },
+                        {
+                            "id": 104319,
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "level": 11,
+                    "coinCost": 0,
+                    "costMaterials": []
+                },
+                {
+                    "level": 12,
+                    "coinCost": 0,
+                    "costMaterials": []
+                },
+                {
+                    "level": 13,
+                    "coinCost": 0,
+                    "costMaterials": []
+                },
+                {
+                    "level": 14,
+                    "coinCost": 0,
+                    "costMaterials": []
+                },
+                {
+                    "level": 15,
+                    "coinCost": 0,
+                    "costMaterials": []
+                }
+            ]
         },
         {
             "skillId": 30502,
             "nameTextMapHash": 4286405869,
             "descTextMapHash": 2359790872,
             "icon": "Skill_S_Olorun_01",
-            "proudSkillGroupId": 10532
+            "proudSkillGroupId": 10532,
+            "levelUpCosts": [
+                {
+                    "level": 1,
+                    "coinCost": 0,
+                    "costMaterials": []
+                },
+                {
+                    "level": 2,
+                    "coinCost": 12500,
+                    "costMaterials": [
+                        {
+                            "id": 104350,
+                            "count": 3
+                        },
+                        {
+                            "id": 112101,
+                            "count": 6
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "coinCost": 17500,
+                    "costMaterials": [
+                        {
+                            "id": 104351,
+                            "count": 2
+                        },
+                        {
+                            "id": 112102,
+                            "count": 3
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "coinCost": 25000,
+                    "costMaterials": [
+                        {
+                            "id": 104351,
+                            "count": 4
+                        },
+                        {
+                            "id": 112102,
+                            "count": 4
+                        }
+                    ]
+                },
+                {
+                    "level": 5,
+                    "coinCost": 30000,
+                    "costMaterials": [
+                        {
+                            "id": 104351,
+                            "count": 6
+                        },
+                        {
+                            "id": 112102,
+                            "count": 6
+                        }
+                    ]
+                },
+                {
+                    "level": 6,
+                    "coinCost": 37500,
+                    "costMaterials": [
+                        {
+                            "id": 104351,
+                            "count": 9
+                        },
+                        {
+                            "id": 112102,
+                            "count": 9
+                        }
+                    ]
+                },
+                {
+                    "level": 7,
+                    "coinCost": 120000,
+                    "costMaterials": [
+                        {
+                            "id": 104352,
+                            "count": 4
+                        },
+                        {
+                            "id": 112103,
+                            "count": 4
+                        },
+                        {
+                            "id": 113054,
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "level": 8,
+                    "coinCost": 260000,
+                    "costMaterials": [
+                        {
+                            "id": 104352,
+                            "count": 6
+                        },
+                        {
+                            "id": 112103,
+                            "count": 6
+                        },
+                        {
+                            "id": 113054,
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "level": 9,
+                    "coinCost": 450000,
+                    "costMaterials": [
+                        {
+                            "id": 104352,
+                            "count": 12
+                        },
+                        {
+                            "id": 112103,
+                            "count": 9
+                        },
+                        {
+                            "id": 113054,
+                            "count": 2
+                        }
+                    ]
+                },
+                {
+                    "level": 10,
+                    "coinCost": 700000,
+                    "costMaterials": [
+                        {
+                            "id": 104352,
+                            "count": 16
+                        },
+                        {
+                            "id": 112103,
+                            "count": 12
+                        },
+                        {
+                            "id": 113054,
+                            "count": 2
+                        },
+                        {
+                            "id": 104319,
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "level": 11,
+                    "coinCost": 0,
+                    "costMaterials": []
+                },
+                {
+                    "level": 12,
+                    "coinCost": 0,
+                    "costMaterials": []
+                },
+                {
+                    "level": 13,
+                    "coinCost": 0,
+                    "costMaterials": []
+                },
+                {
+                    "level": 14,
+                    "coinCost": 0,
+                    "costMaterials": []
+                },
+                {
+                    "level": 15,
+                    "coinCost": 0,
+                    "costMaterials": []
+                }
+            ]
         },
         {
             "skillId": 30506,
             "nameTextMapHash": 2526862789,
             "descTextMapHash": 375537072,
             "icon": "Skill_E_Olorun_03",
-            "proudSkillGroupId": 0
+            "proudSkillGroupId": 0,
+            "levelUpCosts": []
         }
     ],
     "passiveSkills": [
@@ -29,25 +386,53 @@
             "nameTextMapHash": 3933974557,
             "descTextMapHash": 3154941059,
             "icon": "UI_Talent_S_Olorun_05",
-            "unlockAtPromotion": 1
+            "unlockAtPromotion": 1,
+            "levelUpCosts": [
+                {
+                    "level": 1,
+                    "coinCost": 0,
+                    "costMaterials": []
+                }
+            ]
         },
         {
             "nameTextMapHash": 3071741189,
             "descTextMapHash": 1895922827,
             "icon": "UI_Talent_S_Olorun_06",
-            "unlockAtPromotion": 4
+            "unlockAtPromotion": 4,
+            "levelUpCosts": [
+                {
+                    "level": 1,
+                    "coinCost": 0,
+                    "costMaterials": []
+                }
+            ]
         },
         {
             "nameTextMapHash": 1345864189,
             "descTextMapHash": 943536539,
             "icon": "UI_Talent_S_Olorun_07",
-            "unlockAtPromotion": 0
+            "unlockAtPromotion": 0,
+            "levelUpCosts": [
+                {
+                    "level": 1,
+                    "coinCost": 0,
+                    "costMaterials": []
+                }
+            ]
         },
         {
             "nameTextMapHash": 1531755757,
             "descTextMapHash": 2015853571,
             "icon": "UI_Talent_S_Olorun_08",
-            "unlockAtPromotion": 0
+            "unlockAtPromotion": 0,
+            "levelUpCosts": [
+                {
+                    "level": 1,
+                    "coinCost": 0,
+                    "costMaterials": []
+                }
+            ]
         }
     ]
 }
