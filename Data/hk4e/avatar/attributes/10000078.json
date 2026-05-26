@@ -6,6 +6,9 @@
     "bodyType": "BODY_MALE",
     "icon": "UI_AvatarIcon_Alhatham",
     "sideIcon": "UI_AvatarIcon_Side_Alhatham",
+    "circleIcon": "UI_AvatarIcon_Alhatham_Circle",
+    "cardIcon": "UI_AvatarIcon_Alhatham_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Alhatham",
     "baseStats": {
         "hpBase": 1039.1188,
         "attackBase": 24.3922,

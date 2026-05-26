@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Wanderer",
     "sideIcon": "UI_AvatarIcon_Side_Wanderer",
+    "circleIcon": "UI_AvatarIcon_Wanderer_Circle",
+    "cardIcon": "UI_AvatarIcon_Wanderer_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Wanderer",
     "baseStats": {
         "hpBase": 791.2556,
         "attackBase": 25.5094,

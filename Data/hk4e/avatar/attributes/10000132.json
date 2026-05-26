@@ -6,6 +6,9 @@
     "bodyType": "BODY_LOLI",
     "icon": "UI_AvatarIcon_Prune",
     "sideIcon": "UI_AvatarIcon_Side_Prune",
+    "circleIcon": "UI_AvatarIcon_Prune_Circle",
+    "cardIcon": "UI_AvatarIcon_Prune_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Prune",
     "baseStats": {
         "hpBase": 811.494,
         "attackBase": 18.52032,

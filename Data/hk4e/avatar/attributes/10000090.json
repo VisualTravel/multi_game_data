@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Chevreuse",
     "sideIcon": "UI_AvatarIcon_Side_Chevreuse",
+    "circleIcon": "UI_AvatarIcon_Chevreuse_Circle",
+    "cardIcon": "UI_AvatarIcon_Chevreuse_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Chevreuse",
     "baseStats": {
         "hpBase": 1002.9701,
         "attackBase": 16.20528,

@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Shinobu",
     "sideIcon": "UI_AvatarIcon_Side_Shinobu",
+    "circleIcon": "UI_AvatarIcon_Shinobu_Circle",
+    "cardIcon": "UI_AvatarIcon_Shinobu_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Shinobu",
     "baseStats": {
         "hpBase": 1030.3239,
         "attackBase": 17.808,

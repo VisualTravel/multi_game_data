@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Linette",
     "sideIcon": "UI_AvatarIcon_Side_Linette",
+    "circleIcon": "UI_AvatarIcon_Linette_Circle",
+    "cardIcon": "UI_AvatarIcon_Linette_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Linette",
     "baseStats": {
         "hpBase": 1039.4418,
         "attackBase": 19.41072,

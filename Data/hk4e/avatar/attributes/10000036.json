@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Chongyun",
     "sideIcon": "UI_AvatarIcon_Side_Chongyun",
+    "circleIcon": "UI_AvatarIcon_Chongyun_Circle",
+    "cardIcon": "UI_AvatarIcon_Chongyun_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Chongyun",
     "baseStats": {
         "hpBase": 920.90894,
         "attackBase": 18.6984,

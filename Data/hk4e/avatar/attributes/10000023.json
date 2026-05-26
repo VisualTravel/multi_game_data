@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Xiangling",
     "sideIcon": "UI_AvatarIcon_Side_Xiangling",
+    "circleIcon": "UI_AvatarIcon_Xiangling_Circle",
+    "cardIcon": "UI_AvatarIcon_Xiangling_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Xiangling",
     "baseStats": {
         "hpBase": 911.791,
         "attackBase": 18.87648,

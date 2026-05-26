@@ -6,6 +6,9 @@
     "bodyType": "BODY_MALE",
     "icon": "UI_AvatarIcon_Itto",
     "sideIcon": "UI_AvatarIcon_Side_Itto",
+    "circleIcon": "UI_AvatarIcon_Itto_Circle",
+    "cardIcon": "UI_AvatarIcon_Itto_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Itto",
     "baseStats": {
         "hpBase": 1000.986,
         "attackBase": 17.689,

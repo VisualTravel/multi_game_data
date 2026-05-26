@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Albedo",
     "sideIcon": "UI_AvatarIcon_Side_Albedo",
+    "circleIcon": "UI_AvatarIcon_Albedo_Circle",
+    "cardIcon": "UI_AvatarIcon_Albedo_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Albedo",
     "baseStats": {
         "hpBase": 1029.5856,
         "attackBase": 19.551,

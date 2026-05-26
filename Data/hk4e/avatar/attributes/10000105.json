@@ -6,6 +6,9 @@
     "bodyType": "BODY_MALE",
     "icon": "UI_AvatarIcon_Olorun",
     "sideIcon": "UI_AvatarIcon_Side_Olorun",
+    "circleIcon": "UI_AvatarIcon_Olorun_Circle",
+    "cardIcon": "UI_AvatarIcon_Olorun_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Olorun",
     "baseStats": {
         "hpBase": 775.02234,
         "attackBase": 20.4792,

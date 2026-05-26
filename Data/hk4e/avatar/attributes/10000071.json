@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Cyno",
     "sideIcon": "UI_AvatarIcon_Side_Cyno",
+    "circleIcon": "UI_AvatarIcon_Cyno_Circle",
+    "cardIcon": "UI_AvatarIcon_Cyno_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Cyno",
     "baseStats": {
         "hpBase": 972.3864,
         "attackBase": 24.7646,

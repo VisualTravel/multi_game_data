@@ -6,6 +6,9 @@
     "bodyType": "BODY_LOLI",
     "icon": "UI_AvatarIcon_Kachina",
     "sideIcon": "UI_AvatarIcon_Side_Kachina",
+    "circleIcon": "UI_AvatarIcon_Kachina_Circle",
+    "cardIcon": "UI_AvatarIcon_Kachina_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Kachina",
     "baseStats": {
         "hpBase": 989.2932,
         "attackBase": 18.16416,

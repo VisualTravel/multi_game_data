@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Lanyan",
     "sideIcon": "UI_AvatarIcon_Side_Lanyan",
+    "circleIcon": "UI_AvatarIcon_Lanyan_Circle",
+    "cardIcon": "UI_AvatarIcon_Lanyan_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Lanyan",
     "baseStats": {
         "hpBase": 775.02234,
         "attackBase": 21.01344,

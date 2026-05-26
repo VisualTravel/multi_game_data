@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Mika",
     "sideIcon": "UI_AvatarIcon_Side_Mika",
+    "circleIcon": "UI_AvatarIcon_Mika_Circle",
+    "cardIcon": "UI_AvatarIcon_Mika_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Mika",
     "baseStats": {
         "hpBase": 1048.5597,
         "attackBase": 18.6984,

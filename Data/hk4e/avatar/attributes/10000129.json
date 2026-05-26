@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Lohen",
     "sideIcon": "UI_AvatarIcon_Side_Lohen",
+    "circleIcon": "UI_AvatarIcon_Lohen_Circle",
+    "cardIcon": "UI_AvatarIcon_Lohen_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Lohen",
     "baseStats": {
         "hpBase": 1000.986,
         "attackBase": 26.8128,

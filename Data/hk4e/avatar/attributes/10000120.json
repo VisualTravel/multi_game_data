@@ -6,6 +6,9 @@
     "bodyType": "BODY_MALE",
     "icon": "UI_AvatarIcon_Flins",
     "sideIcon": "UI_AvatarIcon_Side_Flins",
+    "circleIcon": "UI_AvatarIcon_Flins_Circle",
+    "cardIcon": "UI_AvatarIcon_Flins_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Flins",
     "baseStats": {
         "hpBase": 972.3864,
         "attackBase": 27.3714,

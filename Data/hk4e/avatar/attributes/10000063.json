@@ -6,6 +6,9 @@
     "bodyType": "BODY_LADY",
     "icon": "UI_AvatarIcon_Shenhe",
     "sideIcon": "UI_AvatarIcon_Side_Shenhe",
+    "circleIcon": "UI_AvatarIcon_Shenhe_Circle",
+    "cardIcon": "UI_AvatarIcon_Shenhe_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Shenhe",
     "baseStats": {
         "hpBase": 1011.47253,
         "attackBase": 23.6474,

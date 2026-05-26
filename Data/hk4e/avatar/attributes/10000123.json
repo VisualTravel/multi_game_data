@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Durin",
     "sideIcon": "UI_AvatarIcon_Side_Durin",
+    "circleIcon": "UI_AvatarIcon_Durin_Circle",
+    "cardIcon": "UI_AvatarIcon_Durin_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Durin",
     "baseStats": {
         "hpBase": 967.6198,
         "attackBase": 26.999,

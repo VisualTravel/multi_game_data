@@ -6,6 +6,9 @@
     "bodyType": "BODY_LADY",
     "icon": "UI_AvatarIcon_Lauma",
     "sideIcon": "UI_AvatarIcon_Side_Lauma",
+    "circleIcon": "UI_AvatarIcon_Lauma_Circle",
+    "cardIcon": "UI_AvatarIcon_Lauma_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Lauma",
     "baseStats": {
         "hpBase": 829.3884,
         "attackBase": 19.84892,

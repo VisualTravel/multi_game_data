@@ -6,6 +6,9 @@
     "bodyType": "BODY_LADY",
     "icon": "UI_AvatarIcon_Beidou",
     "sideIcon": "UI_AvatarIcon_Side_Beidou",
+    "circleIcon": "UI_AvatarIcon_Beidou_Circle",
+    "cardIcon": "UI_AvatarIcon_Beidou_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Beidou",
     "baseStats": {
         "hpBase": 1094.1492,
         "attackBase": 18.87648,

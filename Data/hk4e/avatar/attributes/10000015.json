@@ -6,6 +6,9 @@
     "bodyType": "BODY_MALE",
     "icon": "UI_AvatarIcon_Kaeya",
     "sideIcon": "UI_AvatarIcon_Side_Kaeya",
+    "circleIcon": "UI_AvatarIcon_Kaeya_Circle",
+    "cardIcon": "UI_AvatarIcon_Kaeya_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Kaeya",
     "baseStats": {
         "hpBase": 975.6164,
         "attackBase": 18.6984,

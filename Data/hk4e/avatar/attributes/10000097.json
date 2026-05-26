@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Sethos",
     "sideIcon": "UI_AvatarIcon_Side_Sethos",
+    "circleIcon": "UI_AvatarIcon_Sethos_Circle",
+    "cardIcon": "UI_AvatarIcon_Sethos_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Sethos",
     "baseStats": {
         "hpBase": 820.6119,
         "attackBase": 19.05456,

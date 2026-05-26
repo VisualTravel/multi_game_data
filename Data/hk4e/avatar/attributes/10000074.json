@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Layla",
     "sideIcon": "UI_AvatarIcon_Side_Layla",
+    "circleIcon": "UI_AvatarIcon_Layla_Circle",
+    "cardIcon": "UI_AvatarIcon_Layla_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Layla",
     "baseStats": {
         "hpBase": 930.0268,
         "attackBase": 18.16416,

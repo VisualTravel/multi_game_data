@@ -6,6 +6,9 @@
     "bodyType": "BODY_MALE",
     "icon": "UI_AvatarIcon_Zhongli",
     "sideIcon": "UI_AvatarIcon_Side_Zhongli",
+    "circleIcon": "UI_AvatarIcon_Zhongli_Circle",
+    "cardIcon": "UI_AvatarIcon_Zhongli_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Zhongli",
     "baseStats": {
         "hpBase": 1143.984,
         "attackBase": 19.551,

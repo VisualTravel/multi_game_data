@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Xiao",
     "sideIcon": "UI_AvatarIcon_Side_Xiao",
+    "circleIcon": "UI_AvatarIcon_Xiao_Circle",
+    "cardIcon": "UI_AvatarIcon_Xiao_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Xiao",
     "baseStats": {
         "hpBase": 991.4528,
         "attackBase": 27.1852,

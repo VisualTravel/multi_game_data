@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Chiori",
     "sideIcon": "UI_AvatarIcon_Side_Chiori",
+    "circleIcon": "UI_AvatarIcon_Chiori_Circle",
+    "cardIcon": "UI_AvatarIcon_Chiori_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Chiori",
     "baseStats": {
         "hpBase": 890.4009,
         "attackBase": 25.137,

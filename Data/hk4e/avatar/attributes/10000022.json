@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Venti",
     "sideIcon": "UI_AvatarIcon_Side_Venti",
+    "circleIcon": "UI_AvatarIcon_Venti_Circle",
+    "cardIcon": "UI_AvatarIcon_Venti_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Venti",
     "baseStats": {
         "hpBase": 819.8552,
         "attackBase": 20.482,

@@ -6,6 +6,9 @@
     "bodyType": "BODY_LADY",
     "icon": "UI_AvatarIcon_Eula",
     "sideIcon": "UI_AvatarIcon_Side_Eula",
+    "circleIcon": "UI_AvatarIcon_Eula_Circle",
+    "cardIcon": "UI_AvatarIcon_Eula_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Eula",
     "baseStats": {
         "hpBase": 1029.5856,
         "attackBase": 26.6266,

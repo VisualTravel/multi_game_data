@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_PlayerGirl",
     "sideIcon": "UI_AvatarIcon_Side_PlayerGirl",
+    "circleIcon": "UI_AvatarIcon_PlayerGirl_Circle",
+    "cardIcon": "UI_AvatarIcon_PlayerGirl_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_PlayerGirl",
     "baseStats": {
         "hpBase": 911.791,
         "attackBase": 17.808,

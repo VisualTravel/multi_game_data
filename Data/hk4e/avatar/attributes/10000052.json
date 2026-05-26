@@ -6,6 +6,9 @@
     "bodyType": "BODY_LADY",
     "icon": "UI_AvatarIcon_Shougun",
     "sideIcon": "UI_AvatarIcon_Side_Shougun",
+    "circleIcon": "UI_AvatarIcon_Shougun_Circle",
+    "cardIcon": "UI_AvatarIcon_Shougun_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Shougun",
     "baseStats": {
         "hpBase": 1004.79926,
         "attackBase": 26.2542,

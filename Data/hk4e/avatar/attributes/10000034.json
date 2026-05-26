@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Noel",
     "sideIcon": "UI_AvatarIcon_Side_Noel",
+    "circleIcon": "UI_AvatarIcon_Noel_Circle",
+    "cardIcon": "UI_AvatarIcon_Noel_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Noel",
     "baseStats": {
         "hpBase": 1012.088,
         "attackBase": 16.0272,

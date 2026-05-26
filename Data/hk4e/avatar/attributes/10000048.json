@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Feiyan",
     "sideIcon": "UI_AvatarIcon_Side_Feiyan",
+    "circleIcon": "UI_AvatarIcon_Feiyan_Circle",
+    "cardIcon": "UI_AvatarIcon_Feiyan_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Feiyan",
     "baseStats": {
         "hpBase": 784.14026,
         "attackBase": 20.12304,

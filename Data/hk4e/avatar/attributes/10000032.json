@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Bennett",
     "sideIcon": "UI_AvatarIcon_Side_Bennett",
+    "circleIcon": "UI_AvatarIcon_Bennett_Circle",
+    "cardIcon": "UI_AvatarIcon_Bennett_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Bennett",
     "baseStats": {
         "hpBase": 1039.4418,
         "attackBase": 16.0272,

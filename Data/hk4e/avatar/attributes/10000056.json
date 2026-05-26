@@ -6,6 +6,9 @@
     "bodyType": "BODY_LADY",
     "icon": "UI_AvatarIcon_Sara",
     "sideIcon": "UI_AvatarIcon_Side_Sara",
+    "circleIcon": "UI_AvatarIcon_Sara_Circle",
+    "cardIcon": "UI_AvatarIcon_Sara_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Sara",
     "baseStats": {
         "hpBase": 802.3761,
         "attackBase": 16.38336,

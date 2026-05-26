@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Gorou",
     "sideIcon": "UI_AvatarIcon_Side_Gorou",
+    "circleIcon": "UI_AvatarIcon_Gorou_Circle",
+    "cardIcon": "UI_AvatarIcon_Gorou_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Gorou",
     "baseStats": {
         "hpBase": 802.3761,
         "attackBase": 15.31488,

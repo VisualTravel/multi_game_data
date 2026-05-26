@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Varesa",
     "sideIcon": "UI_AvatarIcon_Side_Varesa",
+    "circleIcon": "UI_AvatarIcon_Varesa_Circle",
+    "cardIcon": "UI_AvatarIcon_Varesa_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Varesa",
     "baseStats": {
         "hpBase": 988.59283,
         "attackBase": 27.7438,

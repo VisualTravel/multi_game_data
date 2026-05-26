@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Collei",
     "sideIcon": "UI_AvatarIcon_Side_Collei",
+    "circleIcon": "UI_AvatarIcon_Collei_Circle",
+    "cardIcon": "UI_AvatarIcon_Collei_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Collei",
     "baseStats": {
         "hpBase": 820.6119,
         "attackBase": 16.73952,

@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Ineffa",
     "sideIcon": "UI_AvatarIcon_Side_Ineffa",
+    "circleIcon": "UI_AvatarIcon_Ineffa_Circle",
+    "cardIcon": "UI_AvatarIcon_Ineffa_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Ineffa",
     "baseStats": {
         "hpBase": 981.9196,
         "attackBase": 25.6956,

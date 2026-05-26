@@ -6,6 +6,9 @@
     "bodyType": "BODY_MALE",
     "icon": "UI_AvatarIcon_Kaveh",
     "sideIcon": "UI_AvatarIcon_Side_Kaveh",
+    "circleIcon": "UI_AvatarIcon_Kaveh_Circle",
+    "cardIcon": "UI_AvatarIcon_Kaveh_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Kaveh",
     "baseStats": {
         "hpBase": 1002.9701,
         "attackBase": 19.5888,

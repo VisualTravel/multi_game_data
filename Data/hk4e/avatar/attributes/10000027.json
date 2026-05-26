@@ -6,6 +6,9 @@
     "bodyType": "BODY_LADY",
     "icon": "UI_AvatarIcon_Ningguang",
     "sideIcon": "UI_AvatarIcon_Side_Ningguang",
+    "circleIcon": "UI_AvatarIcon_Ningguang_Circle",
+    "cardIcon": "UI_AvatarIcon_Ningguang_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Ningguang",
     "baseStats": {
         "hpBase": 820.6119,
         "attackBase": 17.808,

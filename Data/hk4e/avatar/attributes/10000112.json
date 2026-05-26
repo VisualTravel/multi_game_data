@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Escoffier",
     "sideIcon": "UI_AvatarIcon_Side_Escoffier",
+    "circleIcon": "UI_AvatarIcon_Escoffier_Circle",
+    "cardIcon": "UI_AvatarIcon_Escoffier_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Escoffier",
     "baseStats": {
         "hpBase": 1039.1188,
         "attackBase": 26.999,

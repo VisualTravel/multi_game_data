@@ -6,6 +6,9 @@
     "bodyType": "BODY_MALE",
     "icon": "UI_AvatarIcon_Tohma",
     "sideIcon": "UI_AvatarIcon_Side_Tohma",
+    "circleIcon": "UI_AvatarIcon_Tohma_Circle",
+    "cardIcon": "UI_AvatarIcon_Tohma_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Tohma",
     "baseStats": {
         "hpBase": 866.2015,
         "attackBase": 16.9176,

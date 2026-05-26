@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Freminet",
     "sideIcon": "UI_AvatarIcon_Side_Freminet",
+    "circleIcon": "UI_AvatarIcon_Freminet_Circle",
+    "cardIcon": "UI_AvatarIcon_Freminet_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Freminet",
     "baseStats": {
         "hpBase": 1012.088,
         "attackBase": 21.3696,

@@ -6,6 +6,9 @@
     "bodyType": "BODY_LADY",
     "icon": "UI_AvatarIcon_Yae",
     "sideIcon": "UI_AvatarIcon_Side_Yae",
+    "circleIcon": "UI_AvatarIcon_Yae_Circle",
+    "cardIcon": "UI_AvatarIcon_Yae_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Yae",
     "baseStats": {
         "hpBase": 807.46204,
         "attackBase": 26.4404,

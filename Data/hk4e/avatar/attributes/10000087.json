@@ -6,6 +6,9 @@
     "bodyType": "BODY_MALE",
     "icon": "UI_AvatarIcon_Neuvillette",
     "sideIcon": "UI_AvatarIcon_Side_Neuvillette",
+    "circleIcon": "UI_AvatarIcon_Neuvillette_Circle",
+    "cardIcon": "UI_AvatarIcon_Neuvillette_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Neuvillette",
     "baseStats": {
         "hpBase": 1143.984,
         "attackBase": 16.21802,

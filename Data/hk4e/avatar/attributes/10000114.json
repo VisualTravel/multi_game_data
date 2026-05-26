@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_SkirkNew",
     "sideIcon": "UI_AvatarIcon_Side_SkirkNew",
+    "circleIcon": "UI_AvatarIcon_SkirkNew_Circle",
+    "cardIcon": "UI_AvatarIcon_SkirkNew_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_SkirkNew",
     "baseStats": {
         "hpBase": 966.6665,
         "attackBase": 27.93,

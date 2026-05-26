@@ -6,6 +6,9 @@
     "bodyType": "BODY_MALE",
     "icon": "UI_AvatarIcon_Ifa",
     "sideIcon": "UI_AvatarIcon_Side_Ifa",
+    "circleIcon": "UI_AvatarIcon_Ifa_Circle",
+    "cardIcon": "UI_AvatarIcon_Ifa_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Ifa",
     "baseStats": {
         "hpBase": 845.2303,
         "attackBase": 14.95872,

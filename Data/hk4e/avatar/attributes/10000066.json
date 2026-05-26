@@ -6,6 +6,9 @@
     "bodyType": "BODY_MALE",
     "icon": "UI_AvatarIcon_Ayato",
     "sideIcon": "UI_AvatarIcon_Side_Ayato",
+    "circleIcon": "UI_AvatarIcon_Ayato_Circle",
+    "cardIcon": "UI_AvatarIcon_Ayato_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Ayato",
     "baseStats": {
         "hpBase": 1067.7184,
         "attackBase": 23.275,

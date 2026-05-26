@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_MannequinBoy",
     "sideIcon": "UI_AvatarIcon_Side_MannequinBoy",
+    "circleIcon": "UI_AvatarIcon_MannequinBoy_Circle",
+    "cardIcon": "UI_AvatarIcon_MannequinBoy_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_MannequinBoy",
     "baseStats": {
         "hpBase": 911.791,
         "attackBase": 17.808,

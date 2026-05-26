@@ -6,6 +6,9 @@
     "bodyType": "BODY_MALE",
     "icon": "UI_AvatarIcon_Diluc",
     "sideIcon": "UI_AvatarIcon_Side_Diluc",
+    "circleIcon": "UI_AvatarIcon_Diluc_Circle",
+    "cardIcon": "UI_AvatarIcon_Diluc_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Diluc",
     "baseStats": {
         "hpBase": 1010.5192,
         "attackBase": 26.068,

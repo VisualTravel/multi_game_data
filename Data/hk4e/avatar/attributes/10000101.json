@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Kinich",
     "sideIcon": "UI_AvatarIcon_Side_Kinich",
+    "circleIcon": "UI_AvatarIcon_Kinich_Circle",
+    "cardIcon": "UI_AvatarIcon_Kinich_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Kinich",
     "baseStats": {
         "hpBase": 1000.986,
         "attackBase": 25.8818,

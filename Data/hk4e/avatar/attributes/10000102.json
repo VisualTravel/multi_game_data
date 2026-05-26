@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Mualani",
     "sideIcon": "UI_AvatarIcon_Side_Mualani",
+    "circleIcon": "UI_AvatarIcon_Mualani_Circle",
+    "cardIcon": "UI_AvatarIcon_Mualani_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Mualani",
     "baseStats": {
         "hpBase": 1182.1168,
         "attackBase": 14.1512,

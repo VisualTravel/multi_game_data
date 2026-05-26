@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Kazuha",
     "sideIcon": "UI_AvatarIcon_Side_Kazuha",
+    "circleIcon": "UI_AvatarIcon_Kazuha_Circle",
+    "cardIcon": "UI_AvatarIcon_Kazuha_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Kazuha",
     "baseStats": {
         "hpBase": 1039.1188,
         "attackBase": 23.0888,

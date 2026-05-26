@@ -6,6 +6,9 @@
     "bodyType": "BODY_LADY",
     "icon": "UI_AvatarIcon_Clorinde",
     "sideIcon": "UI_AvatarIcon_Side_Clorinde",
+    "circleIcon": "UI_AvatarIcon_Clorinde_Circle",
+    "cardIcon": "UI_AvatarIcon_Clorinde_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Clorinde",
     "baseStats": {
         "hpBase": 1008.61255,
         "attackBase": 26.2542,

@@ -6,6 +6,9 @@
     "bodyType": "BODY_MALE",
     "icon": "UI_AvatarIcon_Baizhuer",
     "sideIcon": "UI_AvatarIcon_Side_Baizhuer",
+    "circleIcon": "UI_AvatarIcon_Baizhuer_Circle",
+    "cardIcon": "UI_AvatarIcon_Baizhuer_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Baizhuer",
     "baseStats": {
         "hpBase": 1039.1188,
         "attackBase": 14.9891,

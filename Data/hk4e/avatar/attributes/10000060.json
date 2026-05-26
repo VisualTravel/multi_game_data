@@ -6,6 +6,9 @@
     "bodyType": "BODY_LADY",
     "icon": "UI_AvatarIcon_Yelan",
     "sideIcon": "UI_AvatarIcon_Side_Yelan",
+    "circleIcon": "UI_AvatarIcon_Yelan_Circle",
+    "cardIcon": "UI_AvatarIcon_Yelan_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Yelan",
     "baseStats": {
         "hpBase": 1124.9176,
         "attackBase": 18.9924,

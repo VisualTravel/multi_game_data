@@ -6,6 +6,9 @@
     "bodyType": "BODY_MALE",
     "icon": "UI_AvatarIcon_Tartaglia",
     "sideIcon": "UI_AvatarIcon_Side_Tartaglia",
+    "circleIcon": "UI_AvatarIcon_Tartaglia_Circle",
+    "cardIcon": "UI_AvatarIcon_Tartaglia_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Tartaglia",
     "baseStats": {
         "hpBase": 1020.0524,
         "attackBase": 23.4612,

@@ -6,6 +6,9 @@
     "bodyType": "BODY_LADY",
     "icon": "UI_AvatarIcon_Dehya",
     "sideIcon": "UI_AvatarIcon_Side_Dehya",
+    "circleIcon": "UI_AvatarIcon_Dehya_Circle",
+    "cardIcon": "UI_AvatarIcon_Dehya_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Dehya",
     "baseStats": {
         "hpBase": 1220.2496,
         "attackBase": 20.6682,

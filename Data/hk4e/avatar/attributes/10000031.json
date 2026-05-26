@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Fischl",
     "sideIcon": "UI_AvatarIcon_Side_Fischl",
+    "circleIcon": "UI_AvatarIcon_Fischl_Circle",
+    "cardIcon": "UI_AvatarIcon_Fischl_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Fischl",
     "baseStats": {
         "hpBase": 770.4634,
         "attackBase": 20.4792,

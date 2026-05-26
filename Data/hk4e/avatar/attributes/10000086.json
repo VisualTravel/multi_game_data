@@ -6,6 +6,9 @@
     "bodyType": "BODY_MALE",
     "icon": "UI_AvatarIcon_Wriothesley",
     "sideIcon": "UI_AvatarIcon_Side_Wriothesley",
+    "circleIcon": "UI_AvatarIcon_Wriothesley_Circle",
+    "cardIcon": "UI_AvatarIcon_Wriothesley_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Wriothesley",
     "baseStats": {
         "hpBase": 1058.1852,
         "attackBase": 24.206,

@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Xingqiu",
     "sideIcon": "UI_AvatarIcon_Side_Xingqiu",
+    "circleIcon": "UI_AvatarIcon_Xingqiu_Circle",
+    "cardIcon": "UI_AvatarIcon_Xingqiu_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Xingqiu",
     "baseStats": {
         "hpBase": 857.08356,
         "attackBase": 16.9176,

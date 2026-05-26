@@ -6,6 +6,9 @@
     "bodyType": "BODY_LADY",
     "icon": "UI_AvatarIcon_Nicole",
     "sideIcon": "UI_AvatarIcon_Side_Nicole",
+    "circleIcon": "UI_AvatarIcon_Nicole_Circle",
+    "cardIcon": "UI_AvatarIcon_Nicole_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Nicole",
     "baseStats": {
         "hpBase": 810.322,
         "attackBase": 26.6266,

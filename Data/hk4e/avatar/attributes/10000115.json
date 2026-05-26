@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Dahlia",
     "sideIcon": "UI_AvatarIcon_Side_Dahlia",
+    "circleIcon": "UI_AvatarIcon_Dahlia_Circle",
+    "cardIcon": "UI_AvatarIcon_Dahlia_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Dahlia",
     "baseStats": {
         "hpBase": 1048.5597,
         "attackBase": 15.84912,

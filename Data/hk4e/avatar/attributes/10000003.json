@@ -6,6 +6,9 @@
     "bodyType": "BODY_LADY",
     "icon": "UI_AvatarIcon_Qin",
     "sideIcon": "UI_AvatarIcon_Side_Qin",
+    "circleIcon": "UI_AvatarIcon_Qin_Circle",
+    "cardIcon": "UI_AvatarIcon_Qin_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Qin",
     "baseStats": {
         "hpBase": 1143.984,
         "attackBase": 18.62,

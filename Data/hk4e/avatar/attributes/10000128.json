@@ -6,6 +6,9 @@
     "bodyType": "BODY_MALE",
     "icon": "UI_AvatarIcon_Varka",
     "sideIcon": "UI_AvatarIcon_Side_Varka",
+    "circleIcon": "UI_AvatarIcon_Varka_Circle",
+    "cardIcon": "UI_AvatarIcon_Varka_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Varka",
     "baseStats": {
         "hpBase": 981.9196,
         "attackBase": 27.4645,

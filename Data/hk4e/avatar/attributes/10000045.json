@@ -6,6 +6,9 @@
     "bodyType": "BODY_LADY",
     "icon": "UI_AvatarIcon_Rosaria",
     "sideIcon": "UI_AvatarIcon_Side_Rosaria",
+    "circleIcon": "UI_AvatarIcon_Rosaria_Circle",
+    "cardIcon": "UI_AvatarIcon_Rosaria_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Rosaria",
     "baseStats": {
         "hpBase": 1030.3239,
         "attackBase": 20.12304,

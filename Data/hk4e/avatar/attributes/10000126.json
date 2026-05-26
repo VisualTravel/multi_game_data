@@ -6,6 +6,9 @@
     "bodyType": "BODY_LADY",
     "icon": "UI_AvatarIcon_Zibai",
     "sideIcon": "UI_AvatarIcon_Side_Zibai",
+    "circleIcon": "UI_AvatarIcon_Zibai_Circle",
+    "cardIcon": "UI_AvatarIcon_Zibai_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Zibai",
     "baseStats": {
         "hpBase": 1005.7526,
         "attackBase": 17.5028,

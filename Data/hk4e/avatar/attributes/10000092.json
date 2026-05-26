@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Gaming",
     "sideIcon": "UI_AvatarIcon_Side_Gaming",
+    "circleIcon": "UI_AvatarIcon_Gaming_Circle",
+    "cardIcon": "UI_AvatarIcon_Gaming_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Gaming",
     "baseStats": {
         "hpBase": 957.38055,
         "attackBase": 25.28736,

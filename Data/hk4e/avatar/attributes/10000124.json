@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Jahoda",
     "sideIcon": "UI_AvatarIcon_Side_Jahoda",
+    "circleIcon": "UI_AvatarIcon_Jahoda_Circle",
+    "cardIcon": "UI_AvatarIcon_Jahoda_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Jahoda",
     "baseStats": {
         "hpBase": 808.7586,
         "attackBase": 18.6984,

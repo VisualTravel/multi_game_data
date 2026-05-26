@@ -6,6 +6,9 @@
     "bodyType": "BODY_LADY",
     "icon": "UI_AvatarIcon_Chasca",
     "sideIcon": "UI_AvatarIcon_Side_Chasca",
+    "circleIcon": "UI_AvatarIcon_Chasca_Circle",
+    "cardIcon": "UI_AvatarIcon_Chasca_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Chasca",
     "baseStats": {
         "hpBase": 762.656,
         "attackBase": 26.999,

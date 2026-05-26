@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Xinyan",
     "sideIcon": "UI_AvatarIcon_Side_Xinyan",
+    "circleIcon": "UI_AvatarIcon_Xinyan_Circle",
+    "cardIcon": "UI_AvatarIcon_Xinyan_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Xinyan",
     "baseStats": {
         "hpBase": 939.1447,
         "attackBase": 20.83536,

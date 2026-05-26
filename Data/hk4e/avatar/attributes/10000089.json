@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Furina",
     "sideIcon": "UI_AvatarIcon_Side_Furina",
+    "circleIcon": "UI_AvatarIcon_Furina_Circle",
+    "cardIcon": "UI_AvatarIcon_Furina_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Furina",
     "baseStats": {
         "hpBase": 1191.65,
         "attackBase": 18.9924,

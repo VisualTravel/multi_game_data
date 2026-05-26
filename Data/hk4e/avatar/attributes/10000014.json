@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Barbara",
     "sideIcon": "UI_AvatarIcon_Side_Barbara",
+    "circleIcon": "UI_AvatarIcon_Barbara_Circle",
+    "cardIcon": "UI_AvatarIcon_Barbara_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Barbara",
     "baseStats": {
         "hpBase": 820.6119,
         "attackBase": 13.356,

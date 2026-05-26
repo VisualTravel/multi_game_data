@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Yoimiya",
     "sideIcon": "UI_AvatarIcon_Side_Yoimiya",
+    "circleIcon": "UI_AvatarIcon_Yoimiya_Circle",
+    "cardIcon": "UI_AvatarIcon_Yoimiya_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Yoimiya",
     "baseStats": {
         "hpBase": 791.2556,
         "attackBase": 25.137,

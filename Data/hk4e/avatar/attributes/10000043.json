@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Sucrose",
     "sideIcon": "UI_AvatarIcon_Side_Sucrose",
+    "circleIcon": "UI_AvatarIcon_Sucrose_Circle",
+    "cardIcon": "UI_AvatarIcon_Sucrose_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Sucrose",
     "baseStats": {
         "hpBase": 775.02234,
         "attackBase": 14.2464,

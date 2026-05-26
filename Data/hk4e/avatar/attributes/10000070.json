@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Nilou",
     "sideIcon": "UI_AvatarIcon_Side_Nilou",
+    "circleIcon": "UI_AvatarIcon_Nilou_Circle",
+    "cardIcon": "UI_AvatarIcon_Nilou_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Nilou",
     "baseStats": {
         "hpBase": 1182.1168,
         "attackBase": 17.8752,

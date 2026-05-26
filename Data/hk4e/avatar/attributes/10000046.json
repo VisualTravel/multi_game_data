@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Hutao",
     "sideIcon": "UI_AvatarIcon_Side_Hutao",
+    "circleIcon": "UI_AvatarIcon_Hutao_Circle",
+    "cardIcon": "UI_AvatarIcon_Hutao_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Hutao",
     "baseStats": {
         "hpBase": 1210.7164,
         "attackBase": 8.2859,

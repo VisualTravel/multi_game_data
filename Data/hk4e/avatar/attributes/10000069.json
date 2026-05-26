@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Tighnari",
     "sideIcon": "UI_AvatarIcon_Side_Tighnari",
+    "circleIcon": "UI_AvatarIcon_Tighnari_Circle",
+    "cardIcon": "UI_AvatarIcon_Tighnari_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Tighnari",
     "baseStats": {
         "hpBase": 844.64154,
         "attackBase": 20.8544,

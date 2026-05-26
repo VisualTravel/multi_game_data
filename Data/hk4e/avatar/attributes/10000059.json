@@ -6,6 +6,9 @@
     "bodyType": "BODY_BOY",
     "icon": "UI_AvatarIcon_Heizo",
     "sideIcon": "UI_AvatarIcon_Side_Heizo",
+    "circleIcon": "UI_AvatarIcon_Heizo_Circle",
+    "cardIcon": "UI_AvatarIcon_Heizo_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Heizo",
     "baseStats": {
         "hpBase": 893.5552,
         "attackBase": 18.87648,

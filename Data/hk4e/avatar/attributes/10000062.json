@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Aloy",
     "sideIcon": "UI_AvatarIcon_Side_Aloy",
+    "circleIcon": "UI_AvatarIcon_Aloy_Circle",
+    "cardIcon": "UI_AvatarIcon_Aloy_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Aloy",
     "baseStats": {
         "hpBase": 848.4548,
         "attackBase": 18.21036,

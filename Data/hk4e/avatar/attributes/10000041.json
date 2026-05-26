@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Mona",
     "sideIcon": "UI_AvatarIcon_Side_Mona",
+    "circleIcon": "UI_AvatarIcon_Mona_Circle",
+    "cardIcon": "UI_AvatarIcon_Mona_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Mona",
     "baseStats": {
         "hpBase": 810.322,
         "attackBase": 22.344,

@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Ganyu",
     "sideIcon": "UI_AvatarIcon_Side_Ganyu",
+    "circleIcon": "UI_AvatarIcon_Ganyu_Circle",
+    "cardIcon": "UI_AvatarIcon_Ganyu_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Ganyu",
     "baseStats": {
         "hpBase": 762.656,
         "attackBase": 26.068,

@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Ayaka",
     "sideIcon": "UI_AvatarIcon_Side_Ayaka",
+    "circleIcon": "UI_AvatarIcon_Ayaka_Circle",
+    "cardIcon": "UI_AvatarIcon_Ayaka_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Ayaka",
     "baseStats": {
         "hpBase": 1000.986,
         "attackBase": 26.6266,

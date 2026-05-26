@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Kokomi",
     "sideIcon": "UI_AvatarIcon_Side_Kokomi",
+    "circleIcon": "UI_AvatarIcon_Kokomi_Circle",
+    "cardIcon": "UI_AvatarIcon_Kokomi_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Kokomi",
     "baseStats": {
         "hpBase": 1048.652,
         "attackBase": 18.2476,

@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Keqing",
     "sideIcon": "UI_AvatarIcon_Side_Keqing",
+    "circleIcon": "UI_AvatarIcon_Keqing_Circle",
+    "cardIcon": "UI_AvatarIcon_Keqing_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Keqing",
     "baseStats": {
         "hpBase": 1020.0524,
         "attackBase": 25.137,

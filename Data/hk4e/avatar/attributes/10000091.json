@@ -6,6 +6,9 @@
     "bodyType": "BODY_LADY",
     "icon": "UI_AvatarIcon_Navia",
     "sideIcon": "UI_AvatarIcon_Side_Navia",
+    "circleIcon": "UI_AvatarIcon_Navia_Circle",
+    "cardIcon": "UI_AvatarIcon_Navia_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Navia",
     "baseStats": {
         "hpBase": 984.77954,
         "attackBase": 27.3714,

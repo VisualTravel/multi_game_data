@@ -6,6 +6,9 @@
     "bodyType": "BODY_LADY",
     "icon": "UI_AvatarIcon_Xilonen",
     "sideIcon": "UI_AvatarIcon_Side_Xilonen",
+    "circleIcon": "UI_AvatarIcon_Xilonen_Circle",
+    "cardIcon": "UI_AvatarIcon_Xilonen_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Xilonen",
     "baseStats": {
         "hpBase": 965.71313,
         "attackBase": 21.413,

@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Faruzan",
     "sideIcon": "UI_AvatarIcon_Side_Faruzan",
+    "circleIcon": "UI_AvatarIcon_Faruzan_Circle",
+    "cardIcon": "UI_AvatarIcon_Faruzan_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Faruzan",
     "baseStats": {
         "hpBase": 802.3761,
         "attackBase": 16.4724,

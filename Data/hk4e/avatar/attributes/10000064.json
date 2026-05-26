@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Yunjin",
     "sideIcon": "UI_AvatarIcon_Side_Yunjin",
+    "circleIcon": "UI_AvatarIcon_Yunjin_Circle",
+    "cardIcon": "UI_AvatarIcon_Yunjin_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Yunjin",
     "baseStats": {
         "hpBase": 893.5552,
         "attackBase": 16.0272,

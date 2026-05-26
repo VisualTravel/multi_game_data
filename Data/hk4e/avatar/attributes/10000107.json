@@ -6,6 +6,9 @@
     "bodyType": "BODY_GIRL",
     "icon": "UI_AvatarIcon_Citlali",
     "sideIcon": "UI_AvatarIcon_Side_Citlali",
+    "circleIcon": "UI_AvatarIcon_Citlali_Circle",
+    "cardIcon": "UI_AvatarIcon_Citlali_Card",
+    "gachaImg": "UI_Gacha_AvatarImg_Citlali",
     "baseStats": {
         "hpBase": 905.654,
         "attackBase": 9.8686,
